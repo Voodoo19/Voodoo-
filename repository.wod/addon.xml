@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.wod" name="Wrestling Repository" version="1.3" provider-name="WOD">
+	<extension point="xbmc.addon.repository" name="Wrestling Repository">
+		<dir>
+			<info compressed="false">http://bossbuilds.club/styles/addons.xml</info>
+			<checksum>http://bossbuilds.club/styles/addons.xml.md5</checksum>
+			<datadir zip="true">http://bossbuilds.club/styles/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"></summary>
+		<description lang="en"></description>
+		<genre>mix</genre>
+	</extension>
+</addon>
