@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.voodoo-tv" name="Voodoo- [COLOR red]TV[/COLOR]" version="2.0.2" provider-name="V-Team">
   <requires>
+	<import addon="plugin.video.tvoneplus" version="1.0"/>
+    <import addon="plugin.video.tvone1111" version="1.0"/>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
