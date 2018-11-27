@@ -2,6 +2,7 @@
 <addon id="plugin.video.WorldOfWrestling" name="World Of Wrestling" version="1.0" provider-name="Loki">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
+        <import addon="repository.Loki" version="0.0.5" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
         <import addon="script.module.python.koding.aio" version="0.9.6.6" />
         <import addon="script.module.beautifulsoup" version="3.2.1" />
