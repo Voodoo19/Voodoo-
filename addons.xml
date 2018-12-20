@@ -48,47 +48,6 @@
   <extension point="xbmc.service" library="library_service.py" start="login|startup">
   </extension>
 </addon>
-<addon id="repository.wod" name="Wrestling Repository" version="1.3" provider-name="WOD">
-	<extension point="xbmc.addon.repository" name="Wrestling Repository">
-		<dir>
-			<info compressed="false">http://bossbuilds.club/styles/addons.xml</info>
-			<checksum>http://bossbuilds.club/styles/addons.xml.md5</checksum>
-			<datadir zip="true">http://bossbuilds.club/styles/</datadir>
-		</dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en"></summary>
-		<description lang="en"></description>
-		<genre>mix</genre>
-	</extension>
-</addon>
-<addon id="plugin.video.tvoneplus" name="[B][COLOR orange]TVONE+[/COLOR][/B]" version="1.0" provider-name="[B][COLOR orange]RACC[/COLOR][/B]">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.livestreamer" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.routing" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="addon.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en_gb">[COLOR orange]TVOne+[/COLOR]</summary>
-    <description lang="en_gb">TVOne+</description>
-    <disclaimer lang="en_gb"></disclaimer>
-    <language></language>
-    <platform>all</platform>
-    <license></license>
-    <forum></forum>
-    <website></website>
-    <email></email>
-    <source></source>
-    <assets>
-    <icon>icon.png</icon>
-    <fanart>fanart.jpg</fanart>
-    </assets>
-  </extension>
-</addon>
 <addon id="plugin.video.nonu" name="Phantom Xtrmz" version="0.1" provider-name="Phantom">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
