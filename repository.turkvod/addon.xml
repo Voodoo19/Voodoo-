@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.turkvod" name="TURKvod repository" version="2.0.1" provider-name="TURKvod TeaM">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="TURKvod repository">
+            <info compressed="false">http://turkvod.me/repo/addons.xml</info>
+            <checksum>http://turkvod.me/repo/addons.xml.md5</checksum>
+            <datadir zip="true">http://turkvod.me/repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Based on enigma2 plugin TURKvod. Support: www.turk-dreamworld.com</summary>
+            <description>Based on enigma2 plugin TURKvod. Support: www.turk-dreamworld.com</description>
+            <platform>all</platform>
+    </extension>
+</addon>
