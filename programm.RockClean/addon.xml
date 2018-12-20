@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="program.RockClean"
+       name="[COLOR red]ROCK CLEAN[/COLOR]"
+       version="1.0.6"
+       provider-name="Rockcrusher">
+  <requires>
+    <import addon="xbmc.python" version="2.19.0"/>
+  </requires>
+  <extension library="clean.py" point="xbmc.python.pluginsource">
+        <provides>executable</provides>
+  </extension>
+  <extension library="starter.py" point="xbmc.service" start="startup"> 
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary></summary>
+    <description>
+	Simple tool for cleaning Kodi and its file system.
+    </description>
+    <language></language>
+  </extension>
+</addon>
