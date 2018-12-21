@@ -29,6 +29,26 @@
 	<disclaimer>Benutzung auf eigene Gefahr</disclaimer>
     <platform>all</platform>
   </extension>
+	    </addon>
+<addon id="plugin.video.turkvod"
+	   name="TURKvod"
+	   version="3.1.7"
+	   provider-name="BerkEnkey">
+	<requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+		<import addon="plugin.video.youtube" version="2.9.2"/>
+        <import addon="script.video.F4mProxy" version="2.8.8"/>
+	</requires>
+	   
+  <extension point="xbmc.python.pluginsource"
+			 library="default.py">
+    	<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Support: www.turk-dreamworld.com</summary>
+    <description>Support: www.turk-dreamworld.com</description>
+    <platform>all</platform>
+  </extension>
 </addon>
 <addon id="plugin.video.tvoneplus" name="[B][COLOR orange]TVONE+[/COLOR][/B]" version="1.0" provider-name="[B][COLOR orange]RACC[/COLOR][/B]">
   <requires>
