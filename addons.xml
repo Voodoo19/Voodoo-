@@ -55,7 +55,7 @@
 	</addon>
 <addon id="plugin.video.turkvod"
 	   name="TURKvod"
-	   version="3.1.7"
+	   version="3.1.9"
 	   provider-name="BerkEnkey">
 	<requires>
         <import addon="xbmc.python" version="2.1.0"/>
