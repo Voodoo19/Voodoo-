@@ -275,7 +275,7 @@
         <reuselanguageinvoker>false</reuselanguageinvoker>
     </extension>
 </addon>
-<addon id="skin.estuary" version="2.0.4" name="Insomnia" provider-name="jurialmunkey">
+<addon id="skin.estuary" version="2.0.5" name="Insomnia" provider-name="jurialmunkey">
     <requires>
         <import addon="xbmc.gui" version="5.12.0"/>
         <import addon="script.skin.helper.service" version="1.1.0"/>
