@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.nicke85" name="nicke85 free list" version="1.2.3" provider-name="Siniša Nićetin Nićke">
+  <requires>
+	  <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary lang="en">nicke85 free list</summary>
+	<description lang="en">nicke85 free list</description>
+	<platform>all</platform>
+	<news>
+autor: Siniša Nićetin Nićke
+	</news>
+  </extension>
+</addon>
