@@ -45,7 +45,7 @@
 autor: Siniša Nićetin Nićke
 	</news>
   </extension>
-</addon>
+
 	</addon>
 	<addon id="plugin.video.sport365.live" name="Sport365" version="1.0" provider-name="GalAnonim">
     <requires>
