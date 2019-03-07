@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="program.voodoo-Install" name="Voodoo- [COLOR red]install[/COLOR]" version="2.0.4" provider-name="V-Team">
+  <requires>
+  			<import addon="xbmc.gui" version="5.14.0"/>
+		<import addon="script.skin.helper.service" version="1.1.3"/>
+          <import addon="inputstream.adaptive" version="1.0.8"/>
+         <import addon="script.module.inputstreamhelper" version="0.2.2"/>
+        <import addon="service.cronxbmc" optional="true"/>
+          	 	 <import addon="skin.estuary"   version="3.1"/>
+  	 	 <import addon="plugin.video.bundesliga3"   version="0.3.18"/>
+    	 	 <import addon="plugin.video.voodoo-tv"   version="2.0.4"/>
+    	 	 <import addon="plugin.video.rtlnow"   version="0.6.6"/>
+        	 	 <import addon="plugin.video.dmax_de"   version="1.1 24"/>
+    	 	 <import addon="plugin.video.sport365.live"   version="2.1"/>
+        	 	 <import addon="plugin.video.filmstarts"   version="1.0.2"/>
+            	 	 <import addon="plugin.audio.mp3streams"   version="2017.09.09"/>
+                	 	 <import addon="plugin.audio.CannaPower"   version="1.0.1"/>
+                  	 <import addon="plugin.audio.worldradio"   version="0.0.3"/>
+  	 	 <import addon="plugin.video.7tvneu"   version="1.0.1"/>
+  	 <import addon="plugin.video.xstream"   version="3.5.1"/>
+    	 <import addon="plugin.video.loki"   version="2.6"/>
+  	   <import addon="repository.xstream"          version="1.1.1" />
+   <import addon="script.module.metahandler"   version="1.0.0"/>
+   <import addon="script.module.inputstreamhelper" version="0.3.3"/>
+  				<import addon="plugin.video.lastship" version="3.0.2.3" />
+  			<import addon="xbmc.python" version="2.19.0" />
+		<import addon="repository.lastship" version="1.0.2" />
+		<import addon="script.lastship.artwork" />
+		<import addon="script.module.urlresolver" />
+		<import addon="script.module.requests" />
+    <import addon="plugin.video.tvoneplus" version="1.0"/>
+    <import addon="plugin.video.tvone1111" version="1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" /> 
+     <import addon="script.module.pyamf" version="0.6.1"/>
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+        <import addon="repository.Loki" />		
+        <import addon="script.module.universalscrapers" version="1.0.0" />
+        <import addon="script.module.python.koding.aio" version="0.9.6.6" />0
+        <import addon="script.module.addon.common" version="2.0.0" />
+        <import addon="script.module.xmltodict" version="0.9.0" />
+        <import addon="plugin.video.youtube" version="3.0.0"/>
+		<import addon="script.module.dateutil" />
+        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
+        <import addon="script.module.resolveurl" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>V-[COLOR red]Oci[/COLOR]</summary>
+    <description>Musik und Videostreaming Add-On fuer Voodoo</description>
+	<disclaimer>Benutzung auf eigene Gefahr</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
