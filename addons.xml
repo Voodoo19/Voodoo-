@@ -99,7 +99,7 @@
 		<addon
 	id="skin.estuary"
 	version="3.1"
-	name="Voodoo/u"
+	name="Voodoo"
 	provider-name="Voodoo Systems">
 	<requires>
 		<import addon="xbmc.gui" version="5.14.0"/>
