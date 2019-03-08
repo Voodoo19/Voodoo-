@@ -11,7 +11,7 @@
     	 	 <import addon="plugin.video.rtlnow"   version="0.6.6"/>
         	 	 <import addon="plugin.video.dmax_de"   version="1.1 24"/>
     	 	 <import addon="plugin.video.sport365.live"   version="2.1"/>
-        	 	 <import addon="plugin.video.filmstarts"   version="1.0.2"/>
+        	 	 <import addon="plugin.video.filmstarts"   version="0.6.13"/>
             	 	 <import addon="plugin.audio.mp3streams"   version="2017.09.09"/>
                 	 	 <import addon="plugin.audio.CannaPower"   version="1.0.1"/>
                   	 <import addon="plugin.audio.worldradio"   version="0.0.3"/>
