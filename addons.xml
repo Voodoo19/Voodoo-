@@ -94,6 +94,7 @@
 	<disclaimer>Benutzung auf eigene Gefahr</disclaimer>
     <platform>all</platform>
   </extension>
+		
 </addon>
 		<addon id="plugin.video.tvone111" name="tvone111" version="10" provider-name="RACC">
   <requires>
