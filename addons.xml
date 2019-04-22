@@ -50,7 +50,7 @@
     <email></email>
     <source></source>
   </extension>
-</addon>
+
 	</addon>
 	<addon id="plugin.video.tvone11" name="tvOne11" version="14" provider-name="RACC">
   <requires>
