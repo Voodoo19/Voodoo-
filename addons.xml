@@ -33,5 +33,31 @@
 		</news>
 	</extension>
 </addon>
+	<addon id="plugin.video.voodoo-tv" name="Voodoo- [COLOR red]TV[/COLOR]" version="2.0.5" provider-name="V-Team">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+	<import addon="script.module.livestreamer" optional="true"/>
+	    <import addon="plugin.video.nonu" version="0.1"/>
+	    <import addon="plugin.video.tvoneplus" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>V-[COLOR red]TV[/COLOR]</summary>
+    <description>Musik und Videostreaming Add-On fuer Voodoo</description>
+	<disclaimer>Benutzung auf eigene Gefahr</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
 
 </addons>
