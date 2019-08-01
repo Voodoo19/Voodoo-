@@ -32,8 +32,8 @@
 		Die aktuellsten Änderungen findest du im Changelog
 		</news>
 	</extension>
-</addon>
-	<addon id="plugin.video.voodoo-tv" name="Voodoo- [COLOR red]TV[/COLOR]" version="2.0.5" provider-name="V-Team">
+	</addon>
+<addon id="plugin.video.voodoo-tv" name="Voodoo- [COLOR red]TV[/COLOR]" version="2.0.5" provider-name="V-Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -46,9 +46,8 @@
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />
 	<import addon="script.module.livestreamer" optional="true"/>
-
-</requires>
- <extension point="xbmc.python.pluginsource" library="default.py">
+	</requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
