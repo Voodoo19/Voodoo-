@@ -12,9 +12,7 @@
     <import addon="script.module.urlresolver" optional="true"/>
     <import addon="script.module.simplejson" />
 	<import addon="script.module.livestreamer" optional="true"/>
-	    <import addon="plugin.video.nonu" version="0.1"/>
-	    <import addon="plugin.video.tvoneplus" version="1.0"/>
-  </requires>
+	</requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
