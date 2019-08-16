@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.ttg" name="Texxas TV Guide" version="1.0.2" provider-name="Loki1979">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="epg.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary>Texxas TV Guide</summary>
+        <description>Texxas TV Guide :
+http://www.texxas.de/rss/</description>
+    </extension>
+</addon>
