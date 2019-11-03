@@ -283,6 +283,27 @@ v1.1.2
 		<platform>all</platform>
 	</extension>
 </addon>
-
+<addon id="plugin.video.1x2"
+  version="1.0.20"
+  name="s365 mod"
+  provider-name="Count">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.requests" version="2.19.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="de">s365</summary>
+    <description lang="de">s365</description>
+    <disclaimer lang="de">s365</disclaimer>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
 
 </addons>
