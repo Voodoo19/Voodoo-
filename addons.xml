@@ -283,7 +283,7 @@ v1.1.2
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.video.1x2"
+<addon id="plugin.video.s365"
   version="1.0.20"
   name="s365 mod"
   provider-name="Count">
