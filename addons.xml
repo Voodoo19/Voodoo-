@@ -57,7 +57,7 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.tvone111" name="tvOne111" version="20" provider-name="RACC">
+<addon id="plugin.video.tvone111" name="tvOne111" version="21" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.pyamf" />
@@ -108,7 +108,7 @@
     <source></source>
   </extension>
 </addon>
-	<addon id="plugin.video.tvone" name="tvOne" version="20" provider-name="RACC">
+	<addon id="plugin.video.tvone" name="tvOne" version="21" provider-name="RACC">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="script.module.pycryptodome" />
