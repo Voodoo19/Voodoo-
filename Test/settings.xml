@@ -33,9 +33,9 @@
     <setting id="login_4" default="true"></setting>
     <setting id="mac_0"></setting>
     <setting id="mac_1"></setting>
-    <setting id="mac_2">00:1A:79:42:FE:97</setting>
-    <setting id="mac_3">00:1A:79:51:6D:6D</setting>
-    <setting id="mac_4">00:1A:79:02:06:27</setting>
+    <setting id="mac_2">00:1A:79:55:F6:50</setting>
+    <setting id="mac_3"00:1A:79:45:F6:92</setting>
+    <setting id="mac_4">00:1A:79:41:A9:BC</setting>
     <setting id="password_0" default="true"></setting>
     <setting id="password_1" default="true"></setting>
     <setting id="password_2" default="true"></setting>
@@ -48,9 +48,9 @@
     <setting id="serial_number_4" default="true"></setting>
     <setting id="server_0"></setting>
     <setting id="server_1"></setting>
-    <setting id="server_2">http://portal.geniptv.com:8080/c/</setting>
-    <setting id="server_3">http:</setting>
-    <setting id="server_4">http:</setting>
+    <setting id="server_2">http://livegopanel.club:8080/c/</setting>
+    <setting id="server_3">http://livegopanel.club:8080/c/</setting>
+    <setting id="server_4">http://livegopanel.club:8080/c/</setting>
     <setting id="signature_0" default="true"></setting>
     <setting id="signature_1" default="true"></setting>
     <setting id="signature_2" default="true"></setting>
