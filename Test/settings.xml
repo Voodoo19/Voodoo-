@@ -33,9 +33,9 @@
     <setting id="login_4" default="true"></setting>
     <setting id="mac_0"></setting>
     <setting id="mac_1"></setting>
-    <setting id="mac_2">00:1a:79:4a:41:2a</setting>
-    <setting id="mac_3">00:1a:79:22:66:98</setting>
-    <setting id="mac_4">00:1a:79:01:a8:27</setting>
+    <setting id="mac_2">00:1A:79:42:FE:97</setting>
+    <setting id="mac_3">00:1A:79:51:6D:6D</setting>
+    <setting id="mac_4">00:1A:79:02:06:27</setting>
     <setting id="password_0" default="true"></setting>
     <setting id="password_1" default="true"></setting>
     <setting id="password_2" default="true"></setting>
@@ -48,7 +48,7 @@
     <setting id="serial_number_4" default="true"></setting>
     <setting id="server_0"></setting>
     <setting id="server_1"></setting>
-    <setting id="server_2">http://zerocube.co:8000/c/</setting>
+    <setting id="server_2">http://portal.geniptv.com:8080/c/</setting>
     <setting id="server_3">http://zerocube.co:8000/c/</setting>
     <setting id="server_4">http://zerocube.co:8000/c/</setting>
     <setting id="signature_0" default="true"></setting>
