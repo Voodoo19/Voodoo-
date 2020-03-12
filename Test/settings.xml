@@ -31,11 +31,11 @@
     <setting id="login_2" default="true"></setting>
     <setting id="login_3" default="true"></setting>
     <setting id="login_4" default="true"></setting>
-    <setting id="mac_0">00:1A:79:00:13:0C</setting>
-    <setting id="mac_1">00:1A:79:01:39:F5</setting>
-    <setting id="mac_2">00:1a:79:40:9b:2e</setting>
-    <setting id="mac_3">00:1a:79:40:49:57</setting>
-    <setting id="mac_4">00:1A:79:00:13:3e</setting>
+    <setting id="mac_0">00:1a:79:40:9b:2e</setting>
+    <setting id="mac_1">00:1a:79:40:49:57</setting>
+    <setting id="mac_2">00:1A:79:00:13:3e</setting>
+    <setting id="mac_3">00:1A:79:00:10:5f</setting>
+    <setting id="mac_4">00:1A:79:00:54:65</setting>
     <setting id="password_0" default="true"></setting>
     <setting id="password_1" default="true"></setting>
     <setting id="password_2" default="true"></setting>
@@ -46,8 +46,8 @@
     <setting id="serial_number_2" default="true"></setting>
     <setting id="serial_number_3" default="true"></setting>
     <setting id="serial_number_4" default="true"></setting>
-    <setting id="server_0">http://mypanel.tv:8080/c/</setting>
-    <setting id="server_1">http://mypanel.tv:8080/c/</setting>
+    <setting id="server_0">http://mytv.fun:8080/c/</setting>
+    <setting id="server_1">http://mytv.fun:8080/c/</setting>
     <setting id="server_2">http://mytv.fun:8080/c/</setting>
     <setting id="server_3">http://mytv.fun:8080/c/</setting>
     <setting id="server_4">http://mytv.fun:8080/c/</setting>
