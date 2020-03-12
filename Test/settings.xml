@@ -49,8 +49,8 @@
     <setting id="server_0"></setting>
     <setting id="server_1"></setting>
     <setting id="server_2">http://portal.geniptv.com:8080/c/</setting>
-    <setting id="server_3">http://zerocube.co:8000/c/</setting>
-    <setting id="server_4">http://zerocube.co:8000/c/</setting>
+    <setting id="server_3">http:</setting>
+    <setting id="server_4">http:</setting>
     <setting id="signature_0" default="true"></setting>
     <setting id="signature_1" default="true"></setting>
     <setting id="signature_2" default="true"></setting>
