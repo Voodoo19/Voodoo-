@@ -1,5 +1,5 @@
 <settings version="2">
-    <setting id="active_portal">3</setting>
+    <setting id="active_portal">4</setting>
     <setting id="connection_timeout">1</setting>
     <setting id="device_id2_0" default="true"></setting>
     <setting id="device_id2_1" default="true"></setting>
@@ -35,7 +35,7 @@
     <setting id="mac_1">00:1A:79:4F:D4:3D</setting>
     <setting id="mac_2">00:1A:79:4F:D7:CF</setting>
     <setting id="mac_3">00:1a:79:43:78:77</setting>
-    <setting id="mac_4">00:1A:79:00:54:65</setting>
+    <setting id="mac_4">00:1A:79:3A:FA:8B</setting>
     <setting id="password_0" default="true"></setting>
     <setting id="password_1" default="true"></setting>
     <setting id="password_2" default="true"></setting>
