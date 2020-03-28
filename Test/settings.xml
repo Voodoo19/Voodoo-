@@ -49,7 +49,7 @@
     <setting id="server_0">http://nettv-xcruiser.com:8000/c/</setting>
     <setting id="server_1">http://nettv-xcruiser.com:8000/c/</setting>
     <setting id="server_2">http://nettv-xcruiser.com:8000/c/</setting>
-    <setting id="server_3">http://tv.gloryiptv.itv.world:8080/c</setting>
+    <setting id="server_3">http://tv.gloryiptv.itv.world:8080/c/</setting>
     <setting id="server_4">http://mytv.fun:8080/c/</setting>
     <setting id="signature_0" default="true"></setting>
     <setting id="signature_1" default="true"></setting>
