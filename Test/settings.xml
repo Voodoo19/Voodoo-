@@ -1,5 +1,5 @@
 <settings version="2">
-    <setting id="active_portal">4</setting>
+    <setting id="active_portal">2</setting>
     <setting id="connection_timeout">1</setting>
     <setting id="device_id2_0" default="true"></setting>
     <setting id="device_id2_1" default="true"></setting>
@@ -33,7 +33,7 @@
     <setting id="login_4" default="true"></setting>
     <setting id="mac_0">00:1A:79:4F:D5:B7</setting>
     <setting id="mac_1">00:1A:79:4F:D4:3D</setting>
-    <setting id="mac_2">00:1A:79:4F:D7:CF</setting>
+    <setting id="mac_2">00:1a:79:3f:f9:3c</setting>
     <setting id="mac_3">00:1A:79:49:04:9b</setting>
     <setting id="mac_4">00:1A:79:00:69:74</setting>
     <setting id="password_0" default="true"></setting>
@@ -48,7 +48,7 @@
     <setting id="serial_number_4" default="true"></setting>
     <setting id="server_0">http://nettv-xcruiser.com:8000/c/</setting>
     <setting id="server_1">http://nettv-xcruiser.com:8000/c/</setting>
-    <setting id="server_2">http://nettv-xcruiser.com:8000/c/</setting>
+    <setting id="server_2">http://live.darkside-iptv.com:8080/c/</setting>
     <setting id="server_3">http://tv.gloryiptv.itv.world:8080/c</setting>
     <setting id="server_4">http://mytv.fun:8080/c/</setting>
     <setting id="signature_0" default="true"></setting>
