@@ -9,8 +9,12 @@
 			<thumb />
 			<property name="labelID">action</property>
 			<property name="defaultID" />
-			<visible>False</visible>
 			<onclick>noop</onclick>
+			<property name="path">noop</property>
+			<property name="list">noop</property>
+			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
+			<property name="submenuVisibility">action</property>
+			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">False</property>
 		</item>
 		<item id="2">
@@ -6669,7 +6673,7 @@
 			<param name="id" value="993100" />
 			<param name="label" value="$LOCALIZE[31105]" />
 			<param name="spinner-visible" value="String.IsEmpty(Container(993100).ListItem.Label)" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),action) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
 			<visible>Integer.IsEqual(Container(9989).NumItems,0)</visible>
 		</include>
 		<include condition="!Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
@@ -6696,7 +6700,7 @@
 			</include>
 			<onback>301</onback>
 			<visible>Integer.IsGreater(Container(993100).NumItems,0) | Container(993100).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),action) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
 			<visible>Integer.IsEqual(Container(9989).NumItems,0)</visible>
 		</include>
 		<include condition="Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
@@ -6723,7 +6727,7 @@
 			</include>
 			<onback>301</onback>
 			<visible>Integer.IsGreater(Container(993100).NumItems,0) | Container(993100).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),action) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
 			<visible>Integer.IsEqual(Container(9989).NumItems,0)</visible>
 		</include>
 	</include>
@@ -6737,7 +6741,7 @@
 			<param name="titleheight" value="60" />
 			<param name="id" value="13101" />
 			<param name="uid" value="91" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),action)</visible>
 		</include>
 		<include content="Home_Vertical_Info">
 			<param name="font" value="font_title" />
@@ -6852,7 +6856,7 @@
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),action) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
 			<onup>302</onup>
 			<onback condition="Window.IsVisible(Home)">301</onback>
 			<ondown>noop</ondown>
@@ -6878,7 +6882,7 @@
 			<itemlayout />
 			<focusedlayout />
 			<content limit="25" target="$INFO[Skin.String(widgetTarget)]">$INFO[Skin.String(widgetPath)]</content>
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),action) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
 		</control>
 	</include>
 </includes>
