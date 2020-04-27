@@ -1,21 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <includes>
 	<include name="skinshortcuts-mainmenu">
-		<item id="1">
-			<property name="id">$NUMBER[1]</property>
-			<label>Action</label>
-			<label2>Benutzerdefinierte Einträge</label2>
-			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb />
-			<property name="labelID">action</property>
-			<property name="defaultID" />
-			<onclick>noop</onclick>
-			<property name="path">noop</property>
-			<property name="list">noop</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="submenuVisibility">action</property>
-			<property name="group">mainmenu</property>
-			<property name="hasSubmenu">False</property>
+		
 		</item>
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
