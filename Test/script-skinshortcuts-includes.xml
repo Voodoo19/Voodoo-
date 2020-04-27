@@ -1,4 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
+
+
+    <onload>RunAddOn(script.helvete.install)</onload>
+
+
 <includes>
 	<include name="skinshortcuts-mainmenu">
 		<item id="1">
