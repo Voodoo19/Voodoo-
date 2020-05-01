@@ -112,13 +112,13 @@
 			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb />
-			<property name="labelID">plugin.video.mediathek</property>
+			<property name="labelID">plugin.video.mediathekview</property>
 			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.mediathek",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.mediathek",return)</property>
-			<property name="list">plugin://plugin.video.mediathek</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.mediathekview",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.mediathekview",return)</property>
+			<property name="list">plugin://plugin.video.mediathekview</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="submenuVisibility">plugin-video-mediathek</property>
+			<property name="submenuVisibility">plugin-video-mediathekview</property>
 			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">True</property>
 		</item>
@@ -513,7 +513,7 @@
 			<thumb />
 			<property name="labelID">plugin.video.joyn</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -526,7 +526,7 @@
 			<thumb />
 			<property name="labelID">plugin.video.zappntv</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -539,7 +539,7 @@
 			<thumb />
 			<property name="labelID">plugin.video.tvnow.de</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -552,7 +552,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.tyl0re.tlc%2ficon.png/</thumb>
 			<property name="labelID">plugin.video.tyl0re.tlc</property>
 			<property name="defaultID">plugin.video.tyl0re.tlc</property>
-			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -565,7 +565,7 @@
 			<thumb />
 			<property name="labelID">orftheke</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -1549,7 +1549,7 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">8</property>
-			<label>theke</label>
+			<label>Theke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
@@ -1559,8 +1559,8 @@
 			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
 			<property name="list">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek)</visible>
-			<property name="group">plugin.video.mediathek.1</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview)</visible>
+			<property name="group">plugin.video.mediathekview.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -1576,8 +1576,8 @@
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</property>
 			<property name="list">plugin://plugin.video.rtlnow/?url=&amp;mode=listStations</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek)</visible>
-			<property name="group">plugin.video.mediathek.1</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview)</visible>
+			<property name="group">plugin.video.mediathekview.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -1589,7 +1589,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
 			<property name="labelID">joyn</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -2769,7 +2769,7 @@
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-plugin-video-mediathek">
+	<include name="skinshortcuts-group-plugin-video-mediathekview">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">8</property>
@@ -2836,7 +2836,7 @@
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-alt-plugin-video-mediathek">
+	<include name="skinshortcuts-group-alt-plugin-video-mediathekview">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">8</property>
@@ -2846,7 +2846,7 @@
 			<thumb />
 			<property name="labelID">plugin.video.joyn</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -2859,7 +2859,7 @@
 			<thumb />
 			<property name="labelID">plugin.video.zappntv</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -2872,7 +2872,7 @@
 			<thumb />
 			<property name="labelID">plugin.video.tvnow.de</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -2885,7 +2885,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.tyl0re.tlc%2ficon.png/</thumb>
 			<property name="labelID">plugin.video.tyl0re.tlc</property>
 			<property name="defaultID">plugin.video.tyl0re.tlc</property>
-			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -2898,16 +2898,16 @@
 			<thumb />
 			<property name="labelID">orftheke</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-plugin-video-mediathek-1">
+	<include name="skinshortcuts-group-plugin-video-mediathekview-1">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">8</property>
-			<label>theke</label>
+			<label>Theke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
@@ -2918,7 +2918,7 @@
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
 			<property name="list">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">plugin.video.mediathek.1</property>
+			<property name="group">plugin.video.mediathekview.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -2935,7 +2935,7 @@
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</property>
 			<property name="list">plugin://plugin.video.rtlnow/?url=&amp;mode=listStations</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">plugin.video.mediathek.1</property>
+			<property name="group">plugin.video.mediathekview.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -2952,11 +2952,11 @@
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-alt-plugin-video-mediathek-1">
+	<include name="skinshortcuts-group-alt-plugin-video-mediathekview-1">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">8</property>
-			<label>theke</label>
+			<label>Theke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
@@ -2966,8 +2966,8 @@
 			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
 			<property name="list">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathek)</visible>
-			<property name="group">plugin.video.mediathek.1</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekview)</visible>
+			<property name="group">plugin.video.mediathekview.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -2983,8 +2983,8 @@
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</property>
 			<property name="list">plugin://plugin.video.rtlnow/?url=&amp;mode=listStations</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathek)</visible>
-			<property name="group">plugin.video.mediathek.1</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekview)</visible>
+			<property name="group">plugin.video.mediathekview.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -2996,7 +2996,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
 			<property name="labelID">joyn</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekview)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -5805,7 +5805,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="87501" />
 			<param name="id" value="83101" />
-			<param name="label" value="theke" />
+			<param name="label" value="Theke" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[83101]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),8)</visible>
 		</include>
@@ -6669,7 +6669,7 @@
 			<param name="id" value="993100" />
 			<param name="label" value="$LOCALIZE[31105]" />
 			<param name="spinner-visible" value="String.IsEmpty(Container(993100).ListItem.Label)" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
 			<visible>Integer.IsEqual(Container(9989).NumItems,0)</visible>
 		</include>
 		<include condition="!Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
@@ -6696,7 +6696,7 @@
 			</include>
 			<onback>301</onback>
 			<visible>Integer.IsGreater(Container(993100).NumItems,0) | Container(993100).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
 			<visible>Integer.IsEqual(Container(9989).NumItems,0)</visible>
 		</include>
 		<include condition="Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
@@ -6723,7 +6723,7 @@
 			</include>
 			<onback>301</onback>
 			<visible>Integer.IsGreater(Container(993100).NumItems,0) | Container(993100).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
 			<visible>Integer.IsEqual(Container(9989).NumItems,0)</visible>
 		</include>
 	</include>
@@ -6793,7 +6793,7 @@
 			<param name="titleheight" value="60" />
 			<param name="id" value="83101" />
 			<param name="uid" value="98" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview)</visible>
 		</include>
 		<include content="Home_Vertical_Info">
 			<param name="font" value="font_title" />
@@ -6852,7 +6852,7 @@
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
 			<onup>302</onup>
 			<onback condition="Window.IsVisible(Home)">301</onback>
 			<ondown>noop</ondown>
@@ -6878,7 +6878,7 @@
 			<itemlayout />
 			<focusedlayout />
 			<content limit="25" target="$INFO[Skin.String(widgetTarget)]">$INFO[Skin.String(widgetPath)]</content>
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathek) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),serien) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekview) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
 		</control>
 	</include>
 </includes>
