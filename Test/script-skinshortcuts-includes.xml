@@ -1339,16 +1339,17 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">3</property>
-			<label>Genre</label>
+			<label>Film Genre</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">genre</property>
-			<property name="defaultID" />
-			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.wrp-metaplayer%2fresources%2fmedia%2fgenres.png/</thumb>
+			<property name="labelID">plugin.video.wrp-metaplayer/movies_genres</property>
+			<property name="defaultID">plugin.video.wrp-metaplayer/movies_genres</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/movies_genres",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/movies_genres",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/movies_genres",return)</property>
+			<property name="list">plugin://plugin.video.wrp-metaplayer/movies_genres</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream)</visible>
 			<property name="group">plugin.video.xstream.1</property>
 			<property name="isSubmenu">True</property>
@@ -1483,16 +1484,18 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">6</property>
-			<label>TV</label>
+			<label>GERMANY TV</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://https%3a%2f%2fgithub.com%2fVoodoo19%2fVoodoo-%2fraw%2fmaster%2fIcons%2fger.jpg/</thumb>
-			<property name="labelID">tv</property>
-			<property name="defaultID" />
+			<thumb>image://http%3a%2f%2fswiftstreamz.com%2fSwiftPanel%2fimages%2f77155_germany.jpg%7cUser-Agent%3dokhttp%252F3.10.0/</thumb>
+			<property name="labelID">plugin.video.tvone11/list_channels/26</property>
+			<property name="defaultID">plugin.video.tvone11/list_channels/26</property>
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F",return)</property>
-			<property name="list">plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.tvone11/list_channels/26",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.tvone11/list_channels/26",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.tvone11/list_channels/26",return)</property>
+			<property name="list">plugin://plugin.video.tvone11/list_channels/26</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
 			<property name="group">plugin.video.voodoo-tv.1</property>
 			<property name="isSubmenu">True</property>
@@ -1504,7 +1507,7 @@
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">tv--0</property>
+			<property name="labelID">tv</property>
 			<property name="defaultID" />
 			<property name="widgetAspect">Small Landscape</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
@@ -1626,6 +1629,22 @@
 			<property name="list">plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams)</visible>
 			<property name="group">plugin.audio.mp3streams.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">11</property>
+			<label>Top rated TV shows</label>
+			<label2>Video Add-On</label2>
+			<icon>special://skin/extras/icons/shortcut.png</icon>
+			<thumb>image://DefaultFolder.png/</thumb>
+			<property name="labelID">topratedtvshows</property>
+			<property name="defaultID">topratedtvshows</property>
+			<onclick>noop</onclick>
+			<property name="path">noop</property>
+			<property name="list">noop</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows)</visible>
+			<property name="group">tvshows.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="1">
@@ -1854,16 +1873,17 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">3</property>
-			<label>Genre</label>
+			<label>Film Genre</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">genre</property>
-			<property name="defaultID" />
-			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.wrp-metaplayer%2fresources%2fmedia%2fgenres.png/</thumb>
+			<property name="labelID">plugin.video.wrp-metaplayer/movies_genres</property>
+			<property name="defaultID">plugin.video.wrp-metaplayer/movies_genres</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/movies_genres",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/movies_genres",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/movies_genres",return)</property>
+			<property name="list">plugin://plugin.video.wrp-metaplayer/movies_genres</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.xstream.1</property>
 			<property name="isSubmenu">True</property>
@@ -1905,16 +1925,17 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">3</property>
-			<label>Genre</label>
+			<label>Film Genre</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">genre</property>
-			<property name="defaultID" />
-			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.wrp-metaplayer%2fresources%2fmedia%2fgenres.png/</thumb>
+			<property name="labelID">plugin.video.wrp-metaplayer/movies_genres</property>
+			<property name="defaultID">plugin.video.wrp-metaplayer/movies_genres</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/movies_genres",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/movies_genres",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/movies_genres",return)</property>
+			<property name="list">plugin://plugin.video.wrp-metaplayer/movies_genres</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-xstream)</visible>
 			<property name="group">plugin.video.xstream.1</property>
 			<property name="isSubmenu">True</property>
@@ -2426,16 +2447,18 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">6</property>
-			<label>TV</label>
+			<label>GERMANY TV</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://https%3a%2f%2fgithub.com%2fVoodoo19%2fVoodoo-%2fraw%2fmaster%2fIcons%2fger.jpg/</thumb>
-			<property name="labelID">tv</property>
-			<property name="defaultID" />
+			<thumb>image://http%3a%2f%2fswiftstreamz.com%2fSwiftPanel%2fimages%2f77155_germany.jpg%7cUser-Agent%3dokhttp%252F3.10.0/</thumb>
+			<property name="labelID">plugin.video.tvone11/list_channels/26</property>
+			<property name="defaultID">plugin.video.tvone11/list_channels/26</property>
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F",return)</property>
-			<property name="list">plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.tvone11/list_channels/26",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.tvone11/list_channels/26",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.tvone11/list_channels/26",return)</property>
+			<property name="list">plugin://plugin.video.tvone11/list_channels/26</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.voodoo-tv.1</property>
 			<property name="isSubmenu">True</property>
@@ -2447,7 +2470,7 @@
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">tv--0</property>
+			<property name="labelID">tv</property>
 			<property name="defaultID" />
 			<property name="widgetAspect">Small Landscape</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
@@ -2462,16 +2485,18 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">6</property>
-			<label>TV</label>
+			<label>GERMANY TV</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://https%3a%2f%2fgithub.com%2fVoodoo19%2fVoodoo-%2fraw%2fmaster%2fIcons%2fger.jpg/</thumb>
-			<property name="labelID">tv</property>
-			<property name="defaultID" />
+			<thumb>image://http%3a%2f%2fswiftstreamz.com%2fSwiftPanel%2fimages%2f77155_germany.jpg%7cUser-Agent%3dokhttp%252F3.10.0/</thumb>
+			<property name="labelID">plugin.video.tvone11/list_channels/26</property>
+			<property name="defaultID">plugin.video.tvone11/list_channels/26</property>
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F",return)</property>
-			<property name="list">plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.tvone11/list_channels/26",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.tvone11/list_channels/26",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.tvone11/list_channels/26",return)</property>
+			<property name="list">plugin://plugin.video.tvone11/list_channels/26</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
 			<property name="group">plugin.video.voodoo-tv.1</property>
 			<property name="isSubmenu">True</property>
@@ -2483,7 +2508,7 @@
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">tv--0</property>
+			<property name="labelID">tv</property>
 			<property name="defaultID" />
 			<property name="widgetAspect">Small Landscape</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
@@ -3543,10 +3568,40 @@
 		</item>
 	</include>
 	<include name="skinshortcuts-group-tvshows-1">
-		<description>No items</description>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">11</property>
+			<label>Top rated TV shows</label>
+			<label2>Video Add-On</label2>
+			<icon>special://skin/extras/icons/shortcut.png</icon>
+			<thumb>image://DefaultFolder.png/</thumb>
+			<property name="labelID">topratedtvshows</property>
+			<property name="defaultID">topratedtvshows</property>
+			<onclick>noop</onclick>
+			<property name="path">noop</property>
+			<property name="list">noop</property>
+			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
+			<property name="group">tvshows.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
 	</include>
 	<include name="skinshortcuts-group-alt-tvshows-1">
-		<description>No items</description>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">11</property>
+			<label>Top rated TV shows</label>
+			<label2>Video Add-On</label2>
+			<icon>special://skin/extras/icons/shortcut.png</icon>
+			<thumb>image://DefaultFolder.png/</thumb>
+			<property name="labelID">topratedtvshows</property>
+			<property name="defaultID">topratedtvshows</property>
+			<onclick>noop</onclick>
+			<property name="path">noop</property>
+			<property name="list">noop</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),tvshows)</visible>
+			<property name="group">tvshows.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
 	</include>
 	<include name="skinshortcuts-group-favoriten">
 		<description>No items</description>
@@ -5004,7 +5059,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="37501" />
 			<param name="id" value="33101" />
-			<param name="label" value="Genre" />
+			<param name="label" value="Film Genre" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[33101]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),3)</visible>
 		</include>
@@ -5020,12 +5075,12 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre" />
+			<param name="content" value="plugin://plugin.video.wrp-metaplayer/movies_genres" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="true" />
-			<param name="squarecondition" value="true" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
 			<param name="smalllandscapecondition" value="false" />
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
@@ -5050,12 +5105,12 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showValue&amp;title=Genre&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew&amp;value=genre" />
+			<param name="content" value="plugin://plugin.video.wrp-metaplayer/movies_genres" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="true" />
-			<param name="squarecondition" value="true" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
 			<param name="smalllandscapecondition" value="false" />
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
@@ -5540,7 +5595,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="67501" />
 			<param name="id" value="63101" />
-			<param name="label" value="TV" />
+			<param name="label" value="GERMANY TV" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[63101]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),6)</visible>
 		</include>
@@ -5556,7 +5611,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F" />
+			<param name="content" value="plugin://plugin.video.tvone11/list_channels/26" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5586,7 +5641,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F" />
+			<param name="content" value="plugin://plugin.video.tvone11/list_channels/26" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -6069,6 +6124,73 @@
 			<onback>301</onback>
 			<visible>Integer.IsGreater(Container(93102).NumItems,0) | Container(93102).IsUpdating</visible>
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),9)</visible>
+			<include content="Defs_AutoScroll">
+				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
+			</include>
+		</include>
+		<include content="View_Cast_Toplabel">
+			<param name="groupid" value="117501" />
+			<param name="id" value="113101" />
+			<param name="label" value="Top rated TV shows" />
+			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[113101]).ListItem.Label)" />
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),11)</visible>
+		</include>
+		<include condition="!Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
+			<param name="controltype" value="list" />
+			<param name="id" value="113101" />
+			<param name="top" value="52" />
+			<param name="left" value="0" />
+			<param name="right" value="-30" />
+			<param name="height" value="item_cast_height" />
+			<param name="orientation" value="horizontal" />
+			<param name="labelinclude" value="Defs_Null" />
+			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
+			<param name="label2" value="ListItem.TvShowTitle" />
+			<param name="target" value="videos" />
+			<param name="content" value="noop" />
+			<param name="limit" value="" />
+			<param name="sortby" value="" />
+			<param name="sortorder" value="" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
+			<param name="iconcondition" value="false" />
+			<param name="bannercondition" value="false" />
+			<onback>SetFocus(113101)</onback>
+			<onback>301</onback>
+			<visible>Integer.IsGreater(Container(113101).NumItems,0) | Container(113101).IsUpdating</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),11)</visible>
+			<include content="Defs_AutoScroll">
+				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
+			</include>
+		</include>
+		<include condition="Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
+			<param name="controltype" value="fixedlist" />
+			<param name="id" value="113101" />
+			<param name="top" value="52" />
+			<param name="left" value="0" />
+			<param name="right" value="-30" />
+			<param name="height" value="item_cast_height" />
+			<param name="orientation" value="horizontal" />
+			<param name="labelinclude" value="Defs_Null" />
+			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
+			<param name="label2" value="ListItem.TvShowTitle" />
+			<param name="target" value="videos" />
+			<param name="content" value="noop" />
+			<param name="limit" value="" />
+			<param name="sortby" value="" />
+			<param name="sortorder" value="" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
+			<param name="iconcondition" value="false" />
+			<param name="bannercondition" value="false" />
+			<onback>SetFocus(113101)</onback>
+			<onback>301</onback>
+			<visible>Integer.IsGreater(Container(113101).NumItems,0) | Container(113101).IsUpdating</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),11)</visible>
 			<include content="Defs_AutoScroll">
 				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
 			</include>
