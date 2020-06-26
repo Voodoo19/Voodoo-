@@ -1,5 +1,5 @@
 <settings version="2">
-    <setting id="active_portal">8</setting>
+    <setting id="active_portal">0</setting>
     <setting id="connection_timeout">1</setting>
     <setting id="device_id2_0" default="true"></setting>
     <setting id="device_id2_1" default="true"></setting>
