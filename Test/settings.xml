@@ -6,8 +6,8 @@
     <setting id="connection_timeout" type="enum" label="30003" values="0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|100|105|110|115|120" default="1" />
   </category>
   <category label="31000">
-    <setting id="mac_0" type="text" option="hidden" label="30101" default="00:1a:79:42:1b:bf" />
-    <setting id="server_0" type="text" option="hidden" label="30102" default="http://euroserver.streamtv.to:8080/c/" />
+    <setting id="mac_0" type="text" option="hidden" label="30101" default="00:1a:79:5f:d8:bf" />
+    <setting id="server_0" type="text" option="hidden" label="30102" default="http://mytv.fun:8080/c/" />
     <setting id="time_zone_0" type="text" label="30103" default="Europe/Zagreb" />
     <setting id="sep1_0" type="lsep" label="30104" />
     <setting id="login_0" type="text" label="30105" default="" />
