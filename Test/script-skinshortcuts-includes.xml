@@ -1345,17 +1345,17 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">3</property>
-			<label>Update</label>
+			<label>Filme</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">update</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<property name="labelID">filme--0</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
 			<property name="widgetTarget">videos</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-xstream)</visible>
 			<property name="group">plugin.video.xstream.1</property>
 			<property name="isSubmenu">True</property>
@@ -1734,17 +1734,17 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">3</property>
-			<label>Update</label>
+			<label>Filme</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">update</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<property name="labelID">filme--0</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
 			<property name="widgetTarget">videos</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.xstream.1</property>
 			<property name="isSubmenu">True</property>
@@ -1773,17 +1773,17 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">3</property>
-			<label>Update</label>
+			<label>Filme</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">update</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<property name="labelID">filme--0</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
 			<property name="widgetTarget">videos</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-xstream)</visible>
 			<property name="group">plugin.video.xstream.1</property>
 			<property name="isSubmenu">True</property>
@@ -4973,7 +4973,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="37502" />
 			<param name="id" value="33102" />
-			<param name="label" value="Update" />
+			<param name="label" value="Filme" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[33102]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),3)</visible>
 		</include>
@@ -4989,7 +4989,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc" />
+			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5019,7 +5019,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=hdfilme&amp;function=showEntries&amp;title=Update&amp;sUrl=https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fsort%3Dtop%26sort_type%3Ddesc" />
+			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
