@@ -1397,17 +1397,18 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">5</property>
-			<label>Kidstheke</label>
+			<label>Animation</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">kidstheke</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<property name="labelID">animation</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<property name="widgetTarget">videos</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder)</visible>
 			<property name="group">kinder.1</property>
 			<property name="isSubmenu">True</property>
@@ -1419,7 +1420,7 @@
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">animation</property>
+			<property name="labelID">animation--0</property>
 			<property name="defaultID" />
 			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Animation&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fsearch%2Fgenre%2FAnimation&amp;value=genre",return)</property>
 			<property name="widgetTarget">videos</property>
@@ -1434,7 +1435,7 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">6</property>
-			<label>GERMANY TV</label>
+			<label>TV</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://http%3a%2f%2fswiftstreamz.com%2fSwiftPanel%2fimages%2f77155_germany.jpg%7cUser-Agent%3dokhttp%252F3.10.0/</thumb>
@@ -1459,7 +1460,7 @@
 			<property name="defaultID" />
 			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F",return)</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetAspect">Small Landscape</property>
+			<property name="widgetAspect">Square</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
 			<property name="list">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
@@ -1489,15 +1490,15 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>$LOCALIZE[31381]</label>
-			<label2 />
+			<label>Last Played Channels</label>
+			<label2>Custom item</label2>
 			<icon>DefaultAddonPVRClient.png</icon>
 			<thumb />
-			<property name="labelID">31381</property>
+			<property name="labelID">lastplayedchannels</property>
 			<property name="defaultID">31381</property>
 			<property name="translatedPath">pvr://channels/tv/*?view=lastplayed</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetAspect">Small Square</property>
+			<property name="widgetAspect">Square</property>
 			<onclick>pvr://channels/tv/*?view=lastplayed</onclick>
 			<property name="path">pvr://channels/tv/*?view=lastplayed</property>
 			<property name="list">pvr://channels/tv/*?view=lastplayed</property>
@@ -1525,31 +1526,20 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">8</property>
-			<label>Tv Now</label>
+			<label>Kidstheke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.rtlnow%2ficon.png/</thumb>
-			<property name="labelID">tvnow</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
+			<property name="labelID">kidstheke</property>
 			<property name="defaultID" />
-			<property name="widgetAspect">Small Landscape</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</property>
-			<property name="list">plugin://plugin.video.rtlnow/?url=&amp;mode=listStations</property>
+			<property name="widgetAspect">Small Square</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
+			<property name="list">plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
-			<property name="isSubmenu">True</property>
-		</item>
-		<item id="3">
-			<property name="id">$NUMBER[3]</property>
-			<property name="mainmenuid">8</property>
-			<label>Joyn</label>
-			<label2>Video Add-On</label2>
-			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
-			<property name="labelID">joyn</property>
-			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt)</visible>
-			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="1">
@@ -2031,17 +2021,18 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">5</property>
-			<label>Kidstheke</label>
+			<label>Animation</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">kidstheke</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<property name="labelID">animation</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<property name="widgetTarget">videos</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">kinder.1</property>
 			<property name="isSubmenu">True</property>
@@ -2053,7 +2044,7 @@
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">animation</property>
+			<property name="labelID">animation--0</property>
 			<property name="defaultID" />
 			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Animation&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fsearch%2Fgenre%2FAnimation&amp;value=genre",return)</property>
 			<property name="widgetTarget">videos</property>
@@ -2070,17 +2061,18 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">5</property>
-			<label>Kidstheke</label>
+			<label>Animation</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">kidstheke</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<property name="labelID">animation</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<property name="widgetTarget">videos</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),kinder)</visible>
 			<property name="group">kinder.1</property>
 			<property name="isSubmenu">True</property>
@@ -2092,7 +2084,7 @@
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">animation</property>
+			<property name="labelID">animation--0</property>
 			<property name="defaultID" />
 			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Animation&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fsearch%2Fgenre%2FAnimation&amp;value=genre",return)</property>
 			<property name="widgetTarget">videos</property>
@@ -2139,7 +2131,7 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">6</property>
-			<label>GERMANY TV</label>
+			<label>TV</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://http%3a%2f%2fswiftstreamz.com%2fSwiftPanel%2fimages%2f77155_germany.jpg%7cUser-Agent%3dokhttp%252F3.10.0/</thumb>
@@ -2164,7 +2156,7 @@
 			<property name="defaultID" />
 			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F",return)</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetAspect">Small Landscape</property>
+			<property name="widgetAspect">Square</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
 			<property name="list">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
@@ -2177,7 +2169,7 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">6</property>
-			<label>GERMANY TV</label>
+			<label>TV</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://http%3a%2f%2fswiftstreamz.com%2fSwiftPanel%2fimages%2f77155_germany.jpg%7cUser-Agent%3dokhttp%252F3.10.0/</thumb>
@@ -2202,7 +2194,7 @@
 			<property name="defaultID" />
 			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv/?url=plugin%3A%2F%2Fplugin.video.tvone111%2Flist_channels%2F25&amp;mode=53&amp;name=%5BB%5D%5BI%5D%5BCOLOR+red%5DHelvete%5BCOLOR+beige%5D%5BCOLOR+white%5DTV+1%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2F",return)</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetAspect">Small Landscape</property>
+			<property name="widgetAspect">Square</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
 			<property name="list">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
@@ -2442,15 +2434,15 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>$LOCALIZE[31381]</label>
-			<label2 />
+			<label>Last Played Channels</label>
+			<label2>Custom item</label2>
 			<icon>DefaultAddonPVRClient.png</icon>
 			<thumb />
-			<property name="labelID">31381</property>
+			<property name="labelID">lastplayedchannels</property>
 			<property name="defaultID">31381</property>
 			<property name="translatedPath">pvr://channels/tv/*?view=lastplayed</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetAspect">Small Square</property>
+			<property name="widgetAspect">Square</property>
 			<onclick>pvr://channels/tv/*?view=lastplayed</onclick>
 			<property name="path">pvr://channels/tv/*?view=lastplayed</property>
 			<property name="list">pvr://channels/tv/*?view=lastplayed</property>
@@ -2482,15 +2474,15 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>$LOCALIZE[31381]</label>
-			<label2 />
+			<label>Last Played Channels</label>
+			<label2>Custom item</label2>
 			<icon>DefaultAddonPVRClient.png</icon>
 			<thumb />
-			<property name="labelID">31381</property>
+			<property name="labelID">lastplayedchannels</property>
 			<property name="defaultID">31381</property>
 			<property name="translatedPath">pvr://channels/tv/*?view=lastplayed</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetAspect">Small Square</property>
+			<property name="widgetAspect">Square</property>
 			<onclick>pvr://channels/tv/*?view=lastplayed</onclick>
 			<property name="path">pvr://channels/tv/*?view=lastplayed</property>
 			<property name="list">pvr://channels/tv/*?view=lastplayed</property>
@@ -2654,31 +2646,20 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">8</property>
-			<label>Tv Now</label>
+			<label>Kidstheke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.rtlnow%2ficon.png/</thumb>
-			<property name="labelID">tvnow</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
+			<property name="labelID">kidstheke</property>
 			<property name="defaultID" />
-			<property name="widgetAspect">Small Landscape</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</property>
-			<property name="list">plugin://plugin.video.rtlnow/?url=&amp;mode=listStations</property>
+			<property name="widgetAspect">Small Square</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
+			<property name="list">plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
-			<property name="isSubmenu">True</property>
-		</item>
-		<item id="3">
-			<property name="id">$NUMBER[3]</property>
-			<property name="mainmenuid">8</property>
-			<label>Joyn</label>
-			<label2>Video Add-On</label2>
-			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
-			<property name="labelID">joyn</property>
-			<property name="defaultID" />
-			<visible>False</visible>
-			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
@@ -2703,31 +2684,20 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">8</property>
-			<label>Tv Now</label>
+			<label>Kidstheke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.rtlnow%2ficon.png/</thumb>
-			<property name="labelID">tvnow</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
+			<property name="labelID">kidstheke</property>
 			<property name="defaultID" />
-			<property name="widgetAspect">Small Landscape</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.rtlnow/?url=&amp;mode=listStations",return)</property>
-			<property name="list">plugin://plugin.video.rtlnow/?url=&amp;mode=listStations</property>
+			<property name="widgetAspect">Small Square</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
+			<property name="list">plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekdirekt)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
-			<property name="isSubmenu">True</property>
-		</item>
-		<item id="3">
-			<property name="id">$NUMBER[3]</property>
-			<property name="mainmenuid">8</property>
-			<label>Joyn</label>
-			<label2>Video Add-On</label2>
-			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.fork%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
-			<property name="labelID">joyn</property>
-			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekdirekt)</visible>
-			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
@@ -5174,7 +5144,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="57501" />
 			<param name="id" value="53101" />
-			<param name="label" value="Kidstheke" />
+			<param name="label" value="Animation" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[53101]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),5)</visible>
 		</include>
@@ -5190,12 +5160,12 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=" />
+			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="true" />
-			<param name="squarecondition" value="true" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
 			<param name="smalllandscapecondition" value="false" />
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
@@ -5220,12 +5190,12 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=" />
+			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="true" />
-			<param name="squarecondition" value="true" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
 			<param name="smalllandscapecondition" value="false" />
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
@@ -5308,7 +5278,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="67501" />
 			<param name="id" value="63101" />
-			<param name="label" value="GERMANY TV" />
+			<param name="label" value="TV" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[63101]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),6)</visible>
 		</include>
@@ -5396,9 +5366,9 @@
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
 			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="true" />
-			<param name="landscapecondition" value="true" />
+			<param name="squarecondition" value="true" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
 			<onback>SetFocus(63101)</onback>
@@ -5426,9 +5396,9 @@
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
 			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="true" />
-			<param name="landscapecondition" value="true" />
+			<param name="squarecondition" value="true" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
 			<onback>SetFocus(63101)</onback>
@@ -5509,7 +5479,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="77502" />
 			<param name="id" value="73102" />
-			<param name="label" value="$LOCALIZE[31381]" />
+			<param name="label" value="Last Played Channels" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[73102]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),7)</visible>
 		</include>
@@ -5529,7 +5499,7 @@
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="true" />
+			<param name="smallsquarecondition" value="false" />
 			<param name="squarecondition" value="true" />
 			<param name="smalllandscapecondition" value="false" />
 			<param name="landscapecondition" value="false" />
@@ -5559,7 +5529,7 @@
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="true" />
+			<param name="smallsquarecondition" value="false" />
 			<param name="squarecondition" value="true" />
 			<param name="smalllandscapecondition" value="false" />
 			<param name="landscapecondition" value="false" />
@@ -5643,7 +5613,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="87502" />
 			<param name="id" value="83102" />
-			<param name="label" value="Tv Now" />
+			<param name="label" value="Kidstheke" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[83102]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),8)</visible>
 		</include>
@@ -5659,14 +5629,14 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.rtlnow/?url=&amp;mode=listStations" />
+			<param name="content" value="plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="true" />
-			<param name="landscapecondition" value="true" />
+			<param name="smallsquarecondition" value="true" />
+			<param name="squarecondition" value="true" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
 			<onback>SetFocus(83101)</onback>
@@ -5689,14 +5659,14 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.rtlnow/?url=&amp;mode=listStations" />
+			<param name="content" value="plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.fork%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="true" />
-			<param name="landscapecondition" value="true" />
+			<param name="smallsquarecondition" value="true" />
+			<param name="squarecondition" value="true" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
 			<onback>SetFocus(83101)</onback>
