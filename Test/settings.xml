@@ -128,7 +128,7 @@
     <setting id="guide_cache_hours_5" type="number" label="30114" default="24" />
     <setting id="sep3_5" type="lsep" label="30115" />
     <setting id="xmltv_scope_5" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_5" type="text" option="hidden" label="30117" default="http://kodi.my-cydia-ig.de/TV/de-epg.gz" visible="eq(-1,0)" />
+    <setting id="xmltv_url_5" type="text" option="hidden" label="30117" default="" visible="eq(-1,0)" />
     <setting id="xmltv_path_5" type="file" label="30118" default="" visible="eq(-2,1)" />
     <setting id="sep4_5" type="lsep" label="30119" />
     <setting id="token_5" type="text" label="30120" default="" />
@@ -150,7 +150,7 @@
     <setting id="guide_cache_hours_6" type="number" label="30114" default="24" />
     <setting id="sep3_6" type="lsep" label="30115" />
     <setting id="xmltv_scope_6" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_6" type="text" option="hidden" label="30117" default="http://kodi.my-cydia-ig.de/TV/de-epg.gz" visible="eq(-1,0)" />
+    <setting id="xmltv_url_6" type="text" option="hidden" label="30117" default="" visible="eq(-1,0)" />
     <setting id="xmltv_path_6" type="file" label="30118" default="" visible="eq(-2,1)" />
     <setting id="sep4_6" type="lsep" label="30119" />
     <setting id="token_6" type="text" label="30120" default="" />
