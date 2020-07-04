@@ -722,65 +722,52 @@
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[7]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/folder.png</icon>
 			<thumb />
 			<property name="labelID">7</property>
 			<property name="defaultID">7</property>
-			<onclick>ActivateWindow(FileManager)</onclick>
-			<property name="path">ActivateWindow(FileManager)</property>
-			<property name="list">FileManager</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
-			<property name="group">settings</property>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[13200]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/actor.png</icon>
 			<thumb />
 			<property name="labelID">13200</property>
 			<property name="defaultID">13200</property>
-			<onclick>ActivateWindow(Profiles)</onclick>
-			<property name="path">ActivateWindow(Profiles)</property>
-			<property name="list">Profiles</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
-			<property name="group">settings</property>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[10007]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/sysinfo.png</icon>
 			<thumb />
 			<property name="labelID">10007</property>
 			<property name="defaultID">10007</property>
-			<onclick>ActivateWindow(SystemInfo)</onclick>
-			<property name="path">ActivateWindow(SystemInfo)</property>
-			<property name="list">SystemInfo</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
-			<property name="group">settings</property>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="4">
 			<property name="id">$NUMBER[4]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[14111]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/actor.png</icon>
 			<thumb />
 			<property name="labelID">14111</property>
 			<property name="defaultID">14111</property>
-			<visible>[system.getbool(eventlog.enabled)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
-			<onclick>ActivateWindow(EventLog,events://,return)</onclick>
-			<property name="path">ActivateWindow(EventLog,events://,return)</property>
-			<property name="list">events://</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">settings</property>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="1">
@@ -1594,6 +1581,48 @@
 			<property name="list">noop</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows)</visible>
 			<property name="group">tvshows.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">12</property>
+			<label>Favoriten</label>
+			<label2>Custom item</label2>
+			<icon>special://skin/extras/icons/film.png</icon>
+			<thumb>DefaultMovies.png</thumb>
+			<property name="labelID">favoriten</property>
+			<property name="defaultID">favourites</property>
+			<property name="translatedPath">ActivateWindow(Videos,plugin://script.skin.helper.widgets/?action=favourites,return)</property>
+			<property name="widget">plugin://script.skin.helper.widgets/?action=favouriteslisting</property>
+			<property name="widgetPath">plugin://script.skin.helper.widgets/?action=favourites&amp;mediatype=favourites&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="type">movies</property>
+			<property name="background">DefaultMovies.png</property>
+			<property name="widgetName">Favourites</property>
+			<property name="widgetTarget">videos</property>
+			<property name="backgroundName" />
+			<property name="list">plugin://script.skin.helper.widgets/?action=favourites&amp;mediatype=favourites&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<onclick>ActivateWindow(Videos,plugin://script.skin.helper.widgets/?action=favourites,return)</onclick>
+			<property name="path">ActivateWindow(Videos,plugin://script.skin.helper.widgets/?action=favourites,return)</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten)</visible>
+			<property name="group">favoriten.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">13</property>
+			<label>Settings</label>
+			<label2>Widget</label2>
+			<icon>special://skin/extras/icons/settings.png</icon>
+			<thumb />
+			<property name="labelID">settings</property>
+			<property name="defaultID">settings</property>
+			<property name="translatedPath">Settings</property>
+			<property name="widgetTarget">videos</property>
+			<onclick>Settings</onclick>
+			<property name="path">Settings</property>
+			<property name="list">Settings</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
+			<property name="group">settings.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
@@ -3342,75 +3371,108 @@
 		<description>No items</description>
 	</include>
 	<include name="skinshortcuts-group-favoriten-1">
-		<description>No items</description>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">12</property>
+			<label>Favoriten</label>
+			<label2>Custom item</label2>
+			<icon>special://skin/extras/icons/film.png</icon>
+			<thumb>DefaultMovies.png</thumb>
+			<property name="labelID">favoriten</property>
+			<property name="defaultID">favourites</property>
+			<property name="translatedPath">ActivateWindow(Videos,plugin://script.skin.helper.widgets/?action=favourites,return)</property>
+			<property name="widget">plugin://script.skin.helper.widgets/?action=favouriteslisting</property>
+			<property name="widgetPath">plugin://script.skin.helper.widgets/?action=favourites&amp;mediatype=favourites&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="type">movies</property>
+			<property name="background">DefaultMovies.png</property>
+			<property name="widgetName">Favourites</property>
+			<property name="widgetTarget">videos</property>
+			<property name="backgroundName" />
+			<property name="list">plugin://script.skin.helper.widgets/?action=favourites&amp;mediatype=favourites&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<onclick>ActivateWindow(Videos,plugin://script.skin.helper.widgets/?action=favourites,return)</onclick>
+			<property name="path">ActivateWindow(Videos,plugin://script.skin.helper.widgets/?action=favourites,return)</property>
+			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
+			<property name="group">favoriten.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
 	</include>
 	<include name="skinshortcuts-group-alt-favoriten-1">
-		<description>No items</description>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">12</property>
+			<label>Favoriten</label>
+			<label2>Custom item</label2>
+			<icon>special://skin/extras/icons/film.png</icon>
+			<thumb>DefaultMovies.png</thumb>
+			<property name="labelID">favoriten</property>
+			<property name="defaultID">favourites</property>
+			<property name="translatedPath">ActivateWindow(Videos,plugin://script.skin.helper.widgets/?action=favourites,return)</property>
+			<property name="widget">plugin://script.skin.helper.widgets/?action=favouriteslisting</property>
+			<property name="widgetPath">plugin://script.skin.helper.widgets/?action=favourites&amp;mediatype=favourites&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="type">movies</property>
+			<property name="background">DefaultMovies.png</property>
+			<property name="widgetName">Favourites</property>
+			<property name="widgetTarget">videos</property>
+			<property name="backgroundName" />
+			<property name="list">plugin://script.skin.helper.widgets/?action=favourites&amp;mediatype=favourites&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<onclick>ActivateWindow(Videos,plugin://script.skin.helper.widgets/?action=favourites,return)</onclick>
+			<property name="path">ActivateWindow(Videos,plugin://script.skin.helper.widgets/?action=favourites,return)</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),favoriten)</visible>
+			<property name="group">favoriten.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
 	</include>
 	<include name="skinshortcuts-group-settings">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[7]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/folder.png</icon>
 			<thumb />
 			<property name="labelID">7</property>
 			<property name="defaultID">7</property>
-			<onclick>ActivateWindow(FileManager)</onclick>
-			<property name="path">ActivateWindow(FileManager)</property>
-			<property name="list">FileManager</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">settings</property>
+			<visible>False</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[13200]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/actor.png</icon>
 			<thumb />
 			<property name="labelID">13200</property>
 			<property name="defaultID">13200</property>
-			<onclick>ActivateWindow(Profiles)</onclick>
-			<property name="path">ActivateWindow(Profiles)</property>
-			<property name="list">Profiles</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">settings</property>
+			<visible>False</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[10007]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/sysinfo.png</icon>
 			<thumb />
 			<property name="labelID">10007</property>
 			<property name="defaultID">10007</property>
-			<onclick>ActivateWindow(SystemInfo)</onclick>
-			<property name="path">ActivateWindow(SystemInfo)</property>
-			<property name="list">SystemInfo</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">settings</property>
+			<visible>False</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="4">
 			<property name="id">$NUMBER[4]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[14111]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/actor.png</icon>
 			<thumb />
 			<property name="labelID">14111</property>
 			<property name="defaultID">14111</property>
-			<visible>system.getbool(eventlog.enabled)</visible>
-			<onclick>ActivateWindow(EventLog,events://,return)</onclick>
-			<property name="path">ActivateWindow(EventLog,events://,return)</property>
-			<property name="list">events://</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">settings</property>
+			<visible>False</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
@@ -3419,73 +3481,94 @@
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[7]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/folder.png</icon>
 			<thumb />
 			<property name="labelID">7</property>
 			<property name="defaultID">7</property>
-			<onclick>ActivateWindow(FileManager)</onclick>
-			<property name="path">ActivateWindow(FileManager)</property>
-			<property name="list">FileManager</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),settings)</visible>
-			<property name="group">settings</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),settings)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[13200]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/actor.png</icon>
 			<thumb />
 			<property name="labelID">13200</property>
 			<property name="defaultID">13200</property>
-			<onclick>ActivateWindow(Profiles)</onclick>
-			<property name="path">ActivateWindow(Profiles)</property>
-			<property name="list">Profiles</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),settings)</visible>
-			<property name="group">settings</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),settings)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[10007]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/sysinfo.png</icon>
 			<thumb />
 			<property name="labelID">10007</property>
 			<property name="defaultID">10007</property>
-			<onclick>ActivateWindow(SystemInfo)</onclick>
-			<property name="path">ActivateWindow(SystemInfo)</property>
-			<property name="list">SystemInfo</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),settings)</visible>
-			<property name="group">settings</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),settings)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="4">
 			<property name="id">$NUMBER[4]</property>
 			<property name="mainmenuid">13</property>
 			<label>$LOCALIZE[14111]</label>
-			<label2>$ADDON[script.skinshortcuts 32034]</label2>
+			<label2>Common menu item</label2>
 			<icon>special://skin/extras/icons/actor.png</icon>
 			<thumb />
 			<property name="labelID">14111</property>
 			<property name="defaultID">14111</property>
-			<visible>[system.getbool(eventlog.enabled)] + String.IsEqual(Window(10000).Property(submenuVisibility),settings)</visible>
-			<onclick>ActivateWindow(EventLog,events://,return)</onclick>
-			<property name="path">ActivateWindow(EventLog,events://,return)</property>
-			<property name="list">events://</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">settings</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),settings)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
 	<include name="skinshortcuts-group-settings-1">
-		<description>No items</description>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">13</property>
+			<label>Settings</label>
+			<label2>Widget</label2>
+			<icon>special://skin/extras/icons/settings.png</icon>
+			<thumb />
+			<property name="labelID">settings</property>
+			<property name="defaultID">settings</property>
+			<property name="translatedPath">Settings</property>
+			<property name="widgetTarget">videos</property>
+			<onclick>Settings</onclick>
+			<property name="path">Settings</property>
+			<property name="list">Settings</property>
+			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
+			<property name="group">settings.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
 	</include>
 	<include name="skinshortcuts-group-alt-settings-1">
-		<description>No items</description>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">13</property>
+			<label>Settings</label>
+			<label2>Widget</label2>
+			<icon>special://skin/extras/icons/settings.png</icon>
+			<thumb />
+			<property name="labelID">settings</property>
+			<property name="defaultID">settings</property>
+			<property name="translatedPath">Settings</property>
+			<property name="widgetTarget">videos</property>
+			<onclick>Settings</onclick>
+			<property name="path">Settings</property>
+			<property name="list">Settings</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),settings)</visible>
+			<property name="group">settings.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
 	</include>
 	<include name="skinshortcuts-group-powermenu">
 		<item id="1">
@@ -5878,6 +5961,140 @@
 				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
 			</include>
 		</include>
+		<include content="View_Cast_Toplabel">
+			<param name="groupid" value="127501" />
+			<param name="id" value="123101" />
+			<param name="label" value="Favoriten" />
+			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[123101]).ListItem.Label)" />
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),12)</visible>
+		</include>
+		<include condition="!Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
+			<param name="controltype" value="list" />
+			<param name="id" value="123101" />
+			<param name="top" value="52" />
+			<param name="left" value="0" />
+			<param name="right" value="-30" />
+			<param name="height" value="item_cast_height" />
+			<param name="orientation" value="horizontal" />
+			<param name="labelinclude" value="Defs_Null" />
+			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
+			<param name="label2" value="ListItem.TvShowTitle" />
+			<param name="target" value="videos" />
+			<param name="content" value="plugin://script.skin.helper.widgets/?action=favourites&amp;mediatype=favourites&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]" />
+			<param name="limit" value="" />
+			<param name="sortby" value="" />
+			<param name="sortorder" value="" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
+			<param name="iconcondition" value="false" />
+			<param name="bannercondition" value="false" />
+			<onback>SetFocus(123101)</onback>
+			<onback>301</onback>
+			<visible>Integer.IsGreater(Container(123101).NumItems,0) | Container(123101).IsUpdating</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),12)</visible>
+			<include content="Defs_AutoScroll">
+				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
+			</include>
+		</include>
+		<include condition="Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
+			<param name="controltype" value="fixedlist" />
+			<param name="id" value="123101" />
+			<param name="top" value="52" />
+			<param name="left" value="0" />
+			<param name="right" value="-30" />
+			<param name="height" value="item_cast_height" />
+			<param name="orientation" value="horizontal" />
+			<param name="labelinclude" value="Defs_Null" />
+			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
+			<param name="label2" value="ListItem.TvShowTitle" />
+			<param name="target" value="videos" />
+			<param name="content" value="plugin://script.skin.helper.widgets/?action=favourites&amp;mediatype=favourites&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]" />
+			<param name="limit" value="" />
+			<param name="sortby" value="" />
+			<param name="sortorder" value="" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
+			<param name="iconcondition" value="false" />
+			<param name="bannercondition" value="false" />
+			<onback>SetFocus(123101)</onback>
+			<onback>301</onback>
+			<visible>Integer.IsGreater(Container(123101).NumItems,0) | Container(123101).IsUpdating</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),12)</visible>
+			<include content="Defs_AutoScroll">
+				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
+			</include>
+		</include>
+		<include content="View_Cast_Toplabel">
+			<param name="groupid" value="137501" />
+			<param name="id" value="133101" />
+			<param name="label" value="Settings" />
+			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[133101]).ListItem.Label)" />
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),13)</visible>
+		</include>
+		<include condition="!Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
+			<param name="controltype" value="list" />
+			<param name="id" value="133101" />
+			<param name="top" value="52" />
+			<param name="left" value="0" />
+			<param name="right" value="-30" />
+			<param name="height" value="item_cast_height" />
+			<param name="orientation" value="horizontal" />
+			<param name="labelinclude" value="Defs_Null" />
+			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
+			<param name="label2" value="ListItem.TvShowTitle" />
+			<param name="target" value="videos" />
+			<param name="content" value="Settings" />
+			<param name="limit" value="" />
+			<param name="sortby" value="" />
+			<param name="sortorder" value="" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
+			<param name="iconcondition" value="false" />
+			<param name="bannercondition" value="false" />
+			<onback>SetFocus(133101)</onback>
+			<onback>301</onback>
+			<visible>Integer.IsGreater(Container(133101).NumItems,0) | Container(133101).IsUpdating</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),13)</visible>
+			<include content="Defs_AutoScroll">
+				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
+			</include>
+		</include>
+		<include condition="Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
+			<param name="controltype" value="fixedlist" />
+			<param name="id" value="133101" />
+			<param name="top" value="52" />
+			<param name="left" value="0" />
+			<param name="right" value="-30" />
+			<param name="height" value="item_cast_height" />
+			<param name="orientation" value="horizontal" />
+			<param name="labelinclude" value="Defs_Null" />
+			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
+			<param name="label2" value="ListItem.TvShowTitle" />
+			<param name="target" value="videos" />
+			<param name="content" value="Settings" />
+			<param name="limit" value="" />
+			<param name="sortby" value="" />
+			<param name="sortorder" value="" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
+			<param name="iconcondition" value="false" />
+			<param name="bannercondition" value="false" />
+			<onback>SetFocus(133101)</onback>
+			<onback>301</onback>
+			<visible>Integer.IsGreater(Container(133101).NumItems,0) | Container(133101).IsUpdating</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),13)</visible>
+			<include content="Defs_AutoScroll">
+				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
+			</include>
+		</include>
 	</include>
 	<include name="skinshortcuts-template-spotlight-submenu">
 		<include condition="String.IsEqual(System.ProfileName,Master user)">skinshortcuts-template-spotlight-submenu-Master user</include>
@@ -6365,78 +6582,6 @@
 			<param name="bannercondition" value="false" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-tvshows) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tvshows)</visible>
 			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[7])</visible>
-			<onup>302</onup>
-			<onback condition="Window.IsVisible(Home)">301</onback>
-			<ondown>noop</ondown>
-		</include>
-		<include content="Object_Widget_Spotlight">
-			<param name="labelinclude" value="Defs_Null" />
-			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
-			<param name="label2" value="ListItem.TvShowTitle" />
-			<param name="target" value="" />
-			<param name="content" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="false" />
-			<param name="landscapecondition" value="false" />
-			<param name="iconcondition" value="false" />
-			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-settings) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
-			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[1])</visible>
-			<onup>302</onup>
-			<onback condition="Window.IsVisible(Home)">301</onback>
-			<ondown>noop</ondown>
-		</include>
-		<include content="Object_Widget_Spotlight">
-			<param name="labelinclude" value="Defs_Null" />
-			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
-			<param name="label2" value="ListItem.TvShowTitle" />
-			<param name="target" value="" />
-			<param name="content" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="false" />
-			<param name="landscapecondition" value="false" />
-			<param name="iconcondition" value="false" />
-			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-settings) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
-			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[2])</visible>
-			<onup>302</onup>
-			<onback condition="Window.IsVisible(Home)">301</onback>
-			<ondown>noop</ondown>
-		</include>
-		<include content="Object_Widget_Spotlight">
-			<param name="labelinclude" value="Defs_Null" />
-			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
-			<param name="label2" value="ListItem.TvShowTitle" />
-			<param name="target" value="" />
-			<param name="content" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="false" />
-			<param name="landscapecondition" value="false" />
-			<param name="iconcondition" value="false" />
-			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-settings) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
-			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[3])</visible>
-			<onup>302</onup>
-			<onback condition="Window.IsVisible(Home)">301</onback>
-			<ondown>noop</ondown>
-		</include>
-		<include content="Object_Widget_Spotlight">
-			<param name="labelinclude" value="Defs_Null" />
-			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
-			<param name="label2" value="ListItem.TvShowTitle" />
-			<param name="target" value="" />
-			<param name="content" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="false" />
-			<param name="landscapecondition" value="false" />
-			<param name="iconcondition" value="false" />
-			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-settings) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),settings)</visible>
-			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[4])</visible>
 			<onup>302</onup>
 			<onback condition="Window.IsVisible(Home)">301</onback>
 			<ondown>noop</ondown>
