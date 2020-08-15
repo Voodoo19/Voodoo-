@@ -28,8 +28,8 @@
     <setting id="signature_0" type="text" label="30124" default="" />
   </category>
   <category label="32000">
-    <setting id="mac_1" type="text" option="hidden" label="30101" default="00:1A:79:4B:D5:0A" />
-    <setting id="server_1" type="text" option="hidden" label="30102" default="http://s1.mekon.in:8880/c/" />
+    <setting id="mac_1" type="text" option="hidden" label="30101" default="00:1A:79:02:2E:EF" />
+    <setting id="server_1" type="text" option="hidden" label="30102" default="http://sinaniptv.de:8000/c/" />
     <setting id="time_zone_1" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_1" type="lsep" label="30104" />
     <setting id="login_1" type="text" label="30105" default="" />
