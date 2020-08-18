@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
   <category label="30000">
-    <setting id="active_portal" type="enum" label="30001" values="1|2|3|4|5|6|7|8|9|10" default="3" />
+    <setting id="active_portal" type="enum" label="30001" values="1|2|3|4|5|6|7|8|9|10" default="0" />
     <setting id="sep1" type="lsep" label="30002" />
     <setting id="connection_timeout" type="enum" label="30003" values="0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|100|105|110|115|120" default="1" />
   </category>
   <category label="31000">
-    <setting id="mac_0" type="text" option="hidden" label="30101" default="00:1A:79:07:5D:C1" />
-    <setting id="server_0" type="text" option="hidden" label="30102" default="http://ip.king-cobra.eu:8080/c/" />
+    <setting id="mac_0" type="text" option="hidden" label="30101" default="00:1A:79:A2:FB:FC" />
+    <setting id="server_0" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
     <setting id="time_zone_0" type="text" label="30103" default="Europe/Zagreb" />
     <setting id="sep1_0" type="lsep" label="30104" />
     <setting id="login_0" type="text" label="30105" default="" />
@@ -28,8 +28,8 @@
     <setting id="signature_0" type="text" label="30124" default="" />
   </category>
   <category label="32000">
-    <setting id="mac_1" type="text" option="hidden" label="30101" default="00:1A:79:0E:1B:74" />
-    <setting id="server_1" type="text" option="hidden" label="30102" default="http://ip.king-cobra.eu:8080/c/" />
+    <setting id="mac_1" type="text" option="hidden" label="30101" default="00:1A:79:A9:65:7F" />
+    <setting id="server_1" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
     <setting id="time_zone_1" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_1" type="lsep" label="30104" />
     <setting id="login_1" type="text" label="30105" default="" />
@@ -50,8 +50,8 @@
     <setting id="signature_1" type="text" label="30124" default="" />
   </category>
   <category label="33000">
-    <setting id="mac_2" type="text" option="hidden" label="30101" default="00:1A:79:0E:43:DA" />
-    <setting id="server_2" type="text" option="hidden" label="30102" default="http://ip.king-cobra.eu:8080/c/" />
+    <setting id="mac_2" type="text" option="hidden" label="30101" default="00:1A:79:54:BF:5C" />
+    <setting id="server_2" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
     <setting id="time_zone_2" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_2" type="lsep" label="30104" />
     <setting id="login_2" type="text" label="30105" default="" />
@@ -72,8 +72,8 @@
     <setting id="signature_2" type="text" label="30124" default="" />
   </category>
   <category label="34000">
-    <setting id="mac_3" type="text" option="hidden" label="30101" default="00:1A:79:12:A3:31" />
-    <setting id="server_3" type="text" option="hidden" label="30102" default="http://ip.king-cobra.eu:8080/c/" />
+    <setting id="mac_3" type="text" option="hidden" label="30101" default="00:1A:79:2E:F4:66" />
+    <setting id="server_3" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
     <setting id="time_zone_3" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_3" type="lsep" label="30104" />
     <setting id="login_3" type="text" label="30105" default="" />
@@ -116,8 +116,8 @@
     <setting id="signature_4" type="text" label="30124" default="" />
   </category>
   <category label="36000">
-    <setting id="mac_5" type="text" option="hidden" label="30101" default="00:1A:79:14:5F:05" />
-    <setting id="server_5" type="text" option="hidden" label="30102" default="http://ip.king-cobra.eu:8080/c/" />
+    <setting id="mac_5" type="text" option="hidden" label="30101" default="00:1A:79:6D:6E:B2" />
+    <setting id="server_5" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
     <setting id="time_zone_5" type="text" label="30103" default="Europe/Zagreb" />
     <setting id="sep1_5" type="lsep" label="30104" />
     <setting id="login_5" type="text" label="30105" default="" />
@@ -138,9 +138,9 @@
     <setting id="signature_5" type="text" label="30124" default="" />
   </category>
   <category label="37000">
-    <setting id="mac_6" type="text" option="hidden" label="30101" default="00:1A:79:10:2B:91" />
-    <setting id="server_6" type="text" option="hidden" label="30102" default="http://ip.king-cobra.eu:8080/c/" />
-    <setting id="time_zone_6" type="text" label="30103" default="Europe/Zagreb" />
+    <setting id="mac_6" type="text" option="hidden" label="30101" default="00:1A:79:12:8B:AF" />
+    <setting id="server_6" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
+    <setting id="time_zone_6" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_6" type="lsep" label="30104" />
     <setting id="login_6" type="text" label="30105" default="" />
     <setting id="password_6" type="text" option="hidden" label="30106" default="" />
@@ -160,8 +160,8 @@
     <setting id="signature_6" type="text" label="30124" default="" />
   </category>
   <category label="38000">
-    <setting id="mac_7" type="text" option="hidden" label="30101" default="00:1A:79:10:4E:9C" />
-    <setting id="server_7" type="text" option="hidden" label="30102" default="http://46.166.148.101:8000/c/" />
+    <setting id="mac_7" type="text" option="hidden" label="30101" default="00:1A:79:47:B8:B2" />
+    <setting id="server_7" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
     <setting id="time_zone_7" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_7" type="lsep" label="30104" />
     <setting id="login_7" type="text" label="30105" default="" />
@@ -182,8 +182,8 @@
     <setting id="signature_7" type="text" label="30124" default="" />
   </category>
     <category label="39000">
-    <setting id="mac_8" type="text" option="hidden" label="30101" default="00:1A:79:11:21:95" />
-    <setting id="server_8" type="text" option="hidden" label="30102" default="http://ip.king-cobra.eu:8080/c/" />
+    <setting id="mac_8" type="text" option="hidden" label="30101" default="00:1A:79:31:7D:1D" />
+    <setting id="server_8" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
     <setting id="time_zone_8" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_8" type="lsep" label="30104" />
     <setting id="login_8" type="text" label="30105" default="" />
@@ -204,8 +204,8 @@
     <setting id="signature_8" type="text" label="30124" default="" />
   </category>
       <category label="40000">
-    <setting id="mac_9" type="text" option="hidden" label="30101" default="00:1A:79:12:57:17" />
-    <setting id="server_9" type="text" option="hidden" label="30102" default="http://ip.king-cobra.eu:8080/c/" />
+    <setting id="mac_9" type="text" option="hidden" label="30101" default="00:1A:79:52:B6:7D" />
+    <setting id="server_9" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
     <setting id="time_zone_9" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_9" type="lsep" label="30104" />
     <setting id="login_9" type="text" label="30105" default="" />
