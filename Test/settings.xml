@@ -13,7 +13,7 @@
     <setting id="login_0" type="text" label="30105" default="" />
     <setting id="password_0" type="text" option="hidden" label="30106" default="" />
     <setting id="sep2_0" type="lsep" label="30107" />
-    <setting id="guide_preference_0" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="0" />
+    <setting id="guide_preference_0" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="2" />
     <setting id="guide_cache_0" type="bool" label="30113" default="true" />
     <setting id="guide_cache_hours_0" type="number" label="30114" default="24" />
     <setting id="sep3_0" type="lsep" label="30115" />
