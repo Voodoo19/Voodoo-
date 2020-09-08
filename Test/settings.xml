@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
   <category label="30000">
-    <setting id="active_portal" type="enum" label="30001" values="1|2|3|4|5|6|7|8|9|10" default="8" />
+    <setting id="active_portal" type="enum" label="30001" values="1|2|3|4|5|6|7|8|9|10" default="2" />
     <setting id="sep1" type="lsep" label="30002" />
     <setting id="connection_timeout" type="enum" label="30003" values="0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|100|105|110|115|120" default="2" />
   </category>
@@ -28,7 +28,7 @@
     <setting id="signature_0" type="text" label="30124" default="" />
   </category>
   <category label="32000">
-    <setting id="mac_1" type="text" option="hidden" label="30101" default="00:1A:79:66:05:26" />
+    <setting id="mac_1" type="text" option="hidden" label="30101" default="00:1A:79:5D:B4:8B" />
     <setting id="server_1" type="text" option="hidden" label="30102" default="http://mytv.fun:8080/c/" />
     <setting id="time_zone_1" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_1" type="lsep" label="30104" />
