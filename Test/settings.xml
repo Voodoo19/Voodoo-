@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
   <category label="30000">
-    <setting id="active_portal" type="enum" label="30001" values="1|2|3|4|5|6|7|8|9|10" default="3" />
+    <setting id="active_portal" type="enum" label="30001" values="1|2|3|4|5|6|7|8|9|10" default="2" />
     <setting id="sep1" type="lsep" label="30002" />
     <setting id="connection_timeout" type="enum" label="30003" values="0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|100|105|110|115|120" default="10" />
   </category>
