@@ -7,13 +7,13 @@
 			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb />
-			<property name="labelID">plugin.video.wrp-metaplayer/search</property>
+			<property name="labelID">suche</property>
 			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/search",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.wrp-metaplayer/search",return)</property>
-			<property name="list">plugin://plugin.video.wrp-metaplayer/search</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=globalSearch&amp;function=globalSearch&amp;title=Globale+Suche&amp;params=0",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=globalSearch&amp;function=globalSearch&amp;title=Globale+Suche&amp;params=0",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=globalSearch&amp;function=globalSearch&amp;title=Globale+Suche&amp;params=0</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="submenuVisibility">plugin-video-wrp-metaplayer-search</property>
+			<property name="submenuVisibility">suche</property>
 			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">False</property>
 		</item>
@@ -69,16 +69,18 @@
 		<item id="5">
 			<property name="id">$NUMBER[5]</property>
 			<label>LIVE TV</label>
-			<label2>Benutzerdefinierte Einträge</label2>
+			<label2>Live-TV</label2>
 			<icon>special://skin/extras/icons/livetv.png</icon>
 			<thumb />
-			<property name="labelID">plugin.video.voodoo-tv</property>
-			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.voodoo-tv",return)</property>
-			<property name="list">plugin://plugin.video.voodoo-tv</property>
+			<property name="labelID">livetv</property>
+			<property name="defaultID">19019</property>
+			<property name="translatedPath">ActivateWindow(TVChannels)</property>
+			<visible>System.HasPVRAddon</visible>
+			<onclick>ActivateWindow(TVChannels)</onclick>
+			<property name="path">ActivateWindow(TVChannels)</property>
+			<property name="list">TVChannels</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="submenuVisibility">plugin-video-voodoo-tv</property>
+			<property name="submenuVisibility">livetv</property>
 			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">False</property>
 		</item>
@@ -90,13 +92,8 @@
 			<thumb />
 			<property name="labelID">tv</property>
 			<property name="defaultID">livetv</property>
-			<visible>[System.HasPVRAddon] + [PVR.HasTVChannels]</visible>
-			<onclick>ActivateWindow(TVChannels)</onclick>
-			<property name="path">ActivateWindow(TVChannels)</property>
-			<property name="list">TVChannels</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="submenuVisibility">tv</property>
-			<property name="group">mainmenu</property>
+			<visible>False</visible>
+			<onclick>noop</onclick>
 			<property name="hasSubmenu">True</property>
 		</item>
 		<item id="7">
@@ -994,19 +991,19 @@
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">1</property>
-			<label>Kinofilme</label>
+			<label>Kino</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">kinofilme</property>
+			<property name="labelID">kino</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</property>
 			<property name="widgetTarget">videos</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-search)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/search.1</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
+			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -1015,17 +1012,17 @@
 			<label>Filme 2020</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
 			<property name="labelID">filme2020</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
 			<property name="widgetTarget">videos</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-search)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/search.1</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
+			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -1035,9 +1032,9 @@
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">kinofilme--0</property>
+			<property name="labelID">kinofilme</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-search)</visible>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -1170,8 +1167,8 @@
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.tvone1112/list_channels/23",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.tvone1112/list_channels/23",return)</property>
 			<property name="list">plugin://plugin.video.tvone1112/list_channels/23</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
-			<property name="group">plugin.video.voodoo-tv.1</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv)</visible>
+			<property name="group">livetv.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -1189,8 +1186,8 @@
 			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
 			<property name="list">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
-			<property name="group">plugin.video.voodoo-tv.1</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv)</visible>
+			<property name="group">livetv.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="1">
@@ -1308,29 +1305,29 @@
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-plugin-video-wrp-metaplayer-search">
+	<include name="skinshortcuts-group-suche">
 		<description>No items</description>
 	</include>
-	<include name="skinshortcuts-group-alt-plugin-video-wrp-metaplayer-search">
+	<include name="skinshortcuts-group-alt-suche">
 		<description>No items</description>
 	</include>
-	<include name="skinshortcuts-group-plugin-video-wrp-metaplayer-search-1">
+	<include name="skinshortcuts-group-suche-1">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">1</property>
-			<label>Kinofilme</label>
+			<label>Kino</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">kinofilme</property>
+			<property name="labelID">kino</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</property>
 			<property name="widgetTarget">videos</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/search.1</property>
+			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -1339,17 +1336,17 @@
 			<label>Filme 2020</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
 			<property name="labelID">filme2020</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
 			<property name="widgetTarget">videos</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/search.1</property>
+			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -1359,30 +1356,30 @@
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">kinofilme--0</property>
+			<property name="labelID">kinofilme</property>
 			<property name="defaultID" />
 			<visible>False</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-alt-plugin-video-wrp-metaplayer-search-1">
+	<include name="skinshortcuts-group-alt-suche-1">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">1</property>
-			<label>Kinofilme</label>
+			<label>Kino</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">kinofilme</property>
+			<property name="labelID">kino</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</property>
 			<property name="widgetTarget">videos</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-search)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/search.1</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),suche)</visible>
+			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -1391,17 +1388,17 @@
 			<label>Filme 2020</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
 			<property name="labelID">filme2020</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
 			<property name="widgetTarget">videos</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-search)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/search.1</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
+			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),suche)</visible>
+			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -1411,9 +1408,9 @@
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
-			<property name="labelID">kinofilme--0</property>
+			<property name="labelID">kinofilme</property>
 			<property name="defaultID" />
-			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-search)</visible>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),suche)</visible>
 			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
@@ -1676,13 +1673,13 @@
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-plugin-video-voodoo-tv">
+	<include name="skinshortcuts-group-livetv">
 		<description>No items</description>
 	</include>
-	<include name="skinshortcuts-group-alt-plugin-video-voodoo-tv">
+	<include name="skinshortcuts-group-alt-livetv">
 		<description>No items</description>
 	</include>
-	<include name="skinshortcuts-group-plugin-video-voodoo-tv-1">
+	<include name="skinshortcuts-group-livetv-1">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">5</property>
@@ -1699,7 +1696,7 @@
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.tvone1112/list_channels/23",return)</property>
 			<property name="list">plugin://plugin.video.tvone1112/list_channels/23</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">plugin.video.voodoo-tv.1</property>
+			<property name="group">livetv.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -1718,11 +1715,11 @@
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
 			<property name="list">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">plugin.video.voodoo-tv.1</property>
+			<property name="group">livetv.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-alt-plugin-video-voodoo-tv-1">
+	<include name="skinshortcuts-group-alt-livetv-1">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">5</property>
@@ -1738,8 +1735,8 @@
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.tvone1112/list_channels/23",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.tvone1112/list_channels/23",return)</property>
 			<property name="list">plugin://plugin.video.tvone1112/list_channels/23</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
-			<property name="group">plugin.video.voodoo-tv.1</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),livetv)</visible>
+			<property name="group">livetv.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -1757,8 +1754,8 @@
 			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
 			<property name="list">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
-			<property name="group">plugin.video.voodoo-tv.1</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),livetv)</visible>
+			<property name="group">livetv.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
@@ -3897,7 +3894,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="17501" />
 			<param name="id" value="13101" />
-			<param name="label" value="Kinofilme" />
+			<param name="label" value="Kino" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[13101]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),1)</visible>
 		</include>
@@ -3913,7 +3910,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -3943,7 +3940,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=-+Kinofilme&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Fgenre%2Fkinofilme%2F&amp;Value=Genres" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -3980,7 +3977,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year" />
+			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4010,7 +4007,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=cinenator&amp;function=showEntries&amp;title=2020&amp;sUrl=https%3A%2F%2Fwww.cinenator.to%2Frelease%2F2020%2F&amp;Value=Release+year" />
+			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5287,7 +5284,7 @@
 			<param name="id" value="993100" />
 			<param name="label" value="$LOCALIZE[31105]" />
 			<param name="spinner-visible" value="String.IsEmpty(Container(993100).ListItem.Label)" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-search) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
 			<visible>Integer.IsEqual(Container(9989).NumItems,0)</visible>
 		</include>
 		<include condition="!Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
@@ -5314,7 +5311,7 @@
 			</include>
 			<onback>301</onback>
 			<visible>Integer.IsGreater(Container(993100).NumItems,0) | Container(993100).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-search) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
 			<visible>Integer.IsEqual(Container(9989).NumItems,0)</visible>
 		</include>
 		<include condition="Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
@@ -5341,7 +5338,7 @@
 			</include>
 			<onback>301</onback>
 			<visible>Integer.IsGreater(Container(993100).NumItems,0) | Container(993100).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-search) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
 			<visible>Integer.IsEqual(Container(9989).NumItems,0)</visible>
 		</include>
 	</include>
@@ -5355,7 +5352,7 @@
 			<param name="titleheight" value="60" />
 			<param name="id" value="13101" />
 			<param name="uid" value="91" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-search)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
 		</include>
 		<include content="Home_Vertical_Info">
 			<param name="font" value="font_title" />
@@ -5387,7 +5384,7 @@
 			<param name="titleheight" value="60" />
 			<param name="id" value="53101" />
 			<param name="uid" value="95" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv)</visible>
 		</include>
 		<include content="Home_Vertical_Info">
 			<param name="font" value="font_title" />
@@ -5395,7 +5392,7 @@
 			<param name="titleheight" value="60" />
 			<param name="id" value="63101" />
 			<param name="uid" value="96" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
 		</include>
 		<include content="Home_Vertical_Info">
 			<param name="font" value="font_title" />
@@ -5478,7 +5475,7 @@
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-search) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
 			<onup>302</onup>
 			<onback condition="Window.IsVisible(Home)">301</onback>
 			<ondown>noop</ondown>
@@ -5504,7 +5501,7 @@
 			<itemlayout />
 			<focusedlayout />
 			<content limit="25" target="$INFO[Skin.String(widgetTarget)]">$INFO[Skin.String(widgetPath)]</content>
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-search) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-audio-mp3streams) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),favoriten) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),)</visible>
 		</control>
 	</include>
 </includes>
