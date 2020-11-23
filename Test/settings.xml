@@ -50,8 +50,8 @@
     <setting id="signature_1" type="text" label="30124" default="" />
   </category>
   <category label="33000">
-    <setting id="mac_2" type="text" option="hidden" label="30101" default="00:1A:79:00:C0:E9" />
-    <setting id="server_2" type="text" option="hidden" label="30102" default="http://37.187.148.135/c/" />
+    <setting id="mac_2" type="text" option="hidden" label="30101" default="00:1A:79:12:8B:AF" />
+    <setting id="server_2" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
     <setting id="time_zone_2" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_2" type="lsep" label="30104" />
     <setting id="login_2" type="text" label="30105" default="" />
