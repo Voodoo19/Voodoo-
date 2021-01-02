@@ -1,0 +1,331 @@
+#EXTM3U
+#EXTINF:-1,Helvete TV
+http://62.210.209.100:86/live/erthrtuh45r/knjbmhnjmkl/8.ts|User-agent=MX-Player
+live/dergcghglkfr/desdfryyygapp/733.ts|User-agent=MX-Player
+#EXTINF:-1 tvg-id="" tvg-name="DE| 3SAT HD" tvg-logo="" group-title="Germany DE",DE| 3SAT HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25200
+#EXTINF:-1 tvg-id="" tvg-name="DE| ARD HD" tvg-logo="" group-title="Germany DE",DE| ARD HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25201
+#EXTINF:-1 tvg-id="" tvg-name="DE| ARTE" tvg-logo="" group-title="Germany DE",DE| ARTE
+http://super1.ideaiptv.com:2052/bandook/3243243/25202
+#EXTINF:-1 tvg-id="" tvg-name="DE| ZDF HD" tvg-logo="" group-title="Germany DE",DE| ZDF HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25203
+#EXTINF:-1 tvg-id="" tvg-name="DE| BOOMERANG" tvg-logo="" group-title="Germany DE",DE| BOOMERANG
+http://super1.ideaiptv.com:2052/bandook/3243243/25204
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY CINEMA HD" tvg-logo="" group-title="Germany DE",DE| SKY CINEMA HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25205
+#EXTINF:-1 tvg-id="" tvg-name="DE| COMEDY CENTRAL" tvg-logo="" group-title="Germany DE",DE| COMEDY CENTRAL
+http://super1.ideaiptv.com:2052/bandook/3243243/25206
+#EXTINF:-1 tvg-id="" tvg-name="DE| DISCOVERY CHANNEL HD" tvg-logo="" group-title="Germany DE",DE| DISCOVERY CHANNEL HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25207
+#EXTINF:-1 tvg-id="" tvg-name="DE| DiSNEY CiNEMA MAGiC" tvg-logo="" group-title="Germany DE",DE| DiSNEY CiNEMA MAGiC
+http://super1.ideaiptv.com:2052/bandook/3243243/25208
+#EXTINF:-1 tvg-id="" tvg-name="DE| WDR HD" tvg-logo="" group-title="Germany DE",DE| WDR HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25209
+#EXTINF:-1 tvg-id="" tvg-name="DE| Sixx HD" tvg-logo="" group-title="Germany DE",DE| Sixx HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25210
+#EXTINF:-1 tvg-id="" tvg-name="DE| Sony AXN" tvg-logo="" group-title="Germany DE",DE| Sony AXN
+http://super1.ideaiptv.com:2052/bandook/3243243/25211
+#EXTINF:-1 tvg-id="" tvg-name="DE| EUROSPORT 2 HD" tvg-logo="" group-title="Germany DE",DE| EUROSPORT 2 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25212
+#EXTINF:-1 tvg-id="" tvg-name="DE| EUROSPORT 2 XTRA" tvg-logo="" group-title="Germany DE",DE| EUROSPORT 2 XTRA
+http://super1.ideaiptv.com:2052/bandook/3243243/25213
+#EXTINF:-1 tvg-id="" tvg-name="DE| EUROSPORT HD" tvg-logo="" group-title="Germany DE",DE| EUROSPORT HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25214
+#EXTINF:-1 tvg-id="" tvg-name="DE| Zee One hd" tvg-logo="" group-title="Germany DE",DE| Zee One hd
+http://super1.ideaiptv.com:2052/bandook/3243243/25215
+#EXTINF:-1 tvg-id="" tvg-name="DE| Super RTL HD" tvg-logo="" group-title="Germany DE",DE| Super RTL HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25216
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL Nitro HD" tvg-logo="" group-title="Germany DE",DE| RTL Nitro HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25217
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL Passion HD" tvg-logo="" group-title="Germany DE",DE| RTL Passion HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25218
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL Plus HD" tvg-logo="" group-title="Germany DE",DE| RTL Plus HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25219
+#EXTINF:-1 tvg-id="" tvg-name="DE| NDR HD" tvg-logo="" group-title="Germany DE",DE| NDR HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25220
+#EXTINF:-1 tvg-id="" tvg-name="DE| FOX" tvg-logo="" group-title="Germany DE",DE| FOX
+http://super1.ideaiptv.com:2052/bandook/3243243/25221
+#EXTINF:-1 tvg-id="" tvg-name="DE| JUNiOR HD 1080" tvg-logo="" group-title="Germany DE",DE| JUNiOR HD 1080
+http://super1.ideaiptv.com:2052/bandook/3243243/25222
+#EXTINF:-1 tvg-id="" tvg-name="DE| KABEL 1 HD" tvg-logo="" group-title="Germany DE",DE| KABEL 1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25223
+#EXTINF:-1 tvg-id="" tvg-name="DE| KIKA HD" tvg-logo="" group-title="Germany DE",DE| KIKA HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25224
+#EXTINF:-1 tvg-id="" tvg-name="DE| N24 HD" tvg-logo="" group-title="Germany DE",DE| N24 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25225
+#EXTINF:-1 tvg-id="" tvg-name="DE| NAT GEO HD" tvg-logo="" group-title="Germany DE",DE| NAT GEO HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25227
+#EXTINF:-1 tvg-id="" tvg-name="DE| NAT GEO WILD HD" tvg-logo="" group-title="Germany DE",DE| NAT GEO WILD HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25228
+#EXTINF:-1 tvg-id="" tvg-name="DE| 13TH STREET" tvg-logo="" group-title="Germany DE",DE| 13TH STREET
+http://super1.ideaiptv.com:2052/bandook/3243243/25229
+#EXTINF:-1 tvg-id="" tvg-name="DE| Nickelodeon" tvg-logo="" group-title="Germany DE",DE| Nickelodeon
+http://super1.ideaiptv.com:2052/bandook/3243243/25230
+#EXTINF:-1 tvg-id="" tvg-name="DE| NTV" tvg-logo="" group-title="Germany DE",DE| NTV
+http://super1.ideaiptv.com:2052/bandook/3243243/25231
+#EXTINF:-1 tvg-id="" tvg-name="DE| ORF Sport  HD" tvg-logo="" group-title="Germany DE",DE| ORF Sport  HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25232
+#EXTINF:-1 tvg-id="" tvg-name="DE| ORF1 HD" tvg-logo="" group-title="Germany DE",DE| ORF1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25233
+#EXTINF:-1 tvg-id="" tvg-name="DE| ORF2 HD" tvg-logo="" group-title="Germany DE",DE| ORF2 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25234
+#EXTINF:-1 tvg-id="" tvg-name="DE| POPCORN SELECT 1" tvg-logo="" group-title="Germany DE",DE| POPCORN SELECT 1
+http://super1.ideaiptv.com:2052/bandook/3243243/25235
+#EXTINF:-1 tvg-id="" tvg-name="DE| POPCORN SELECT 2" tvg-logo="" group-title="Germany DE",DE| POPCORN SELECT 2
+http://super1.ideaiptv.com:2052/bandook/3243243/25236
+#EXTINF:-1 tvg-id="" tvg-name="DE| POPCORN SELECT 3" tvg-logo="" group-title="Germany DE",DE| POPCORN SELECT 3
+http://super1.ideaiptv.com:2052/bandook/3243243/25237
+#EXTINF:-1 tvg-id="" tvg-name="DE| POPCORN SELECT 4" tvg-logo="" group-title="Germany DE",DE| POPCORN SELECT 4
+http://super1.ideaiptv.com:2052/bandook/3243243/25238
+#EXTINF:-1 tvg-id="" tvg-name="DE| POPCORN SELECT 5" tvg-logo="" group-title="Germany DE",DE| POPCORN SELECT 5
+http://super1.ideaiptv.com:2052/bandook/3243243/25239
+#EXTINF:-1 tvg-id="" tvg-name="DE| POPCORN SELECT 6" tvg-logo="" group-title="Germany DE",DE| POPCORN SELECT 6
+http://super1.ideaiptv.com:2052/bandook/3243243/25240
+#EXTINF:-1 tvg-id="" tvg-name="DE| Pro7 maxx" tvg-logo="" group-title="Germany DE",DE| Pro7 maxx
+http://super1.ideaiptv.com:2052/bandook/3243243/25241
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL CRiME" tvg-logo="" group-title="Germany DE",DE| RTL CRiME
+http://super1.ideaiptv.com:2052/bandook/3243243/25242
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL LIVING HD" tvg-logo="" group-title="Germany DE",DE| RTL LIVING HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25243
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORTS 1" tvg-logo="" group-title="Germany DE",DE| SKY SPORTS 1
+http://super1.ideaiptv.com:2052/bandook/3243243/25244
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORTS 2" tvg-logo="" group-title="Germany DE",DE| SKY SPORTS 2
+http://super1.ideaiptv.com:2052/bandook/3243243/25245
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY CINEMA  1 HD" tvg-logo="" group-title="Germany DE",DE|SKY CINEMA  1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25246
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY CiNEMA  24 HD" tvg-logo="" group-title="Germany DE",DE|SKY CiNEMA  24 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25247
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY CiNEMA ACTiON HD" tvg-logo="" group-title="Germany DE",DE|SKY CiNEMA ACTiON HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25248
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY CiNEMA ATLANTiC HD" tvg-logo="" group-title="Germany DE",DE|SKY CiNEMA ATLANTiC HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25249
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY CiNEMA COMEDY HD" tvg-logo="" group-title="Germany DE",DE|SKY CiNEMA COMEDY HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25250
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY CiNEMA EMOTiON HD" tvg-logo="" group-title="Germany DE",DE|SKY CiNEMA EMOTiON HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25251
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY CiNEMA FAMiLY HD" tvg-logo="" group-title="Germany DE",DE|SKY CiNEMA FAMiLY HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25252
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY CiNEMA HD" tvg-logo="" group-title="Germany DE",DE|SKY CiNEMA HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25253
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY CiNEMA HiTS HD" tvg-logo="" group-title="Germany DE",DE|SKY CiNEMA HiTS HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25254
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY CiNEMA NOSTALGiE HD" tvg-logo="" group-title="Germany DE",DE|SKY CiNEMA NOSTALGiE HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25255
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY SELECT 1 HD" tvg-logo="" group-title="Germany DE",DE|SKY SELECT 1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25256
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY SELECT 2 HD" tvg-logo="" group-title="Germany DE",DE|SKY SELECT 2 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25257
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY SELECT 3 HD" tvg-logo="" group-title="Germany DE",DE|SKY SELECT 3 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25258
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY SELECT 4 HD" tvg-logo="" group-title="Germany DE",DE|SKY SELECT 4 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25259
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY SELECT 5 HD" tvg-logo="" group-title="Germany DE",DE|SKY SELECT 5 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25260
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY SELECT 6 HD" tvg-logo="" group-title="Germany DE",DE|SKY SELECT 6 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25261
+#EXTINF:-1 tvg-id="" tvg-name="DE|SKY SELECT 7 HD" tvg-logo="" group-title="Germany DE",DE|SKY SELECT 7 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25262
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SYFY HD" tvg-logo="" group-title="Germany DE",DE| SKY SYFY HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25263
+#EXTINF:-1 tvg-id="" tvg-name="|DE| Sky BUNDESLIGA 1 HD" tvg-logo="" group-title="Germany DE",|DE| Sky BUNDESLIGA 1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25264
+#EXTINF:-1 tvg-id="" tvg-name="DE| PRO 7 HD" tvg-logo="" group-title="Germany DE",DE| PRO 7 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25265
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL HD" tvg-logo="" group-title="Germany DE",DE| RTL HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25266
+#EXTINF:-1 tvg-id="" tvg-name="DE| RTL 2 HD" tvg-logo="" group-title="Germany DE",DE| RTL 2 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25267
+#EXTINF:-1 tvg-id="" tvg-name="DE| SAT 1" tvg-logo="" group-title="Germany DE",DE| SAT 1
+http://super1.ideaiptv.com:2052/bandook/3243243/25268
+#EXTINF:-1 tvg-id="" tvg-name="DE| SVT 1" tvg-logo="" group-title="Germany DE",DE| SVT 1
+http://super1.ideaiptv.com:2052/bandook/3243243/25269
+#EXTINF:-1 tvg-id="" tvg-name="DE| TLC HD" tvg-logo="" group-title="Germany DE",DE| TLC HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25270
+#EXTINF:-1 tvg-id="" tvg-name="DE| TNT FILM HD" tvg-logo="" group-title="Germany DE",DE| TNT FILM HD
+http://super1.ideaiptv.com:2052/bandook/3243243/25271
+#EXTINF:-1 tvg-id="" tvg-name="DE| VOX" tvg-logo="" group-title="Germany DE",DE| VOX
+http://super1.ideaiptv.com:2052/bandook/3243243/25272
+#EXTINF:-1 tvg-id="" tvg-name="DE| Dazn 1 HD BAR" tvg-logo="" group-title="Germany DE",DE| Dazn 1 HD BAR
+http://super1.ideaiptv.com:2052/bandook/3243243/25273
+#EXTINF:-1 tvg-id="" tvg-name="DE| Dazn 2 HD BAR" tvg-logo="" group-title="Germany DE",DE| Dazn 2 HD BAR
+http://super1.ideaiptv.com:2052/bandook/3243243/25274
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY BUNDESLIGA 2 HD (Match Time)" tvg-logo="" group-title="Germany SKY Bundesliga FHD ",|DE| SKY BUNDESLIGA 2 HD (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32061
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY BUNDESLIGA 3 HD (Match Time)" tvg-logo="" group-title="Germany SKY Bundesliga FHD ",|DE| SKY BUNDESLIGA 3 HD (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32062
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY BUNDESLIGA 4 HD (Match Time)" tvg-logo="" group-title="Germany SKY Bundesliga FHD ",|DE| SKY BUNDESLIGA 4 HD (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32063
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY BUNDESLIGA 5 HD (Match Time)" tvg-logo="" group-title="Germany SKY Bundesliga FHD ",|DE| SKY BUNDESLIGA 5 HD (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32064
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY BUNDESLIGA 6 HD (Match Time)" tvg-logo="" group-title="Germany SKY Bundesliga FHD ",|DE| SKY BUNDESLIGA 6 HD (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32065
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY BUNDESLIGA 7 HD (Match Time)" tvg-logo="" group-title="Germany SKY Bundesliga FHD ",|DE| SKY BUNDESLIGA 7 HD (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32066
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY BUNDESLIGA 8 HD (Match Time)" tvg-logo="" group-title="Germany SKY Bundesliga FHD ",|DE| SKY BUNDESLIGA 8 HD (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32067
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY BUNDESLIGA 9 HD (Match Time)" tvg-logo="" group-title="Germany SKY Bundesliga FHD ",|DE| SKY BUNDESLIGA 9 HD (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32068
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY BUNDESLIGA 10 HD (Match Time)" tvg-logo="" group-title="Germany SKY Bundesliga FHD ",|DE| SKY BUNDESLIGA 10 HD (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32069
+#EXTINF:-1 tvg-id="" tvg-name="DE| c HD" tvg-logo="" group-title="Germany DE",DE| c HD
+http://super1.ideaiptv.com:2052/bandook/3243243/32071
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 1 HD" tvg-logo="" group-title="Germany DE",DE| SKY SPORT 1 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/32072
+#EXTINF:-1 tvg-id="" tvg-name="DE| SKY SPORT 2 HD" tvg-logo="" group-title="Germany DE",DE| SKY SPORT 2 HD
+http://super1.ideaiptv.com:2052/bandook/3243243/32073
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT 4 (Match Time)" tvg-logo="" group-title="Germany DE",|DE| SKY SPORT 4 (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32075
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT 5 (Match Time)" tvg-logo="" group-title="Germany DE",|DE| SKY SPORT 5 (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32076
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT 6 (Match Time)" tvg-logo="" group-title="Germany DE",|DE| SKY SPORT 6 (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32077
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT 7 (Match Time)" tvg-logo="" group-title="Germany DE",|DE| SKY SPORT 7 (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32078
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT 8 (Match Time)" tvg-logo="" group-title="Germany DE",|DE| SKY SPORT 8 (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32079
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT 9 (Match Time)" tvg-logo="" group-title="Germany DE",|DE| SKY SPORT 9 (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32080
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT 10 (Match Time)" tvg-logo="" group-title="Germany DE",|DE| SKY SPORT 10 (Match Time)
+http://super1.ideaiptv.com:2052/bandook/3243243/32081
+#EXTINF:-1 tvg-id="" tvg-name="|DE| SKY SPORT AUSTRIA HD" tvg-logo="" group-title="Germany DE",|DE| SKY SPORT AUSTRIA HD
+http://super1.ideaiptv.com:2052/bandook/3243243/32082
+#EXTINF:-1 tvg-id="" tvg-name="DE| NOW 90s HITS" tvg-logo="" group-title="Germany DE",DE| NOW 90s HITS
+http://super1.ideaiptv.com:2052/bandook/3243243/21045
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 1 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61739
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 2 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61740
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 1 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 1 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61741
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 2 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 2 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61742
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 3 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 3 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61743
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 4 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 4 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61744
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 5 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 5 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61745
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 6 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 6 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61746
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 7 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 7 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61747
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 8 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 8 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61748
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 9 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 9 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61749
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 10 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 10 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61750
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 11 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 11 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61751
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 12 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 12 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61752
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 13 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 13 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61753
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 14 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 14 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61754
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 15 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 15 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61755
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 16 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 16 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61756
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Select 17 4K" tvg-logo="" group-title="Germany DE",DE: Sky Select 17 4K
+http://super1.ideaiptv.com:2052/bandook/3243243/61757
+#EXTINF:-1,Sky Cinema
+plugin://plugin.video.tvone/play/402/play.pvr
+
+#EXTINF:-1,Sky Action
+plugin://plugin.video.tvone/play/400/play.pvr
+
+
+#EXTINF:-1,Disvovery
+plugin://plugin.video.tvone/play/652/play.pvr
+
+
+#EXTINF:-1,Sky Sport 1
+plugin://plugin.video.tvone/play/403/play.pvr
+
+#EXTINF:-1,Sky Sport 2
+plugin://plugin.video.tvone/play/391/play.pvr
+
+#EXTINF:-1,Bundesliga 1
+plugin://plugin.video.tvone/play/401/play.pvr
+
+#EXTINF:-1,Bundesliga 2
+plugin://plugin.video.tvone/play/403/play.pvr
+
+#EXTINF:-1,Bundesliga 3
+plugin://plugin.video.tvone/play/431/play.pvr
+#EXTINF:-1,DAZN 1
+plugin://plugin.video.tvone/play/777/play.pvr
+
+#EXTINF:-1,DAZN 2
+plugin://plugin.video.tvone/play/778/play.pvr
+
+#EXTINF:-1,Sport 1
+plugin://plugin.video.tvone/play/405/play.pvr
+
+#EXTINF:-1,RTL 2
+plugin://plugin.video.tvone/play/395/play.pvr
+
+#EXTINF:-1,PRO 7
+plugin://plugin.video.tvone/play/392/play.pvr
+
+#EXTINF:-1,ORF 2
+plugin://plugin.video.tvone/play/390/play.pvr
+
+#EXTINF:-1,VOX 
+plugin://plugin.video.tvone/play/408/play.pvr
+
+
+#EXTINF:-1,RTL
+plugin://plugin.video.tvone/play/394/play.pvr
+
+#EXTINF:-1,RTL Nitro
+plugin://plugin.video.tvone/play/396/play.pvr
+
+
+#EXTINF:-1,Kabel 1
+plugin://plugin.video.tvone/play/392/play.pvr
+
+#EXTINF:-1,Sat1 Gold 
+plugin://plugin.video.tvone/play/397/play.pvr
+
+#EXTINF:-1,Tele 5
+http://62.210.209.100:86/live/erthrtuh45r/knjbmhnjmkl/98.ts|User-agent=MX-Player
+
+#EXTINF:-1,Boomerang
+plugin://plugin.video.tvone/play/381/play.pvr
+
+#EXTINF:-1,Fox
+plugin://plugin.video.tvone/play/653/play.pvr
+
+#EXTINF:-1,ORF 1
+plugin://plugin.video.tvone/play/391/play.pvr
+
+#EXTINF:-1,Sixx
+plugin://plugin.video.tvone/play/398/play.pvr
+
+#EXTINF:-1,Sky 1
+plugin://plugin.video.tvone/play/597/play.pvr
+
+#EXTINF:-1,SyFi
+plugin://plugin.video.tvone/play/407/play.pvr
+
+#EXTINF:-1,TNT
+plugin://plugin.video.tvone/play/656/play.pvr
+
+#EXTINF:-1,TNT Comedy
+plugin://plugin.video.tvone/play/654/play.pvr
+
+#EXTINF:-1,TNT Serie
+plugin://plugin.video.tvone/play/655/play.pvr
+
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.tvone/play/651/play.pvr
+
+#EXTINF:-1,Cinemagic
+plugin://plugin.video.tvone/play/634/play.pvr
+
+#EXTINF:-1,Disney Channel
+plugin://plugin.video.tvone/play/383/play.pvr
+
