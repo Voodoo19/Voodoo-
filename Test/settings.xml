@@ -50,7 +50,7 @@
     <setting id="signature_1" type="text" label="30124" default="" />
   </category>
   <category label="33000">
-    <setting id="mac_2" type="text" option="hidden" label="30101" default="00:1a:79:43:22:88" />
+    <setting id="mac_2" type="text" option="hidden" label="30101" default="00:1a:79:43:22:8" />
     <setting id="server_2" type="text" option="hidden" label="30102" default="http://mytv.fun:8080/c/" />
     <setting id="time_zone_2" type="text" label="30103" default="Europe/Berlin" />
     <setting id="sep1_2" type="lsep" label="30104" />
