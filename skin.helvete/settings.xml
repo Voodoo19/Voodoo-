@@ -1,9 +1,9 @@
 <settings>
 <category label="Connection Settings">
-     <setting id="lehekylg" type="text" label="Website" default="http://mytv.fun"/>http://mytv.fun:8080/get.php?username=FranzGaiga&password=ti2ef23bf8&type=m3u_plus&output=ts
-     <setting id="kasutajanimi" type="text" label="Username" default="FranzGaiga"/>
-     <setting id="salasona" type="text" option="writeable,hidden" label="Password" default="ti2ef23bf8"/>
-     <setting id="pordinumber" type="text" label="Port" default="8080"/>
+     <setting id="lehekylg" type="text" label="Website" default="http://mags.vip"/>http://mytv.fun:8080/get.php?username=FranzGaiga&password=ti2ef23bf8&type=m3u_plus&output=ts
+     <setting id="kasutajanimi" type="text" label="Username" default="miriam"/>
+     <setting id="salasona" type="text" option="writeable,hidden" label="Password" default="miriam123"/>
+     <setting id="pordinumber" type="text" label="Port" default="2086"/>
 </category>
 <category label="Other Settings">
 	 <setting id="uuendused" type="bool" label="Check updates at startup?"value="true"/>
