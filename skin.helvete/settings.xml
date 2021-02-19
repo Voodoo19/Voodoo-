@@ -1,9 +1,9 @@
 <settings>
 <category label="Connection Settings">
-     <setting id="lehekylg" type="text" label="Website" default="http://cobra2016.dyndns.tv"/>
-     <setting id="kasutajanimi" type="text" label="Username" default="enjoyimcob_SkYpE"/>
-     <setting id="salasona" type="text" option="writeable,hidden" label="Password" default="8LftLI6H71"/>
-     <setting id="pordinumber" type="text" label="Port" default="1947"/>
+     <setting id="lehekylg" type="text" label="Website" default="http://driptvs.com"/>
+     <setting id="kasutajanimi" type="text" label="Username" default="King200conxx"/>
+     <setting id="salasona" type="text" option="writeable,hidden" label="Password" default="ZQBVifHAzW"/>
+     <setting id="pordinumber" type="text" label="Port" default="8080"/>
 </category>
 <category label="Other Settings">
 	 <setting id="uuendused" type="bool" label="Check updates at startup?"value="true"/>
