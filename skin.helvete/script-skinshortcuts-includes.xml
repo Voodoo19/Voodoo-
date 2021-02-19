@@ -1141,16 +1141,16 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">6</property>
-			<label>Live TV</label>
+			<label>IPTV 2</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/backgrounds/Tv.jpg</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.iptv%2ficon.png/</thumb>
-			<property name="labelID">livetv</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xtream-codes%2ficon.png/</thumb>
+			<property name="labelID">iptv2</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<property name="list">plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
 			<property name="group">plugin.video.voodoo-tv</property>
 			<property name="widget">Addon</property>
@@ -2776,16 +2776,16 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">6</property>
-			<label>Live TV</label>
+			<label>IPTV 2</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/backgrounds/Tv.jpg</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.iptv%2ficon.png/</thumb>
-			<property name="labelID">livetv</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xtream-codes%2ficon.png/</thumb>
+			<property name="labelID">iptv2</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<property name="list">plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
 			<property name="group">plugin.video.voodoo-tv</property>
 			<property name="widget">Addon</property>
@@ -5092,16 +5092,16 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">6</property>
-			<label>Live TV</label>
+			<label>IPTV 2</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/backgrounds/Tv.jpg</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.iptv%2ficon.png/</thumb>
-			<property name="labelID">livetv</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xtream-codes%2ficon.png/</thumb>
+			<property name="labelID">iptv2</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<property name="list">plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.voodoo-tv</property>
 			<property name="widget">Addon</property>
@@ -5183,16 +5183,16 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">6</property>
-			<label>Iptv 2</label>
+			<label>IPTV 2</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/backgrounds/Tv.jpg</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.iptv%2ficon.png/</thumb>
-			<property name="labelID">livetv</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xtream-codes%2ficon.png/</thumb>
+			<property name="labelID">iptv2</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;extra&amp;page&amp;plot&amp;thumbnail&amp;title=Live+20TV&amp;url",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<property name="list">plugin://plugin.video.iptv/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
 			<property name="group">plugin.video.voodoo-tv</property>
 			<property name="widget">Addon</property>
