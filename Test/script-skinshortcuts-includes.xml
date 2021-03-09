@@ -52,14 +52,14 @@
 		<item id="4">
 			<property name="id">$NUMBER[4]</property>
 			<label>KINDER</label>
-			<label2>Video Add-On</label2>
+			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">kinder</property>
 			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=netzkino_de&amp;function=showEntries&amp;title=Kinderkino&amp;sUrl=http%3A%2F%2Fapi.netzkino.de.simplecache.net%2Fcapi-2.0a%2Fcategories%2Fkinderkino.json%3Fd%3Dwww%26l%3Dde-DE%26v%3Dunknown",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=netzkino_de&amp;function=showEntries&amp;title=Kinderkino&amp;sUrl=http%3A%2F%2Fapi.netzkino.de.simplecache.net%2Fcapi-2.0a%2Fcategories%2Fkinderkino.json%3Fd%3Dwww%26l%3Dde-DE%26v%3Dunknown",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=netzkino_de&amp;function=showEntries&amp;title=Kinderkino&amp;sUrl=http%3A%2F%2Fapi.netzkino.de.simplecache.net%2Fcapi-2.0a%2Fcategories%2Fkinderkino.json%3Fd%3Dwww%26l%3Dde-DE%26v%3Dunknown</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
+			<property name="list">plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="submenuVisibility">kinder</property>
 			<property name="group">mainmenu</property>
@@ -80,7 +80,7 @@
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="submenuVisibility">livetv</property>
 			<property name="group">mainmenu</property>
-			<property name="hasSubmenu">False</property>
+			<property name="hasSubmenu">True</property>
 		</item>
 		<item id="6">
 			<property name="id">$NUMBER[6]</property>
@@ -221,6 +221,23 @@
 	</include>
 	<include />
 	<include name="skinshortcuts-submenu">
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">5</property>
+			<label>pvrupdate</label>
+			<label2>Programm</label2>
+			<icon>DefaultAddon.png</icon>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fscript.pvr%2fresources%2ficon.png/</thumb>
+			<property name="labelID">script.pvr</property>
+			<property name="defaultID">script.pvr</property>
+			<property name="translatedPath">RunAddOn(script.pvr)</property>
+			<onclick>RunAddOn(script.pvr)</onclick>
+			<property name="path">RunAddOn(script.pvr)</property>
+			<property name="list">RunAddOn(script.pvr)</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv)</visible>
+			<property name="group">livetv</property>
+			<property name="isSubmenu">True</property>
+		</item>
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">6</property>
@@ -1367,16 +1384,18 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>Kidstheke</label>
+			<label>Theke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">kidstheke</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
+			<property name="labelID">theke--0</property>
 			<property name="defaultID" />
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
+			<property name="list">plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
 			<property name="isSubmenu">True</property>
@@ -1390,6 +1409,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.audio.mp3streams%2fresources%2fmedia%2ficon.png/</thumb>
 			<property name="labelID">plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir</property>
 			<property name="defaultID">plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir</property>
+			<property name="widgetAspect">Small Square</property>
 			<onclick>ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir",return)</onclick>
 			<property name="path">ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir",return)</property>
 			<property name="list">plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir</property>
@@ -1406,6 +1426,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.audio.mp3streams%2fresources%2fmedia%2ficon.png/</thumb>
 			<property name="labelID">plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir</property>
 			<property name="defaultID">plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir</property>
+			<property name="widgetAspect">Small Square</property>
 			<onclick>ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir",return)</onclick>
 			<property name="path">ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir",return)</property>
 			<property name="list">plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir</property>
@@ -1782,10 +1803,42 @@
 		</item>
 	</include>
 	<include name="skinshortcuts-group-livetv">
-		<description>No items</description>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">5</property>
+			<label>pvrupdate</label>
+			<label2>Programm</label2>
+			<icon>DefaultAddon.png</icon>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fscript.pvr%2fresources%2ficon.png/</thumb>
+			<property name="labelID">script.pvr</property>
+			<property name="defaultID">script.pvr</property>
+			<property name="translatedPath">RunAddOn(script.pvr)</property>
+			<onclick>RunAddOn(script.pvr)</onclick>
+			<property name="path">RunAddOn(script.pvr)</property>
+			<property name="list">RunAddOn(script.pvr)</property>
+			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
+			<property name="group">livetv</property>
+			<property name="isSubmenu">True</property>
+		</item>
 	</include>
 	<include name="skinshortcuts-group-alt-livetv">
-		<description>No items</description>
+		<item id="1">
+			<property name="id">$NUMBER[1]</property>
+			<property name="mainmenuid">5</property>
+			<label>pvrupdate</label>
+			<label2>Programm</label2>
+			<icon>DefaultAddon.png</icon>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fscript.pvr%2fresources%2ficon.png/</thumb>
+			<property name="labelID">script.pvr</property>
+			<property name="defaultID">script.pvr</property>
+			<property name="translatedPath">RunAddOn(script.pvr)</property>
+			<onclick>RunAddOn(script.pvr)</onclick>
+			<property name="path">RunAddOn(script.pvr)</property>
+			<property name="list">RunAddOn(script.pvr)</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),livetv)</visible>
+			<property name="group">livetv</property>
+			<property name="isSubmenu">True</property>
+		</item>
 	</include>
 	<include name="skinshortcuts-group-livetv-1">
 		<item id="1">
@@ -2128,16 +2181,18 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>Kidstheke</label>
+			<label>Theke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">kidstheke</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
+			<property name="labelID">theke--0</property>
 			<property name="defaultID" />
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
+			<property name="list">plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
 			<property name="isSubmenu">True</property>
@@ -2164,16 +2219,18 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>Kidstheke</label>
+			<label>Theke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">kidstheke</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
+			<property name="labelID">theke--0</property>
 			<property name="defaultID" />
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
+			<property name="list">plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekdirekt)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
 			<property name="isSubmenu">True</property>
@@ -2195,6 +2252,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.audio.mp3streams%2fresources%2fmedia%2ficon.png/</thumb>
 			<property name="labelID">plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir</property>
 			<property name="defaultID">plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir</property>
+			<property name="widgetAspect">Small Square</property>
 			<onclick>ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir",return)</onclick>
 			<property name="path">ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir",return)</property>
 			<property name="list">plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir</property>
@@ -2211,6 +2269,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.audio.mp3streams%2fresources%2fmedia%2ficon.png/</thumb>
 			<property name="labelID">plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir</property>
 			<property name="defaultID">plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir</property>
+			<property name="widgetAspect">Small Square</property>
 			<onclick>ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir",return)</onclick>
 			<property name="path">ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir",return)</property>
 			<property name="list">plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir</property>
@@ -2229,6 +2288,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.audio.mp3streams%2fresources%2fmedia%2ficon.png/</thumb>
 			<property name="labelID">plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir</property>
 			<property name="defaultID">plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir</property>
+			<property name="widgetAspect">Small Square</property>
 			<onclick>ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir",return)</onclick>
 			<property name="path">ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir",return)</property>
 			<property name="list">plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/355/new/0/dir</property>
@@ -2245,6 +2305,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.audio.mp3streams%2fresources%2fmedia%2ficon.png/</thumb>
 			<property name="labelID">plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir</property>
 			<property name="defaultID">plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir</property>
+			<property name="widgetAspect">Small Square</property>
 			<onclick>ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir",return)</onclick>
 			<property name="path">ActivateWindow(Music,"plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir",return)</property>
 			<property name="list">plugin://plugin.audio.mp3streams/musicmp3/main_albums/main/0/new/0/dir</property>
@@ -5169,7 +5230,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="77502" />
 			<param name="id" value="73102" />
-			<param name="label" value="Kidstheke" />
+			<param name="label" value="Theke" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[73102]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),7)</visible>
 		</include>
@@ -5185,7 +5246,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=" />
+			<param name="content" value="plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5215,7 +5276,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.program.super.favourites/?label=kids&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Fkids&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=" />
+			<param name="content" value="plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5256,8 +5317,8 @@
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
+			<param name="smallsquarecondition" value="true" />
+			<param name="squarecondition" value="true" />
 			<param name="smalllandscapecondition" value="false" />
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
@@ -5286,8 +5347,8 @@
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
+			<param name="smallsquarecondition" value="true" />
+			<param name="squarecondition" value="true" />
 			<param name="smalllandscapecondition" value="false" />
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
@@ -5323,8 +5384,8 @@
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
+			<param name="smallsquarecondition" value="true" />
+			<param name="squarecondition" value="true" />
 			<param name="smalllandscapecondition" value="false" />
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
@@ -5353,8 +5414,8 @@
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
+			<param name="smallsquarecondition" value="true" />
+			<param name="squarecondition" value="true" />
 			<param name="smalllandscapecondition" value="false" />
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
@@ -5506,6 +5567,24 @@
 		<include condition="String.IsEqual(System.ProfileName,Master user)">skinshortcuts-template-spotlight-submenu-Master user</include>
 	</include>
 	<include name="skinshortcuts-template-spotlight-submenu-Master user">
+		<include content="Object_Widget_Spotlight">
+			<param name="labelinclude" value="Defs_Null" />
+			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
+			<param name="label2" value="ListItem.TvShowTitle" />
+			<param name="target" value="" />
+			<param name="content" value="" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
+			<param name="iconcondition" value="false" />
+			<param name="bannercondition" value="false" />
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-livetv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv)</visible>
+			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[1])</visible>
+			<onup>302</onup>
+			<onback condition="Window.IsVisible(Home)">301</onback>
+			<ondown>noop</ondown>
+		</include>
 		<include content="Object_Widget_Spotlight">
 			<param name="labelinclude" value="Defs_Null" />
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
