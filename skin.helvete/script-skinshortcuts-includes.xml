@@ -204,7 +204,7 @@
 			<property name="widgetType">videos</property>
 			<property name="widgetTarget">videos</property>
 			<property name="widgetPath">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetAspect">31120</property>
+			<property name="widgetAspect">31118</property>
 			<property name="widgetAspect.1">Icon - 1:1</property>
 			<property name="widgetAspect.2">Icon - 1:1</property>
 			<property name="widgetAspect.3">Icon - 1:1</property>
@@ -229,15 +229,15 @@
 			<property name="widgetName">.</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.rtlnow/?url=&amp;mode=listStations&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetAspect">31120</property>
+			<property name="widgetPath">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetAspect">31118</property>
 			<property name="widgetAspect.1">Icon - 1:1</property>
 			<property name="widgetAspect.2">Icon - 1:1</property>
 			<property name="widgetAspect.3">Icon - 1:1</property>
 			<property name="widgetAspect.4">Icon - 1:1</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
+			<property name="list">plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="submenuVisibility">theke</property>
 			<property name="group">mainmenu</property>
@@ -988,12 +988,12 @@
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">4</property>
 			<label>Amazon-Originals</label>
-			<label2>Video Add-On</label2>
+			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
@@ -1010,12 +1010,12 @@
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">4</property>
 			<label>Netflix-Originals</label>
-			<label2>Video Add-On</label2>
+			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
@@ -1141,13 +1141,33 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">6</property>
+			<label>Zugang ändern</label>
+			<label2>Benutzerdefinierte Einträge</label2>
+			<icon>special://skin/backgrounds/default/default.jpg</icon>
+			<thumb />
+			<property name="labelID">zugangandern</property>
+			<property name="defaultID" />
+			<onclick>Addon.OpenSettings(pvr.pavootva)</onclick>
+			<property name="path">Addon.OpenSettings(pvr.pavootva)</property>
+			<property name="list">Addon.OpenSettings(pvr.pavootva)</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
+			<property name="group">plugin.video.voodoo-tv</property>
+			<property name="widget">Addon</property>
+			<property name="widgetTarget">videos</property>
+			<property name="widgetPath">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetType">videos</property>
+			<property name="widgetName">.</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="4">
+			<property name="id">$NUMBER[4]</property>
+			<property name="mainmenuid">6</property>
 			<label>IPTV 2</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/backgrounds/Tv.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xtream-codes%2ficon.png/</thumb>
-			<property name="labelID">iptv2</property>
+			<property name="labelID">plugin.video.vawatched</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</property>
 			<property name="list">plugin://plugin.video.vawatched</property>
@@ -1160,8 +1180,8 @@
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
 		</item>
-		<item id="4">
-			<property name="id">$NUMBER[4]</property>
+		<item id="5">
+			<property name="id">$NUMBER[5]</property>
 			<property name="mainmenuid">6</property>
 			<label>TV Guide</label>
 			<label2>Video Add-On</label2>
@@ -2562,12 +2582,12 @@
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">4</property>
 			<label>Amazon-Originals</label>
-			<label2>Video Add-On</label2>
+			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
@@ -2585,12 +2605,12 @@
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">4</property>
 			<label>Netflix-Originals</label>
-			<label2>Video Add-On</label2>
+			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
@@ -2712,7 +2732,7 @@
 			<property name="widgetType">videos</property>
 			<property name="widgetTarget">videos</property>
 			<property name="widgetPath">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetAspect">31120</property>
+			<property name="widgetAspect">31118</property>
 			<property name="widgetAspect.1">Icon - 1:1</property>
 			<property name="widgetAspect.2">Icon - 1:1</property>
 			<property name="widgetAspect.3">Icon - 1:1</property>
@@ -2776,13 +2796,34 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">6</property>
+			<label>Zugang ändern</label>
+			<label2>Benutzerdefinierte Einträge</label2>
+			<icon>special://skin/backgrounds/default/default.jpg</icon>
+			<thumb />
+			<property name="labelID">zugangandern</property>
+			<property name="defaultID" />
+			<onclick>Addon.OpenSettings(pvr.pavootva)</onclick>
+			<property name="path">Addon.OpenSettings(pvr.pavootva)</property>
+			<property name="list">Addon.OpenSettings(pvr.pavootva)</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
+			<property name="group">plugin.video.voodoo-tv</property>
+			<property name="widget">Addon</property>
+			<property name="widgetTarget">videos</property>
+			<property name="widgetPath">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetType">videos</property>
+			<property name="widgetName">.</property>
+			<property name="isSubmenu">True</property>
+			<property name="submenuVisibility">plugin-video-voodoo-tv</property>
+		</item>
+		<item id="4">
+			<property name="id">$NUMBER[4]</property>
+			<property name="mainmenuid">6</property>
 			<label>IPTV 2</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/backgrounds/Tv.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xtream-codes%2ficon.png/</thumb>
-			<property name="labelID">iptv2</property>
+			<property name="labelID">plugin.video.vawatched</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</property>
 			<property name="list">plugin://plugin.video.vawatched</property>
@@ -2796,8 +2837,8 @@
 			<property name="isSubmenu">True</property>
 			<property name="submenuVisibility">plugin-video-voodoo-tv</property>
 		</item>
-		<item id="4">
-			<property name="id">$NUMBER[4]</property>
+		<item id="5">
+			<property name="id">$NUMBER[5]</property>
 			<property name="mainmenuid">6</property>
 			<label>TV Guide</label>
 			<label2>Video Add-On</label2>
@@ -2831,15 +2872,15 @@
 			<property name="widgetName">.</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.rtlnow/?url=&amp;mode=listStations&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetAspect">31120</property>
+			<property name="widgetPath">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetAspect">31118</property>
 			<property name="widgetAspect.1">Icon - 1:1</property>
 			<property name="widgetAspect.2">Icon - 1:1</property>
 			<property name="widgetAspect.3">Icon - 1:1</property>
 			<property name="widgetAspect.4">Icon - 1:1</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
+			<property name="list">plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="submenuVisibility">theke</property>
 			<property name="group">mainmenu</property>
@@ -4800,12 +4841,12 @@
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">4</property>
 			<label>Amazon-Originals</label>
-			<label2>Video Add-On</label2>
+			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
@@ -4822,12 +4863,12 @@
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">4</property>
 			<label>Netflix-Originals</label>
-			<label2>Video Add-On</label2>
+			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
@@ -4868,12 +4909,12 @@
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">4</property>
 			<label>Amazon-Originals</label>
-			<label2>Video Add-On</label2>
+			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
@@ -4890,12 +4931,12 @@
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">4</property>
 			<label>Netflix-Originals</label>
-			<label2>Video Add-On</label2>
+			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
@@ -5092,13 +5133,33 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">6</property>
+			<label>Zugang ändern</label>
+			<label2>Benutzerdefinierte Einträge</label2>
+			<icon>special://skin/backgrounds/default/default.jpg</icon>
+			<thumb />
+			<property name="labelID">zugangandern</property>
+			<property name="defaultID" />
+			<onclick>Addon.OpenSettings(pvr.pavootva)</onclick>
+			<property name="path">Addon.OpenSettings(pvr.pavootva)</property>
+			<property name="list">Addon.OpenSettings(pvr.pavootva)</property>
+			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
+			<property name="group">plugin.video.voodoo-tv</property>
+			<property name="widget">Addon</property>
+			<property name="widgetTarget">videos</property>
+			<property name="widgetPath">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetType">videos</property>
+			<property name="widgetName">.</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="4">
+			<property name="id">$NUMBER[4]</property>
+			<property name="mainmenuid">6</property>
 			<label>IPTV 2</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/backgrounds/Tv.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xtream-codes%2ficon.png/</thumb>
-			<property name="labelID">iptv2</property>
+			<property name="labelID">plugin.video.vawatched</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</property>
 			<property name="list">plugin://plugin.video.vawatched</property>
@@ -5111,8 +5172,8 @@
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
 		</item>
-		<item id="4">
-			<property name="id">$NUMBER[4]</property>
+		<item id="5">
+			<property name="id">$NUMBER[5]</property>
 			<property name="mainmenuid">6</property>
 			<label>TV Guide</label>
 			<label2>Video Add-On</label2>
@@ -5183,13 +5244,33 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">6</property>
+			<label>Zugang ändern</label>
+			<label2>Benutzerdefinierte Einträge</label2>
+			<icon>special://skin/backgrounds/default/default.jpg</icon>
+			<thumb />
+			<property name="labelID">zugangandern</property>
+			<property name="defaultID" />
+			<onclick>Addon.OpenSettings(pvr.pavootva)</onclick>
+			<property name="path">Addon.OpenSettings(pvr.pavootva)</property>
+			<property name="list">Addon.OpenSettings(pvr.pavootva)</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
+			<property name="group">plugin.video.voodoo-tv</property>
+			<property name="widget">Addon</property>
+			<property name="widgetTarget">videos</property>
+			<property name="widgetPath">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetType">videos</property>
+			<property name="widgetName">.</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="4">
+			<property name="id">$NUMBER[4]</property>
+			<property name="mainmenuid">6</property>
 			<label>IPTV 2</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/backgrounds/Tv.jpg</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xtream-codes%2ficon.png/</thumb>
-			<property name="labelID">iptv2</property>
+			<property name="labelID">plugin.video.vawatched</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.vawatched",return)</property>
 			<property name="list">plugin://plugin.video.vawatched</property>
@@ -5202,8 +5283,8 @@
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
 		</item>
-		<item id="4">
-			<property name="id">$NUMBER[4]</property>
+		<item id="5">
+			<property name="id">$NUMBER[5]</property>
 			<property name="mainmenuid">6</property>
 			<label>TV Guide</label>
 			<label2>Video Add-On</label2>
@@ -7209,7 +7290,7 @@
 		<control type="group">
 			<include>OpenCloseVisible</include>
 			<visible>String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
-			<height>547</height>
+			<height>608</height>
 			<control type="label">
 				<visible>control.hasfocus(700016)</visible>
 				<posx>TextMargin</posx>
@@ -7237,10 +7318,10 @@
 				<onup>300</onup>
 				<ondown>700026</ondown>
 				<onleft condition="Skin.HasSetting(VerticalHome)">300</onleft>
-				<include content="Widget_Channel">
+				<include content="Widget_Square">
 					<param name="id" value="700016" />
 					<param name="labelTitle" value="$INFO[ListItem.Label]" />
-					<param name="labelSubTitle" value="$INFO[ListItem.Label2,,[COLOR=SeparatorColor] › [/COLOR]]$INFO[ListItem.Duration]" />
+					<param name="labelSubTitle" value="$INFO[ListItem.Artist]$INFO[ListItem.Rating,[COLOR=SeparatorColor] › [/COLOR]]$INFO[ListItem.Year,[COLOR=SeparatorColor] › [/COLOR]]$INFO[ListItem.Duration,[COLOR=SeparatorColor] › [/COLOR], $LOCALIZE[31297]]" />
 				</include>
 				<content limit="$VAR[WidgetLimit]" sortby="" sortorder="" target="videos">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</content>
 			</control>
@@ -7248,20 +7329,20 @@
 				<visible>Container(700016).IsUpdating</visible>
 				<control type="image">
 					<animation center="auto" condition="true" easing="inout" effect="rotate" end="0" loop="true" start="360" time="1500" tween="circle">Conditional</animation>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<aspectratio align="center" aligny="center">keep</aspectratio>
 					<colordiffuse>ThumbsUnfocusedColor</colordiffuse>
 					<texture>OSD/loading.png</texture>
 				</control>
 				<control type="image">
 					<animation center="auto" condition="true" easing="in" effect="rotate" end="0" loop="true" start="360" time="750" tween="sine">Conditional</animation>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<aspectratio align="center" aligny="center">keep</aspectratio>
 					<colordiffuse>ThumbsUnfocusedColor</colordiffuse>
 					<texture>OSD/loading.png</texture>
 				</control>
 				<control type="image">
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<colordiffuse>ThumbsUnfocusedColor</colordiffuse>
 					<texture border="2">common/TransparentDot.png</texture>
 					<bordertexture border="2" colordiffuse="BorderUnfocusedColor">common/frame_focus.png</bordertexture>
@@ -7273,7 +7354,7 @@
 				<visible>!Integer.IsGreater(Container(700016).NumItems,0)+!Container(700016).IsUpdating</visible>
 				<control type="image">
 					<visible>!control.hasfocus(700016)</visible>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<aspectratio align="center" aligny="center">keep</aspectratio>
 					<colordiffuse>ThumbsUnfocusedColor</colordiffuse>
 					<texture>defaultEmptyBig.png</texture>
@@ -7281,7 +7362,7 @@
 				</control>
 				<control type="image">
 					<visible>control.hasfocus(700016)</visible>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<aspectratio align="center" aligny="center">keep</aspectratio>
 					<texture>defaultEmptyBig.png</texture>
 					<fadetime>300</fadetime>
@@ -7294,7 +7375,7 @@
 					<onup>300</onup>
 					<ondown>700026</ondown>
 					<onleft condition="Skin.HasSetting(VerticalHome)">300</onleft>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<colordiffuse>ThumbsUnfocusedColor</colordiffuse>
 					<texturefocus border="2" colordiffuse="$VAR[Picked.HighLight.Color]">common/frame_focus.png</texturefocus>
 					<texturenofocus border="2">common/frame_focus.png</texturenofocus>
@@ -7302,17 +7383,17 @@
 				</control>
 				<control type="image">
 					<visible>control.hasfocus(700016)+Skin.HasSetting(EnableFrameHighlight)</visible>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<texture border="2,45,2,45" colordiffuse="$VAR[Picked.HighLight.Color]">common/frame_highlight.png</texture>
 					<fadetime>300</fadetime>
 				</control>
 				<control type="group">
-					<posy>547</posy>
+					<posy>608</posy>
 					<control type="image">
 						<visible>control.hasfocus(700016)</visible>
 						<posy>-123</posy>
 						<height>2</height>
-						<include>Widget_Empty_Channel</include>
+						<include>Widget_Empty_Square</include>
 						<colordiffuse>$VAR[Picked.HighLight.Color]</colordiffuse>
 						<texture border="2,0,2,0">common/line_white_horizontal.png</texture>
 					</control>
@@ -7322,7 +7403,7 @@
 		<control type="group">
 			<include>OpenCloseVisible</include>
 			<visible>String.IsEqual(Container(300).ListItem.Property(submenuVisibility),theke)</visible>
-			<height>547</height>
+			<height>608</height>
 			<control type="label">
 				<visible>control.hasfocus(700017)</visible>
 				<posx>TextMargin</posx>
@@ -7350,31 +7431,31 @@
 				<onup>300</onup>
 				<ondown>700027</ondown>
 				<onleft condition="Skin.HasSetting(VerticalHome)">300</onleft>
-				<include content="Widget_Channel">
+				<include content="Widget_Square">
 					<param name="id" value="700017" />
 					<param name="labelTitle" value="$INFO[ListItem.Label]" />
-					<param name="labelSubTitle" value="$INFO[ListItem.Label2,,[COLOR=SeparatorColor] › [/COLOR]]$INFO[ListItem.Duration]" />
+					<param name="labelSubTitle" value="$INFO[ListItem.Artist]$INFO[ListItem.Rating,[COLOR=SeparatorColor] › [/COLOR]]$INFO[ListItem.Year,[COLOR=SeparatorColor] › [/COLOR]]$INFO[ListItem.Duration,[COLOR=SeparatorColor] › [/COLOR], $LOCALIZE[31297]]" />
 				</include>
-				<content limit="$VAR[WidgetLimit]" sortby="" sortorder="" target="videos">plugin://plugin.video.rtlnow/?url=&amp;mode=listStations&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</content>
+				<content limit="$VAR[WidgetLimit]" sortby="" sortorder="" target="videos">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</content>
 			</control>
 			<control type="group">
 				<visible>Container(700017).IsUpdating</visible>
 				<control type="image">
 					<animation center="auto" condition="true" easing="inout" effect="rotate" end="0" loop="true" start="360" time="1500" tween="circle">Conditional</animation>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<aspectratio align="center" aligny="center">keep</aspectratio>
 					<colordiffuse>ThumbsUnfocusedColor</colordiffuse>
 					<texture>OSD/loading.png</texture>
 				</control>
 				<control type="image">
 					<animation center="auto" condition="true" easing="in" effect="rotate" end="0" loop="true" start="360" time="750" tween="sine">Conditional</animation>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<aspectratio align="center" aligny="center">keep</aspectratio>
 					<colordiffuse>ThumbsUnfocusedColor</colordiffuse>
 					<texture>OSD/loading.png</texture>
 				</control>
 				<control type="image">
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<colordiffuse>ThumbsUnfocusedColor</colordiffuse>
 					<texture border="2">common/TransparentDot.png</texture>
 					<bordertexture border="2" colordiffuse="BorderUnfocusedColor">common/frame_focus.png</bordertexture>
@@ -7386,7 +7467,7 @@
 				<visible>!Integer.IsGreater(Container(700017).NumItems,0)+!Container(700017).IsUpdating</visible>
 				<control type="image">
 					<visible>!control.hasfocus(700017)</visible>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<aspectratio align="center" aligny="center">keep</aspectratio>
 					<colordiffuse>ThumbsUnfocusedColor</colordiffuse>
 					<texture>defaultEmptyBig.png</texture>
@@ -7394,7 +7475,7 @@
 				</control>
 				<control type="image">
 					<visible>control.hasfocus(700017)</visible>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<aspectratio align="center" aligny="center">keep</aspectratio>
 					<texture>defaultEmptyBig.png</texture>
 					<fadetime>300</fadetime>
@@ -7407,7 +7488,7 @@
 					<onup>300</onup>
 					<ondown>700027</ondown>
 					<onleft condition="Skin.HasSetting(VerticalHome)">300</onleft>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<colordiffuse>ThumbsUnfocusedColor</colordiffuse>
 					<texturefocus border="2" colordiffuse="$VAR[Picked.HighLight.Color]">common/frame_focus.png</texturefocus>
 					<texturenofocus border="2">common/frame_focus.png</texturenofocus>
@@ -7415,17 +7496,17 @@
 				</control>
 				<control type="image">
 					<visible>control.hasfocus(700017)+Skin.HasSetting(EnableFrameHighlight)</visible>
-					<include>Widget_Empty_Channel</include>
+					<include>Widget_Empty_Square</include>
 					<texture border="2,45,2,45" colordiffuse="$VAR[Picked.HighLight.Color]">common/frame_highlight.png</texture>
 					<fadetime>300</fadetime>
 				</control>
 				<control type="group">
-					<posy>547</posy>
+					<posy>608</posy>
 					<control type="image">
 						<visible>control.hasfocus(700017)</visible>
 						<posy>-123</posy>
 						<height>2</height>
-						<include>Widget_Empty_Channel</include>
+						<include>Widget_Empty_Square</include>
 						<colordiffuse>$VAR[Picked.HighLight.Color]</colordiffuse>
 						<texture border="2,0,2,0">common/line_white_horizontal.png</texture>
 					</control>
