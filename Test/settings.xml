@@ -1,228 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<settings>
-  <category label="30000">
-    <setting id="active_portal" type="enum" label="30001" values="1|2|3|4|5|6|7|8|9|10" default="2" />
-    <setting id="sep1" type="lsep" label="30002" />
-    <setting id="connection_timeout" type="enum" label="30003" values="0|5|10|15|20|25|30|35|40|45|50|55|60|65|70|75|80|85|90|95|100|105|110|115|120" default="30" />
-  </category>
-  <category label="31000">
-    <setting id="mac_0" type="text" option="hidden" label="30101" default="00:1A:79:12:8B:AF" />
-    <setting id="server_0" type="text" option="hidden" label="30102" default="http://iptv.mr-dream.eu:25461/c/" />
-    <setting id="time_zone_0" type="text" label="30103" default="Europe/Zagreb" />
-    <setting id="sep1_0" type="lsep" label="30104" />
-    <setting id="login_0" type="text" label="30105" default="" />
-    <setting id="password_0" type="text" option="hidden" label="30106" default="" />
-    <setting id="sep2_0" type="lsep" label="30107" />
-    <setting id="guide_preference_0" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="2" />
-    <setting id="guide_cache_0" type="bool" label="30113" default="true" />
-    <setting id="guide_cache_hours_0" type="number" label="30114" default="24" />
-    <setting id="sep3_0" type="lsep" label="30115" />
-    <setting id="xmltv_scope_0" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_0" type="text" option="hidden" label="30117" default="http://195.154.221.171/epg/guideexyu.xml.gz" visible="eq(-1,0)" />
-    <setting id="xmltv_path_0" type="file" label="30118" default="" visible="eq(-2,1)" />
-    <setting id="sep4_0" type="lsep" label="30119" />
-    <setting id="token_0" type="text" label="30120" default="" />
-    <setting id="serial_number_0" type="text" label="30121" default="" />
-    <setting id="device_id_0" type="text" label="30122" default="" />
-    <setting id="device_id2_0" type="text" label="30123" default="" />
-    <setting id="signature_0" type="text" label="30124" default="" />
-  </category>
-  <category label="32000">
-    <setting id="mac_1" type="text" option="hidden" label="30101" default="00:1A:79:00:1D:D7" />
-    <setting id="server_1" type="text" option="hidden" label="30102" default="http://ip.king-cobra.eu:8000/c/" />
-    <setting id="time_zone_1" type="text" label="30103" default="Europe/Berlin" />
-    <setting id="sep1_1" type="lsep" label="30104" />
-    <setting id="login_1" type="text" label="30105" default="" />
-    <setting id="password_1" type="text" option="hidden" label="30106" default="" />
-    <setting id="sep2_1" type="lsep" label="30107" />
-    <setting id="guide_preference_1" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="0" />
-    <setting id="guide_cache_1" type="bool" label="30113" default="true" />
-    <setting id="guide_cache_hours_1" type="number" label="30114" default="24" />
-    <setting id="sep3_1" type="lsep" label="30115" />
-    <setting id="xmltv_scope_1" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_1" type="text" option="hidden" label="30117" default="http://195.154.221.171/epg/guideexyu.xml.gz" visible="eq(-1,0)" />
-    <setting id="xmltv_path_1" type="file" label="30118" default="" visible="eq(-2,1)" />
-    <setting id="sep4_1" type="lsep" label="30119" />
-    <setting id="token_1" type="text" label="30120" default="" />
-    <setting id="serial_number_1" type="text" label="30121" default="" />
-    <setting id="device_id_1" type="text" label="30122" default="" />
-    <setting id="device_id2_1" type="text" label="30123" default="" />
-    <setting id="signature_1" type="text" label="30124" default="" />
-  </category>
-  <category label="33000">
-    <setting id="mac_2" type="text" option="hidden" label="30101" default="00:1a:79:43:1b:e2" />
-    <setting id="server_2" type="text" option="hidden" label="30102" default="http://mytv.fun:8080/c/" />
-    <setting id="time_zone_2" type="text" label="30103" default="Europe/Berlin" />
-    <setting id="sep1_2" type="lsep" label="30104" />
-    <setting id="login_2" type="text" label="30105" default="" />
-    <setting id="password_2" type="text" option="hidden" label="30106" default="" />
-    <setting id="sep2_2" type="lsep" label="30107" />
-    <setting id="guide_preference_2" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="0" />
-    <setting id="guide_cache_2" type="bool" label="30113" default="true" />
-    <setting id="guide_cache_hours_2" type="number" label="30114" default="24" />
-    <setting id="sep3_2" type="lsep" label="30115" />
-    <setting id="xmltv_scope_2" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_2" type="text" option="hidden" label="30117" default="http://195.154.221.171/epg/guideexyu.xml.gz" visible="eq(-1,0)" />
-    <setting id="xmltv_path_2" type="file" label="30118" default="" visible="eq(-2,1)" />
-    <setting id="sep4_2" type="lsep" label="30119" />
-    <setting id="token_2" type="text" label="30120" default="" />
-    <setting id="serial_number_2" type="text" label="30121" default="" />
-    <setting id="device_id_2" type="text" label="30122" default="" />
-    <setting id="device_id2_2" type="text" label="30123" default="" />
-    <setting id="signature_2" type="text" label="30124" default="" />
-  </category>
-  <category label="34000">
-    <setting id="mac_3" type="text" option="hidden" label="30101" default="00:1A:79:AC:8C:0E" />
-    <setting id="server_3" type="text" option="hidden" label="30102" default="http://mytv.fun:8080/c/" />
-    <setting id="time_zone_3" type="text" label="30103" default="Europe/Berlin" />
-    <setting id="sep1_3" type="lsep" label="30104" />
-    <setting id="login_3" type="text" label="30105" default="" />
-    <setting id="password_3" type="text" option="hidden" label="30106" default="" />
-    <setting id="sep2_3" type="lsep" label="30107" />
-    <setting id="guide_preference_3" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="0" />
-    <setting id="guide_cache_3" type="bool" label="30113" default="true" />
-    <setting id="guide_cache_hours_3" type="number" label="30114" default="24" />
-    <setting id="sep3_3" type="lsep" label="30115" />
-    <setting id="xmltv_scope_3" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_3" type="text" option="hidden" label="30117" default="http://195.154.221.171/epg/guideexyu.xml.gz" visible="eq(-1,0)" />
-    <setting id="xmltv_path_3" type="file" label="30118" default="" visible="eq(-2,1)" />
-    <setting id="sep4_3" type="lsep" label="30119" />
-    <setting id="token_3" type="text" label="30120" default="" />
-    <setting id="serial_number_3" type="text" label="30121" default="" />
-    <setting id="device_id_3" type="text" label="30122" default="" />
-    <setting id="device_id2_3" type="text" label="30123" default="" />
-    <setting id="signature_3" type="text" label="30124" default="" />
-  </category>
-  <category label="35000">
-    <setting id="mac_4" type="text" label="30101" default="00:1a:79:4a:d7:14" />
-    <setting id="server_4" type="text" label="30102" default="http://iptvclub.live:25461/c/" />
-    <setting id="time_zone_4" type="text" label="30103" default="Europe/Berlin" />
-    <setting id="sep1_4" type="lsep" label="30104" />
-    <setting id="login_4" type="text" label="30105" default="" />
-    <setting id="password_4" type="text" option="hidden" label="30106" default="" />
-    <setting id="sep2_4" type="lsep" label="30107" />
-    <setting id="guide_preference_4" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="0" />
-    <setting id="guide_cache_4" type="bool" label="30113" default="true" />
-    <setting id="guide_cache_hours_4" type="number" label="30114" default="24" />
-    <setting id="sep3_4" type="lsep" label="30115" />
-    <setting id="xmltv_scope_4" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_4" type="text" option="hidden" label="30117" default="http://195.154.221.171/epg/guideexyu.xml.gz" visible="eq(-1,0)" />
-    <setting id="xmltv_path_4" type="file" label="30118" default="" visible="eq(-2,1)" />
-    <setting id="sep4_4" type="lsep" label="30119" />
-    <setting id="token_4" type="text" label="30120" default="" />
-    <setting id="serial_number_4" type="text" label="30121" default="" />
-    <setting id="device_id_4" type="text" label="30122" default="" />
-    <setting id="device_id2_4" type="text" label="30123" default="" />
-    <setting id="signature_4" type="text" label="30124" default="" />
-  </category>
-  <category label="36000">
-    <setting id="mac_5" type="text" option="hidden" label="30101" default="00:1a:79:31:b6:a6" />
-    <setting id="server_5" type="text" option="hidden" label="30102" default="http://iptvclub.live:25461/c/" />
-    <setting id="time_zone_5" type="text" label="30103" default="Europe/Zagreb" />
-    <setting id="sep1_5" type="lsep" label="30104" />
-    <setting id="login_5" type="text" label="30105" default="" />
-    <setting id="password_5" type="text" option="hidden" label="30106" default="" />
-    <setting id="sep2_5" type="lsep" label="30107" />
-    <setting id="guide_preference_5" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="0" />
-    <setting id="guide_cache_5" type="bool" label="30113" default="true" />
-    <setting id="guide_cache_hours_5" type="number" label="30114" default="24" />
-    <setting id="sep3_5" type="lsep" label="30115" />
-    <setting id="xmltv_scope_5" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_5" type="text" option="hidden" label="30117" default="http://195.154.221.171/epg/guideexyu.xml.gz" visible="eq(-1,0)" />
-    <setting id="xmltv_path_5" type="file" label="30118" default="" visible="eq(-2,1)" />
-    <setting id="sep4_5" type="lsep" label="30119" />
-    <setting id="token_5" type="text" label="30120" default="" />
-    <setting id="serial_number_5" type="text" label="30121" default="" />
-    <setting id="device_id_5" type="text" label="30122" default="" />
-    <setting id="device_id2_5" type="text" label="30123" default="" />
-    <setting id="signature_5" type="text" label="30124" default="" />
-  </category>
-  <category label="37000">
-    <setting id="mac_6" type="text" option="hidden" label="30101" default="00:1a:79:aa:6b:d6" />
-    <setting id="server_6" type="text" option="hidden" label="30102" default="http://restream.geniptv.com:8080/c/" />
-    <setting id="time_zone_6" type="text" label="30103" default="Europe/Zagreb" />
-    <setting id="sep1_6" type="lsep" label="30104" />
-    <setting id="login_6" type="text" label="30105" default="" />
-    <setting id="password_6" type="text" option="hidden" label="30106" default="" />
-    <setting id="sep2_6" type="lsep" label="30107" />
-    <setting id="guide_preference_6" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="0" />
-    <setting id="guide_cache_6" type="bool" label="30113" default="true" />
-    <setting id="guide_cache_hours_6" type="number" label="30114" default="24" />
-    <setting id="sep3_6" type="lsep" label="30115" />
-    <setting id="xmltv_scope_6" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_6" type="text" option="hidden" label="30117" default="http://195.154.221.171/epg/guideexyu.xml.gz" visible="eq(-1,0)" />
-    <setting id="xmltv_path_6" type="file" label="30118" default="" visible="eq(-2,1)" />
-    <setting id="sep4_6" type="lsep" label="30119" />
-    <setting id="token_6" type="text" label="30120" default="" />
-    <setting id="serial_number_6" type="text" label="30121" default="" />
-    <setting id="device_id_6" type="text" label="30122" default="" />
-    <setting id="device_id2_6" type="text" label="30123" default="" />
-    <setting id="signature_6" type="text" label="30124" default="" />
-  </category>
-  <category label="38000">
-    <setting id="mac_7" type="text" option="hidden" label="30101" default="00:1a:79:aa:71:72" />
-    <setting id="server_7" type="text" option="hidden" label="30102" default="http://restream.geniptv.com:8080/c/" />
-    <setting id="time_zone_7" type="text" label="30103" default="Europe/Berlin" />
-    <setting id="sep1_7" type="lsep" label="30104" />
-    <setting id="login_7" type="text" label="30105" default="" />
-    <setting id="password_7" type="text" option="hidden" label="30106" default="" />
-    <setting id="sep2_7" type="lsep" label="30107" />
-    <setting id="guide_preference_7" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="0" />
-    <setting id="guide_cache_7" type="bool" label="30113" default="true" />
-    <setting id="guide_cache_hours_7" type="number" label="30114" default="24" />
-    <setting id="sep3_7" type="lsep" label="30115" />
-    <setting id="xmltv_scope_7" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_7" type="text" option="hidden" label="30117" default="http://195.154.221.171/epg/guideexyu.xml.gz" visible="eq(-1,0)" />
-    <setting id="xmltv_path_7" type="file" label="30118" default="" visible="eq(-2,1)" />
-    <setting id="sep4_7" type="lsep" label="30119" />
-    <setting id="token_7" type="text" label="30120" default="" />
-    <setting id="serial_number_7" type="text" label="30121" default="" />
-    <setting id="device_id_7" type="text" label="30122" default="" />
-    <setting id="device_id2_7" type="text" label="30123" default="" />
-    <setting id="signature_7" type="text" label="30124" default="" />
-  </category>
-    <category label="39000">
-    <setting id="mac_8" type="text" option="hidden" label="30101" default="00:1A:79:28:9B:47" />
-    <setting id="server_8" type="text" option="hidden" label="30102" default="http://iptvgarden.streamtv.to:8080/c/" />
-    <setting id="time_zone_8" type="text" label="30103" default="Europe/Berlin" />
-    <setting id="sep1_8" type="lsep" label="30104" />
-    <setting id="login_8" type="text" label="30105" default="" />
-    <setting id="password_8" type="text" option="hidden" label="30106" default="" />
-    <setting id="sep2_8" type="lsep" label="30107" />
-    <setting id="guide_preference_8" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="0" />
-    <setting id="guide_cache_8" type="bool" label="30113" default="true" />
-    <setting id="guide_cache_hours_8" type="number" label="30114" default="24" />
-    <setting id="sep3_8" type="lsep" label="30115" />
-    <setting id="xmltv_scope_8" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_8" type="text" option="hidden" label="30117" default="http://195.154.221.171/epg/guideexyu.xml.gz" visible="eq(-1,0)" />
-    <setting id="xmltv_path_8" type="file" label="30118" default="" visible="eq(-2,1)" />
-    <setting id="sep4_8" type="lsep" label="30119" />
-    <setting id="token_8" type="text" label="30120" default="" />
-    <setting id="serial_number_8" type="text" label="30121" default="" />
-    <setting id="device_id_8" type="text" label="30122" default="" />
-    <setting id="device_id2_8" type="text" label="30123" default="" />
-    <setting id="signature_8" type="text" label="30124" default="" />
-  </category>
-      <category label="40000">
-    <setting id="mac_9" type="text" option="hidden" label="30101" default="00:1A:79:28:96:21" />
-    <setting id="server_9" type="text" option="hidden" label="30102" default="http://iptvgarden.streamtv.to:8080/c/" />
-    <setting id="time_zone_9" type="text" label="30103" default="Europe/Berlin" />
-    <setting id="sep1_9" type="lsep" label="30104" />
-    <setting id="login_9" type="text" label="30105" default="" />
-    <setting id="password_9" type="text" option="hidden" label="30106" default="" />
-    <setting id="sep2_9" type="lsep" label="30107" />
-    <setting id="guide_preference_9" type="enum" label="30108" lvalues="30109|30110|30111|30112" default="0" />
-    <setting id="guide_cache_9" type="bool" label="30113" default="true" />
-    <setting id="guide_cache_hours_9" type="number" label="30114" default="24" />
-    <setting id="sep3_9" type="lsep" label="30115" />
-    <setting id="xmltv_scope_9" type="enum" label="30116" lvalues="30117|30118" default="0" />
-    <setting id="xmltv_url_9" type="text" label="30117" default="http://195.154.221.171/epg/guideexyu.xml.gz" visible="eq(-1,0)" />
-    <setting id="xmltv_path_9" type="file" label="30118" default="" visible="eq(-2,1)" />
-    <setting id="sep4_9" type="lsep" label="30119" />
-    <setting id="token_9" type="text" label="30120" default="" />
-    <setting id="serial_number_9" type="text" label="30121" default="" />
-    <setting id="device_id_9" type="text" label="30122" default="" />
-    <setting id="device_id2_9" type="text" label="30123" default="" />
-    <setting id="signature_9" type="text" label="30124" default="" />
-  </category>
+<settings version="2">
+    <setting id="_fresh">true</setting>
+    <setting id="_userdata">{&quot;username&quot;:&quot;f.angeletti87@gmail.com&quot;,&quot;profile&quot;:&quot;valerio grooth&quot;,&quot;profile_id&quot;:&quot;0b269ae9-5e00-4588-9e9e-fa8e8f6ebd50&quot;,&quot;profile_language&quot;:&quot;es-419&quot;,&quot;access_token&quot;:&quot;eyJraWQiOiI4ODA0OGI3MS1jMjhlLTQ5MDQtYWMwOS03NzdiMTFmNzUyNDAiLCJhbGciOiJFZERTQSJ9.eyJpc3MiOiJ1cm46YmFtdGVjaDpzZXJ2aWNlOnRva2VuIiwicGFydG5lck5hbWUiOiJkaXNuZXkiLCJlbnYiOiJwcm9kIiwic3ViIjoiNjA2NDBlODItYTgzMS00MjIyLWEyMGEtNTk3Yzc3YjIzODAwIiwiaWF0IjoxNjE3MTEwMTYzLCJuYmYiOjE2MTcxMTAxNjMsImV4cCI6MTYxNzEyNDU2MywianRpIjoiODEyY2U0ZmQtYTFiOS00YTFlLTllZjEtYjAyNmY4ZWZmYTcxIiwiY29udGV4dCI6eyJ2ZXJzaW9uIjoiVjIuMC4wIiwiaWQiOiIxM2NlMTg1MC05MTVhLTExZWItYmFlMS0wMjQyYWMxMTAwMDUiLCJwYXJ0bmVyIjp7Im5hbWUiOiJkaXNuZXkifSwidHlwZSI6IlJFR0lTVEVSRUQiLCJpcF9hZGRyZXNzIjoiNzkuMjA0LjE4Ny4xMDMiLCJkZXZpY2UiOnsiaWQiOiIzN2ZlMmU2ZC1mY2YyLTQzNDAtYTIzYS1iZTAxZTVhYzNiMWMiLCJwbGF0Zm9ybSI6ImJyb3dzZXIiLCJ0eXBlIjoidXJuOmRzczpkZXZpY2U6aW50ZXJuYWwiLCJhcHBfcnVudGltZSI6ImFuZHJvaWQiLCJmYW1pbHkiOiJhbmRyb2lkIiwicHJvZmlsZSI6InR2IiwibW9kZWwiOiIifSwibG9jYXRpb24iOnsidHlwZSI6IlpJUF9DT0RFIiwiemlwX2NvZGUiOiI4NDM4NSIsImNvdW50cnlfY29kZSI6IkRFIiwiZG1hIjowLCJjaXR5X25hbWUiOiJlZ2dsaGFtIiwiYXNuIjozMzIwLCJyZWdpb25fbmFtZSI6IiIsInN0YXRlX25hbWUiOiJiYXllcm4iLCJjb25uZWN0aW9uX3R5cGUiOiJkc2wiLCJjYXJyaWVyIjoiZGV1dHNjaGUgdGVsZWtvbSBhZyJ9LCJhY2NvdW50Ijp7InR5cGUiOiJ1cm46YmFtdGVjaDphY2NvdW50IiwiaWQiOiI2MDY0MGU4Mi1hODMxLTQyMjItYTIwYS01OTdjNzdiMjM4MDAiLCJkYXRhIjp7fSwibG9jYXRpb25zIjp7InJlZ2lzdHJhdGlvbiI6eyJjb3VudHJ5IjoiSVQifX19LCJwcm9maWxlcyI6W3siYWN0aXZlIjp0cnVlLCJ0eXBlIjoidXJuOmJhbXRlY2g6cHJvZmlsZSIsImlkIjoiMGIyNjlhZTktNWUwMC00NTg4LTllOWUtZmE4ZThmNmViZDUwIiwicGFyZW50YWxfY29udHJvbHMiOnsiZW5hYmxlZCI6dHJ1ZSwibWF0dXJpdHlfcmF0aW5nIjp7InJhdGluZ19zeXN0ZW0iOiJEaXNuZXlQbHVzRU1FQSIsImNvbnRlbnRfbWF0dXJpdHlfcmF0aW5nIjoiMTQiLCJpbXBsaWVkX21hdHVyaXR5X3JhdGluZyI6MH0sImlzX2FnZTIxX3ZlcmlmaWVkIjpmYWxzZSwiaXNfcGluX3Byb3RlY3RlZCI6ZmFsc2UsInBpbl9lbnRyeV9leHBpcmVzX2F0IjoiIn0sImtpZHNfbW9kZV9lbmFibGVkIjpmYWxzZSwibGFuZ3VhZ2VfcHJlZmVyZW5jZXMiOnsiYXBwX2xhbmd1YWdlIjoiZXMtNDE5IiwicGxheWJhY2tfbGFuZ3VhZ2UiOiJpdCIsInN1YnRpdGxlX2xhbmd1YWdlIjoiaXQifSwiYXZhdGFyIjp7ImlkIjoiZmZkMTMwNGUtM2I1Zi01YTJmLWFjNWItYjY5YjdjZjJjOWE0In0sInBsYXliYWNrX3NldHRpbmdzIjp7InByZWZlcl8xMzMiOmZhbHNlfSwiZ3JvdXBfd2F0Y2giOnsiZW5hYmxlZCI6ZmFsc2V9fV0sImFjdGl2ZV9wcm9maWxlX2lkIjoiMGIyNjlhZTktNWUwMC00NTg4LTllOWUtZmE4ZThmNmViZDUwIiwiZ2VuZXJhdGVkX29uIjoiMjAyMS0wMy0zMFQxMzoxNjowMy4wMzIrMDAwMCIsInVwZGF0ZWRfb24iOiIyMDIxLTAzLTMwVDEzOjE2OjAzLjAzMiswMDAwIiwiZXhwaXJlc19vbiI6IjIwMjEtMDMtMzBUMTc6MTY6MDMuMDMyKzAwMDAiLCJtZWRpYV9wZXJtaXNzaW9ucyI6eyJlbnRpdGxlbWVudHMiOlsiRElTTkVZX1BMVVMiXSwicnVsZXMiOnsicGFzc2VkIjpbXX0sImRhdGEiOnt9fSwiYmxhY2tvdXRzIjp7ImVudGl0bGVtZW50cyI6W10sInJ1bGVzIjp7InZpb2xhdGVkIjpbXX0sImRhdGEiOnt9fSwiaG9tZV9sb2NhdGlvbiI6eyJ0eXBlIjoiQ09VTlRSWV9DT0RFIiwiemlwX2NvZGUiOiIiLCJjb3VudHJ5X2NvZGUiOiJJVCIsImRtYSI6MCwiY2l0eV9uYW1lIjoiIiwiYXNuIjowLCJyZWdpb25fbmFtZSI6IiIsInN0YXRlX25hbWUiOiIiLCJjb25uZWN0aW9uX3R5cGUiOiIiLCJjYXJyaWVyIjoiIn0sInN1YnNjcmlwdGlvbnMiOlt7ImVudGl0bGVtZW50cyI6WyJESVNORVlfUExVUyJdLCJjYW5vbmljYWxTb3VyY2UiOnsidHlwZSI6IklBUCIsInByb3ZpZGVyIjoiQU1BWk9OIiwic3ViVHlwZSI6IiIsInJlZiI6IjRCQzFOSGxpUks1Z19sOWc3dUtRRnAzcWdnMzdsUlFHbUVpZUtfSmgzcWs9OjM6MjUifSwiaWQiOiJ1cm46YmFtdGVjaG1lZGlhOnN1YnNjcmlwdGlvbi1hcGk6c3Vic2NyaXB0aW9uOklBUDpBTUFaT046NEJDMU5IbGlSSzVnX2w5Zzd1S1FGcDNxZ2czN2xSUUdtRWllS19KaDNxaz06MzoyNSIsImV4cGlyZXNfb24iOiIiLCJyZW5ld3Nfb24iOiIyMDIxLTAzLTMxVDA4OjQ0OjQxLjAwMFoifV0sInN1cHBvcnRlZCI6dHJ1ZSwiY291bnRyeV9zZXR0aW5ncyI6eyJjb2RlIjoiREUiLCJ0aW1lem9uZSI6eyJuYW1lIjoiRXVyb3BlL0JlcmxpbiIsInV0Y19vZmZzZXQiOiIrMDI6MDAifSwicmF0aW5nX3N5c3RlbXMiOlsiZnNrIiwiZnNmIiwiZSJdfSwiZXhwZXJpbWVudHMiOnsiNDM1NjBlNDEmJmFhdGVzdEphbjI3Ijp7InZhcmlhbnRfaWQiOiJjb250cm9sIiwidmVyc2lvbiI6MX19LCJwcmVmZXJyZWRfbWF0dXJpdHlfcmF0aW5nIjp7InJhdGluZ19zeXN0ZW0iOiJGU0tBbmRGU0ZBbmRFIiwiaW1wbGllZF9tYXR1cml0eV9yYXRpbmciOjE0OTksInByb2ZpbGVfaGFzX21hdHVyaXR5X3JhdGluZyI6dHJ1ZX19fQ.26bdVgyZAXEQWFVI4DfGjBOt8LyMNveVxaQdj-EvUPp05_am5_OaUo-AoEDV-mD_zqCwH2EHgb2nmHCGFjfyBQ&quot;,&quot;expires&quot;:1617124547,&quot;avatar&quot;:&quot;https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7220282733C487DE47C3EEAFFFE3C9AAA39C135CA84DBC2D54FFE913B418D9E6&quot;,&quot;refresh_token&quot;:&quot;eyJ6aXAiOiJERUYiLCJraWQiOiJLcTYtNW1Ia3BxOXdzLUtsSUUyaGJHYkRIZFduRjU3UjZHY1h6aFlvZi04IiwiY3R5IjoiSldUIiwiZW5jIjoiQzIwUCIsImFsZyI6ImRpciJ9..gLZOxNUMJfKSaycN.61HTfi8s08JNROOm-d-lTJGqIDTG5xDhIy_aRTx82Ed0medeyHYtEKTlfNM3YpHBb-r4cTAJg6FYMBOUEEvc8vZY8esvnSY4IccKL0nOhuqDZTzurIp9Oz6AjWNmulXqe1uFLq0I-XUCPxva9DXmHTHnFvrFYyN1QMYsbKA0DbRr4Z-5XJk2gtLJ_9FwuHZtkKnDOgCTnAgQM6E50M-v43hYyGYl6CMi4ifpf3pjSpZ8pf_iUOYz_eNCEgLSTDgxRKzdnRtWRYma0FmKUJkM8ej8u_qV7Smqi3sESV0Y6b94d7ubGu0rTL8KeZR-SERTK_wLRRAP6VEqPRhVAJ4CvHzeshkjHlZwAl9ru1NAbb009PSNmdfo_14cE3h2MZhKm5DMUn0R4oQTnYPnh5cXpYIMfgJK5w7A9cNn0xdsuBo9JGZxbCeneeVRem2NYw3NCmBxGBdGvu63XxKHrFIicVzdhlcU8JF1a-bxZk-1ypg06GSb0q38NOGi0HFccDthd1ui5iKHOGHiStJKDGCSMwWOjVM4UmRGludqKDKlHaQ0c6sjqieYhXtkWl6EOoGeE7AvVmm4gLV5v0a08MnuA_5Z775Hd8RCYhxrfjXc2lR6WeZu-SNL8qpRPUZwrcmeglZQREhIBNo3r4EBQ8S70kTphzLuMmbGMWWTibjpBkzShDKFzktyrWBamdtHYWUKqQB9c1yyajoCRzb-P_2uyKhtrtiCR75N0fTmpgVUsSKQVxXiMGVPpJG_1JXIdsEatCHAe8tuZQlbw7Fa4-xg-2AT8oQ4UdbL1dAQeiVa7f8LeAXb_LdlIZu2o1Qd8qEvsH1kVxVlFx8XHWCeKdxfQDcbmXsWkaC_y5SZ7YyHiwL0C6DlevI8r21jHLz82Pi775Cb5-8QLTsaKiwm3c8bulQG8EcPgblk-gG2Xn2TN3r9lRD7k5bqlXDdA89peMz0oQ0NvMwn2YvgbEHZEjlnxm39zZDVaKueHuJJ_qgjPwbly82HXw4Q4dgjGoQMUnVl_lCJMULWhH3iuJhPHGN7bu4YSIJGwueArWhWN-nPjsME1rOEILrGEaCP8Gb8mEJphLpWRiwuiY16XkHhktAk5M8upZuU19UxJWvy-KcCq5TGjZ0gK2GCrDGNH6ORB2zww7nWHnTC6MpsQUsc6Aiyf6UWvN1mjV3aPXExJT8O57pq_YigwX6Zt9h6OzG_vZrHEQ0prqqQVe3yBwu5TdvxlCHRMi7z5oC1L7z9cOmUOSNGNLgIaQz9j08nfo3SV5tKE0lCrpwowREtnECUeoKQerbMkw9kuLiwPD43nac5IFX2NYkRy6srBpJkkGxA43RICsKHSf_ublwMBgKHL43_VnylQ0tDAIAx9vQQTz0gww4zSTo1wJabvOzjzG4wUB1EWOgeQ3OaqpOS7CyeGmiFHNzzhQssEKStRuHD7CA8Ne437jZBffkV977hGQ84h3c1xQ_GBFaNwbAVvQ7En9gOQYfb1u2Yz0-mULgDVzU3dBU5NYLYPxeMaOpJWrEXob9BO30CJ0eHZV6YcAEXe4f-9bdpzw0fIX0mCvk86eAnvm1cBKcvvgwn4v4PapnY_QvBwRqYD1MQt0IdwCWzqLawB3AbXAVb4C3yA6RLZb478QFn0vxy14MAmWWU9ZO1i8ckfxatkjE7TyBLn062nSySgXKfmOgmYJlq5eG431HDtH1tzOu4sS-gvBRZiiKRINRSXg4FpzFfMVXR_TTCj9uyRvWMpuUKh3BUSMbdR1lx9Iz5zcydF2w4j6tZyYhFjJqE-k81NcASMD9YP93Sj26bu94CiR4N-aX_4Pn_8S8S32LoQhhDq9IbhrFDhiLv293fwjGm055XZvoJijo68xitK6cydg7JC2nvN_TpKjD-ONsC2_zx3MaaI4CDSy4a11vhCG7tc6qkihI3sgyLSmOIr2jGdJiDwmSMVo_lsuuWnV-O7hWayYEnvtAgcupJJ_F0caFDErPpGSpEGG1LBM-pidNYfL1366TTPtmLRgRAGJ4PsxC6GwcdMQwy3iIjFAntyivbld_yD6j_ekfrV2dS_o6pU1lc3WTKAWV88RtwYS8nbD2hwWEteq8CsF-6CDfU0LPmQAxHncnHjjh5C5NNmb3T0-gfUivEIi4ckzw1QG66Sx44sE6FTqlgftVKpG4471Eu09SunwFhKTm8uqKcY81sM5HOkcADv4MIVkWM-bjZqB8scVZB_zMiF61KoYoGbKkVdoBwoqjHaDKBVNjxtMhjiIyOgBEjBTKwAzafREsQa8NOfEBeg9C3AxXxCKlvH6y2RKoZrcju9Lnw8kFhJxuM48duOI0Nz4GdYufVUl3OAWJQ4HvVLlYNC4xmJE6vkUgPv4ZpOgge3_lkF9AsG44lgMPJAUrcyf9hdcv3qWVqq9YoFf0qX2FzZxsXlz7dzrM5w02dw4JqgPNLV-hNeKo_QNdslC0O8F1DIBheZZjwRvkvaFq05Edm7wAax51XvP1IMoTRyaLeZepnoR50JKWKl8YSkXMZFL_4t5tXqnnekGaASs0nolNyMLUiz3SGUCZ5JSkZMUaM_D2E6Mad-jbKc6JM_URVvudx22oxaYVrW6RYS8OnGDgWr-uBPXSvvl1aHHkd0PcgzX4BjjM7Y3HTUlXJSc8RrTFmwbYH_yz4F0wCnIiluBKaKJkXX9Pzcksmd_6r1Da1oBMjoAjhAgU1uMhp8h47rCFKBPYeZHIfi1DusxRPG7Ytuhv8g54t6EkM2wJedi6SxkeY3Wa8-r9XZGXUWcF3ZIQ9WY87lk02zwU8Y_IPZu1NJI3OdkpUZ0ArWeFKc4NMhkqkXgcE4Z_x7RWhlbD_EbjEX54X7wa3VMOJCjq_k_AefbPK5snLg1SmdTdt-isZBVxZS88wUc1AXVW3JtSaGWm5Or_brCO_l0kOM_y8ic-ukl5FzsLeQSgDdv84cd7BoJuHsMx-3xibri7Cd4RogamOPtsMXmuzdNGTmsbMjJlweKaThb4e-iv4l6KvyvXiuo9OE3zVyCiBy14s6OhYg2K0.pXk1rM6XouLvX3nrJrV8RA&quot;}</setting>
+    <setting id="audio_description">true</setting>
+    <setting id="audio_whitelist" default="true"></setting>
+    <setting id="bookmarks">true</setting>
+    <setting id="chunksize">4096</setting>
+    <setting id="default_quality">1</setting>
+    <setting id="disney_sync" default="true">false</setting>
+    <setting id="dolby_atmos" default="true">false</setting>
+    <setting id="dolby_vision" default="true">false</setting>
+    <setting id="h265">true</setting>
+    <setting id="hdr10">true</setting>
+    <setting id="http_retries">2</setting>
+    <setting id="http_timeout">30</setting>
+    <setting id="kid_lockdown" default="true">false</setting>
+    <setting id="kiosk" default="true">false</setting>
+    <setting id="max_bandwidth">7</setting>
+    <setting id="play_next_episode">true</setting>
+    <setting id="play_next_movie" default="true">false</setting>
+    <setting id="service_delay" default="true">0</setting>
+    <setting id="skip_credits">true</setting>
+    <setting id="skip_intros" default="true">false</setting>
+    <setting id="subs_forced">true</setting>
+    <setting id="subs_non_forced">true</setting>
+    <setting id="subs_whitelist" default="true"></setting>
+    <setting id="use_ia_hls_live" default="true">false</setting>
+    <setting id="use_ia_hls_vod" default="true">false</setting>
+    <setting id="verify_ssl">true</setting>
+    <setting id="wv_secure" default="true">false</setting>
 </settings>
