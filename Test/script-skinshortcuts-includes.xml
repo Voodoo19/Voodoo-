@@ -1257,11 +1257,11 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/tv.1</property>
 			<property name="isSubmenu">True</property>
@@ -1275,11 +1275,11 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/tv.1</property>
 			<property name="isSubmenu">True</property>
@@ -1686,11 +1686,11 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/tv.1</property>
 			<property name="isSubmenu">True</property>
@@ -1704,11 +1704,11 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/tv.1</property>
 			<property name="isSubmenu">True</property>
@@ -1724,11 +1724,11 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/tv.1</property>
 			<property name="isSubmenu">True</property>
@@ -1742,11 +1742,11 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/tv.1</property>
 			<property name="isSubmenu">True</property>
@@ -4703,7 +4703,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4733,7 +4733,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4770,7 +4770,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4800,7 +4800,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
