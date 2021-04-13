@@ -68,11 +68,11 @@
 		<item id="5">
 			<property name="id">$NUMBER[5]</property>
 			<label>LIVE TV</label>
-			<label2>Live-TV</label2>
+			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/extras/icons/livetv.png</icon>
 			<thumb />
 			<property name="labelID">livetv</property>
-			<property name="defaultID">19019</property>
+			<property name="defaultID" />
 			<visible>System.HasPVRAddon</visible>
 			<onclick>ActivateWindow(TVChannels)</onclick>
 			<property name="path">ActivateWindow(TVChannels)</property>
@@ -84,11 +84,11 @@
 		</item>
 		<item id="6">
 			<property name="id">$NUMBER[6]</property>
-			<label>TV</label>
+			<label>Live TV</label>
 			<label2>Common Shortcut</label2>
 			<icon>special://skin/extras/icons/livetv.png</icon>
 			<thumb />
-			<property name="labelID">tv</property>
+			<property name="labelID">livetv--0</property>
 			<property name="defaultID">livetv</property>
 			<visible>False</visible>
 			<onclick>noop</onclick>
@@ -230,7 +230,6 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fscript.pvr%2fresources%2ficon.png/</thumb>
 			<property name="labelID">script.pvr</property>
 			<property name="defaultID">script.pvr</property>
-			<property name="translatedPath">RunAddOn(script.pvr)</property>
 			<onclick>RunAddOn(script.pvr)</onclick>
 			<property name="path">RunAddOn(script.pvr)</property>
 			<property name="list">RunAddOn(script.pvr)</property>
@@ -242,11 +241,11 @@
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">5</property>
 			<label>Zugang wechseln</label>
-			<label2>Benutzerdefinierte Einträge</label2>
+			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb />
+			<thumb>special://skin/extras/icons/</thumb>
 			<property name="labelID">zugangwechseln</property>
-			<property name="defaultID" />
+			<property name="defaultID">plugin.video.livetvSerbia</property>
 			<onclick>Addon.OpenSettings(pvr.pavootva)</onclick>
 			<property name="path">Addon.OpenSettings(pvr.pavootva)</property>
 			<property name="list">Addon.OpenSettings(pvr.pavootva)</property>
@@ -263,12 +262,12 @@
 			<thumb />
 			<property name="labelID">19023</property>
 			<property name="defaultID">19023</property>
-			<visible>[System.HasPVRAddon] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>[System.HasPVRAddon] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv-0)</visible>
 			<onclick>ActivateWindow(TVChannels)</onclick>
 			<property name="path">ActivateWindow(TVChannels)</property>
 			<property name="list">TVChannels</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -280,12 +279,12 @@
 			<thumb />
 			<property name="labelID">22020</property>
 			<property name="defaultID">22020</property>
-			<visible>[System.HasPVRAddon] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>[System.HasPVRAddon] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv-0)</visible>
 			<onclick>ActivateWindow(TVGuide)</onclick>
 			<property name="path">ActivateWindow(TVGuide)</property>
 			<property name="list">TVGuide</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -297,12 +296,12 @@
 			<thumb />
 			<property name="labelID">19163</property>
 			<property name="defaultID">19163</property>
-			<visible>[System.HasPVRAddon] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>[System.HasPVRAddon] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv-0)</visible>
 			<onclick>ActivateWindow(TVRecordings)</onclick>
 			<property name="path">ActivateWindow(TVRecordings)</property>
 			<property name="list">TVRecordings</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="4">
@@ -314,12 +313,12 @@
 			<thumb />
 			<property name="labelID">19040</property>
 			<property name="defaultID">19040</property>
-			<visible>[System.HasPVRAddon] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>[System.HasPVRAddon] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv-0)</visible>
 			<onclick>ActivateWindow(TVTimers)</onclick>
 			<property name="path">ActivateWindow(TVTimers)</property>
 			<property name="list">TVTimers</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="5">
@@ -331,12 +330,12 @@
 			<thumb />
 			<property name="labelID">137</property>
 			<property name="defaultID">137</property>
-			<visible>[System.HasPVRAddon] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>[System.HasPVRAddon] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv-0)</visible>
 			<onclick>ActivateWindow(TVSearch)</onclick>
 			<property name="path">ActivateWindow(TVSearch)</property>
 			<property name="list">TVSearch</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="1">
@@ -1257,7 +1256,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
@@ -1275,7 +1274,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
@@ -1341,47 +1340,15 @@
 			<label>TV</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">tv</property>
-			<property name="defaultID" />
+			<thumb />
+			<property name="labelID">plugin.video.tv</property>
+			<property name="defaultID">plugin.video.tv</property>
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.tv",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.tv",return)</property>
+			<property name="list">plugin://plugin.video.tv</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv)</visible>
 			<property name="group">livetv.1</property>
-			<property name="isSubmenu">True</property>
-		</item>
-		<item id="1">
-			<property name="id">$NUMBER[1]</property>
-			<property name="mainmenuid">6</property>
-			<label>$LOCALIZE[19287]</label>
-			<label2 />
-			<icon>DefaultAddonPVRClient.png</icon>
-			<thumb />
-			<property name="labelID">19287</property>
-			<property name="defaultID">19287</property>
-			<onclick>pvr://channels/tv/*</onclick>
-			<property name="path">pvr://channels/tv/*</property>
-			<property name="list">pvr://channels/tv/*</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
-			<property name="group">tv.1</property>
-			<property name="isSubmenu">True</property>
-		</item>
-		<item id="2">
-			<property name="id">$NUMBER[2]</property>
-			<property name="mainmenuid">6</property>
-			<label>Zuletzt Abgespielt</label>
-			<label2>Benutzerdefinierte Einträge</label2>
-			<icon>DefaultAddonPVRClient.png</icon>
-			<thumb />
-			<property name="labelID">zuletztabgespielt</property>
-			<property name="defaultID">31381</property>
-			<onclick>pvr://channels/tv/*?view=lastplayed</onclick>
-			<property name="path">pvr://channels/tv/*?view=lastplayed</property>
-			<property name="list">pvr://channels/tv/*?view=lastplayed</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
-			<property name="group">tv.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="1">
@@ -1390,13 +1357,15 @@
 			<label>Theke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">theke</property>
-			<property name="defaultID" />
+			<thumb />
+			<property name="labelID">plugin.video.theke</property>
+			<property name="defaultID">plugin.video.theke</property>
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.theke",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.theke",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.theke",return)</property>
+			<property name="list">plugin://plugin.video.theke</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
 			<property name="isSubmenu">True</property>
@@ -1404,11 +1373,11 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>Theke</label>
+			<label>Mediatheken</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
-			<property name="labelID">theke--0</property>
+			<property name="labelID">mediatheken</property>
 			<property name="defaultID" />
 			<property name="widgetAspect">Small Square</property>
 			<property name="widgetTarget">videos</property>
@@ -1686,7 +1655,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
@@ -1704,7 +1673,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
@@ -1724,7 +1693,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
@@ -1742,7 +1711,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.vc%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
 			<property name="widgetAspect">Poster</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
@@ -1840,7 +1809,6 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fscript.pvr%2fresources%2ficon.png/</thumb>
 			<property name="labelID">script.pvr</property>
 			<property name="defaultID">script.pvr</property>
-			<property name="translatedPath">RunAddOn(script.pvr)</property>
 			<onclick>RunAddOn(script.pvr)</onclick>
 			<property name="path">RunAddOn(script.pvr)</property>
 			<property name="list">RunAddOn(script.pvr)</property>
@@ -1852,11 +1820,11 @@
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">5</property>
 			<label>Zugang wechseln</label>
-			<label2>Benutzerdefinierte Einträge</label2>
+			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb />
+			<thumb>special://skin/extras/icons/</thumb>
 			<property name="labelID">zugangwechseln</property>
-			<property name="defaultID" />
+			<property name="defaultID">plugin.video.livetvSerbia</property>
 			<onclick>Addon.OpenSettings(pvr.pavootva)</onclick>
 			<property name="path">Addon.OpenSettings(pvr.pavootva)</property>
 			<property name="list">Addon.OpenSettings(pvr.pavootva)</property>
@@ -1875,7 +1843,6 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fscript.pvr%2fresources%2ficon.png/</thumb>
 			<property name="labelID">script.pvr</property>
 			<property name="defaultID">script.pvr</property>
-			<property name="translatedPath">RunAddOn(script.pvr)</property>
 			<onclick>RunAddOn(script.pvr)</onclick>
 			<property name="path">RunAddOn(script.pvr)</property>
 			<property name="list">RunAddOn(script.pvr)</property>
@@ -1887,11 +1854,11 @@
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">5</property>
 			<label>Zugang wechseln</label>
-			<label2>Benutzerdefinierte Einträge</label2>
+			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb />
+			<thumb>special://skin/extras/icons/</thumb>
 			<property name="labelID">zugangwechseln</property>
-			<property name="defaultID" />
+			<property name="defaultID">plugin.video.livetvSerbia</property>
 			<onclick>Addon.OpenSettings(pvr.pavootva)</onclick>
 			<property name="path">Addon.OpenSettings(pvr.pavootva)</property>
 			<property name="list">Addon.OpenSettings(pvr.pavootva)</property>
@@ -1924,13 +1891,13 @@
 			<label>TV</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">tv</property>
-			<property name="defaultID" />
+			<thumb />
+			<property name="labelID">plugin.video.tv</property>
+			<property name="defaultID">plugin.video.tv</property>
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.tv",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.tv",return)</property>
+			<property name="list">plugin://plugin.video.tv</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">livetv.1</property>
 			<property name="isSubmenu">True</property>
@@ -1960,19 +1927,19 @@
 			<label>TV</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">tv</property>
-			<property name="defaultID" />
+			<thumb />
+			<property name="labelID">plugin.video.tv</property>
+			<property name="defaultID">plugin.video.tv</property>
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.tv",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.tv",return)</property>
+			<property name="list">plugin://plugin.video.tv</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),livetv)</visible>
 			<property name="group">livetv.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-tv">
+	<include name="skinshortcuts-group-livetv-0">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">6</property>
@@ -1987,7 +1954,7 @@
 			<property name="path">ActivateWindow(TVChannels)</property>
 			<property name="list">TVChannels</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -2004,7 +1971,7 @@
 			<property name="path">ActivateWindow(TVGuide)</property>
 			<property name="list">TVGuide</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -2021,7 +1988,7 @@
 			<property name="path">ActivateWindow(TVRecordings)</property>
 			<property name="list">TVRecordings</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="4">
@@ -2038,7 +2005,7 @@
 			<property name="path">ActivateWindow(TVTimers)</property>
 			<property name="list">TVTimers</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="5">
@@ -2055,11 +2022,11 @@
 			<property name="path">ActivateWindow(TVSearch)</property>
 			<property name="list">TVSearch</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-alt-tv">
+	<include name="skinshortcuts-group-alt-livetv-0">
 		<item id="1">
 			<property name="id">$NUMBER[1]</property>
 			<property name="mainmenuid">6</property>
@@ -2069,12 +2036,12 @@
 			<thumb />
 			<property name="labelID">19023</property>
 			<property name="defaultID">19023</property>
-			<visible>[System.HasPVRAddon] + String.IsEqual(Window(10000).Property(submenuVisibility),tv)</visible>
+			<visible>[System.HasPVRAddon] + String.IsEqual(Window(10000).Property(submenuVisibility),livetv-0)</visible>
 			<onclick>ActivateWindow(TVChannels)</onclick>
 			<property name="path">ActivateWindow(TVChannels)</property>
 			<property name="list">TVChannels</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -2086,12 +2053,12 @@
 			<thumb />
 			<property name="labelID">22020</property>
 			<property name="defaultID">22020</property>
-			<visible>[System.HasPVRAddon] + String.IsEqual(Window(10000).Property(submenuVisibility),tv)</visible>
+			<visible>[System.HasPVRAddon] + String.IsEqual(Window(10000).Property(submenuVisibility),livetv-0)</visible>
 			<onclick>ActivateWindow(TVGuide)</onclick>
 			<property name="path">ActivateWindow(TVGuide)</property>
 			<property name="list">TVGuide</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -2103,12 +2070,12 @@
 			<thumb />
 			<property name="labelID">19163</property>
 			<property name="defaultID">19163</property>
-			<visible>[System.HasPVRAddon] + String.IsEqual(Window(10000).Property(submenuVisibility),tv)</visible>
+			<visible>[System.HasPVRAddon] + String.IsEqual(Window(10000).Property(submenuVisibility),livetv-0)</visible>
 			<onclick>ActivateWindow(TVRecordings)</onclick>
 			<property name="path">ActivateWindow(TVRecordings)</property>
 			<property name="list">TVRecordings</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="4">
@@ -2120,12 +2087,12 @@
 			<thumb />
 			<property name="labelID">19040</property>
 			<property name="defaultID">19040</property>
-			<visible>[System.HasPVRAddon] + String.IsEqual(Window(10000).Property(submenuVisibility),tv)</visible>
+			<visible>[System.HasPVRAddon] + String.IsEqual(Window(10000).Property(submenuVisibility),livetv-0)</visible>
 			<onclick>ActivateWindow(TVTimers)</onclick>
 			<property name="path">ActivateWindow(TVTimers)</property>
 			<property name="list">TVTimers</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="5">
@@ -2137,82 +2104,20 @@
 			<thumb />
 			<property name="labelID">137</property>
 			<property name="defaultID">137</property>
-			<visible>[System.HasPVRAddon] + String.IsEqual(Window(10000).Property(submenuVisibility),tv)</visible>
+			<visible>[System.HasPVRAddon] + String.IsEqual(Window(10000).Property(submenuVisibility),livetv-0)</visible>
 			<onclick>ActivateWindow(TVSearch)</onclick>
 			<property name="path">ActivateWindow(TVSearch)</property>
 			<property name="list">TVSearch</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv</property>
+			<property name="group">livetv--0</property>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-tv-1">
-		<item id="1">
-			<property name="id">$NUMBER[1]</property>
-			<property name="mainmenuid">6</property>
-			<label>$LOCALIZE[19287]</label>
-			<label2 />
-			<icon>DefaultAddonPVRClient.png</icon>
-			<thumb />
-			<property name="labelID">19287</property>
-			<property name="defaultID">19287</property>
-			<onclick>pvr://channels/tv/*</onclick>
-			<property name="path">pvr://channels/tv/*</property>
-			<property name="list">pvr://channels/tv/*</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv.1</property>
-			<property name="isSubmenu">True</property>
-		</item>
-		<item id="2">
-			<property name="id">$NUMBER[2]</property>
-			<property name="mainmenuid">6</property>
-			<label>Zuletzt Abgespielt</label>
-			<label2>Benutzerdefinierte Einträge</label2>
-			<icon>DefaultAddonPVRClient.png</icon>
-			<thumb />
-			<property name="labelID">zuletztabgespielt</property>
-			<property name="defaultID">31381</property>
-			<onclick>pvr://channels/tv/*?view=lastplayed</onclick>
-			<property name="path">pvr://channels/tv/*?view=lastplayed</property>
-			<property name="list">pvr://channels/tv/*?view=lastplayed</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">tv.1</property>
-			<property name="isSubmenu">True</property>
-		</item>
+	<include name="skinshortcuts-group-livetv-0-1">
+		<description>No items</description>
 	</include>
-	<include name="skinshortcuts-group-alt-tv-1">
-		<item id="1">
-			<property name="id">$NUMBER[1]</property>
-			<property name="mainmenuid">6</property>
-			<label>$LOCALIZE[19287]</label>
-			<label2 />
-			<icon>DefaultAddonPVRClient.png</icon>
-			<thumb />
-			<property name="labelID">19287</property>
-			<property name="defaultID">19287</property>
-			<onclick>pvr://channels/tv/*</onclick>
-			<property name="path">pvr://channels/tv/*</property>
-			<property name="list">pvr://channels/tv/*</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),tv)</visible>
-			<property name="group">tv.1</property>
-			<property name="isSubmenu">True</property>
-		</item>
-		<item id="2">
-			<property name="id">$NUMBER[2]</property>
-			<property name="mainmenuid">6</property>
-			<label>Zuletzt Abgespielt</label>
-			<label2>Benutzerdefinierte Einträge</label2>
-			<icon>DefaultAddonPVRClient.png</icon>
-			<thumb />
-			<property name="labelID">zuletztabgespielt</property>
-			<property name="defaultID">31381</property>
-			<onclick>pvr://channels/tv/*?view=lastplayed</onclick>
-			<property name="path">pvr://channels/tv/*?view=lastplayed</property>
-			<property name="list">pvr://channels/tv/*?view=lastplayed</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),tv)</visible>
-			<property name="group">tv.1</property>
-			<property name="isSubmenu">True</property>
-		</item>
+	<include name="skinshortcuts-group-alt-livetv-0-1">
+		<description>No items</description>
 	</include>
 	<include name="skinshortcuts-group-plugin-video-mediathekdirekt">
 		<description>No items</description>
@@ -2227,13 +2132,15 @@
 			<label>Theke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">theke</property>
-			<property name="defaultID" />
+			<thumb />
+			<property name="labelID">plugin.video.theke</property>
+			<property name="defaultID">plugin.video.theke</property>
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.theke",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.theke",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.theke",return)</property>
+			<property name="list">plugin://plugin.video.theke</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
 			<property name="isSubmenu">True</property>
@@ -2241,11 +2148,11 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>Theke</label>
+			<label>Mediatheken</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
-			<property name="labelID">theke--0</property>
+			<property name="labelID">mediatheken</property>
 			<property name="defaultID" />
 			<property name="widgetAspect">Small Square</property>
 			<property name="widgetTarget">videos</property>
@@ -2265,13 +2172,15 @@
 			<label>Theke</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.program.super.favourites%2ficon.png/</thumb>
-			<property name="labelID">theke</property>
-			<property name="defaultID" />
+			<thumb />
+			<property name="labelID">plugin.video.theke</property>
+			<property name="defaultID">plugin.video.theke</property>
 			<property name="widgetAspect">Small Square</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=",return)</property>
-			<property name="list">plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=</property>
+			<property name="widgetTarget">videos</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.theke",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.theke",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.theke",return)</property>
+			<property name="list">plugin://plugin.video.theke</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekdirekt)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
 			<property name="isSubmenu">True</property>
@@ -2279,11 +2188,11 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>Theke</label>
+			<label>Mediatheken</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
-			<property name="labelID">theke--0</property>
+			<property name="labelID">mediatheken</property>
 			<property name="defaultID" />
 			<property name="widgetAspect">Small Square</property>
 			<property name="widgetTarget">videos</property>
@@ -5038,7 +4947,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=" />
+			<param name="content" value="plugin://plugin.video.tv" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5068,7 +4977,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.program.super.favourites/?label=tv&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftv&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=" />
+			<param name="content" value="plugin://plugin.video.tv" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5082,140 +4991,6 @@
 			<onback>301</onback>
 			<visible>Integer.IsGreater(Container(53102).NumItems,0) | Container(53102).IsUpdating</visible>
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),5)</visible>
-			<include content="Defs_AutoScroll">
-				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
-			</include>
-		</include>
-		<include content="View_Cast_Toplabel">
-			<param name="groupid" value="67501" />
-			<param name="id" value="63101" />
-			<param name="label" value="$LOCALIZE[19287]" />
-			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[63101]).ListItem.Label)" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(id),6)</visible>
-		</include>
-		<include condition="!Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
-			<param name="controltype" value="list" />
-			<param name="id" value="63101" />
-			<param name="top" value="52" />
-			<param name="left" value="0" />
-			<param name="right" value="-30" />
-			<param name="height" value="item_cast_height" />
-			<param name="orientation" value="horizontal" />
-			<param name="labelinclude" value="Defs_Null" />
-			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
-			<param name="label2" value="ListItem.TvShowTitle" />
-			<param name="target" value="videos" />
-			<param name="content" value="pvr://channels/tv/*" />
-			<param name="limit" value="" />
-			<param name="sortby" value="" />
-			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="false" />
-			<param name="landscapecondition" value="false" />
-			<param name="iconcondition" value="false" />
-			<param name="bannercondition" value="false" />
-			<onback>SetFocus(63101)</onback>
-			<onback>301</onback>
-			<visible>Integer.IsGreater(Container(63101).NumItems,0) | Container(63101).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(id),6)</visible>
-			<include content="Defs_AutoScroll">
-				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
-			</include>
-		</include>
-		<include condition="Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
-			<param name="controltype" value="fixedlist" />
-			<param name="id" value="63101" />
-			<param name="top" value="52" />
-			<param name="left" value="0" />
-			<param name="right" value="-30" />
-			<param name="height" value="item_cast_height" />
-			<param name="orientation" value="horizontal" />
-			<param name="labelinclude" value="Defs_Null" />
-			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
-			<param name="label2" value="ListItem.TvShowTitle" />
-			<param name="target" value="videos" />
-			<param name="content" value="pvr://channels/tv/*" />
-			<param name="limit" value="" />
-			<param name="sortby" value="" />
-			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="false" />
-			<param name="landscapecondition" value="false" />
-			<param name="iconcondition" value="false" />
-			<param name="bannercondition" value="false" />
-			<onback>SetFocus(63101)</onback>
-			<onback>301</onback>
-			<visible>Integer.IsGreater(Container(63101).NumItems,0) | Container(63101).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(id),6)</visible>
-			<include content="Defs_AutoScroll">
-				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
-			</include>
-		</include>
-		<include content="View_Cast_Toplabel">
-			<param name="groupid" value="67502" />
-			<param name="id" value="63102" />
-			<param name="label" value="Zuletzt Abgespielt" />
-			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[63102]).ListItem.Label)" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(id),6)</visible>
-		</include>
-		<include condition="!Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
-			<param name="controltype" value="list" />
-			<param name="id" value="63102" />
-			<param name="top" value="52" />
-			<param name="left" value="0" />
-			<param name="right" value="-30" />
-			<param name="height" value="item_cast_height" />
-			<param name="orientation" value="horizontal" />
-			<param name="labelinclude" value="Defs_Null" />
-			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
-			<param name="label2" value="ListItem.TvShowTitle" />
-			<param name="target" value="videos" />
-			<param name="content" value="pvr://channels/tv/*?view=lastplayed" />
-			<param name="limit" value="" />
-			<param name="sortby" value="" />
-			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="false" />
-			<param name="landscapecondition" value="false" />
-			<param name="iconcondition" value="false" />
-			<param name="bannercondition" value="false" />
-			<onback>SetFocus(63101)</onback>
-			<onback>301</onback>
-			<visible>Integer.IsGreater(Container(63102).NumItems,0) | Container(63102).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(id),6)</visible>
-			<include content="Defs_AutoScroll">
-				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
-			</include>
-		</include>
-		<include condition="Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
-			<param name="controltype" value="fixedlist" />
-			<param name="id" value="63102" />
-			<param name="top" value="52" />
-			<param name="left" value="0" />
-			<param name="right" value="-30" />
-			<param name="height" value="item_cast_height" />
-			<param name="orientation" value="horizontal" />
-			<param name="labelinclude" value="Defs_Null" />
-			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
-			<param name="label2" value="ListItem.TvShowTitle" />
-			<param name="target" value="videos" />
-			<param name="content" value="pvr://channels/tv/*?view=lastplayed" />
-			<param name="limit" value="" />
-			<param name="sortby" value="" />
-			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="false" />
-			<param name="landscapecondition" value="false" />
-			<param name="iconcondition" value="false" />
-			<param name="bannercondition" value="false" />
-			<onback>SetFocus(63101)</onback>
-			<onback>301</onback>
-			<visible>Integer.IsGreater(Container(63102).NumItems,0) | Container(63102).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(id),6)</visible>
 			<include content="Defs_AutoScroll">
 				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
 			</include>
@@ -5239,7 +5014,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=" />
+			<param name="content" value="plugin://plugin.video.theke" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5269,7 +5044,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.program.super.favourites/?label=theke&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%2Ftheke&amp;image=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ficon.png&amp;fanart=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.program.super.favourites%2Ffanart.jpg&amp;content_type=" />
+			<param name="content" value="plugin://plugin.video.theke" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5290,7 +5065,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="77502" />
 			<param name="id" value="73102" />
-			<param name="label" value="Theke" />
+			<param name="label" value="Mediatheken" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[73102]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),7)</visible>
 		</include>
@@ -5675,7 +5450,7 @@
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-livetv--0) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv--0)</visible>
 			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[1])</visible>
 			<onup>302</onup>
 			<onback condition="Window.IsVisible(Home)">301</onback>
@@ -5693,7 +5468,7 @@
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-livetv--0) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv--0)</visible>
 			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[2])</visible>
 			<onup>302</onup>
 			<onback condition="Window.IsVisible(Home)">301</onback>
@@ -5711,7 +5486,7 @@
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-livetv--0) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv--0)</visible>
 			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[3])</visible>
 			<onup>302</onup>
 			<onback condition="Window.IsVisible(Home)">301</onback>
@@ -5729,7 +5504,7 @@
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-livetv--0) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv--0)</visible>
 			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[4])</visible>
 			<onup>302</onup>
 			<onback condition="Window.IsVisible(Home)">301</onback>
@@ -5747,7 +5522,7 @@
 			<param name="landscapecondition" value="false" />
 			<param name="iconcondition" value="false" />
 			<param name="bannercondition" value="false" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-tv) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),tv)</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(submenuVisibility),num-livetv--0) | String.IsEqual(Container(301).ListItem.Property(submenuVisibility),livetv--0)</visible>
 			<visible>String.IsEqual(Container(302).ListItem.Property(id),$NUMBER[5])</visible>
 			<onup>302</onup>
 			<onback condition="Window.IsVisible(Home)">301</onback>
