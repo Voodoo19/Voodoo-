@@ -1175,15 +1175,30 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">kino</property>
 			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
-			<property name="group">suche.1</property>
+			<visible>[False] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
+			<property name="mainmenuid">1</property>
+			<label>Kino</label>
+			<label2>Video Add-On</label2>
+			<icon>special://skin/extras/icons/shortcut.png</icon>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
+			<property name="labelID">kino--0</property>
+			<property name="defaultID" />
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
+			<property name="group">suche.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="3">
+			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">1</property>
 			<label>Filme</label>
 			<label2>Video Add-On</label2>
@@ -1200,8 +1215,8 @@
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
-		<item id="3">
-			<property name="id">$NUMBER[3]</property>
+		<item id="4">
+			<property name="id">$NUMBER[4]</property>
 			<property name="mainmenuid">1</property>
 			<label>Kinofilme</label>
 			<label2>Video Add-On</label2>
@@ -1240,6 +1255,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">filme--0</property>
 			<property name="defaultID" />
+			<property name="widgetTarget">videos</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Filme&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Filme&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Filme&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew</property>
@@ -1474,15 +1490,30 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">kino</property>
 			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">suche.1</property>
+			<visible>False</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
+			<property name="mainmenuid">1</property>
+			<label>Kino</label>
+			<label2>Video Add-On</label2>
+			<icon>special://skin/extras/icons/shortcut.png</icon>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
+			<property name="labelID">kino--0</property>
+			<property name="defaultID" />
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F</property>
+			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
+			<property name="group">suche.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="3">
+			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">1</property>
 			<label>Filme</label>
 			<label2>Video Add-On</label2>
@@ -1499,8 +1530,8 @@
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
-		<item id="3">
-			<property name="id">$NUMBER[3]</property>
+		<item id="4">
+			<property name="id">$NUMBER[4]</property>
 			<property name="mainmenuid">1</property>
 			<label>Kinofilme</label>
 			<label2>Video Add-On</label2>
@@ -1523,15 +1554,30 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">kino</property>
 			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),suche)</visible>
-			<property name="group">suche.1</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),suche)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
+			<property name="mainmenuid">1</property>
+			<label>Kino</label>
+			<label2>Video Add-On</label2>
+			<icon>special://skin/extras/icons/shortcut.png</icon>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
+			<property name="labelID">kino--0</property>
+			<property name="defaultID" />
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),suche)</visible>
+			<property name="group">suche.1</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="3">
+			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">1</property>
 			<label>Filme</label>
 			<label2>Video Add-On</label2>
@@ -1548,8 +1594,8 @@
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
 		</item>
-		<item id="3">
-			<property name="id">$NUMBER[3]</property>
+		<item id="4">
+			<property name="id">$NUMBER[4]</property>
 			<property name="mainmenuid">1</property>
 			<label>Kinofilme</label>
 			<label2>Video Add-On</label2>
@@ -1596,6 +1642,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">filme--0</property>
 			<property name="defaultID" />
+			<property name="widgetTarget">videos</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Filme&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Filme&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Filme&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew</property>
@@ -1632,6 +1679,7 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">filme--0</property>
 			<property name="defaultID" />
+			<property name="widgetTarget">videos</property>
 			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Filme&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew",return)</onclick>
 			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Filme&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew",return)</property>
 			<property name="list">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Filme&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fmovies%2Fnew</property>
@@ -4329,76 +4377,9 @@
 	</include>
 	<include name="skinshortcuts-template-vertical-submenu-Master user">
 		<include content="View_Cast_Toplabel">
-			<param name="groupid" value="17501" />
-			<param name="id" value="13101" />
-			<param name="label" value="Kino" />
-			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[13101]).ListItem.Label)" />
-			<visible>String.IsEqual(Container(301).ListItem.Property(id),1)</visible>
-		</include>
-		<include condition="!Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
-			<param name="controltype" value="list" />
-			<param name="id" value="13101" />
-			<param name="top" value="52" />
-			<param name="left" value="0" />
-			<param name="right" value="-30" />
-			<param name="height" value="item_cast_height" />
-			<param name="orientation" value="horizontal" />
-			<param name="labelinclude" value="Defs_Null" />
-			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
-			<param name="label2" value="ListItem.TvShowTitle" />
-			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F" />
-			<param name="limit" value="" />
-			<param name="sortby" value="" />
-			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="false" />
-			<param name="landscapecondition" value="false" />
-			<param name="iconcondition" value="false" />
-			<param name="bannercondition" value="false" />
-			<onback>SetFocus(13101)</onback>
-			<onback>301</onback>
-			<visible>Integer.IsGreater(Container(13101).NumItems,0) | Container(13101).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(id),1)</visible>
-			<include content="Defs_AutoScroll">
-				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
-			</include>
-		</include>
-		<include condition="Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
-			<param name="controltype" value="fixedlist" />
-			<param name="id" value="13101" />
-			<param name="top" value="52" />
-			<param name="left" value="0" />
-			<param name="right" value="-30" />
-			<param name="height" value="item_cast_height" />
-			<param name="orientation" value="horizontal" />
-			<param name="labelinclude" value="Defs_Null" />
-			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
-			<param name="label2" value="ListItem.TvShowTitle" />
-			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;sUrl=https%3A%2F%2Fmovie4k.click%2Faktuelle-kinofilme-im-kino%2F" />
-			<param name="limit" value="" />
-			<param name="sortby" value="" />
-			<param name="sortorder" value="" />
-			<param name="smallsquarecondition" value="false" />
-			<param name="squarecondition" value="false" />
-			<param name="smalllandscapecondition" value="false" />
-			<param name="landscapecondition" value="false" />
-			<param name="iconcondition" value="false" />
-			<param name="bannercondition" value="false" />
-			<onback>SetFocus(13101)</onback>
-			<onback>301</onback>
-			<visible>Integer.IsGreater(Container(13101).NumItems,0) | Container(13101).IsUpdating</visible>
-			<visible>String.IsEqual(Container(301).ListItem.Property(id),1)</visible>
-			<include content="Defs_AutoScroll">
-				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
-			</include>
-		</include>
-		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="17502" />
 			<param name="id" value="13102" />
-			<param name="label" value="Filme" />
+			<param name="label" value="Kino" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[13102]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),1)</visible>
 		</include>
@@ -4414,7 +4395,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4444,7 +4425,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4457,6 +4438,73 @@
 			<onback>SetFocus(13101)</onback>
 			<onback>301</onback>
 			<visible>Integer.IsGreater(Container(13102).NumItems,0) | Container(13102).IsUpdating</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),1)</visible>
+			<include content="Defs_AutoScroll">
+				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
+			</include>
+		</include>
+		<include content="View_Cast_Toplabel">
+			<param name="groupid" value="17503" />
+			<param name="id" value="13103" />
+			<param name="label" value="Filme" />
+			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[13103]).ListItem.Label)" />
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),1)</visible>
+		</include>
+		<include condition="!Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
+			<param name="controltype" value="list" />
+			<param name="id" value="13103" />
+			<param name="top" value="52" />
+			<param name="left" value="0" />
+			<param name="right" value="-30" />
+			<param name="height" value="item_cast_height" />
+			<param name="orientation" value="horizontal" />
+			<param name="labelinclude" value="Defs_Null" />
+			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
+			<param name="label2" value="ListItem.TvShowTitle" />
+			<param name="target" value="videos" />
+			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
+			<param name="limit" value="" />
+			<param name="sortby" value="" />
+			<param name="sortorder" value="" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
+			<param name="iconcondition" value="false" />
+			<param name="bannercondition" value="false" />
+			<onback>SetFocus(13101)</onback>
+			<onback>301</onback>
+			<visible>Integer.IsGreater(Container(13103).NumItems,0) | Container(13103).IsUpdating</visible>
+			<visible>String.IsEqual(Container(301).ListItem.Property(id),1)</visible>
+			<include content="Defs_AutoScroll">
+				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
+			</include>
+		</include>
+		<include condition="Skin.HasSetting(FixedWidgets)" content="Object_Widget_Spotlight">
+			<param name="controltype" value="fixedlist" />
+			<param name="id" value="13103" />
+			<param name="top" value="52" />
+			<param name="left" value="0" />
+			<param name="right" value="-30" />
+			<param name="height" value="item_cast_height" />
+			<param name="orientation" value="horizontal" />
+			<param name="labelinclude" value="Defs_Null" />
+			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
+			<param name="label2" value="ListItem.TvShowTitle" />
+			<param name="target" value="videos" />
+			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
+			<param name="limit" value="" />
+			<param name="sortby" value="" />
+			<param name="sortorder" value="" />
+			<param name="smallsquarecondition" value="false" />
+			<param name="squarecondition" value="false" />
+			<param name="smalllandscapecondition" value="false" />
+			<param name="landscapecondition" value="false" />
+			<param name="iconcondition" value="false" />
+			<param name="bannercondition" value="false" />
+			<onback>SetFocus(13101)</onback>
+			<onback>301</onback>
+			<visible>Integer.IsGreater(Container(13103).NumItems,0) | Container(13103).IsUpdating</visible>
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),1)</visible>
 			<include content="Defs_AutoScroll">
 				<param name="condition" value="!ControlGroup(3000).HasFocus() + System.IdleTime(1) + !Skin.HasSetting(DisableAutoScrollWidgets) + Integer.IsEqual(Container(3000).NumItems,1)" />
