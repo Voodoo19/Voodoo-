@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="LIVE TV" tvg-name="BALKAN" tvg-logo="" group-title="RH",[B][COLOR lime]ROBINHOODTVPRO:[B][COLOR white] BALKAN TV[/B][/COLOR]
-plugin.video.tvone
+plugin://plugin.video.tvone/play/654/play.pvr
 
 #EXTINF:-1 tvg-id="LIVE TV" tvg-name="BALKAN" tvg-logo="" group-title="RH",[B][COLOR lime]ROBINHOODTVPRO:[B][COLOR white] WORLD TV[/B][/COLOR]
 https://networkcorner.net/m3u/playlist/WORLDLISTA.m3u
