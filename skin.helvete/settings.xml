@@ -1,8 +1,8 @@
 <settings>
 <category label="Connection Settings">
-     <setting id="lehekylg" type="text" label="Website" default="http://supersonictv.live"/>http://supersonictv.live:25461/903310/034806/
-     <setting id="kasutajanimi" type="text" label="Username" default="903310"/>
-     <setting id="salasona" type="text" option="writeable,hidden" label="Password" default="034806"/>
+     <setting id="lehekylg" type="text" label="Website" default="http://mytv.fun"/>http://supersonictv.live:25461/903310/034806/
+     <setting id="kasutajanimi" type="text" label="Username" default="rod7"/>
+     <setting id="salasona" type="text" option="writeable,hidden" label="Password" default="koris0tas7"/>
      <setting id="pordinumber" type="text" label="Port" default="25461"/>
 </category>
 <category label="Other Settings">
