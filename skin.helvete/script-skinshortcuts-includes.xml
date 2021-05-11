@@ -1183,6 +1183,27 @@
 		<item id="5">
 			<property name="id">$NUMBER[5]</property>
 			<property name="mainmenuid">6</property>
+			<label>IPTV 3</label>
+			<label2>Benutzerdefinierte Einträge</label2>
+			<icon>special://skin/backgrounds/default/default.jpg</icon>
+			<thumb />
+			<property name="labelID">iptv3</property>
+			<property name="defaultID" />
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
+			<property name="group">plugin.video.voodoo-tv</property>
+			<property name="widget">Addon</property>
+			<property name="widgetTarget">videos</property>
+			<property name="widgetPath">plugin://plugin.video.tv?reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetType">videos</property>
+			<property name="widgetName">.</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="6">
+			<property name="id">$NUMBER[6]</property>
+			<property name="mainmenuid">6</property>
 			<label>TV Guide</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
@@ -2839,6 +2860,28 @@
 		</item>
 		<item id="5">
 			<property name="id">$NUMBER[5]</property>
+			<property name="mainmenuid">6</property>
+			<label>IPTV 3</label>
+			<label2>Benutzerdefinierte Einträge</label2>
+			<icon>special://skin/backgrounds/default/default.jpg</icon>
+			<thumb />
+			<property name="labelID">iptv3</property>
+			<property name="defaultID" />
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
+			<property name="group">plugin.video.voodoo-tv</property>
+			<property name="widget">Addon</property>
+			<property name="widgetTarget">videos</property>
+			<property name="widgetPath">plugin://plugin.video.tv?reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetType">videos</property>
+			<property name="widgetName">.</property>
+			<property name="isSubmenu">True</property>
+			<property name="submenuVisibility">plugin-video-voodoo-tv</property>
+		</item>
+		<item id="6">
+			<property name="id">$NUMBER[6]</property>
 			<property name="mainmenuid">6</property>
 			<label>TV Guide</label>
 			<label2>Video Add-On</label2>
@@ -5175,6 +5218,27 @@
 		<item id="5">
 			<property name="id">$NUMBER[5]</property>
 			<property name="mainmenuid">6</property>
+			<label>IPTV 3</label>
+			<label2>Benutzerdefinierte Einträge</label2>
+			<icon>special://skin/backgrounds/default/default.jpg</icon>
+			<thumb />
+			<property name="labelID">iptv3</property>
+			<property name="defaultID" />
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
+			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
+			<property name="group">plugin.video.voodoo-tv</property>
+			<property name="widget">Addon</property>
+			<property name="widgetTarget">videos</property>
+			<property name="widgetPath">plugin://plugin.video.tv?reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetType">videos</property>
+			<property name="widgetName">.</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="6">
+			<property name="id">$NUMBER[6]</property>
+			<property name="mainmenuid">6</property>
 			<label>TV Guide</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
@@ -5285,6 +5349,27 @@
 		</item>
 		<item id="5">
 			<property name="id">$NUMBER[5]</property>
+			<property name="mainmenuid">6</property>
+			<label>IPTV 3</label>
+			<label2>Benutzerdefinierte Einträge</label2>
+			<icon>special://skin/backgrounds/default/default.jpg</icon>
+			<thumb />
+			<property name="labelID">iptv3</property>
+			<property name="defaultID" />
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
+			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
+			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
+			<property name="group">plugin.video.voodoo-tv</property>
+			<property name="widget">Addon</property>
+			<property name="widgetTarget">videos</property>
+			<property name="widgetPath">plugin://plugin.video.tv?reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetType">videos</property>
+			<property name="widgetName">.</property>
+			<property name="isSubmenu">True</property>
+		</item>
+		<item id="6">
+			<property name="id">$NUMBER[6]</property>
 			<property name="mainmenuid">6</property>
 			<label>TV Guide</label>
 			<label2>Video Add-On</label2>
