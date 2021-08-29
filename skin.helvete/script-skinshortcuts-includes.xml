@@ -223,7 +223,7 @@
 			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
 			<thumb />
-			<property name="labelID">theke</property>
+			<property name="labelID">plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
 			<property name="defaultID" />
 			<property name="widget">Addon</property>
 			<property name="widgetName">.</property>
@@ -235,11 +235,11 @@
 			<property name="widgetAspect.2">Icon - 1:1</property>
 			<property name="widgetAspect.3">Icon - 1:1</property>
 			<property name="widgetAspect.4">Icon - 1:1</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
-			<property name="list">plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</property>
+			<property name="list">plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="submenuVisibility">theke</property>
+			<property name="submenuVisibility">plugin-video-joyn-app-fetch-id-410-4b1686d423b38af679fb0276be26a228-type-channellane</property>
 			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">False</property>
 		</item>
@@ -971,17 +971,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">suche</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -993,17 +984,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -1015,17 +997,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="1">
@@ -1189,16 +1162,8 @@
 			<thumb />
 			<property name="labelID">iptv3</property>
 			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
-			<property name="group">plugin.video.voodoo-tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.tv?reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="6">
@@ -2585,17 +2550,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">suche</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 			<property name="submenuVisibility">plugin-video-wrp-metaplayer-tv</property>
 		</item>
@@ -2608,17 +2564,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 			<property name="submenuVisibility">plugin-video-wrp-metaplayer-tv</property>
 		</item>
@@ -2631,17 +2578,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 			<property name="submenuVisibility">plugin-video-wrp-metaplayer-tv</property>
 		</item>
@@ -2867,16 +2805,8 @@
 			<thumb />
 			<property name="labelID">iptv3</property>
 			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
-			<property name="group">plugin.video.voodoo-tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.tv?reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 			<property name="submenuVisibility">plugin-video-voodoo-tv</property>
 		</item>
@@ -2909,7 +2839,7 @@
 			<label2>Benutzerdefinierte Einträge</label2>
 			<icon>special://skin/backgrounds/default/default.jpg</icon>
 			<thumb />
-			<property name="labelID">theke</property>
+			<property name="labelID">plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
 			<property name="defaultID" />
 			<property name="widget">Addon</property>
 			<property name="widgetName">.</property>
@@ -2921,11 +2851,11 @@
 			<property name="widgetAspect.2">Icon - 1:1</property>
 			<property name="widgetAspect.3">Icon - 1:1</property>
 			<property name="widgetAspect.4">Icon - 1:1</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
-			<property name="list">plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</property>
+			<property name="list">plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="submenuVisibility">theke</property>
+			<property name="submenuVisibility">plugin-video-joyn-app-fetch-id-410-4b1686d423b38af679fb0276be26a228-type-channellane</property>
 			<property name="group">mainmenu</property>
 			<property name="hasSubmenu">False</property>
 		</item>
@@ -4867,17 +4797,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">suche</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>False</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -4889,17 +4810,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>False</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -4911,17 +4823,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>False</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
@@ -4935,17 +4838,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">suche</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showSearch&amp;title=Suche&amp;params=0</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="2">
@@ -4957,17 +4851,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">amazon-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Amazon-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Famazon-originals&amp;sCont=homeContentGenresList</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="3">
@@ -4979,17 +4864,8 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">netflix-originals</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserienstream.sx%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=serienstream_to&amp;function=showEntries&amp;title=Netflix-Originals&amp;sUrl=https%3A%2F%2Fserien.ac%2Fgenre%2Fnetflix-originals&amp;sCont=homeContentGenresList</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
-			<property name="group">plugin.video.wrp-metaplayer/tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=filmpalast_to&amp;function=showEntries&amp;title=Serien&amp;sUrl=https%3A%2F%2Ffilmpalast.to%2Fserien%2Fview&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
@@ -5224,16 +5100,8 @@
 			<thumb />
 			<property name="labelID">iptv3</property>
 			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
-			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
-			<property name="group">plugin.video.voodoo-tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.tv?reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>False</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="6">
@@ -5356,16 +5224,8 @@
 			<thumb />
 			<property name="labelID">iptv3</property>
 			<property name="defaultID" />
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=",return)</property>
-			<property name="list">plugin://plugin.video.xtream-codes/?action=security_check&amp;title=Live+TV&amp;url=&amp;thumbnail=&amp;plot=&amp;extra=&amp;page=</property>
-			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
-			<property name="group">plugin.video.voodoo-tv</property>
-			<property name="widget">Addon</property>
-			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.tv?reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
-			<property name="widgetType">videos</property>
-			<property name="widgetName">.</property>
+			<visible>[False] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-voodoo-tv)</visible>
+			<onclick>noop</onclick>
 			<property name="isSubmenu">True</property>
 		</item>
 		<item id="6">
@@ -5391,10 +5251,10 @@
 			<property name="isSubmenu">True</property>
 		</item>
 	</include>
-	<include name="skinshortcuts-group-theke">
+	<include name="skinshortcuts-group-plugin-video-joyn-app-fetch-id-410-4b1686d423b38af679fb0276be26a228-type-channellane">
 		<description>No items</description>
 	</include>
-	<include name="skinshortcuts-group-alt-theke">
+	<include name="skinshortcuts-group-alt-plugin-video-joyn-app-fetch-id-410-4b1686d423b38af679fb0276be26a228-type-channellane">
 		<description>No items</description>
 	</include>
 	<include name="skinshortcuts-group-plugin-audio-mp3streams">
@@ -7487,7 +7347,7 @@
 		</control>
 		<control type="group">
 			<include>OpenCloseVisible</include>
-			<visible>String.IsEqual(Container(300).ListItem.Property(submenuVisibility),theke)</visible>
+			<visible>String.IsEqual(Container(300).ListItem.Property(submenuVisibility),plugin-video-joyn-app-fetch-id-410-4b1686d423b38af679fb0276be26a228-type-channellane)</visible>
 			<height>608</height>
 			<control type="label">
 				<visible>control.hasfocus(700017)</visible>
