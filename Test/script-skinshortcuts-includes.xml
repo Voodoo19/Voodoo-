@@ -1188,11 +1188,12 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">kino--0</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F</property>
+			<property name="widgetTarget">videos</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -1390,18 +1391,18 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>Mediatheken</label>
+			<label>Mediathek</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
-			<property name="labelID">mediatheken</property>
-			<property name="defaultID" />
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn_app%2fresources%2ficon.png/</thumb>
+			<property name="labelID">plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
+			<property name="defaultID">plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
 			<property name="widgetAspect">Small Square</property>
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
-			<property name="list">plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</property>
+			<property name="list">plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-mediathekdirekt)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
 			<property name="isSubmenu">True</property>
@@ -1503,11 +1504,12 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">kino--0</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F</property>
+			<property name="widgetTarget">videos</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -1567,11 +1569,12 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">kino--0</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
 			<property name="widgetAspect">Poster</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F</property>
+			<property name="widgetTarget">videos</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),suche)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -2199,18 +2202,18 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>Mediatheken</label>
+			<label>Mediathek</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
-			<property name="labelID">mediatheken</property>
-			<property name="defaultID" />
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn_app%2fresources%2ficon.png/</thumb>
+			<property name="labelID">plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
+			<property name="defaultID">plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
 			<property name="widgetAspect">Small Square</property>
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
-			<property name="list">plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</property>
+			<property name="list">plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
 			<property name="isSubmenu">True</property>
@@ -2239,18 +2242,18 @@
 		<item id="2">
 			<property name="id">$NUMBER[2]</property>
 			<property name="mainmenuid">7</property>
-			<label>Mediatheken</label>
+			<label>Mediathek</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn%2fresources%2fmedia%2flogo.gif/</thumb>
-			<property name="labelID">mediatheken</property>
-			<property name="defaultID" />
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.joyn_app%2fresources%2ficon.png/</thumb>
+			<property name="labelID">plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
+			<property name="defaultID">plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
 			<property name="widgetAspect">Small Square</property>
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=",return)</property>
-			<property name="list">plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane",return)</property>
+			<property name="list">plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-mediathekdirekt)</visible>
 			<property name="group">plugin.video.mediathekdirekt.1</property>
 			<property name="isSubmenu">True</property>
@@ -4395,7 +4398,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4425,7 +4428,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5116,7 +5119,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="77502" />
 			<param name="id" value="73102" />
-			<param name="label" value="Mediatheken" />
+			<param name="label" value="Mediathek" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[73102]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),7)</visible>
 		</include>
@@ -5132,7 +5135,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=" />
+			<param name="content" value="plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -5162,7 +5165,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.joyn/?movie_id=&amp;block_id=&amp;tv_show_id=&amp;stream_type=VOD&amp;season_id=&amp;client_data=&amp;viewtype=&amp;compilation_id=&amp;title=Mediatheken&amp;fav_type=&amp;video_id=&amp;channel_id=&amp;mode=channels&amp;channel_path=" />
+			<param name="content" value="plugin://plugin.video.joyn_app/fetch/id=410:4b1686d423b38af679fb0276be26a228/type=ChannelLane" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
