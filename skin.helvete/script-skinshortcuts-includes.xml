@@ -123,7 +123,7 @@
 			<property name="widgetName">.</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetAspect">31117</property>
 			<property name="widgetAspect.1">Icon - 1:1</property>
 			<property name="widgetAspect.2">Icon - 1:1</property>
@@ -847,7 +847,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -869,7 +869,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -891,7 +891,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -913,7 +913,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -935,7 +935,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -957,7 +957,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -2359,7 +2359,7 @@
 			<property name="widgetName">.</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetAspect">31117</property>
 			<property name="widgetAspect.1">Icon - 1:1</property>
 			<property name="widgetAspect.2">Icon - 1:1</property>
@@ -2392,7 +2392,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -2415,7 +2415,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -2438,7 +2438,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -2461,7 +2461,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -2484,7 +2484,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -2507,7 +2507,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4537,7 +4537,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4559,7 +4559,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4581,7 +4581,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4603,7 +4603,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4625,7 +4625,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4647,7 +4647,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4671,7 +4671,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4693,7 +4693,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4715,7 +4715,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4737,7 +4737,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4759,7 +4759,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -4781,7 +4781,7 @@
 			<property name="group">plugin.video.wrp-metaplayer/movies</property>
 			<property name="widget">Addon</property>
 			<property name="widgetTarget">videos</property>
-			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</property>
+			<property name="widgetPath">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</property>
 			<property name="widgetType">videos</property>
 			<property name="widgetName">.</property>
 			<property name="isSubmenu">True</property>
@@ -6929,7 +6929,7 @@
 					<param name="labelTitle" value="$INFO[ListItem.TVShowTitle,,[COLOR=SeparatorColor] › [/COLOR]]$INFO[ListItem.Label]" />
 					<param name="labelSubTitle" value="$INFO[ListItem.Rating,,[COLOR=SeparatorColor] › [/COLOR]]$INFO[ListItem.Year]$INFO[ListItem.Duration,[COLOR=SeparatorColor] › [/COLOR], $LOCALIZE[31297]]" />
 				</include>
-				<content limit="$VAR[WidgetLimit]" sortby="" sortorder="" target="videos">plugin://plugin.video.xstream/?site=kinobz&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fkino.bz%2Fgenre%2Fkinofilme%2F&amp;reload=$INFO[Window(Home).Property(widgetreload)]$INFO[Window(Home).Property(widgetreload2)]</content>
+				<content limit="$VAR[WidgetLimit]" sortby="" sortorder="" target="videos">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured&amp;reload=$INFO[Window(Home).Property(widgetreload-movies)]</content>
 			</control>
 			<control type="group">
 				<visible>Container(700013).IsUpdating</visible>
