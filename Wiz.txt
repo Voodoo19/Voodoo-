@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="Example Build 1"
 version="1.0"
-url="url.to.build"
+url="https://archive.org/download/covidvoodoo_202005/covid.zip"
 minor="http://"
 gui="url.to.guisettings"
 kodi="19.1"
