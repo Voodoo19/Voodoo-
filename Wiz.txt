@@ -2,7 +2,7 @@ id="plugin.program.aftermath"
 version="0.4.5"
 zip="url.to.wizard"
 
-name="Example Build 1"
+name="Helvets"
 version="1.0"
 url="https://download1639.mediafire.com/1woqu9ypcaog/qmrwesaeekwxrv7/covid.zip"
 minor="http://"
