@@ -1,0 +1,35 @@
+<settings version="2">
+    <setting id="skip_intros" default="true">false</setting>
+    <setting id="skip_credits">true</setting>
+    <setting id="play_next_episode">true</setting>
+    <setting id="play_next_movie" default="true">false</setting>
+    <setting id="kid_lockdown" default="true">false</setting>
+    <setting id="sync_watchlist">true</setting>
+    <setting id="sync_playback" default="true">false</setting>
+    <setting id="default_quality" default="true">0</setting>
+    <setting id="max_bandwidth">7</setting>
+    <setting id="h265">true</setting>
+    <setting id="dolby_atmos" default="true">false</setting>
+    <setting id="hdr10">true</setting>
+    <setting id="dolby_vision" default="true">false</setting>
+    <setting id="default_language" default="true" />
+    <setting id="default_subtitle" default="true" />
+    <setting id="audio_whitelist" default="true" />
+    <setting id="subs_whitelist" default="true" />
+    <setting id="subs_forced">true</setting>
+    <setting id="subs_non_forced">true</setting>
+    <setting id="audio_description">true</setting>
+    <setting id="use_ia_hls_live" default="true">false</setting>
+    <setting id="use_ia_hls_vod" default="true">false</setting>
+    <setting id="video_folder_content">true</setting>
+    <setting id="show_series_folders">true</setting>
+    <setting id="bookmarks">true</setting>
+    <setting id="kiosk" default="true">false</setting>
+    <setting id="verify_ssl">true</setting>
+    <setting id="http_timeout">30</setting>
+    <setting id="http_retries">2</setting>
+    <setting id="chunksize">4096</setting>
+    <setting id="service_delay" default="true">0</setting>
+    <setting id="_fresh">false</setting>
+    <setting id="_userdata">{&quot;username&quot;:&quot;geoffrey.grammer@gmail.com&quot;,&quot;refresh_token&quot;:&quot;eyJ6aXAiOiJERUYiLCJraWQiOiJLcTYtNW1Ia3BxOXdzLUtsSUUyaGJHYkRIZFduRjU3UjZHY1h6aFlvZi04IiwiY3R5IjoiSldUIiwiZW5jIjoiQzIwUCIsImFsZyI6ImRpciJ9..J_10gYLk2IYriGRh._DD7ZsZ8hwOzgP8-EgdGg0JVANgJJqUEoBrKvwJMw0Al0pzrP8FaWIVvBkZJHGJHQaBX7aR_Tbsz6v919qqVKYMkgCTqJXENgZhcN4pFI1XDt6pkZpXuQ3y888LS8rda2BcECXXzbFiEv2492BTx4HZ7MvPiSQ2udhSl4xp_T5huoy7iIc9rgNWEiV0nJgR765Z6WoLTzG4H7CHAHJoXed_PjtNa42wScu9XpLjYUlSx75BZCZnXMe8ASHX-Facx4JWCUW-n86niPjRSdJTbOtxRKwh7ubsVBn1uDxUDQ0c8oJzKGe7ITv2Ukt5s8HHAoTak_DbBoDI9elgkEsjKErtvNHab4695c4n0zhQSfpuO7JAj-dtORiXS2kAi2GkhLfkc6q0uzlTCR8stjRA9LFZRdTDbkc0Dqf63WGm05w6APVoDdTnRJdWX6RnZhnnHrhdZyXhDeGL4BJuR-Emk9AZxl7e5BxbkrpKxDB5kLqFl4oBrmT4XbCQKHT-gp4UdLyQpgmW3ZzVESPFpudz8YHr4GfMij_HcvhsmcnJSpeHb25j-w_NM0BRjRgvrsXqfLPa_KxJhPwkqJx2Bxr_6GfBoyevkn21onnuXf1RszfEUK6mVcPc51Iy9WAVaWxSFoErpTeRAs3Oz2wFO3wwitDdbC5kBRdnjSgzsiVbYO0LIPK968S5g6h7K81-KebmrbbS3CEFnGnd_uTH0S4bWb61Rwb7s1c7xU2USX54ffX1fDfjT5CF3alx0Jr51KMuNT_n5xO6AkrSTDOwNmw2cqhYQGTZxJos0UcscFQq1QStrT4kyvCNg36Rz-igTIzz3WC5DNEi55-PWVOkQfFo1ccucw_qb01SG4f6ZX1XvIfXPSZuBugQEJEqB-kCbTQQ34yid9A7cQEfOnorxpc9VRDfhuJcf3OPoueHby0Tt1HHwMA4ycMF_Zk-5EQxA6T27voISFnY8QOqjm4Wz6qYhC_KzIVOoG9iP_5KyitkRTw65YVcFPQlyZxe8jgxLu5uOKihCqyNhzfN7fd3qTW9AkOWZm1q26kIwGql4hCHAfsThE2MH2GCVJqqTP-_7JYfcyUjZHvQuHvSY_MTKSg2o0mnCF46UCbP_ME7ku9DlH8UKhKtWXN9rjjBykPCkYYL0JSzIhleA2wSKkWy-DG-bX2k0LmUTE_ACm38WO3db2yBCQU1_jKUmN7belOZyHZxoMq0zHM9Z6tTWaFR3QOG2y2leHFq3KVZVpFk419RTTallzlhX45y0sdazVXnM-zXcs2Pvr0lE-nl8yu2N0jVbq27Fsms097kuuUQX4MfSLjiayeuq3HynW1WEsTScmrMPAav4ZRy9WwavUJENpeH8Js9kkumBELWrbY-QnkgNj4Tp4aYLaFUF2in9Y8UafdivjxzRnAS94of9FmGXdfZu4rMgNmBTlI1_wAnWspVNEf_YCI_Qz4zrqHMYpt8LTz3qiU_WHZ_Sni_6E_KQ2cAPs4WFJ8AymZfeOWASKT3FimKWS41eo1YUY4arfT0VKMiOEoeEzDj-8ztizwS2Rt_rXUpTcdqLiJKLQHOt6inAB7Luk_410Iq-I8nLLrPswA-HIHpqPj8F7otw2-VDcbvuxVZ_fTyjdSzZmtKAuxGZ3Wa-Lhu66wiGre0AfMWLlPcVKL3Jbklb6hMDUx0pbhcR3XD0KiYxd59E4TQBM9v9gwcUKryUKRNVj0ABHAStalIbKCa-hdw48a91x_mFDqiCJQcUz7oQJiwCppX0a1qpTTGZ81g56Cgs-9AEg1JGHdeGa4Vp4VFA4BM5Q3-WN10AUKCipNHELPLHeG-uNQjTpQwQgWZZtypesnMlK998reNcVi3AnJ__z7zmJ5PrerNq8qJpF1_15zk11uYqmDHeTx9FRE1G8TzOwNxyRqLKl31nmmx7qd1jfz_IDKXGS-VTWQ1GWgDSQ6NwVd1iX7BEazGUC1pu64D6wghpbGzSwB9gfnKTY2timvRKILA0PKhO9EZZ13CpAMkHRWRbsThUzRZV4c7paZomsMPzrwDbriOELrMDzTJoDpL_8fhG6MIHHnDE2m5c67ODXZX1ZNBmNnP-HBJSDCYKHaIUMarAyVJnaPT8Qoupbz7cyR9Nqvo8KCUaEuG1RTj7LZze4vfAsXgqdalzT1yUc-XGfXxWG4r-IYoEbN370QALaPnWMY9yPPjwHe0GrF-fVhWk2K7yI9hlA9de2wnLaLBUvTFhAJPO25k48c2nQUbHHGBd5pfR6bBUrt4wHi19Fn71pWToQRB5i4071mSglWQ_DmxXyev7fMNh0pSEyzMBiGjsHnKLsfEqBh9PCOGsjqcWJ7KDbtz2lbwDPTSUY-6G6RuPFBXGnuRM2yF_CI3LtsvzCmKhmhboCpCZz29ahzurlRoYnpfDMpUVU7O-eBdZClFswS6yTH0Dh4RPZSkf_wkPeKrRlb1psCVv3cXI3KkmmjljDsmfG6XjHe_KGW49R4SWMGyqyEGnXZEJTfUjvJIaYi2PMNp5qK_KiSVkFWr06xTIufwUynCXzZ9Eh7Z2o3jc7XIYIlvUfcpXCfbPNtD4iXNmYWrzCf0XKNYD6ktUH2xs1xTfmw4xZpFdRANED6MsUaPyF6cqXDyIHmwzA1VJbBzBwR5qjPM_iMdwPXNYLFCcRMayTDeSbYdkzc_VdN-2dBwDx1SDwa5VTCIUw-oh9SHopjUOQXzZIuLb7TLEk90ClFwz9uEgS2d_L7D6El3d0Jym99TdBn-hU67t4uZy3ltW-gqr__FhQf0iAxK9pQgAMgaWZocZTXdEoW9BrpFVx-6C2jmsQQ42qER4FzYjBb3vdAKNybPfex4CKTcSRtC1lZAR6s12wxaJOvlJJ5B6JljITZBNribbgORlMoBM3Vs1NnYTTvI43X3f1v9_CJ8HctPCQZxlW2WvYp9MO81RREHGPZMUltSYBLMmOYYKY95F1eog3Jy4YvugvZOuCXsBtOjA_N7dfFjiJJTFdi0kvGo3aODZlUKbkxf8qyIepoXDoZFZbO9qAL_2xaYOSGPQ8am0-qHc.8-aYDktQ2ZBPudCf5iQ04g&quot;,&quot;avatar&quot;:&quot;https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4105F4FE723FDB4403CB0B4A679AE2945861849935BA40E296F5D10EE65B2615/scale?width=300&quot;,&quot;profile&quot;:&quot;loki&quot;,&quot;profile_id&quot;:&quot;a96593d3-173b-45fa-91ac-415834a22933&quot;}</setting>
+</settings>
