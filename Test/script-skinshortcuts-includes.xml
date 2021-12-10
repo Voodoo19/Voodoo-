@@ -1188,12 +1188,12 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">kino--0</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
 			<property name="widgetAspect">Poster</property>
 			<property name="widgetTarget">videos</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -1504,12 +1504,12 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">kino--0</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
 			<property name="widgetAspect">Poster</property>
 			<property name="widgetTarget">videos</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -1569,12 +1569,12 @@
 			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">kino--0</property>
 			<property name="defaultID" />
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
 			<property name="widgetAspect">Poster</property>
 			<property name="widgetTarget">videos</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),suche)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -4398,7 +4398,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4428,7 +4428,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=kinokiste&amp;function=showEntries&amp;title=Kinofilme&amp;sUrl=https%3A%2F%2Fmovie2k.ag%2Ffeatured" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Kino&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.wiki%2Faktuelle-kinofilme-im-kino&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
