@@ -1201,17 +1201,18 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">1</property>
-			<label>Filme</label>
+			<label>Filme 2021</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
-			<property name="labelID">filme</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
+			<property name="labelID">filme2021</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -1235,14 +1236,15 @@
 			<label>Filme</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">filme</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/movies.1</property>
 			<property name="isSubmenu">True</property>
@@ -1307,14 +1309,15 @@
 			<label>Animation</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">animation</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder)</visible>
 			<property name="group">kinder.1</property>
 			<property name="isSubmenu">True</property>
@@ -1517,17 +1520,18 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">1</property>
-			<label>Filme</label>
+			<label>Filme 2021</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
-			<property name="labelID">filme</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
+			<property name="labelID">filme2021</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -1582,17 +1586,18 @@
 		<item id="3">
 			<property name="id">$NUMBER[3]</property>
 			<property name="mainmenuid">1</property>
-			<label>Filme</label>
+			<label>Filme 2021</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
-			<property name="labelID">filme</property>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
+			<property name="labelID">filme2021</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),suche)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -1624,14 +1629,15 @@
 			<label>Filme</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">filme</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/movies.1</property>
 			<property name="isSubmenu">True</property>
@@ -1661,14 +1667,15 @@
 			<label>Filme</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">filme</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-movies)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/movies.1</property>
 			<property name="isSubmenu">True</property>
@@ -1788,14 +1795,15 @@
 			<label>Animation</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">animation</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">kinder.1</property>
 			<property name="isSubmenu">True</property>
@@ -1824,14 +1832,15 @@
 			<label>Animation</label>
 			<label2>Video Add-On</label2>
 			<icon>special://skin/extras/icons/shortcut.png</icon>
-			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.hdfilme.cc%2fresources%2ficon.png/</thumb>
+			<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.helvete.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2ficon.png/</thumb>
 			<property name="labelID">animation</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D",return)</property>
-			<property name="list">plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="widgetAspect">Poster</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),kinder)</visible>
 			<property name="group">kinder.1</property>
 			<property name="isSubmenu">True</property>
@@ -4449,7 +4458,7 @@
 		<include content="View_Cast_Toplabel">
 			<param name="groupid" value="17503" />
 			<param name="id" value="13103" />
-			<param name="label" value="Filme" />
+			<param name="label" value="Filme 2021" />
 			<param name="spinner-visible" value="String.IsEmpty(Container($PARAM[13103]).ListItem.Label)" />
 			<visible>String.IsEqual(Container(301).ListItem.Property(id),1)</visible>
 		</include>
@@ -4465,7 +4474,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4495,7 +4504,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Year%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3D%26country%3D%26sort%3Dyear%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+1%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme+2021&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Ffilme-2021%2F&amp;sCont=Release+Jahre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4532,7 +4541,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4562,7 +4571,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Filme%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+0%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4800,7 +4809,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4830,7 +4839,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.hdfilme.cc/?%7B%22title%22%3A+%22Animation%22%2C+%22url%22%3A+%22https%3A%2F%2Fhdfilme.cx%2Ffilme1%3Fcategory%3Danimation%26country%3D%26sort%3D%26key%3D%26sort_type%3Ddesc%22%2C+%22imode%22%3A+3%2C+%22image%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ficon.png%22%2C+%22item_index%22%3A+5%2C+%22fanart%22%3A+%22%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.hdfilme.cc%2Fresources%2Ffanart.jpg%22%2C+%22playlist_index%22%3A+0%7D" />
+			<param name="content" value="plugin://plugin.video.xstream/?site=kinofox&amp;function=showEntries&amp;title=Animationsfilm&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinofox.de%2Fanimationsfilm%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinofox.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
