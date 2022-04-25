@@ -133,19 +133,36 @@
     <source></source>
   </extension>
 </addon>
-	<addon id="plugin.video.ttg" name="Texxas TV Guide" version="1.0.2" provider-name="Loki1979">
+	<addon id="plugin.video.stubevavoo" name="[COLOR red]STUBE[/COLOR] [COLOR cyan]VAVOO[/COLOR]/[COLOR coral]WATCHED[/COLOR] TV" version="38.1130" provider-name="Team Stube">
     <requires>
-        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.urlresolver"/>
+        <import addon="script.module.requests" version="2.11.1"/>
+        <import addon="script.extendedinfo" version="5.6.0"/>
+        <import addon="script.module.pil"/>
+        <import addon="script.common.plugin.cache"/>
+        <import addon="script.video.F4mProxy" version="2.7.1"/>
     </requires>
-    <extension point="xbmc.python.pluginsource" library="epg.py">
+    <extension point="xbmc.python.pluginsource" library="lib/video1.py">
         <provides>video</provides>
     </extension>
+    <extension point="xbmc.python.script" library="lib/script.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py">
+        <provides>service</provides>
+    </extension>
+    <extension point="xbmc.python.module" library="lib" />
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
-        <summary>Texxas TV Guide</summary>
-        <description>Texxas TV Guide :
-http://www.texxas.de/rss/</description>
+        <language>de</language>
+        <summary lang="de">STUBE.BOX V4 - TEAM STUBE</summary>
+        <description lang="de">Telegram 》@KODIVAVOOTVStube</description>
+        <website></website>
     </extension>
+
+
+
 </addon>
 	<addon id="plugin.video.joyn" name="Joyn" version="1.1.4" provider-name="knaerzche">
 	<requires>
