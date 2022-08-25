@@ -133,7 +133,7 @@
     <source></source>
   </extension>
 </addon>
-	<addon id="plugin.video.stubevavoo" name="[COLOR red]STUBE[/COLOR] [COLOR cyan]VAVOO[/COLOR]/[COLOR coral]WATCHED[/COLOR] TV" version="38.1130" provider-name="Team Stube">
+	<addon id="plugin.video.stubevavoo" name="[COLOR red]STUBE[/COLOR] [COLOR cyan]VAVOO[/COLOR]/[COLOR coral]WATCHED[/COLOR] TV" version="38.1251" provider-name="Team Stube">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.urlresolver"/>
