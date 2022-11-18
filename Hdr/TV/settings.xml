@@ -1,0 +1,13 @@
+ 
+<settings>
+   <category>
+    <setting id="escolhido" type="text" visible="false" value="]1-Pessoal" />    
+    <setting label="Lista Servidores:" id="lista" type="text" visible="true" value="Burzum,Mayhem,Dissection,Gehenna" default="Burzum,Mayhem,Dissection,Gehenna,Beherit"/>
+    <setting label="Nome Servidor:" id="lista_servidores" type="text" visible="true" value="Burzum,Mayhem,Dissection,Gehenna" default="Burzum,Mayhem,Dissection,Gehenna,Beherit"/>
+    <setting id="mac2" type="text" visible="false" value="" />
+    <setting id="portal2" type="text" visible="false" value="" />
+    <setting label="Guardar Favoritos" id="favs" type="bool" visible="true" value="true" />
+    <setting label="Canais pr0n:" id="pr0n" type="bool" visible="true" value="true" />
+    <setting id="ser" type="text" visible="false" value="" />
+   </category>
+</settings>
