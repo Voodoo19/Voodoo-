@@ -1239,10 +1239,10 @@
 			<property name="labelID">filme</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),plugin-video-wrp-metaplayer-movies)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/movies.1</property>
 			<property name="isSubmenu">True</property>
@@ -1628,10 +1628,10 @@
 			<property name="labelID">filme</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/movies.1</property>
 			<property name="isSubmenu">True</property>
@@ -1665,10 +1665,10 @@
 			<property name="labelID">filme</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),plugin-video-wrp-metaplayer-movies)</visible>
 			<property name="group">plugin.video.wrp-metaplayer/movies.1</property>
 			<property name="isSubmenu">True</property>
@@ -4532,7 +4532,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png" />
+			<param name="content" value="plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4562,7 +4562,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=kinomax&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fkinomax.click%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fkinomax.png" />
+			<param name="content" value="plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fstreamworld.in&amp;site=streamworld&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fstreamworld.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
