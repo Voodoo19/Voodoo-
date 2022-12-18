@@ -1208,10 +1208,10 @@
 			<property name="labelID">filme</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),suche)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -1311,10 +1311,10 @@
 			<property name="labelID">animation</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Container(301).ListItem.Property(submenuVisibility),kinder)</visible>
 			<property name="group">kinder.1</property>
 			<property name="isSubmenu">True</property>
@@ -1524,10 +1524,10 @@
 			<property name="labelID">filme</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -1589,10 +1589,10 @@
 			<property name="labelID">filme</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),suche)</visible>
 			<property name="group">suche.1</property>
 			<property name="isSubmenu">True</property>
@@ -1792,10 +1792,10 @@
 			<property name="labelID">animation</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png</property>
 			<visible>String.IsEqual(System.ProfileName,Master user)</visible>
 			<property name="group">kinder.1</property>
 			<property name="isSubmenu">True</property>
@@ -1828,10 +1828,10 @@
 			<property name="labelID">animation</property>
 			<property name="defaultID" />
 			<property name="widgetTarget">videos</property>
-			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</onclick>
-			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png",return)</property>
-			<property name="list">plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png</property>
+			<property name="translatedPath">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<onclick>ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</onclick>
+			<property name="path">ActivateWindow(Videos,"plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png",return)</property>
+			<property name="list">plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png</property>
 			<visible>[String.IsEqual(System.ProfileName,Master user)] + String.IsEqual(Window(10000).Property(submenuVisibility),kinder)</visible>
 			<property name="group">kinder.1</property>
 			<property name="isSubmenu">True</property>
@@ -4465,7 +4465,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png" />
+			<param name="content" value="plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4495,7 +4495,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Filme&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fkinofilme-online&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png" />
+			<param name="content" value="plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2ffilms%2f&amp;site=megakino&amp;title=Filme&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4800,7 +4800,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png" />
+			<param name="content" value="plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
@@ -4830,7 +4830,7 @@
 			<param name="landscapelabelinclude" value="View_Widget_LandscapeLabel" />
 			<param name="label2" value="ListItem.TvShowTitle" />
 			<param name="target" value="videos" />
-			<param name="content" value="plugin://plugin.video.xstream/?site=movie4k_click&amp;function=showEntries&amp;title=Animation&amp;trumb=&amp;sUrl=https%3A%2F%2Fmovie4k.cyou%2Fanimation%2F&amp;sCont=Genre&amp;trumb=%2Fstorage%2Femulated%2F0%2FAndroid%2Fdata%2Fde.helvete.app%2Ffiles%2F.kodi%2Faddons%2Fplugin.video.xstream%2Fresources%2Fart%2Fsites%2Fmovie4k_click.png" />
+			<param name="content" value="plugin://plugin.video.xstream/?function=showEntries&amp;sUrl=https%3a%2f%2fmegakino.co%2fmultfilm%2f&amp;site=megakino&amp;title=Animation&amp;trumb=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fde.voodoo.app%2ffiles%2f.kodi%2faddons%2fplugin.video.xstream%2fresources%2fart%2fsites%2fmegakino.png" />
 			<param name="limit" value="" />
 			<param name="sortby" value="" />
 			<param name="sortorder" value="" />
