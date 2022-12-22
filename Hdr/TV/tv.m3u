@@ -1,0 +1,1020 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",|DE| DAS ERSTE HD (ARD)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55674
+#EXTINF:0 tvg-id="ext" group-title="Channels",|DE| DAS ERSTE (ARD)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55675
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",|DE| ARTE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55676
+#EXTINF:0 tvg-id="3sat.de" group-title="Channels",|DE| 3 SAT
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55677
+#EXTINF:0 tvg-id="ARD-alpha.de" group-title="Channels",|DE| ARD HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55678
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",|DE| ZDF HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55679
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",|DE| ZDF
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55680
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",|DE| ZDF NEO
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55681
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",|DE| RTL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55682
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",|DE| RTLII HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55683
+#EXTINF:0 tvg-id="ext" group-title="Channels",|DE| RTL TELVISION
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55684
+#EXTINF:0 tvg-id="RTLPlus.de" group-title="Channels",|DE| RTL PLUS
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55686
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",|DE| RTL NITRO
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55687
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",|DE| SIXX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55688
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",|DE| PROSIEBEN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55689
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",|DE| PRO7 MAXX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55690
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",|DE| SAT.1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55691
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",|DE| SAT.1 GOLD HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55692
+#EXTINF:0 tvg-id="Sat1Comedy.de" group-title="Channels",|DE| SAT 1 EMOTIONS
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/199199
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",|DE| VOX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55693
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",|DE| VOX
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55694
+#EXTINF:0 tvg-id="phoenix.de" group-title="Channels",|DE| PHOENIX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55695
+#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",|DE| KABEL EINS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55696
+#EXTINF:0 tvg-id="KabelEinsClassic.de" group-title="Channels",|DE| KABEL EINS CLASSICS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55697
+#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",|DE| TELE 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55698
+#EXTINF:0 tvg-id="AnixeHD.de" group-title="Channels",|DE| ANIXE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55699
+#EXTINF:0 tvg-id="DMax.de" group-title="Channels",|DE| DMAX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55700
+#EXTINF:0 tvg-id="ext" group-title="Channels",|DE| ONE 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55701
+
+#EXTINF:0 tvg-id="ext" group-title="SPORT",===== SPORT =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55702
+#EXTINF:0 tvg-id="SkySportNewsHD.de" group-title="SPORT",|DE| SKY SPORT NEWS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55703
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY SPORT F1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124231
+#EXTINF:0 tvg-id="SkySport1.de" group-title="SPORT",|DE| SKY SPORT 1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55704
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="SPORT",|DE| SKY SPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55705
+#EXTINF:0 tvg-id="SkySport2.de" group-title="SPORT",|DE| SKY SPORT 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55706
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="SPORT",|DE| SKY SPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55707
+#EXTINF:0 tvg-id="SkySport3.de" group-title="SPORT",|DE| SKY SPORT 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124232
+#EXTINF:0 tvg-id="SkySport4.de" group-title="SPORT",|DE| SKY SPORT 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124233
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: SKY SPORT 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124234
+#EXTINF:0 tvg-id="SkySport6.de" group-title="SPORT",|DE| SKY SPORT 6 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124235
+#EXTINF:0 tvg-id="SkySport7.de" group-title="SPORT",|DE| SKY SPORT 7 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124236
+#EXTINF:0 tvg-id="SkySport8.de" group-title="SPORT",|DE| SKY SPORT 8 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124237
+#EXTINF:0 tvg-id="SkySport9.de" group-title="SPORT",|DE| SKY SPORT 9 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124238
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY SPORT 10 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124239
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY SPORT 11 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/124240
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY SPORT PREMIER LEAGUE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193619
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY SPORT MIX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193618
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY SPORT TENNIS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193617
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY SPORT GOLF HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193616
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY SPORT TOP EVENT
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193615
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 1 BAR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55708
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 2 BAR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55709
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SPORT DIGITAL FUSSBALL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200528
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| FC BAYERN TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200529
+#EXTINF:0 tvg-id="SkyBundesliga.de" group-title="SPORT",|DE| SKY BUNDESLIGA 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55710
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55711
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55712
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55713
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55714
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55715
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55716
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55717
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55718
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55719
+#EXTINF:0 tvg-id="Eurosport1.de" group-title="SPORT",|DE| EUROSPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55720
+#EXTINF:0 tvg-id="Eurosport2.de" group-title="SPORT",|DE| EUROSPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55721
+#EXTINF:0 tvg-id="MotorVision.de" group-title="SPORT",|DE| MOTORVISION TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55723
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="SPORT",|DE| SPORT1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55724
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: ESPORTS 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/201079
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| PRIME 1 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157872
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| PRIME 2 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157873
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| PRIME 3 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157874
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| PRIME 4 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157875
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| PRIME 5 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157876
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| PRIME 6 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157877
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| PRIME 7 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157878
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| PRIME 8 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157879
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 1 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157880
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 2 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157881
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 3 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157882
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 4 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157883
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 5 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157884
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 6 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157885
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 7 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157886
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 8 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157887
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 9 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157888
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 10 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157889
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 11 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157890
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 12 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157891
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 13 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157892
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 14 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157893
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 15 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157894
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 16 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157895
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 17 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157896
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 18 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157897
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 19 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157898
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 20 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157899
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 21 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157900
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 22 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157901
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 23 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157902
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 24 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157903
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 25 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157904
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 26 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157905
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 27 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157906
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 28 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157907
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 29 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157908
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| DAZN 30 HD [LIVE-EVENT]
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157909
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - DEL SPORT 1  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157910
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - DEL SPORT 2  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157911
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - DEL SPORT 3  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157912
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - DEL SPORT 4  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157913
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - DEL SPORT 5  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157914
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - DEL SPORT 6  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157915
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - DEL SPORT 7  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157916
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BBL SPORT 1  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157917
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BBL SPORT 2  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157918
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BBL SPORT 3  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157919
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BBL SPORT 4  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157920
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - SKY SPORT KOMPAKT 1 HD  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157921
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - SKY SPORT KOMPAKT 2 HD  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157922
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - SKY SPORT KOMPAKT 3 HD  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157923
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - SKY SPORT KOMPAKT 4 HD  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157924
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BUNDESLIGA 3 - 1  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157925
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BUNDESLIGA 3 - 2  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157926
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BUNDESLIGA 3 - 3  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157927
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BUNDESLIGA 3 - 4  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157928
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BUNDESLIGA 3 - 5  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157929
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BUNDESLIGA 3 - 6  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157930
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BUNDESLIGA 3 - 7  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157931
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - BUNDESLIGA 3 - 8  NUR SPIEL TAG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157932
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - FC BAYERN TV FULL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157933
+#EXTINF:0 tvg-id="ext" group-title="SPORT",|DE| TELEKOM - FC BAYERN TV SD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/157934
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: RTL+ SPORT 1 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202829
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: RTL+ SPORT 2 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202830
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: RTL+ SPORT 3 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202831
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: RTL+ SPORT 4 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202832
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: RTL+ SPORT 5 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202833
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: RTL+ SPORT 6 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202834
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: RTL+ SPORT 7 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202835
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: RTL+ SPORT 8 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202836
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: RTL+ SPORT 9 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202837
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE: RTL+ SPORT 10 (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202838
+#EXTINF:0 tvg-id="ext" group-title="SPORT",===== SPORT  =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116390
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: SKY SPORT NEWS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116391
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: SKY SPORT F1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193049
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: SKY SPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116393
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: SKY SPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116395
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: SKY SPORT PREMIER LEAGUE FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193624
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: SKY SPORT MIX FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193623
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: SKY SPORT TENNIS FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193622
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: SKY SPORT GOLF FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193621
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: SKY SPORT TOP EVENT FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193620
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: DAZN 1 BAR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116396
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: DAZN 2 BAR HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116397
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: BUNDESLIGA 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116398
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116399
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116400
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116401
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116402
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116403
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116404
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116405
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116406
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116407
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: EUROSPORT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116408
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: EUROSPORT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116409
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: MOTORVISION TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116411
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: SPORT1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116412
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: RTL+ SPORT 1 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202839
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: RTL+ SPORT 2 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202840
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: RTL+ SPORT 3 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202841
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: RTL+ SPORT 4 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202842
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: RTL+ SPORT 5 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202843
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: RTL+ SPORT 6 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202844
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: RTL+ SPORT 7 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202845
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: RTL+ SPORT 8 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202846
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: RTL+ SPORT 9 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202847
+#EXTINF:0 tvg-id="ext" group-title="SPORT",DE-4K: RTL+ SPORT 10 HD (Event Only)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/202848
+
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",===== MAGENTA =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200530
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA BBL 1 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200531
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA BBL 2 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200532
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA BBL 3 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200533
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA BBL 4 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200534
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA BBL 5 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200535
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA BBL 6 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200536
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA BBL 7 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200537
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA BBL 8 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200538
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA EISHOCKEY 1 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200539
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA EISHOCKEY 2 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200540
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA EISHOCKEY 3 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200541
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA EISHOCKEY 4 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200542
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA EISHOCKEY 5 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200543
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA EISHOCKEY 6 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200544
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA EISHOCKEY 7 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200545
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA EISHOCKEY 8 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200546
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA FUßBALL 1 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200547
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA FUßBALL 2 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200548
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA FUßBALL 3 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200549
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA FUßBALL 4 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200550
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA FUßBALL 5 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200551
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA FUßBALL 6 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200552
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA FUßBALL 7 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200553
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA SPORT (3.LIGA) 1 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200554
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA SPORT (3.LIGA) 2 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200555
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA SPORT (3.LIGA) 3 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200556
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA SPORT (3.LIGA) 4 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200557
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA SPORT (3.LIGA) 5 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200558
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA SPORT (3.LIGA) 6 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200559
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA SPORT (3.LIGA) 7 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200560
+#EXTINF:0 tvg-id="ext" group-title="MAGENTA",|DE| MAGENTA SPORT (3.LIGA) 8 HD (ONLY ON MATCHDAY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/200561
+
+#EXTINF:0 tvg-id="ext" group-title="MUSIK",===== MUSIK =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55725
+#EXTINF:0 tvg-id="Jukebox.de" group-title="MUSIK",|DE| JUKEBOX
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55726
+#EXTINF:0 tvg-id="Classica.de" group-title="MUSIK",|DE| CLASSICA
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55727
+#EXTINF:0 tvg-id="MTVGermany.de" group-title="MUSIK",|DE| MTV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55728
+#EXTINF:0 tvg-id="ext" group-title="MUSIK",===== MUSIK  =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116413
+#EXTINF:0 tvg-id="ext" group-title="MUSIK",DE-4K: JUKEBOX
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116414
+#EXTINF:0 tvg-id="ext" group-title="MUSIK",DE-4K: CLASSICA
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116415
+#EXTINF:0 tvg-id="ext" group-title="MUSIK",DE-4K: MTV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116416
+#EXTINF:0 tvg-id="ext" group-title="MUSIK",DE-4K: DELUXE MUSIC HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116417
+
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",===== DOKUMENTAR =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55729
+#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="DOKUMENTAR",|DE| DISCOVERY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55730
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",|DE| SKY NATURE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193066
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",|DE| SKY REPLAY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193040
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",|DE| SKY REPLAY FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193039
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="DOKUMENTAR",|DE| E! ENTERTAINMENT HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55731
+#EXTINF:0 tvg-id="History.de" group-title="DOKUMENTAR",|DE| HISTORY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55732
+#EXTINF:0 tvg-id="NatGeo.de" group-title="DOKUMENTAR",|DE| NATGEO HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55733
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="DOKUMENTAR",|DE| NAT GEO WILD HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55734
+#EXTINF:0 tvg-id="TLC.de" group-title="DOKUMENTAR",|DE| TLC HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55735
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="DOKUMENTAR",|DE| RTL LIVING
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55736
+#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="DOKUMENTAR",|DE| SPIEGEL GESCHICHTE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55737
+#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="DOKUMENTAR",|DE| DELUXE MUSIC HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55738
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",|DE| BON GUSTO HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/194738
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",|DE| GEO TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/194737
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="DOKUMENTAR",|DE| ANIMAL PLANET HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/194736
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",|DE| SKY DOCUMENTARIES HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/194735
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",===== DOKUMENTAR  =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116418
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: SKY NATURE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193042
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: SKY REPLAY
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193041
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: DISCOVERY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116419
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: E! ENTERTAINMENT HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116420
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: CRIME+  INVESTIGATION
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116421
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: HISTORY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116422
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: NAT GEO HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116423
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: NAT GEO WILD HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116424
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: SPIEGEL GESCHICHTE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116426
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: TLC HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116425
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: ANIMAL PLANET HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/194740
+#EXTINF:0 tvg-id="ext" group-title="DOKUMENTAR",DE-4K: SKY DOCUMENTARIES HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/194739
+
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",===== DE: REGIONALEN =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55739
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| 123TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55740
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| HSE24 EXTRA HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55741
+#EXTINF:0 tvg-id="HSE24.de" group-title="DE: REGIONALEN",|DE| HSE24 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55742
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| JUWELO HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55743
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| MDR S-ANHALT HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55744
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| MDR SACHSEN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55745
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| NDR FS HH HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55746
+#EXTINF:0 tvg-id="ndr.de" group-title="DE: REGIONALEN",|DE| NDR FS MV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55747
+#EXTINF:0 tvg-id="ndr.de" group-title="DE: REGIONALEN",|DE| NDR FS NDS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55748
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| NDR FS SH HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55749
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| NITRO
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55750
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| PEARL.TV HD SHOP
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55751
+#EXTINF:0 tvg-id="QVC.de" group-title="DE: REGIONALEN",|DE| QVC HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55752
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| QVC2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55753
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| SERVUSTV HD DEUTSCHLAND
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55754
+#EXTINF:0 tvg-id="rbbBerlin.de" group-title="DE: REGIONALEN",|DE| RBB BERLIN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55755
+#EXTINF:0 tvg-id="rbbBerlin.de" group-title="DE: REGIONALEN",|DE| RBB BRANDENBURG HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55756
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| SONNENKLAR.TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55757
+#EXTINF:0 tvg-id="SWR.de" group-title="DE: REGIONALEN",|DE| SWR FERNSEHEN BW
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55758
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| WDR HD AACHEN
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55759
+#EXTINF:0 tvg-id="WDR.de" group-title="DE: REGIONALEN",|DE| WDR HD BONN
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55760
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| WDR HD DUISBURG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55761
+#EXTINF:0 tvg-id="ext" group-title="DE: REGIONALEN",|DE| WDR HD WUPPERTAL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55762
+
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",===== JUGEND =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55763
+#EXTINF:0 tvg-id="Boomerang.de" group-title="JUGEND",|DE| BOOMERANG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55764
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",|DE| BABY TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/107039
+#EXTINF:0 tvg-id="SRTL.de" group-title="JUGEND",|DE| SUPER RTL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55765
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="JUGEND",|DE| CARTOON NETWORK
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55766
+#EXTINF:0 tvg-id="disneychannel.de" group-title="JUGEND",|DE| DISNEY CHANNEL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55767
+#EXTINF:0 tvg-id="Kika.de" group-title="JUGEND",|DE| KIKA
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55768
+#EXTINF:0 tvg-id="DisneyCinemagic.de" group-title="JUGEND",|DE| DISNEY CINEMAGIC HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55769
+#EXTINF:0 tvg-id="ComedyCentralVIVA.de" group-title="JUGEND",|DE| COMEDY CENTRAL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55771
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",|DE| NICK+ /MTV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55772
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",===== JUGEND  =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116451
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",DE-4K: BOOMERANG
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116452
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",DE-4K: SUPER RTL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116453
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",DE-4K: CARTOON NETWORK
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116454
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",DE-4K: DISNEY CHANNEL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116455
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",DE-4K: KIKA
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116456
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",DE-4K: DISNEY CINEMAGIC HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116457
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",DE-4K: COMEDY CENTRAL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116458
+#EXTINF:0 tvg-id="ext" group-title="JUGEND",DE-4K: NICK+ /MTV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116459
+
+#EXTINF:0 tvg-id="ext" group-title="NACHRICHTEN",===== NACHRICHTEN =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55773
+#EXTINF:0 tvg-id="ntv.de" group-title="NACHRICHTEN",|DE| N-TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55774
+#EXTINF:0 tvg-id="ntv.de" group-title="NACHRICHTEN",|DE| N-TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55775
+#EXTINF:0 tvg-id="ext" group-title="NACHRICHTEN",|DE| EURONEWS FRENCH
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55777
+#EXTINF:0 tvg-id="ext" group-title="NACHRICHTEN",|DE| EURONEWS GERMAN
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55778
+#EXTINF:0 tvg-id="ext" group-title="NACHRICHTEN",|DE| WELT HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55779
+#EXTINF:0 tvg-id="ext" group-title="NACHRICHTEN",=====  NACHRICHTEN  =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116460
+#EXTINF:0 tvg-id="ext" group-title="NACHRICHTEN",DE-4K: N-TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116461
+#EXTINF:0 tvg-id="ext" group-title="NACHRICHTEN",DE-4K: N-TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116462
+#EXTINF:0 tvg-id="ext" group-title="NACHRICHTEN",DE-4K: EURONEWS FRENCH
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116463
+#EXTINF:0 tvg-id="ext" group-title="NACHRICHTEN",DE-4K: EURONEWS GERMAN
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116464
+#EXTINF:0 tvg-id="ext" group-title="NACHRICHTEN",DE-4K: WELT HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116465
+
+#EXTINF:0 tvg-id="ext" group-title="UNTERHALTUNG",===== UNTERHALTUNG =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55780
+#EXTINF:0 tvg-id="SciFi.de" group-title="UNTERHALTUNG",|DE| SYFY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55781
+#EXTINF:0 tvg-id="TNTSerie.de" group-title="UNTERHALTUNG",|DE| TNT SERIE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55782
+#EXTINF:0 tvg-id="13thStreet.de" group-title="UNTERHALTUNG",|DE| 13TH STREET HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55784
+#EXTINF:0 tvg-id="Heimatkanal.de" group-title="UNTERHALTUNG",|DE| HEIMATKANAL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55785
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="UNTERHALTUNG",|DE| KINOWELT TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55786
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="UNTERHALTUNG",|DE| RTL CRIME HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55787
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="UNTERHALTUNG",|DE| RTL PASSION HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55788
+#EXTINF:0 tvg-id="Romance.de" group-title="UNTERHALTUNG",|DE| ROMANCE TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55789
+#EXTINF:0 tvg-id="ext" group-title="UNTERHALTUNG",=====  UNTERHALTUNG  =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116466
+#EXTINF:0 tvg-id="ext" group-title="UNTERHALTUNG",DE-4K: SYFY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116467
+#EXTINF:0 tvg-id="ext" group-title="UNTERHALTUNG",DE-4K: TNT SERIE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116468
+#EXTINF:0 tvg-id="ext" group-title="UNTERHALTUNG",DE-4K: 13TH STREET HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116470
+#EXTINF:0 tvg-id="ext" group-title="UNTERHALTUNG",DE-4K: HEIMATKANAL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116471
+#EXTINF:0 tvg-id="ext" group-title="UNTERHALTUNG",DE-4K: KINOWELT TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116472
+#EXTINF:0 tvg-id="ext" group-title="UNTERHALTUNG",DE-4K: ROMANCE TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116473
+
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",===== KINO HD =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55792
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| SKY CINEMA PREMIEREN  24 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55793
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="KINO HD",|DE| SKY ATLANTIC HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55794
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| SKY CINEMA CLASSIC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55795
+#EXTINF:0 tvg-id="SkyCinemaPlus24.de" group-title="KINO HD",|DE| SKY CINEMA +24 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55796
+#EXTINF:0 tvg-id="SkyAction.de" group-title="KINO HD",|DE| SKY CINEMA ACTION HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55797
+#EXTINF:0 tvg-id="SkyAction.de" group-title="KINO HD",|DE| SKY CINEMA ACTION
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55798
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="KINO HD",|DE| SKY CINEMA FAMILY
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55801
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| SKY CINEMA PREMIEREN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55802
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| SKY CINEMA PREMIEREN
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55803
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| Sky Cinema Fun
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55804
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| SKY CINEMA THRILLER HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55805
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| SKY CINEMA SPECIAL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55806
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="KINO HD",|DE| SKY CINEMA FAMILY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55807
+#EXTINF:0 tvg-id="SkyKrimi.de" group-title="KINO HD",|DE| SKY KRIMI
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55808
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| SKY BEST OF
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55824
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| SKY ONE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55825
+#EXTINF:0 tvg-id="SkyComedy.de" group-title="KINO HD",|DE| SKY COMEDY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193550
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| SKY CRIME HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193551
+#EXTINF:0 tvg-id="TNTGlitz.de" group-title="KINO HD",|DE| TNT COMEDY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55809
+#EXTINF:0 tvg-id="TNTFilm.de" group-title="KINO HD",|DE| TNT FILM HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55810
+#EXTINF:0 tvg-id="Universal.de" group-title="KINO HD",|DE| UNIVERSAL CHANNEL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55811
+#EXTINF:0 tvg-id="SonyEntertainmentTV.de" group-title="KINO HD",|DE| SONY TV FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193553
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",|DE| SONY AXN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193552
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",=====  KINO HD =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116474
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY CINEMA CLASSIC
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116477
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY CINEMA  24 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116478
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY CINEMA HALLOWEEN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116479
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY CINEMA ACTION HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116480
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY CINEMA ACTION
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116481
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY CINEMA FAMILY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116483
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY CINEMA PREMIEREN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116484
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY CINEMA
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116485
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY BEST OF HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116486
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY BEST OF
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116487
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY CINEMA FAMILY
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116488
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY ATLANTIC HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116489
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY KRIMI
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116490
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K:  SKY ONE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116491
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: TNT COMEDY HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116492
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: SKY CINEMA THRILLER HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116493
+#EXTINF:0 tvg-id="ext" group-title="KINO HD",DE-4K: TNT FILM HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116494
+
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",===== SKY SELECT =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55812
+#EXTINF:0 tvg-id="SkySelect.de" group-title="SKY SELECT",|DE| SKY SELECT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55814
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="SKY SELECT",|DE| SKY SELECT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55815
+#EXTINF:0 tvg-id="SkySelect3.de" group-title="SKY SELECT",|DE|  SKY SELECT 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55816
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="SKY SELECT",|DE| SKY SELECT 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55817
+#EXTINF:0 tvg-id="SkySelect5.de" group-title="SKY SELECT",|DE| SKY SELECT 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55818
+#EXTINF:0 tvg-id="SkySelect6.de" group-title="SKY SELECT",|DE| SKY SELECT 6 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55819
+#EXTINF:0 tvg-id="SkySelect7.de" group-title="SKY SELECT",|DE| SKY SELECT 7 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55820
+#EXTINF:0 tvg-id="SkySelect8.de" group-title="SKY SELECT",|DE| SKY SELECT 8 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55821
+#EXTINF:0 tvg-id="SkySelect9.de" group-title="SKY SELECT",|DE| SKY SELECT 9 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55822
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",|DE| SKY BEST OF HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55823
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",|DE| SKY POPCORN SELECT 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/118080
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",|DE| SKY POPCORN SELECT 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/118081
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",|DE| SKY POPCORN SELECT 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/118082
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",|DE| SKY POPCORN SELECT 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/118083
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",|DE| SKY POPCORN SELECT 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/118084
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",|DE| SKY POPCORN SELECT 6 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/118085
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",=====  SKY SELECT  =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116495
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",DE-4K: ONE 1
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116496
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",DE-4K: KABEL EINS CLASSICS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116498
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",DE-4K: SKY CINEMA SPECIAL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116499
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",DE-4K: BR FERNSEHEN NORD HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116500
+#EXTINF:0 tvg-id="ext" group-title="SKY SELECT",DE-4K: BR FERNSEHEN SUD HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116501
+
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",===== EAGLE =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193050
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA THRILLER
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193065
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA SCI-FI
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193064
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA ROMANTISCHE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193063
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA PREMIERE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193062
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA MYTHOLOGIE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193061
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA LACHELN
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193060
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA KOMODIE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193059
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA KINOSAAL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193058
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA HORROR
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193057
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA GESCHICHTE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193056
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA DRAMA
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193055
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA ANIMATION
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193054
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA AKTION
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193053
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA 007
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193051
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| EAGLE CINEMA ABENTEUER
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193052
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| RAKUTEN SPOTLIGHT
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193048
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| RAKUTEN REVRY
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193047
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| RAKUTEN TOP FREE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193046
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| RAKUTEN TV SHOWS
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193045
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| RAKUTEN ACTION MOVIES
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193044
+#EXTINF:0 tvg-id="ext" group-title="EAGLE",|DE| RAKUTEN COMEDY MOVIES
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/193043
+
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",===== GERMANY 4K =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116360
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: DAS ERSTE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116362
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: DAS ERSTE
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116363
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: ARTE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116364
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: 3SAT
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116365
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: ARD HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116366
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: ZDF HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116367
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: ZDF INFO
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116369
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: ZDF NEO
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116370
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: RTL HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116371
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: RTLII HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116372
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: RTL TELEVISION
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116373
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: RTL PLUS
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116375
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: SIXX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116376
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: PROSIEBEN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116377
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: PRO7 MAXX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116378
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: SAT.1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116380
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: SAT.1 GOLD HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116382
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: SAT 1 EMOTIONS
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/199200
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: VOX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116383
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: PHOENIX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116385
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: KABEL EINS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116386
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: TELE 5 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116387
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: ANIXE HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116388
+#EXTINF:0 tvg-id="ext" group-title="GERMANY 4K",DE-4K: DMAX HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116389
+
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",===== REGIONALEN =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116427
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: 123 TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116428
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: HSE24 EXTRA HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116429
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: HSE24 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116430
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: JUWELO HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116431
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: MDR S-ANHALT HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116432
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: MDR SACHSEN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116433
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: MDR THÃœRINGEN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116434
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: NDR FS HH HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116435
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: NDR FS MV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116436
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: NDR FS NDS HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116437
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: NDR FS SH HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116438
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: NITRO
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116439
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: PEARL.TV HD SHOP
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116440
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: QVC HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116441
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: SERVUSTV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116442
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: RBB BERLIN HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116443
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: RBB BRANDENBURG HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116444
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: SONNENKLAR.TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116445
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: SWR FERNSEHEN BW
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116446
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: WDR HD BONN
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116448
+#EXTINF:0 tvg-id="ext" group-title="REGIONALEN",DE-4K: WDR HD WUPPERTAL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116450
+
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",===== AUSTRIA =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94497
+#EXTINF:0 tvg-id="ATV.de" group-title="AUSTRIA",AT: ATV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94499
+#EXTINF:0 tvg-id="ATV2.at" group-title="AUSTRIA",AT: ATV 2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94500
+#EXTINF:0 tvg-id="ORF1.at" group-title="AUSTRIA",AT: ORF 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94501
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF 2N HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94502
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF 2 Burgenland HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211492
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF 2 Kärnten HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211493
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF 2 Niederösterreich HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211494
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF 2 Oberösterreich HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211495
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF 2 Salzburg HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211496
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF 2 Steiermark HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211497
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF 2 Tirol HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211498
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF 2 Voralberg HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211499
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF 2 Wien HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211500
+#EXTINF:0 tvg-id="ORF3.at" group-title="AUSTRIA",AT: ORF 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94503
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF SPORT  HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94504
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: OE24 TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211501
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: PULS 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94505
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: PULS 24 HD AUSTRIA
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94506
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: SERVUS TV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94507
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: ORF2W HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94508
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: MELODIE TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94509
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: SKY SPORT AUSTRIA 1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94511
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: SKY SPORT AUSTRIA 2 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94512
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: SKY SPORT AUSTRIA 3 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94513
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: SKY SPORT AUSTRIA 4 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94514
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: SKY SPORT AUSTRIA 7 HD (LIVE DURING EVENT ONLY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211504
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: SKY SPORT AUSTRIA 6 HD (LIVE DURING EVENT ONLY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211503
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AT: SKY SPORT AUSTRIA 5 HD (LIVE DURING EVENT ONLY)
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211502
+
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",===== AUSTRIA 4K =====
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94515
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: ATV HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94517
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: ATV2
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94518
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: ORF1 HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94519
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: ORF2N HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94520
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: ORF III HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94521
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: ORF SPORT  HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94522
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: PULS 4 HD Austria
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94523
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: PULS 24 HD AUSTRIA
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94524
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: Sky Sport Austria HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94525
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: ServusTV HD Oesterreich
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94526
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: ORF2W HD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94527
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: MELODIE TV
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/94528
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: Sky Sport Austria 1 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211505
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: Sky Sport Austria 2 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211506
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: Sky Sport Austria 3 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211507
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: Sky Sport Austria 4 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211508
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: Sky Sport Austria 5 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211509
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: Sky Sport Austria 6 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211510
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA 4K",AT UHD: Sky Sport Austria 7 FHD
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/211511
