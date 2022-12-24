@@ -155,7 +155,7 @@
 		<setting id="portal_name_11" type="text" label="Name" default="PORTAL 11" />
    	 	<setting id="portal_url_11" type="text" label="URL" default="http://tornado.netlink4.com:8000/c/" />
    	 	<setting label="30008" type="bool" id="custom_mac_11" default="true"/>
-   	 	<setting id="portal_mac_11" type="text" label="MAC" default="00:1A:79:43:45:89" visible="eq(-1,true)" />
+   	 	<setting id="portal_mac_11" type="text" label="MAC" default="00:1A:79:41:72:42" visible="eq(-1,true)" />
    	 	
    	 	<setting label="30009" type="bool" id="send_serial_3" default="false"/>
    	 	<setting label="30014" type="bool" id="custom_serial_3" default="false" visible="eq(-1,true)"/>
