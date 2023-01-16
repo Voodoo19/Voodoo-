@@ -1,50 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",|DE| DAS ERSTE HD (ARD)
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55674
-#EXTINF:0 tvg-id="ext" group-title="Channels",|DE| DAS ERSTE (ARD)
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55675
-#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",|DE| ARTE HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55676
-#EXTINF:0 tvg-id="3sat.de" group-title="Channels",|DE| 3 SAT
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55677
-#EXTINF:0 tvg-id="ARD-alpha.de" group-title="Channels",|DE| ARD HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55678
-#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",|DE| ZDF HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55679
-#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",|DE| ZDF
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55680
-#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",|DE| ZDF NEO
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55681
-#EXTINF:0 tvg-id="RTL.de" group-title="Channels",|DE| RTL HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55682
-#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",|DE| RTLII HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55683
-#EXTINF:0 tvg-id="ext" group-title="Channels",|DE| RTL TELVISION
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55684
-#EXTINF:0 tvg-id="RTLPlus.de" group-title="Channels",|DE| RTL PLUS
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55686
-#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",|DE| RTL NITRO
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55687
-#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",|DE| SIXX HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55688
-#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",|DE| PROSIEBEN HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55689
-#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",|DE| PRO7 MAXX HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55690
-#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",|DE| SAT.1 HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55691
-#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",|DE| SAT.1 GOLD HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55692
-#EXTINF:0 tvg-id="Sat1Comedy.de" group-title="Channels",|DE| SAT 1 EMOTIONS
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/199199
-#EXTINF:0 tvg-id="Vox.de" group-title="Channels",|DE| VOX HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55693
-#EXTINF:0 tvg-id="Vox.de" group-title="Channels",|DE| VOX
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55694
-#EXTINF:0 tvg-id="phoenix.de" group-title="Channels",|DE| PHOENIX HD
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/55695#EXTINF:-1,DE: 123 TV
-http://kuchini.site:8080/b12515fa/f176763b4e/18446
-#EXTINF:-1,DE: 13th Street
+
 http://kuchini.site:8080/b12515fa/f176763b4e/3498
 #EXTINF:-1,DE: 3sat
 http://kuchini.site:8080/b12515fa/f176763b4e/892
