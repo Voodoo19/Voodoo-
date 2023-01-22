@@ -1,0 +1,542 @@
+#EXTM3U
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",Das Erste HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13166
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",Das Erste  HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6262
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",Das Erste DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6256
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",ZDF FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6151
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",ZDF HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/17011
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13565
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL FHD  DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683243
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6216
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",Sat.1 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6210
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",Sat.1 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683455
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",ProSieben FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694060
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",ProSieben  FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8235
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",ProSieben HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683393
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",ProSieben  HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13144
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13553
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6153
+#EXTINF:0 tvg-id="VOXup.de" group-title="Channels",VOXup DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679836
+#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",Kabel Eins FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6242
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel 1 Classic FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679844
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel Eins Classic HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9151
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL 2 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6215
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL 2 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13136
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",RTL Nitro FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6212
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",RTL Nitro HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13137
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",RTL Passion FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8219
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTLup HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9152
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL Crime FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6214
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",RTL Crime HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/17012
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",RTL Living HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6213
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sat1 Emotion DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13135
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",Sat1 Gold FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6209
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",ProSieben Fun FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6219
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",ProSieben Fun HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13145
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",ProSieben Fun  HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13142
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",ProSieben Maxx FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13143
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",ProSieben Maxx HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683394
+#EXTINF:0 tvg-id="SRF1.ch" group-title="Channels",SRF 1 DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6170
+#EXTINF:0 tvg-id="ext" group-title="Channels",MDR HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6238
+#EXTINF:0 tvg-id="3sat.de" group-title="Channels",3Sat FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/16289
+#EXTINF:0 tvg-id="3sat.de" group-title="Channels",3sat HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6265
+#EXTINF:0 tvg-id="ndr.de" group-title="Channels",NDR HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6225
+#EXTINF:0 tvg-id="HR.de" group-title="Channels",HR FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13150
+#EXTINF:0 tvg-id="HR.de" group-title="Channels",HR HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6243
+#EXTINF:0 tvg-id="rbbBerlin.de" group-title="Channels",RBB Berlin HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6217
+#EXTINF:0 tvg-id="BR.de" group-title="Channels",BR HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687568
+#EXTINF:0 tvg-id="BR.de" group-title="Channels",BR DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13168
+#EXTINF:0 tvg-id="SWR.de" group-title="Channels",SWR HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6165
+#EXTINF:0 tvg-id="WDR.de" group-title="Channels",WDR HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6152
+#EXTINF:0 tvg-id="ext" group-title="Channels",Franken Fernsehen FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/677835
+#EXTINF:0 tvg-id="QVC.de" group-title="Channels",QVC HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13140
+#EXTINF:0 tvg-id="ext" group-title="Channels",QVC Style FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13141
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sonnenklar TV FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13130
+#EXTINF:0 tvg-id="ext" group-title="Channels",✽✽⭒ DE Sports ⭒✽✽
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678834
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports News FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13555
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sports News HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/684431
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Top Event FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/684432
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Top Event HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683895
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Top Event  HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/684429
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga FHD VIP DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/684005
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/684430
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga  FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683408
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683409
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga  HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13538
+#EXTINF:0 tvg-id="SkySportF1.de" group-title="Channels",Sky Sport F1 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687666
+#EXTINF:0 tvg-id="SkySportF1.de" group-title="Channels",Sky Sport F1  FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695025
+#EXTINF:0 tvg-id="SkySportF1.de" group-title="Channels",Sky Sport F1 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687667
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Premier League HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695691
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Premier League  HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695844
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Mix HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695690
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Tennis FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694261
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Tennis HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683896
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Tennis  HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694262
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Golf HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695692
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 3 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13563
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 3 [Match Time] HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6182
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 4 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13562
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 4 [Match Time] HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9127
+#EXTINF:0 tvg-id="SkySport5.de" group-title="Channels",Sky Sport 5 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13561
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 5 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9126
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 6 [Match Time] HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6181
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 7 [Match Time] HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6180
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 8 [Match Time] HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6179
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 9 [Match Time] HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6178
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport 10 [Match Time] HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6177
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/62223
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/135258
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/135671
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/62220
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/91235
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/135335
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 5 [Match Time] DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/62002
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/619225
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 7 [Match Time] DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6198
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6197
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 9 [Match Time] DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6196
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6195
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/661090
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 1 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/625243
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/661089
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN 2 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/50775
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="Channels",Sport1 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6173
+#EXTINF:0 tvg-id="Sport1HD.de" group-title="Channels",Sport1 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8221
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="Channels",Sport1+ FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679847
+#EXTINF:0 tvg-id="SPORT1plus.de" group-title="Channels",Sport1+ HD  DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679848
+#EXTINF:0 tvg-id="ext" group-title="Channels",eSports 1 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687730
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 1 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679823
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 2 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679822
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 3 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695829
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 4 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679824
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 5 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679825
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 6 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679826
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 7 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679827
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 8 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/688721
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 9 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679675
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 10 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695830
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 11 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695831
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 12 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695832
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 13 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695833
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 14 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695834
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 15 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695835
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 16 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695836
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 17 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695837
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magenta Sport 18 [Match Time] FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695838
+#EXTINF:0 tvg-id="ext" group-title="Channels",FC Bayern TV HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9128
+#EXTINF:0 tvg-id="Eurosport1.de" group-title="Channels",Eurosport 1 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8218
+#EXTINF:0 tvg-id="Eurosport2.de" group-title="Channels",Eurosport 2 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9131
+#EXTINF:0 tvg-id="sportdigital.de" group-title="Channels",Sport Digital FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8244
+#EXTINF:0 tvg-id="sportdigital.de" group-title="Channels",Sport Digital HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6171
+#EXTINF:0 tvg-id="ext" group-title="Channels",Motorvision HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8222
+#EXTINF:0 tvg-id="AutoMotorundSportChannel.de" group-title="Channels",Auto Motor Sport FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9132
+#EXTINF:0 tvg-id="ext" group-title="Channels",✽✽⭒ DE Movies & Series ⭒✽✽
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678836
+#EXTINF:0 tvg-id="SkyAction.de" group-title="Channels",Sky Cinema Action FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5093
+#EXTINF:0 tvg-id="SkyAction.de" group-title="Channels",Sky Cinema Action HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6205
+#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="Channels",Sky Cinema Special FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8217
+#EXTINF:0 tvg-id="SkyCinemaSpecial.de" group-title="Channels",Sky Cinema Special HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6252
+#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="Channels",Sky Cinema Thriller FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5089
+#EXTINF:0 tvg-id="SkyCinemaThriller.de" group-title="Channels",Sky Cinema Thriller HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7372
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema Thriller DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6193
+#EXTINF:0 tvg-id="SkyCinemaPlus24.de" group-title="Channels",Sky Cinema Premieren +24 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6192
+#EXTINF:0 tvg-id="SkyCinemaPlus24.de" group-title="Channels",Sky Cinema Premieren +24 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13133
+#EXTINF:0 tvg-id="SkyCinemaFun.de" group-title="Channels",Sky Cinema Fun FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6190
+#EXTINF:0 tvg-id="SkyCinemaFun.de" group-title="Channels",Sky Cinema Fun HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9144
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="Channels",Sky Cinema Best Of FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7368
+#EXTINF:0 tvg-id="SkyCinemaBestOf.de" group-title="Channels",Sky Cinema Best Of HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8223
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Channels",Sky Cinema Family FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9145
+#EXTINF:0 tvg-id="SkyCinemaFamily.de" group-title="Channels",Sky Cinema Family HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7369
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Cinema Classics HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13131
+#EXTINF:0 tvg-id="SkyCinemaClassics.de" group-title="Channels",Sky Cinema Classics DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6186
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Comedy FHD VIP DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/688822
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Krimi VIP HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/688821
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Channels",Sky Atlantic FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7367
+#EXTINF:0 tvg-id="SkyAtlanticHD.de" group-title="Channels",Sky Atlantic HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6204
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Channels",Sky 13TH Street FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5098
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Channels",Sky 13TH Street HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7365
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Channels",Sky 13TH Street  HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8198
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky One FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9138
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Replay FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23770
+#EXTINF:0 tvg-id="One.de" group-title="Channels",One HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9147
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",ZDF Neo HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/17304
+#EXTINF:0 tvg-id="SciFi.de" group-title="Channels",Syfy FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7364
+#EXTINF:0 tvg-id="ext" group-title="Channels",WarnerTV Comedy FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6157
+#EXTINF:0 tvg-id="ext" group-title="Channels",WarnerTV Comedy HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687541
+#EXTINF:0 tvg-id="ext" group-title="Channels",Warner Film FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6156
+#EXTINF:0 tvg-id="ext" group-title="Channels",WarnerTV Serie FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5084
+#EXTINF:0 tvg-id="ext" group-title="Channels",WarnerTV Serie HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13154
+#EXTINF:0 tvg-id="Universal.de" group-title="Channels",Universal FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/696610
+#EXTINF:0 tvg-id="Universal.de" group-title="Channels",Universal HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/696611
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Channel HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6167
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony AXN HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6259
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="Channels",Kinowelt FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6240
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eagle Cinema Premiere FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681946
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eagle Cinema Horror FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681942
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eagle Cinema Thriller FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681950
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eagle Cinema Sci-Fi FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681949
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eagle Cinema Animation HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681939
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eagle Cinema Mythologie HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681945
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eagle Cinema Lächeln HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681944
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eagle Cinema Geschichte HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681941
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eagle Cinema Romantisch FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681948
+#EXTINF:0 tvg-id="SkySelect1.de" group-title="Channels",Sky Select 1 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/655131
+#EXTINF:0 tvg-id="SkySelect1.de" group-title="Channels",Sky Select 1 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7375
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="Channels",Sky Select 2 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/655130
+#EXTINF:0 tvg-id="SkySelect2.de" group-title="Channels",Sky Select 2 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7376
+#EXTINF:0 tvg-id="SkySelect3.de" group-title="Channels",Sky Select 3 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/655129
+#EXTINF:0 tvg-id="SkySelect3.de" group-title="Channels",Sky Select 3 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7377
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="Channels",Sky Select 4 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/655128
+#EXTINF:0 tvg-id="SkySelect4.de" group-title="Channels",Sky Select 4 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7378
+#EXTINF:0 tvg-id="SkySelect5.de" group-title="Channels",Sky Select 5 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8977
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Select 5 HD [demnächst] DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/655127
+#EXTINF:0 tvg-id="SkySelect6.de" group-title="Channels",Sky Select 6 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8976
+#EXTINF:0 tvg-id="SkySelect7.de" group-title="Channels",Sky Select 7 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8975
+#EXTINF:0 tvg-id="SkySelect8.de" group-title="Channels",Sky Select 8 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8974
+#EXTINF:0 tvg-id="ext" group-title="Channels",PopCorn Select 1 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23778
+#EXTINF:0 tvg-id="ext" group-title="Channels",PopCorn Select 2 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683536
+#EXTINF:0 tvg-id="ext" group-title="Channels",PopCorn Select 2 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23777
+#EXTINF:0 tvg-id="ext" group-title="Channels",PopCorn Select 3 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683537
+#EXTINF:0 tvg-id="ext" group-title="Channels",PopCorn Select 3 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23776
+#EXTINF:0 tvg-id="ext" group-title="Channels",PopCorn Select 4 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23775
+#EXTINF:0 tvg-id="ext" group-title="Channels",PopCorn Select 5 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683540
+#EXTINF:0 tvg-id="ext" group-title="Channels",HyperCinema Boxset FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683534
+#EXTINF:0 tvg-id="ext" group-title="Channels",HyperCinema INFO FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683523
+#EXTINF:0 tvg-id="ext" group-title="Channels",HyperCinema 1 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683535
+#EXTINF:0 tvg-id="ext" group-title="Channels",HyperCinema 2 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683525
+#EXTINF:0 tvg-id="ext" group-title="Channels",HyperCinema 3 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683526
+#EXTINF:0 tvg-id="ext" group-title="Channels",HyperCinema 4 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683527
+#EXTINF:0 tvg-id="ext" group-title="Channels",HyperCinema 5 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683528
+#EXTINF:0 tvg-id="ext" group-title="Channels",HyperCinema 6 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683529
+#EXTINF:0 tvg-id="ext" group-title="Channels",HyperCinema 7 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683530
+#EXTINF:0 tvg-id="ext" group-title="Channels",HyperCinema 8 FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683531
+#EXTINF:0 tvg-id="ComedyCentralVIVA.de" group-title="Channels",Comedy Central FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6154
+#EXTINF:0 tvg-id="Romance.de" group-title="Channels",Romance TV HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13152
+#EXTINF:0 tvg-id="Heimatkanal.de" group-title="Channels",Sky Heimat Kanal DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6188
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",Sixx FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6207
+#EXTINF:0 tvg-id="ServusHD.de" group-title="Channels",Servus TV HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6208
+#EXTINF:0 tvg-id="Tele5.de" group-title="Channels",Tele 5 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9150
+#EXTINF:0 tvg-id="BibelTV.de" group-title="Channels",Bibel TV HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/677497
+#EXTINF:0 tvg-id="ext" group-title="Channels",Genius Family DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/690457
+#EXTINF:0 tvg-id="ext" group-title="Channels",✽✽⭒ Documentary ⭒✽✽
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678919
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",ZDF Info HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9148
+#EXTINF:0 tvg-id="N24Doku.de" group-title="Channels",N24 Doku DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679837
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel Eins Doku FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13147
+#EXTINF:0 tvg-id="HistoryHD.de" group-title="Channels",History Channel FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6244
+#EXTINF:0 tvg-id="SpiegelGeschichte.de" group-title="Channels",Spiegel Geschichte HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6174
+#EXTINF:0 tvg-id="ext" group-title="Channels",Curiosity Channel HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9135
+#EXTINF:0 tvg-id="DiscoveryHD.de" group-title="Channels",Discovery FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13570
+#EXTINF:0 tvg-id="ext" group-title="Channels",Crime & Investigation FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694569
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bergblick HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679846
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Channels",Animal Planet FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8196
+#EXTINF:0 tvg-id="AnimalPlanet.de" group-title="Channels",Animal Planet HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13173
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Channels",National Geographic FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8194
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Channels",Nat Geo Wild HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5085
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Nature FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694399
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Documentaries FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694398
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Crime FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/696723
+#EXTINF:0 tvg-id="ext" group-title="Channels",HGTV HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/688723
+#EXTINF:0 tvg-id="ext" group-title="Channels",Welt der Wunder HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679838
+#EXTINF:0 tvg-id="AnixeHD.de" group-title="Channels",Anixe HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6264
+#EXTINF:0 tvg-id="DMax.de" group-title="Channels",Dmax FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6249
+#EXTINF:0 tvg-id="TLC.de" group-title="Channels",TLC HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8224
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="Channels",E! Entertainment FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13569
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",Sky Arte HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5091
+#EXTINF:0 tvg-id="ext" group-title="Channels",ARD Alpha FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13171
+#EXTINF:0 tvg-id="ext" group-title="Channels",Waidwerk FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687566
+#EXTINF:0 tvg-id="ext" group-title="Channels",✽✽⭒ DE News ⭒✽✽
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678922
+#EXTINF:0 tvg-id="EuronewsDE.nws" group-title="Channels",Euronews DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6248
+#EXTINF:0 tvg-id="ext" group-title="Channels",Welt HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6228
+#EXTINF:0 tvg-id="ntv.de" group-title="Channels",N-TV FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13149
+#EXTINF:0 tvg-id="ntv.de" group-title="Channels",N-TV HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8195
+#EXTINF:0 tvg-id="ext" group-title="Channels",München TV FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6229
+#EXTINF:0 tvg-id="phoenix.de" group-title="Channels",Phoenix HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6221
+#EXTINF:0 tvg-id="tagesschau24.de" group-title="Channels",Tagesschau 24 HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6163
+#EXTINF:0 tvg-id="ext" group-title="Channels",✽✽⭒ DE Children ⭒✽✽
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678923
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Channels",Super RTL FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13554
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Channels",Super RTL HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6166
+#EXTINF:0 tvg-id="Kika.de" group-title="Channels",Kika HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6241
+#EXTINF:0 tvg-id="ext" group-title="Channels",Toggo Plus HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5086
+#EXTINF:0 tvg-id="TOGGOplus.de" group-title="Channels",Toggo Plus DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9133
+#EXTINF:0 tvg-id="Boomerang.de" group-title="Channels",Boomerang HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6258
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="Channels",Cartoon Network FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6257
+#EXTINF:0 tvg-id="disneychannel.de" group-title="Channels",Disney Channel FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6253
+#EXTINF:0 tvg-id="Nickelodeon.de" group-title="Channels",Nickelodeon HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6224
+#EXTINF:0 tvg-id="FixFoxi.de" group-title="Channels",Fix & Foxi DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23771
+#EXTINF:0 tvg-id="ext" group-title="Channels",✽✽⭒ DE Music ⭒✽✽
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678925
+#EXTINF:0 tvg-id="MTVGermany.de" group-title="Channels",MTV FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/35466
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV 80s DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/638080
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stingray Classica FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6191
+#EXTINF:0 tvg-id="Jukebox.de" group-title="Channels",Jukebox DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13148
+#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="Channels",Deluxe Music FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6255
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kronehit FHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/14200
+#EXTINF:0 tvg-id="DeutschesMusikFernsehen.de" group-title="Channels",Deutsches Musik Fernsehen DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13165
+
