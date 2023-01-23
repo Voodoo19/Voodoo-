@@ -153,7 +153,7 @@
 	
 	<category label="PORTAL 11">
 		<setting id="portal_name_11" type="text" label="Name" default="PORTAL 11" />
-   	 	<setting id="portal_url_11" type="text" label="URL" default="http://92.204.40.153/stalker_portal/c" />
+   	 	<setting id="portal_url_11" type="text" label="URL" default="http://92.204.40.153/stalker_portal/c/" />
    	 	<setting label="30008" type="bool" id="custom_mac_11" default="true"/>
    	 	<setting id="portal_mac_11" type="text" label="MAC" default="00:1A:79:72:E3:BB" visible="eq(-1,true)" />
    	 	
