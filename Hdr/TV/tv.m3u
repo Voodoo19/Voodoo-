@@ -1,0 +1,897 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ SKY BUNDESLIGA ★☆★" tvg-logo="http://focustv.xyz/files/ch/GERMANY/bundesliga.png" group-title="DE | SKY BUNDESLIGA",★☆★ SKY BUNDESLIGA ★☆★
+http://f01.live:8080/live/Thomas1/Haiderer/160887.m3u8
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="SKY BUNDESLIGA 1 RAW KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga1.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 1 RAW KABEL
+http://f01.live:8080/live/Thomas1/Haiderer/95775.m3u8
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="SKY BUNDESLIGA 1 HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga1.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 1 HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/250466.m3u8
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="SKY BUNDESLIGA 1 FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga1.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 1 FHD
+http://f01.live:8080/live/Thomas1/Haiderer/96097.m3u8
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="SKY BUNDESLIGA 1 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga1.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 1 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95759.m3u8
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="SKY BUNDESLIGA 2 FHD KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga2.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 2 FHD KABEL
+http://f01.live:8080/live/Thomas1/Haiderer/160900.m3u8
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="SKY BUNDESLIGA 2 FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga2.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 2 FHD
+http://f01.live:8080/live/Thomas1/Haiderer/182190.m3u8
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="SKY BUNDESLIGA 2 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga2.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 2 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95771.m3u8
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="SKY BUNDESLIGA 3 FHD KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga3.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 3 FHD KABEL
+http://f01.live:8080/live/Thomas1/Haiderer/160916.m3u8
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="SKY BUNDESLIGA 3 FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga3.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 3 FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95770.m3u8
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="SKY BUNDESLIGA 3 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga3.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 3 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95783.m3u8
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="SKY BUNDESLIGA 4 FHD KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga4.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 4 FHD KABEL
+http://f01.live:8080/live/Thomas1/Haiderer/160923.m3u8
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="SKY BUNDESLIGA 4 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga4.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 4 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95785.m3u8
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="SKY BUNDESLIGA 5 FHD KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga5.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 5 FHD KABEL
+http://f01.live:8080/live/Thomas1/Haiderer/160917.m3u8
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="SKY BUNDESLIGA 5 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga5.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 5 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95787.m3u8
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="SKY BUNDESLIGA 6 FHD KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga6.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 6 FHD KABEL
+http://f01.live:8080/live/Thomas1/Haiderer/160918.m3u8
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="SKY BUNDESLIGA 6 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga6.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 6 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95789.m3u8
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="SKY BUNDESLIGA 7 FHD KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga7.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 7 FHD KABEL
+http://f01.live:8080/live/Thomas1/Haiderer/160919.m3u8
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="SKY BUNDESLIGA 7 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga7.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 7 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95791.m3u8
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="SKY BUNDESLIGA 8 FHD KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga8.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 8 FHD KABEL
+http://f01.live:8080/live/Thomas1/Haiderer/160920.m3u8
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="SKY BUNDESLIGA 8 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga8.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 8 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95793.m3u8
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="SKY BUNDESLIGA 9 FHD KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga9.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 9 FHD KABEL
+http://f01.live:8080/live/Thomas1/Haiderer/160921.m3u8
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="SKY BUNDESLIGA 9 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga9.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 9 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95795.m3u8
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="SKY BUNDESLIGA 10 FHD KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga10.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 10 FHD KABEL
+http://f01.live:8080/live/Thomas1/Haiderer/160922.m3u8
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="SKY BUNDESLIGA 10 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga10.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 10 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ DEUTSCHLAND ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | DEUTSCHLAND",★☆★ DEUTSCHLAND ★☆★
+http://f01.live:8080/live/Thomas1/Haiderer/133772.m3u8
+#EXTINF:-1 tvg-id="ard.de" tvg-name="↺DAS ERSTE FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/daserste1.png" group-title="DE | DEUTSCHLAND",↺DAS ERSTE FHD
+http://f01.live:8080/live/Thomas1/Haiderer/154591.m3u8
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DAS ERSTE HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/daserste1.png" group-title="DE | DEUTSCHLAND",DAS ERSTE HD
+http://f01.live:8080/live/Thomas1/Haiderer/95550.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="↺ZDF FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/zdf.png" group-title="DE | DEUTSCHLAND",↺ZDF FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95552.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/zdf.png" group-title="DE | DEUTSCHLAND",ZDF HD
+http://f01.live:8080/live/Thomas1/Haiderer/95551.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="↺RTL FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtlhd.png" group-title="DE | DEUTSCHLAND",↺RTL FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95556.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtlhd.png" group-title="DE | DEUTSCHLAND",RTL HD
+http://f01.live:8080/live/Thomas1/Haiderer/95557.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="↺RTL 2 FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtl2.png" group-title="DE | DEUTSCHLAND",↺RTL 2 FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95558.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtl2.png" group-title="DE | DEUTSCHLAND",RTL 2 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95559.m3u8
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="↺SAT 1 FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1.png" group-title="DE | DEUTSCHLAND",↺SAT 1 FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95566.m3u8
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1.png" group-title="DE | DEUTSCHLAND",SAT 1 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95567.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="↺PROSIEBEN FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ProSieben_HD_Logo.svg.png" group-title="DE | DEUTSCHLAND",↺PROSIEBEN FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95560.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBEN HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ProSieben_HD_Logo.svg.png" group-title="DE | DEUTSCHLAND",PROSIEBEN HD
+http://f01.live:8080/live/Thomas1/Haiderer/95561.m3u8
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="↺PROSIEBEN MAXX FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/pro_7_maxx.png" group-title="DE | DEUTSCHLAND",↺PROSIEBEN MAXX FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95562.m3u8
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="PROSIEBEN MAXX HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/pro_7_maxx.png" group-title="DE | DEUTSCHLAND",PROSIEBEN MAXX HD
+http://f01.live:8080/live/Thomas1/Haiderer/95563.m3u8
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="↺PRO 7FUN FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/pro7fun.png" group-title="DE | DEUTSCHLAND",↺PRO 7FUN FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95564.m3u8
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="PRO 7FUN  HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/pro7fun.png" group-title="DE | DEUTSCHLAND",PRO 7FUN  HD
+http://f01.live:8080/live/Thomas1/Haiderer/95565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV NOW FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/tvnow.png" group-title="DE | DEUTSCHLAND",TV NOW FHD
+http://f01.live:8080/live/Thomas1/Haiderer/192047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV NOW HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/tvnow.png" group-title="DE | DEUTSCHLAND",TV NOW HD
+http://f01.live:8080/live/Thomas1/Haiderer/192048.m3u8
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="↺RTL CRIME FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtlcrime.png" group-title="DE | DEUTSCHLAND",↺RTL CRIME FHD
+http://f01.live:8080/live/Thomas1/Haiderer/106168.m3u8
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL CRIME HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtlcrime.png" group-title="DE | DEUTSCHLAND",RTL CRIME HD
+http://f01.live:8080/live/Thomas1/Haiderer/95582.m3u8
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="↺SAT 1 GOLD FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1gold.png" group-title="DE | DEUTSCHLAND",↺SAT 1 GOLD FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95568.m3u8
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 GOLD HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1gold.png" group-title="DE | DEUTSCHLAND",SAT 1 GOLD HD
+http://f01.live:8080/live/Thomas1/Haiderer/95569.m3u8
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="↺SAT 1 EMOTIONS FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/sat1emotions.png" group-title="DE | DEUTSCHLAND",↺SAT 1 EMOTIONS FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAT 1 EMOTIONS [BACKUP]" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/sat1emotions.png" group-title="DE | DEUTSCHLAND",SAT 1 EMOTIONS [BACKUP]
+http://f01.live:8080/live/Thomas1/Haiderer/290256.m3u8
+#EXTINF:-1 tvg-id="vox.de" tvg-name="↺VOX FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/voxhd.png" group-title="DE | DEUTSCHLAND",↺VOX FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95571.m3u8
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/voxhd.png" group-title="DE | DEUTSCHLAND",VOX HD
+http://f01.live:8080/live/Thomas1/Haiderer/95572.m3u8
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOX UP" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/voxup.png" group-title="DE | DEUTSCHLAND",VOX UP
+http://f01.live:8080/live/Thomas1/Haiderer/95573.m3u8
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="↺KABEL EINS FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-Kabel_Eins_HD_2011.svg.png" group-title="DE | DEUTSCHLAND",↺KABEL EINS FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95574.m3u8
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL EINS HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-Kabel_Eins_HD_2011.svg.png" group-title="DE | DEUTSCHLAND",KABEL EINS HD
+http://f01.live:8080/live/Thomas1/Haiderer/95575.m3u8
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="↺KABEL EINS CLASSICS FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/kabel1classics.png" group-title="DE | DEUTSCHLAND",↺KABEL EINS CLASSICS FHD
+http://f01.live:8080/live/Thomas1/Haiderer/117975.m3u8
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="KABEL EINS CLASSICS HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/kabel1classics.png" group-title="DE | DEUTSCHLAND",KABEL EINS CLASSICS HD
+http://f01.live:8080/live/Thomas1/Haiderer/95576.m3u8
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="↺KABEL EINS DOKU FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/kanal1doku.png" group-title="DE | DEUTSCHLAND",↺KABEL EINS DOKU FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95673.m3u8
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="KABEL EINS DOKU HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/kanal1doku.png" group-title="DE | DEUTSCHLAND",KABEL EINS DOKU HD
+http://f01.live:8080/live/Thomas1/Haiderer/155710.m3u8
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="↺ZDF NEO FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/zdfneo.png" group-title="DE | DEUTSCHLAND",↺ZDF NEO FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95553.m3u8
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF NEO HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/zdfneo.png" group-title="DE | DEUTSCHLAND",ZDF NEO HD
+http://f01.live:8080/live/Thomas1/Haiderer/95554.m3u8
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="↺ZDF INFO HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/zdfinfo.png" group-title="DE | DEUTSCHLAND",↺ZDF INFO HD
+http://f01.live:8080/live/Thomas1/Haiderer/95555.m3u8
+#EXTINF:-1 tvg-id="skyreplay.de" tvg-name="↺SKY REPLAY FHD (FOX)" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/skyreplay.png" group-title="DE | DEUTSCHLAND",↺SKY REPLAY FHD (FOX)
+http://f01.live:8080/live/Thomas1/Haiderer/153823.m3u8
+#EXTINF:-1 tvg-id="skyreplay.de" tvg-name="SKY REPLAY HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/skyreplay.png" group-title="DE | DEUTSCHLAND",SKY REPLAY HD
+http://f01.live:8080/live/Thomas1/Haiderer/107978.m3u8
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="↺NITRO FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/nitro.png" group-title="DE | DEUTSCHLAND",↺NITRO FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95577.m3u8
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="NITRO HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/nitro.png" group-title="DE | DEUTSCHLAND",NITRO HD
+http://f01.live:8080/live/Thomas1/Haiderer/95578.m3u8
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL PASSION HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/rtlpassion.png" group-title="DE | DEUTSCHLAND",RTL PASSION HD
+http://f01.live:8080/live/Thomas1/Haiderer/112159.m3u8
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL PASSION" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/rtlpassion.png" group-title="DE | DEUTSCHLAND",RTL PASSION
+http://f01.live:8080/live/Thomas1/Haiderer/95580.m3u8
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="↺RTL LIVING FHD" tvg-logo="http://focustv.xyz/files/ch/EXYU/RTLLIVING.png" group-title="DE | DEUTSCHLAND",↺RTL LIVING FHD
+http://f01.live:8080/live/Thomas1/Haiderer/187642.m3u8
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL LIVING HD" tvg-logo="http://focustv.xyz/files/ch/EXYU/RTLLIVING.png" group-title="DE | DEUTSCHLAND",RTL LIVING HD
+http://f01.live:8080/live/Thomas1/Haiderer/95581.m3u8
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="↺RTL UP FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/rtlup.png" group-title="DE | DEUTSCHLAND",↺RTL UP FHD
+http://f01.live:8080/live/Thomas1/Haiderer/187641.m3u8
+#EXTINF:-1 tvg-id="rtlup.de" tvg-name="RTL UP HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/rtlup.png" group-title="DE | DEUTSCHLAND",RTL UP HD
+http://f01.live:8080/live/Thomas1/Haiderer/95583.m3u8
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="↺SIXX FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-Sixx_-_HD_seit_2014.svg.png" group-title="DE | DEUTSCHLAND",↺SIXX FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95584.m3u8
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="SIXX HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-Sixx_-_HD_seit_2014.svg.png" group-title="DE | DEUTSCHLAND",SIXX HD
+http://f01.live:8080/live/Thomas1/Haiderer/95585.m3u8
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="↺ANIXE FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/anixe.png" group-title="DE | DEUTSCHLAND",↺ANIXE FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIXE+ HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/anixe_plus.png" group-title="DE | DEUTSCHLAND",ANIXE+ HD
+http://f01.live:8080/live/Thomas1/Haiderer/207840.m3u8
+#EXTINF:-1 tvg-id="arte.de" tvg-name="↺ARTE FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Arte_HD_Verlauf_Logo.svg.png" group-title="DE | DEUTSCHLAND",↺ARTE FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95589.m3u8
+#EXTINF:-1 tvg-id="arte.de" tvg-name="ARTE HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Arte_HD_Verlauf_Logo.svg.png" group-title="DE | DEUTSCHLAND",ARTE HD
+http://f01.live:8080/live/Thomas1/Haiderer/95588.m3u8
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="HEIMATKANAL" tvg-logo="http://focustv.xyz/files/ch/GERMANY/heimatkanal.png" group-title="DE | DEUTSCHLAND",HEIMATKANAL
+http://f01.live:8080/live/Thomas1/Haiderer/95590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BERGBLICK FHD" tvg-logo="https://i.imgur.com/95jLH1Y.png" group-title="DE | DEUTSCHLAND",BERGBLICK FHD
+http://f01.live:8080/live/Thomas1/Haiderer/235430.m3u8
+#EXTINF:-1 tvg-id="romance.de" tvg-name="↺ROMANCE TV FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/romance_tv.png" group-title="DE | DEUTSCHLAND",↺ROMANCE TV FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95591.m3u8
+#EXTINF:-1 tvg-id="romance.de" tvg-name="ROMANCE TV-HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/romance_tv.png" group-title="DE | DEUTSCHLAND",ROMANCE TV-HD
+http://f01.live:8080/live/Thomas1/Haiderer/266818.m3u8
+#EXTINF:-1 tvg-id="puls24.at" tvg-name="↺PULS 24 FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/PULS24logo.png" group-title="DE | DEUTSCHLAND",↺PULS 24 FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95545.m3u8
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5 HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Download.png" group-title="DE | DEUTSCHLAND",TELE 5 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95592.m3u8
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Download.png" group-title="DE | DEUTSCHLAND",TELE 5
+http://f01.live:8080/live/Thomas1/Haiderer/95593.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="↺3 SAT HD " tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-3sat_HD.svg.png" group-title="DE | DEUTSCHLAND",↺3 SAT HD 
+http://f01.live:8080/live/Thomas1/Haiderer/95595.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3 SAT " tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-3sat_HD.svg.png" group-title="DE | DEUTSCHLAND",3 SAT 
+http://f01.live:8080/live/Thomas1/Haiderer/95594.m3u8
+#EXTINF:-1 tvg-id="goldstartv.de" tvg-name="GOLDSTAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1200px-Gold_2014.svg.png" group-title="DE | DEUTSCHLAND",GOLDSTAR TV
+http://f01.live:8080/live/Thomas1/Haiderer/129232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ RAW | HEVC ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | HEVC / RAW",★☆★ RAW | HEVC ★☆★
+http://f01.live:8080/live/Thomas1/Haiderer/133771.m3u8
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DAS ERSTE HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/daserste1.png" group-title="DE | HEVC / RAW",DAS ERSTE HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/97742.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/zdf.png" group-title="DE | HEVC / RAW",ZDF HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/97743.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtlhd.png" group-title="DE | HEVC / RAW",RTL HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95520.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtl2.png" group-title="DE | HEVC / RAW",RTL 2 HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95521.m3u8
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1 HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1.png" group-title="DE | HEVC / RAW",SAT 1 HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95523.m3u8
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 GOLD HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1gold.png" group-title="DE | HEVC / RAW",SAT 1 GOLD HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95528.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBEN HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ProSieben_HD_Logo.svg.png" group-title="DE | HEVC / RAW",PROSIEBEN HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95522.m3u8
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="PROSIEBEN MAXX HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/pro_7_maxx.png" group-title="DE | HEVC / RAW",PROSIEBEN MAXX HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95526.m3u8
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/voxhd.png" group-title="DE | HEVC / RAW",VOX HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95524.m3u8
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL EINS HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-Kabel_Eins_HD_2011.svg.png" group-title="DE | HEVC / RAW",KABEL EINS HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95525.m3u8
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="KABEL EINS DOKU HEVC" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/kanal1doku.png" group-title="DE | HEVC / RAW",KABEL EINS DOKU HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95539.m3u8
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="SKY REPLAY HEVC (FOX)" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/skyreplay.png" group-title="DE | HEVC / RAW",SKY REPLAY HEVC (FOX)
+http://f01.live:8080/live/Thomas1/Haiderer/95533.m3u8
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="NITRO HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/nitro.png" group-title="DE | HEVC / RAW",NITRO HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95529.m3u8
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="SIXX HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-Sixx_-_HD_seit_2014.svg.png" group-title="DE | HEVC / RAW",SIXX HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95527.m3u8
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="SUPER RTL HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-Super_RTL_-_HD_Logo.svg.png" group-title="DE | HEVC / RAW",SUPER RTL HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/186403.m3u8
+#EXTINF:-1 tvg-id="orf1.de" tvg-name="ORF 1 HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/ORF_1_2019-min.png" group-title="DE | HEVC / RAW",ORF 1 HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/160904.m3u8
+#EXTINF:-1 tvg-id="orf2.de" tvg-name="ORF 2 HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/ORF-2-2019-min.png" group-title="DE | HEVC / RAW",ORF 2 HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/160905.m3u8
+#EXTINF:-1 tvg-id="orf3.at" tvg-name="ORF 3 HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/ORF_III_2019-min.png" group-title="DE | HEVC / RAW",ORF 3 HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/160906.m3u8
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/TLC-HD_Logo_Germany.png" group-title="DE | HEVC / RAW",TLC HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95540.m3u8
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5 HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Download.png" group-title="DE | HEVC / RAW",TELE 5 HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95541.m3u8
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="NATIONAL GEOGRAPHIC HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Nat_Geo_HD.png" group-title="DE | HEVC / RAW",NATIONAL GEOGRAPHIC HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95535.m3u8
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="NAT GEO WILD HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/national_geo_wild.png" group-title="DE | HEVC / RAW",NAT GEO WILD HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95536.m3u8
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/dmaxx.png" group-title="DE | HEVC / RAW",DMAX HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95538.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DISCOVERY HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/discovery_channel.png" group-title="DE | HEVC / RAW",DISCOVERY HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95534.m3u8
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="ANIMAL PLANET HEVC" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/animalplanet.png" group-title="DE | HEVC / RAW",ANIMAL PLANET HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/208601.m3u8
+#EXTINF:-1 tvg-id="history.de" tvg-name="HISTORY HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/HistoryHD_Logo_2015_4C_Black_type.png" group-title="DE | HEVC / RAW",HISTORY HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95537.m3u8
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! ENTERTAINMENT HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/1273_1.png" group-title="DE | HEVC / RAW",E! ENTERTAINMENT HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95532.m3u8
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="SPIEGEL GESCHICHTE HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Spiegel_Geschichte_HD_Logo_2014.svg.png" group-title="DE | HEVC / RAW",SPIEGEL GESCHICHTE HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95542.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13TH STREET HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/13th_Street_HD_Logo_2020.png" group-title="DE | HEVC / RAW",13TH STREET HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95694.m3u8
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="COMEDY CENTRAL HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Comedy_Central_HD_Logo_2018.svg.png" group-title="DE | HEVC / RAW",COMEDY CENTRAL HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95531.m3u8
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/syfy.png" group-title="DE | HEVC / RAW",SYFY HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/111171.m3u8
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WARNER TV COMEDY HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Warner_TV_Comedy.png" group-title="DE | HEVC / RAW",WARNER TV COMEDY HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95748.m3u8
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="WARNER TV FILM HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Warner_TV_Film.png" group-title="DE | HEVC / RAW",WARNER TV FILM HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95751.m3u8
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WARNER TV SERIE HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/WarnerTV_Serie.png" group-title="DE | HEVC / RAW",WARNER TV SERIE HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95754.m3u8
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="SKY ONE HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Sky_1.png" group-title="DE | HEVC / RAW",SKY ONE HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95731.m3u8
+#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="SKY COMEDY HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Sky_Comedy.png" group-title="DE | HEVC / RAW",SKY COMEDY HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/134396.m3u8
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="SKY KRIMI HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_krimi.png" group-title="DE | HEVC / RAW",SKY KRIMI HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95530.m3u8
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="SKY CRIME HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/skyCrime.png" group-title="DE | HEVC / RAW",SKY CRIME HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/160907.m3u8
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="SKY ATLANTIC HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_atlantic.png" group-title="DE | HEVC / RAW",SKY ATLANTIC HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95697.m3u8
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="SKY CINEMA ACTION HEVC" tvg-logo="http://focustv.xyz/files/ch/UK/ACTIONSKY.png" group-title="DE | HEVC / RAW",SKY CINEMA ACTION HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95701.m3u8
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="SKY CINEMA BEST OF HEVC" tvg-logo="http://focustv.xyz/files/ch/UK/HITSSKY.png" group-title="DE | HEVC / RAW",SKY CINEMA BEST OF HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95704.m3u8
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="SKY CINEMA FAMILY HEVC" tvg-logo="http://focustv.xyz/files/ch/UK/FAMILYSKY.png" group-title="DE | HEVC / RAW",SKY CINEMA FAMILY HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95707.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="SKY CINEMA PREMIEREN HEVC" tvg-logo="http://focustv.xyz/files/ch/UK/PREMIERESKY.png" group-title="DE | HEVC / RAW",SKY CINEMA PREMIEREN HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95700.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="SKY CINEMA PREMIEREN 24 HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_+24.png" group-title="DE | HEVC / RAW",SKY CINEMA PREMIEREN 24 HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95715.m3u8
+#EXTINF:-1 tvg-id="skycinemaspecial.de" tvg-name="SKY CINEMA SPECIAL HEVC" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_spezial.png" group-title="DE | HEVC / RAW",SKY CINEMA SPECIAL HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95720.m3u8
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="SKY CINEMA THRILLER HEVC" tvg-logo="http://focustv.xyz/files/ch/UK/THRILLERSKY.png" group-title="DE | HEVC / RAW",SKY CINEMA THRILLER HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95723.m3u8
+#EXTINF:-1 tvg-id="universal.de" tvg-name="UNIVERSAL TV HEVC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Universal_TV_HD_Logo_2018.png" group-title="DE | HEVC / RAW",UNIVERSAL TV HEVC
+http://f01.live:8080/live/Thomas1/Haiderer/95757.m3u8
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DAS ERSTE RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/daserste1.png" group-title="DE | HEVC / RAW",DAS ERSTE RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126473.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF RAW" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/zdf.png" group-title="DE | HEVC / RAW",ZDF RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126485.m3u8
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF NEO RAW" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/zdfneo.png" group-title="DE | HEVC / RAW",ZDF NEO RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126487.m3u8
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="RTL UHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/rtlUHD.png" group-title="DE | HEVC / RAW",RTL UHD
+http://f01.live:8080/live/Thomas1/Haiderer/182905.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL RAW" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtlhd.png" group-title="DE | HEVC / RAW",RTL RAW
+http://f01.live:8080/live/Thomas1/Haiderer/129198.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 RAW" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtl2.png" group-title="DE | HEVC / RAW",RTL 2 RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126477.m3u8
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1 RAW" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1.png" group-title="DE | HEVC / RAW",SAT 1 RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126457.m3u8
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="SAT 1 GOLD RAW" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1gold.png" group-title="DE | HEVC / RAW",SAT 1 GOLD RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126456.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBEN SAT 1 UHD RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Pro7 UHD.png" group-title="DE | HEVC / RAW",PROSIEBEN SAT 1 UHD RAW
+http://f01.live:8080/live/Thomas1/Haiderer/182904.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="PROSIEBEN RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ProSieben_HD_Logo.svg.png" group-title="DE | HEVC / RAW",PROSIEBEN RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126455.m3u8
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="PROSIEBEN MAXX RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/pro_7_maxx.png" group-title="DE | HEVC / RAW",PROSIEBEN MAXX RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126454.m3u8
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="PRO 7FUN RAW" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/pro7fun.png" group-title="DE | HEVC / RAW",PRO 7FUN RAW
+http://f01.live:8080/live/Thomas1/Haiderer/160902.m3u8
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX RAW" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/voxhd.png" group-title="DE | HEVC / RAW",VOX RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126484.m3u8
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOX UP RAW" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/voxup.png" group-title="DE | HEVC / RAW",VOX UP RAW
+http://f01.live:8080/live/Thomas1/Haiderer/160903.m3u8
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="KABEL EINS RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-Kabel_Eins_HD_2011.svg.png" group-title="DE | HEVC / RAW",KABEL EINS RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126472.m3u8
+#EXTINF:-1 tvg-id="kabeleinsdoku.de" tvg-name="KABEL EINS DOKU RAW" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/kanal1doku.png" group-title="DE | HEVC / RAW",KABEL EINS DOKU RAW
+http://f01.live:8080/live/Thomas1/Haiderer/129768.m3u8
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="SKY REPLAY RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/skyreplay.png" group-title="DE | HEVC / RAW",SKY REPLAY RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126452.m3u8
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="NITRO RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/nitro.png" group-title="DE | HEVC / RAW",NITRO RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126475.m3u8
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="SIXX RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-Sixx_-_HD_seit_2014.svg.png" group-title="DE | HEVC / RAW",SIXX RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126458.m3u8
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="SUPER RTL RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-Super_RTL_-_HD_Logo.svg.png" group-title="DE | HEVC / RAW",SUPER RTL RAW
+http://f01.live:8080/live/Thomas1/Haiderer/186402.m3u8
+#EXTINF:-1 tvg-id="orf1.at" tvg-name="ORF 1 RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/ORF_1_2019-min.png" group-title="DE | HEVC / RAW",ORF 1 RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126453.m3u8
+#EXTINF:-1 tvg-id="orf2.at" tvg-name="ORF 2 RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/ORF-2-2019-min.png" group-title="DE | HEVC / RAW",ORF 2 RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126493.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/N-TV_Germany_HD_Logo_2017.png" group-title="DE | HEVC / RAW",N-TV RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126486.m3u8
+#EXTINF:-1 tvg-id="welt.de" tvg-name="WELT RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/welt.png" group-title="DE | HEVC / RAW",WELT RAW
+http://f01.live:8080/live/Thomas1/Haiderer/160908.m3u8
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="SKY NATURE RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/skynature.png" group-title="DE | HEVC / RAW",SKY NATURE RAW
+http://f01.live:8080/live/Thomas1/Haiderer/167671.m3u8
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="SKY DOCUMENTARIES RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/skydocumentaries.png" group-title="DE | HEVC / RAW",SKY DOCUMENTARIES RAW
+http://f01.live:8080/live/Thomas1/Haiderer/167672.m3u8
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/TLC-HD_Logo_Germany.png" group-title="DE | HEVC / RAW",TLC RAW
+http://f01.live:8080/live/Thomas1/Haiderer/160910.m3u8
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="TELE 5 RAW " tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Download.png" group-title="DE | HEVC / RAW",TELE 5 RAW 
+http://f01.live:8080/live/Thomas1/Haiderer/160911.m3u8
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="NATIONAL GEOGRAPHIC RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Nat_Geo_HD.png" group-title="DE | HEVC / RAW",NATIONAL GEOGRAPHIC RAW
+http://f01.live:8080/live/Thomas1/Haiderer/129764.m3u8
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="NAT GEO WILD RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/national_geo_wild.png" group-title="DE | HEVC / RAW",NAT GEO WILD RAW
+http://f01.live:8080/live/Thomas1/Haiderer/129765.m3u8
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="DMAX RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/dmaxx.png" group-title="DE | HEVC / RAW",DMAX RAW
+http://f01.live:8080/live/Thomas1/Haiderer/129769.m3u8
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DISCOVERY RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/discovery_channel.png" group-title="DE | HEVC / RAW",DISCOVERY RAW
+http://f01.live:8080/live/Thomas1/Haiderer/129766.m3u8
+#EXTINF:-1 tvg-id="history.de" tvg-name="HISTORY RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/HistoryHD_Logo_2015_4C_Black_type.png" group-title="DE | HEVC / RAW",HISTORY RAW
+http://f01.live:8080/live/Thomas1/Haiderer/129767.m3u8
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! ENTERTAINMENT RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/1273_1.png" group-title="DE | HEVC / RAW",E! ENTERTAINMENT RAW
+http://f01.live:8080/live/Thomas1/Haiderer/160915.m3u8
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="SPIEGEL GESCHICHTE RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Spiegel_Geschichte_HD_Logo_2014.svg.png" group-title="DE | HEVC / RAW",SPIEGEL GESCHICHTE RAW
+http://f01.live:8080/live/Thomas1/Haiderer/160909.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13TH STREET RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/13th_Street_HD_Logo_2020.png" group-title="DE | HEVC / RAW",13TH STREET RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126448.m3u8
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="COMEDY CENTRAL RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Comedy_Central_HD_Logo_2018.svg.png" group-title="DE | HEVC / RAW",COMEDY CENTRAL RAW
+http://f01.live:8080/live/Thomas1/Haiderer/160914.m3u8
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/syfy.png" group-title="DE | HEVC / RAW",SYFY RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126459.m3u8
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WARNER TV COMEDY RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Warner_TV_Comedy.png" group-title="DE | HEVC / RAW",WARNER TV COMEDY RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126469.m3u8
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="WARNER TV FILM RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Warner_TV_Film.png" group-title="DE | HEVC / RAW",WARNER TV FILM RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126483.m3u8
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WARNER TV SERIE RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/WarnerTV_Serie.png" group-title="DE | HEVC / RAW",WARNER TV SERIE RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126470.m3u8
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="SKY ONE RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Sky_1.png" group-title="DE | HEVC / RAW",SKY ONE RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126460.m3u8
+#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="SKY COMEDY RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Sky_Comedy.png" group-title="DE | HEVC / RAW",SKY COMEDY RAW
+http://f01.live:8080/live/Thomas1/Haiderer/160913.m3u8
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="SKY KRIMI RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_krimi.png" group-title="DE | HEVC / RAW",SKY KRIMI RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126481.m3u8
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="SKY CRIME RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/skyCrime.png" group-title="DE | HEVC / RAW",SKY CRIME RAW
+http://f01.live:8080/live/Thomas1/Haiderer/134393.m3u8
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="SKY ATLANTIC RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_atlantic.png" group-title="DE | HEVC / RAW",SKY ATLANTIC RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126461.m3u8
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="SKY CINEMA ACTION RAW" tvg-logo="http://focustv.xyz/files/ch/UK/ACTIONSKY.png" group-title="DE | HEVC / RAW",SKY CINEMA ACTION RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126462.m3u8
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="SKY CINEMA BEST OF RAW" tvg-logo="http://focustv.xyz/files/ch/UK/HITSSKY.png" group-title="DE | HEVC / RAW",SKY CINEMA BEST OF RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126463.m3u8
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="SKY CINEMA FAMILY RAW" tvg-logo="http://focustv.xyz/files/ch/UK/FAMILYSKY.png" group-title="DE | HEVC / RAW",SKY CINEMA FAMILY RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126464.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="SKY CINEMA PREMIEREN RAW" tvg-logo="http://focustv.xyz/files/ch/UK/PREMIERESKY.png" group-title="DE | HEVC / RAW",SKY CINEMA PREMIEREN RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126466.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="SKY CINEMA PREMIEREN 24 RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_+24.png" group-title="DE | HEVC / RAW",SKY CINEMA PREMIEREN 24 RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126465.m3u8
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="SKY CINEMA SPECIAL RAW" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_spezial.png" group-title="DE | HEVC / RAW",SKY CINEMA SPECIAL RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126467.m3u8
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="SKY CINEMA THRILLER RAW" tvg-logo="http://focustv.xyz/files/ch/UK/THRILLERSKY.png" group-title="DE | HEVC / RAW",SKY CINEMA THRILLER RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126480.m3u8
+#EXTINF:-1 tvg-id="universal.de" tvg-name="UNIVERSAL TV RAW" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Universal_TV_HD_Logo_2018.png" group-title="DE | HEVC / RAW",UNIVERSAL TV RAW
+http://f01.live:8080/live/Thomas1/Haiderer/126471.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ SKY CINEMA ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="DE | SKY CINEMA",★☆★ SKY CINEMA ★☆★
+http://f01.live:8080/live/Thomas1/Haiderer/95691.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13TH STREET FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/13th_Street_HD_Logo_2020.png" group-title="DE | SKY CINEMA",13TH STREET FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95692.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="13TH STREET HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/13th_Street_HD_Logo_2020.png" group-title="DE | SKY CINEMA",13TH STREET HD
+http://f01.live:8080/live/Thomas1/Haiderer/95693.m3u8
+#EXTINF:-1 tvg-id="skyshowcasehd.de" tvg-name="SKY SHOWCASE FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/SKYSHOWCASE-min.png" group-title="DE | SKY CINEMA",SKY SHOWCASE FHD
+http://f01.live:8080/live/Thomas1/Haiderer/250464.m3u8
+#EXTINF:-1 tvg-id="skyshowcasehd.de" tvg-name="SKY SHOWCASE HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/SKYSHOWCASE-min.png" group-title="DE | SKY CINEMA",SKY SHOWCASE HD
+http://f01.live:8080/live/Thomas1/Haiderer/250465.m3u8
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="SKY KRIMI FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_krimi.png" group-title="DE | SKY CINEMA",SKY KRIMI FHD
+http://f01.live:8080/live/Thomas1/Haiderer/186431.m3u8
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="SKY KRIMI HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_krimi.png" group-title="DE | SKY CINEMA",SKY KRIMI HD
+http://f01.live:8080/live/Thomas1/Haiderer/186430.m3u8
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="SKY CRIME FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/skyCrime.png" group-title="DE | SKY CINEMA",SKY CRIME FHD
+http://f01.live:8080/live/Thomas1/Haiderer/134394.m3u8
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="SKY CRIME HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/skyCrime.png" group-title="DE | SKY CINEMA",SKY CRIME HD
+http://f01.live:8080/live/Thomas1/Haiderer/134395.m3u8
+#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="SKY COMEDY FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Sky_Comedy.png" group-title="DE | SKY CINEMA",SKY COMEDY FHD
+http://f01.live:8080/live/Thomas1/Haiderer/134397.m3u8
+#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="SKY COMEDY HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Sky_Comedy.png" group-title="DE | SKY CINEMA",SKY COMEDY HD
+http://f01.live:8080/live/Thomas1/Haiderer/134398.m3u8
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="SKY CINEMA ACTION FHD" tvg-logo="http://focustv.xyz/files/ch/UK/ACTIONSKY.png" group-title="DE | SKY CINEMA",SKY CINEMA ACTION FHD
+http://f01.live:8080/live/Thomas1/Haiderer/109345.m3u8
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="SKY CINEMA ACTION HD" tvg-logo="http://focustv.xyz/files/ch/UK/ACTIONSKY.png" group-title="DE | SKY CINEMA",SKY CINEMA ACTION HD
+http://f01.live:8080/live/Thomas1/Haiderer/130443.m3u8
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="SKY CINEMA BEST OF FHD" tvg-logo="http://focustv.xyz/files/ch/UK/HITSSKY.png" group-title="DE | SKY CINEMA",SKY CINEMA BEST OF FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95702.m3u8
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="SKY CINEMA BEST OF HD" tvg-logo="http://focustv.xyz/files/ch/UK/HITSSKY.png" group-title="DE | SKY CINEMA",SKY CINEMA BEST OF HD
+http://f01.live:8080/live/Thomas1/Haiderer/95703.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="SKY CINEMA PREMIEREN FHD" tvg-logo="http://focustv.xyz/files/ch/UK/PREMIERESKY.png" group-title="DE | SKY CINEMA",SKY CINEMA PREMIEREN FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95716.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="SKY CINEMA PREMIEREN HD" tvg-logo="http://focustv.xyz/files/ch/UK/PREMIERESKY.png" group-title="DE | SKY CINEMA",SKY CINEMA PREMIEREN HD
+http://f01.live:8080/live/Thomas1/Haiderer/95717.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="SKY CINEMA PREMIEREN+ 24 FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_+24.png" group-title="DE | SKY CINEMA",SKY CINEMA PREMIEREN+ 24 FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95713.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="SKY CINEMA PREMIEREN+ 24 HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_+24.png" group-title="DE | SKY CINEMA",SKY CINEMA PREMIEREN+ 24 HD
+http://f01.live:8080/live/Thomas1/Haiderer/95714.m3u8
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="SKY CINEMA THRILLER FHD" tvg-logo="http://focustv.xyz/files/ch/UK/THRILLERSKY.png" group-title="DE | SKY CINEMA",SKY CINEMA THRILLER FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95721.m3u8
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="SKY CINEMA THRILLER HD" tvg-logo="http://focustv.xyz/files/ch/UK/THRILLERSKY.png" group-title="DE | SKY CINEMA",SKY CINEMA THRILLER HD
+http://f01.live:8080/live/Thomas1/Haiderer/95722.m3u8
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="SKY CINEMA SPECIAL FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_spezial.png" group-title="DE | SKY CINEMA",SKY CINEMA SPECIAL FHD
+http://f01.live:8080/live/Thomas1/Haiderer/130445.m3u8
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="SKY CINEMA SPECIAL HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_spezial.png" group-title="DE | SKY CINEMA",SKY CINEMA SPECIAL HD
+http://f01.live:8080/live/Thomas1/Haiderer/95719.m3u8
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="SKY CINEMA FAMILY FHD" tvg-logo="http://focustv.xyz/files/ch/UK/FAMILYSKY.png" group-title="DE | SKY CINEMA",SKY CINEMA FAMILY FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95706.m3u8
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="SKY CINEMA FAMILY HD" tvg-logo="http://focustv.xyz/files/ch/UK/FAMILYSKY.png" group-title="DE | SKY CINEMA",SKY CINEMA FAMILY HD
+http://f01.live:8080/live/Thomas1/Haiderer/155722.m3u8
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="SKY CINEMA FUN HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/skycinemafun.png" group-title="DE | SKY CINEMA",SKY CINEMA FUN HD
+http://f01.live:8080/live/Thomas1/Haiderer/95708.m3u8
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="SKY CINEMA FUN" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/skycinemafun.png" group-title="DE | SKY CINEMA",SKY CINEMA FUN
+http://f01.live:8080/live/Thomas1/Haiderer/95709.m3u8
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="SKY CINEMA CLASSIC HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/skycinemaclassics.png" group-title="DE | SKY CINEMA",SKY CINEMA CLASSIC HD
+http://f01.live:8080/live/Thomas1/Haiderer/95705.m3u8
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="SKY CINEMA CLASSIC" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/skycinemaclassics.png" group-title="DE | SKY CINEMA",SKY CINEMA CLASSIC
+http://f01.live:8080/live/Thomas1/Haiderer/241852.m3u8
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="SKY ATLANTIC FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_atlantic.png" group-title="DE | SKY CINEMA",SKY ATLANTIC FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95695.m3u8
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="SKY ATLANTIC HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sky_cinema_atlantic.png" group-title="DE | SKY CINEMA",SKY ATLANTIC HD
+http://f01.live:8080/live/Thomas1/Haiderer/95696.m3u8
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="SKY ONE FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Sky_1.png" group-title="DE | SKY CINEMA",SKY ONE FHD
+http://f01.live:8080/live/Thomas1/Haiderer/130517.m3u8
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="SKY ONE HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Sky_1.png" group-title="DE | SKY CINEMA",SKY ONE HD
+http://f01.live:8080/live/Thomas1/Haiderer/95730.m3u8
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/syfy.png" group-title="DE | SKY CINEMA",SYFY FHD
+http://f01.live:8080/live/Thomas1/Haiderer/130469.m3u8
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="SYFY HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/syfy.png" group-title="DE | SKY CINEMA",SYFY HD
+http://f01.live:8080/live/Thomas1/Haiderer/95745.m3u8
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WARNER TV COMEDY FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Warner_TV_Comedy.png" group-title="DE | SKY CINEMA",WARNER TV COMEDY FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95746.m3u8
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WARNER TV COMEDY HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Warner_TV_Comedy.png" group-title="DE | SKY CINEMA",WARNER TV COMEDY HD
+http://f01.live:8080/live/Thomas1/Haiderer/95747.m3u8
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="WARNER TV FILM FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Warner_TV_Film.png" group-title="DE | SKY CINEMA",WARNER TV FILM FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95749.m3u8
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="WARNER TV FILM HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Warner_TV_Film.png" group-title="DE | SKY CINEMA",WARNER TV FILM HD
+http://f01.live:8080/live/Thomas1/Haiderer/95750.m3u8
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WARNER TV SERIE FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/WarnerTV_Serie.png" group-title="DE | SKY CINEMA",WARNER TV SERIE FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95752.m3u8
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WARNER TV SERIE HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/WarnerTV_Serie.png" group-title="DE | SKY CINEMA",WARNER TV SERIE HD
+http://f01.live:8080/live/Thomas1/Haiderer/95753.m3u8
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! ENTERTAINMENT FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/1273_1.png" group-title="DE | SKY CINEMA",E! ENTERTAINMENT FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95735.m3u8
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! ENTERTAINMENT HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/1273_1.png" group-title="DE | SKY CINEMA",E! ENTERTAINMENT HD
+http://f01.live:8080/live/Thomas1/Haiderer/95971.m3u8
+#EXTINF:-1 tvg-id="universal.de" tvg-name="UNIVERSAL TV FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Universal_TV_HD_Logo_2018.png" group-title="DE | SKY CINEMA",UNIVERSAL TV FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95755.m3u8
+#EXTINF:-1 tvg-id="universal.de" tvg-name="UNIVERSAL TV HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Universal_TV_HD_Logo_2018.png" group-title="DE | SKY CINEMA",UNIVERSAL TV HD
+http://f01.live:8080/live/Thomas1/Haiderer/95756.m3u8
+#EXTINF:-1 tvg-id="romance.de" tvg-name="ROMANCE TV FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/romance_tv.png" group-title="DE | SKY CINEMA",ROMANCE TV FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95732.m3u8
+#EXTINF:-1 tvg-id="romance.de" tvg-name="ROMANCE TV HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/romance_tv.png" group-title="DE | SKY CINEMA",ROMANCE TV HD
+http://f01.live:8080/live/Thomas1/Haiderer/241853.m3u8
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="KINOWELT TV FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY2/KINOWELTTV.png" group-title="DE | SKY CINEMA",KINOWELT TV FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95737.m3u8
+#EXTINF:-1 tvg-id="sonyaxn.de" tvg-name="SONY AXN" tvg-logo="https://bilder.fernsehserien.de/logos/hr/111.png" group-title="DE | SKY CINEMA",SONY AXN
+http://f01.live:8080/live/Thomas1/Haiderer/135630.m3u8
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="SONY CHANNEL" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/sony.png" group-title="DE | SKY CINEMA",SONY CHANNEL
+http://f01.live:8080/live/Thomas1/Haiderer/135629.m3u8
+#EXTINF:-1 tvg-id="silverline.de" tvg-name="SILVERLINE HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/silverline.png" group-title="DE | SKY CINEMA",SILVERLINE HD
+http://f01.live:8080/live/Thomas1/Haiderer/95967.m3u8
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="HEIMATKANAL" tvg-logo="http://focustv.xyz/files/ch/GERMANY/heimatkanal.png" group-title="DE | SKY CINEMA",HEIMATKANAL
+http://f01.live:8080/live/Thomas1/Haiderer/95725.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="***DE PLUTO***" tvg-logo="https://i.imgur.com/GbQIbSV.png" group-title="DE | PLUTO TV",***DE PLUTO***
+http://f01.live:8080/live/Thomas1/Haiderer/279168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5ad9b648e738977e2c312131/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Kids
+http://f01.live:8080/live/Thomas1/Haiderer/279169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | World Poker Tour" tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | World Poker Tour
+http://f01.live:8080/live/Thomas1/Haiderer/279170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | FailArmy" tvg-logo="https://images.pluto.tv/channels/5ad9b7ffe738977e2c312133/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | FailArmy
+http://f01.live:8080/live/Thomas1/Haiderer/279171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Explore" tvg-logo="https://images.pluto.tv/channels/5ad9b8551b95267e225e59c1/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Explore
+http://f01.live:8080/live/Thomas1/Haiderer/279172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Sports" tvg-logo="https://images.pluto.tv/channels/5ad9bb941b95267e225e59c2/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Sports
+http://f01.live:8080/live/Thomas1/Haiderer/279173.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | IGN" tvg-logo="https://images.pluto.tv/channels/5ad9bc207ef2767e1846e5a0/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | IGN
+http://f01.live:8080/live/Thomas1/Haiderer/279174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MinecrafTV" tvg-logo="https://images.pluto.tv/channels/5ad9bca67ef2767e1846e5a1/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MinecrafTV
+http://f01.live:8080/live/Thomas1/Haiderer/279175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Fight" tvg-logo="https://images.pluto.tv/channels/5ad9bda9fd87eb3a2717cce0/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Fight
+http://f01.live:8080/live/Thomas1/Haiderer/279176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Glory Kickboxing" tvg-logo="https://images.pluto.tv/channels/5ad9be1be738977e2c312134/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Glory Kickboxing
+http://f01.live:8080/live/Thomas1/Haiderer/279177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MST3K" tvg-logo="https://images.pluto.tv/channels/5b4f56242d4ec87bdcbbb333/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MST3K
+http://f01.live:8080/live/Thomas1/Haiderer/279178.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5b4f5a07694c027be6ed1417/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | The Pet Collective
+http://f01.live:8080/live/Thomas1/Haiderer/279179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Rifftrax" tvg-logo="https://images.pluto.tv/channels/5b4f5bf8423e067bd6df90ca/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Rifftrax
+http://f01.live:8080/live/Thomas1/Haiderer/279180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Action Sports" tvg-logo="https://images.pluto.tv/channels/5be1be871843b56328bc3ef1/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Action Sports
+http://f01.live:8080/live/Thomas1/Haiderer/279181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Nature" tvg-logo="https://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Nature
+http://f01.live:8080/live/Thomas1/Haiderer/279182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Movies" tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Movies
+http://f01.live:8080/live/Thomas1/Haiderer/279183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Pluto TV
+http://f01.live:8080/live/Thomas1/Haiderer/279184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV The Shores" tvg-logo="https://images.pluto.tv/channels/5caf32c2a5068259a32320fc/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV The Shores
+http://f01.live:8080/live/Thomas1/Haiderer/279185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Dating" tvg-logo="https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Dating
+http://f01.live:8080/live/Thomas1/Haiderer/279186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Asylum Channel" tvg-logo="https://images.pluto.tv/channels/5cc81e793798650e4f7d9fd3/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | The Asylum Channel
+http://f01.live:8080/live/Thomas1/Haiderer/279187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Indies" tvg-logo="https://images.pluto.tv/channels/5ce40e59246a395e9758923e/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Indies
+http://f01.live:8080/live/Thomas1/Haiderer/279188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Ice Pilots" tvg-logo="https://images.pluto.tv/channels/5ce40f42ba7f7f5ea9518fe1/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Ice Pilots
+http://f01.live:8080/live/Thomas1/Haiderer/279189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Teen Mom
+http://f01.live:8080/live/Thomas1/Haiderer/279190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV The Hills" tvg-logo="https://images.pluto.tv/channels/5d00e86bf0bac55fe7f75736/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV The Hills
+http://f01.live:8080/live/Thomas1/Haiderer/279191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | SpongeBob Schwammkopf" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | SpongeBob Schwammkopf
+http://f01.live:8080/live/Thomas1/Haiderer/279192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Surf" tvg-logo="https://images.pluto.tv/channels/5d1ce51dbaca4afdb7abfe5f/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Surf
+http://f01.live:8080/live/Thomas1/Haiderer/279193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | CC Pluto TV" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | CC Pluto TV
+http://f01.live:8080/live/Thomas1/Haiderer/279194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | CC Made in Germany" tvg-logo="https://images.pluto.tv/channels/5d4948418101147596fd6c5a/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | CC Made in Germany
+http://f01.live:8080/live/Thomas1/Haiderer/279195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Totally Turtles" tvg-logo="https://images.pluto.tv/channels/5d6792bd6be2998ad0ccce30/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Totally Turtles
+http://f01.live:8080/live/Thomas1/Haiderer/279196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Sitcoms
+http://f01.live:8080/live/Thomas1/Haiderer/279197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Animals" tvg-logo="https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Animals
+http://f01.live:8080/live/Thomas1/Haiderer/279198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV History
+http://f01.live:8080/live/Thomas1/Haiderer/279199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Science" tvg-logo="https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Science
+http://f01.live:8080/live/Thomas1/Haiderer/279200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Documentaries" tvg-logo="https://images.pluto.tv/channels/5db048f9447d6c0009b8f29d/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Documentaries
+http://f01.live:8080/live/Thomas1/Haiderer/279201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Lives" tvg-logo="https://images.pluto.tv/channels/5db04b360fa2560009deb3de/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Lives
+http://f01.live:8080/live/Thomas1/Haiderer/279202.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5db6a697d5f34a000934cd13/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Catfish TV Show
+http://f01.live:8080/live/Thomas1/Haiderer/279203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Inspector Gadget" tvg-logo="https://images.pluto.tv/channels/5dbc2d1ce10f0b0009e6cf9e/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Inspector Gadget
+http://f01.live:8080/live/Thomas1/Haiderer/279204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Simsalabim Sabrina" tvg-logo="https://images.pluto.tv/channels/5dbc327d0451770009ed7577/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Simsalabim Sabrina
+http://f01.live:8080/live/Thomas1/Haiderer/279205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Serie" tvg-logo="https://images.pluto.tv/channels/5dc190f7bfed110009d934c3/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Serie
+http://f01.live:8080/live/Thomas1/Haiderer/279206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Food
+http://f01.live:8080/live/Thomas1/Haiderer/279207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Romance" tvg-logo="https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Romance
+http://f01.live:8080/live/Thomas1/Haiderer/279208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Unbeaten Esports" tvg-logo="https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Unbeaten Esports
+http://f01.live:8080/live/Thomas1/Haiderer/279209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Kultfilme" tvg-logo="https://images.pluto.tv/channels/5dde47b63585b500099f74ec/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Kultfilme
+http://f01.live:8080/live/Thomas1/Haiderer/279210.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Strongman" tvg-logo="https://images.pluto.tv/channels/5e1452156c07b50009d0230e/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Strongman
+http://f01.live:8080/live/Thomas1/Haiderer/279211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Retro Toons" tvg-logo="https://images.pluto.tv/channels/5e1c669094e0e80009b22ab8/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Retro Toons
+http://f01.live:8080/live/Thomas1/Haiderer/279212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Dora TV" tvg-logo="https://images.pluto.tv/channels/5e43c344b54fe800093552f4/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Dora TV
+http://f01.live:8080/live/Thomas1/Haiderer/279213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Crime" tvg-logo="https://images.pluto.tv/channels/5e7b6c60fd20c50007910bf5/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Crime
+http://f01.live:8080/live/Thomas1/Haiderer/279214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Dark Matter" tvg-logo="https://images.pluto.tv/channels/5e843d849109b700075d5ada/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Dark Matter
+http://f01.live:8080/live/Thomas1/Haiderer/279215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Fitness" tvg-logo="https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Fitness
+http://f01.live:8080/live/Thomas1/Haiderer/279216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Beyblade Burst" tvg-logo="https://images.pluto.tv/channels/5e8b551ddcd25500072c4dad/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Beyblade Burst
+http://f01.live:8080/live/Thomas1/Haiderer/279217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Blue's Clues" tvg-logo="https://images.pluto.tv/channels/5e8b564ff59d130007363823/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Blue's Clues
+http://f01.live:8080/live/Thomas1/Haiderer/279218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | iCarly" tvg-logo="https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | iCarly
+http://f01.live:8080/live/Thomas1/Haiderer/279219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Bubble Guppies" tvg-logo="https://images.pluto.tv/channels/5e8b5a4bb7da5c0007e5c9e9/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Bubble Guppies
+http://f01.live:8080/live/Thomas1/Haiderer/279220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sam & Cat" tvg-logo="https://images.pluto.tv/channels/5e8b5ba20af628000707cee3/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Sam & Cat
+http://f01.live:8080/live/Thomas1/Haiderer/279221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Victorious" tvg-logo="https://images.pluto.tv/channels/5e8b5e43f294f8000793c3d7/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Victorious
+http://f01.live:8080/live/Thomas1/Haiderer/279222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Blaze und die Monstermaschinen" tvg-logo="https://images.pluto.tv/channels/5e8b60419becf60008c841fd/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Blaze und die Monstermaschinen
+http://f01.live:8080/live/Thomas1/Haiderer/279223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Chefkoch" tvg-logo="https://images.pluto.tv/channels/5e8c4c3f141f350007936f7d/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Chefkoch
+http://f01.live:8080/live/Thomas1/Haiderer/279224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Teen (OV)" tvg-logo="https://images.pluto.tv/channels/5ea812e0ba6c1f00079d3b7e/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Teen (OV)
+http://f01.live:8080/live/Thomas1/Haiderer/279225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Dating (OV)" tvg-logo="https://images.pluto.tv/channels/5ea813c04958cd00078e9caf/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Dating (OV)
+http://f01.live:8080/live/Thomas1/Haiderer/279226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV The Hills (OV)" tvg-logo="https://images.pluto.tv/channels/5ea8147c6e3dd70007deab3d/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV The Hills (OV)
+http://f01.live:8080/live/Thomas1/Haiderer/279227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Cribs" tvg-logo="https://images.pluto.tv/channels/5ea815a515d149000748ee9b/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Cribs
+http://f01.live:8080/live/Thomas1/Haiderer/279228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Totally Turtles (OV)" tvg-logo="https://images.pluto.tv/channels/5ea816a44457070007ffabc7/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Totally Turtles (OV)
+http://f01.live:8080/live/Thomas1/Haiderer/279229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | People are Awesome" tvg-logo="https://images.pluto.tv/channels/5eb95c119dc712000741fa35/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | People are Awesome
+http://f01.live:8080/live/Thomas1/Haiderer/279230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Home" tvg-logo="https://images.pluto.tv/channels/5eb96303f5bb020008e7e44f/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Home
+http://f01.live:8080/live/Thomas1/Haiderer/279231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Wipeout (OV)" tvg-logo="https://images.pluto.tv/channels/5eb963c98ec06d00077d63cb/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Wipeout (OV)
+http://f01.live:8080/live/Thomas1/Haiderer/279232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Nick Rewind" tvg-logo="https://images.pluto.tv/channels/5ed106ce4bf2e80007700bb3/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Nick Rewind
+http://f01.live:8080/live/Thomas1/Haiderer/279233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Nick Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Nick Pluto TV
+http://f01.live:8080/live/Thomas1/Haiderer/279234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Nick Jr. Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ede45451dce190007ef9ff2/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Nick Jr. Pluto TV
+http://f01.live:8080/live/Thomas1/Haiderer/279235.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Auction Hunters" tvg-logo="https://images.pluto.tv/channels/5ede45d077746000072be0fe/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Auction Hunters
+http://f01.live:8080/live/Thomas1/Haiderer/279236.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Storage Wars" tvg-logo="https://images.pluto.tv/channels/5ede464e7be0030007c58b73/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Storage Wars
+http://f01.live:8080/live/Thomas1/Haiderer/279237.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Insight TV" tvg-logo="https://images.pluto.tv/channels/5f06bc60e236570007793f31/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Insight TV
+http://f01.live:8080/live/Thomas1/Haiderer/279238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Teen Nick" tvg-logo="https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Teen Nick
+http://f01.live:8080/live/Thomas1/Haiderer/279239.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Emma, einfach magisch!" tvg-logo="https://images.pluto.tv/channels/5f4796368174910007756454/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Emma, einfach magisch!
+http://f01.live:8080/live/Thomas1/Haiderer/279240.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Auto Motor Sport" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Auto Motor Sport
+http://f01.live:8080/live/Thomas1/Haiderer/279241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Beat Club" tvg-logo="https://images.pluto.tv/channels/5f982c3420de4100070a545e/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Beat Club
+http://f01.live:8080/live/Thomas1/Haiderer/279242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Unplugged" tvg-logo="https://images.pluto.tv/channels/5f98471110cca20007d39f76/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Unplugged
+http://f01.live:8080/live/Thomas1/Haiderer/279243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Clubbing TV" tvg-logo="https://images.pluto.tv/channels/5f984784ccb4de0007dfad74/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Clubbing TV
+http://f01.live:8080/live/Thomas1/Haiderer/279244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Ridiculousness" tvg-logo="https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Ridiculousness
+http://f01.live:8080/live/Thomas1/Haiderer/279245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Paranormal" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Paranormal
+http://f01.live:8080/live/Thomas1/Haiderer/279246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | N24 Doku" tvg-logo="https://images.pluto.tv/channels/60080e8a4bf36000076a81b1/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | N24 Doku
+http://f01.live:8080/live/Thomas1/Haiderer/279247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Avatar" tvg-logo="https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Avatar
+http://f01.live:8080/live/Thomas1/Haiderer/279248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Live in Concert" tvg-logo="https://images.pluto.tv/channels/603d01a55123740007f8375a/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Live in Concert
+http://f01.live:8080/live/Thomas1/Haiderer/279249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Takeshi's Castle" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Takeshi's Castle
+http://f01.live:8080/live/Thomas1/Haiderer/279250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Anime
+http://f01.live:8080/live/Thomas1/Haiderer/279251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Motorvision TV" tvg-logo="https://images.pluto.tv/channels/6093f2ae4dd5ab0007d1ff9d/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Motorvision TV
+http://f01.live:8080/live/Thomas1/Haiderer/279252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Serie" tvg-logo="https://images.pluto.tv/channels/609536871db47700075a04bf/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Serie
+http://f01.live:8080/live/Thomas1/Haiderer/279253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Wer ist hier der Boss?" tvg-logo="https://images.pluto.tv/channels/609539fa709d6b0007b19887/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Wer ist hier der Boss?
+http://f01.live:8080/live/Thomas1/Haiderer/279254.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Beverly Hills 90210" tvg-logo="https://images.pluto.tv/channels/60afb576053df900076fa2f0/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Beverly Hills 90210
+http://f01.live:8080/live/Thomas1/Haiderer/279255.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Chaos City" tvg-logo="https://images.pluto.tv/channels/60afbad343e3840007164348/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Chaos City
+http://f01.live:8080/live/Thomas1/Haiderer/279256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Comedy Central South Park
+http://f01.live:8080/live/Thomas1/Haiderer/279257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Just for Laughs" tvg-logo="https://images.pluto.tv/channels/60db2e7a62df960007a9b6b1/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Just for Laughs
+http://f01.live:8080/live/Thomas1/Haiderer/279258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | BBC Travel" tvg-logo="https://images.pluto.tv/channels/60e4519e6873180007d3cddb/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | BBC Travel
+http://f01.live:8080/live/Thomas1/Haiderer/279259.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Sci-Fi
+http://f01.live:8080/live/Thomas1/Haiderer/279260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Cheers" tvg-logo="https://images.pluto.tv/channels/611e7f224676bf00076a4d8d/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Cheers
+http://f01.live:8080/live/Thomas1/Haiderer/279261.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Biografie" tvg-logo="https://images.pluto.tv/channels/61409b5108ae6e0007f9b189/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Biografie
+http://f01.live:8080/live/Thomas1/Haiderer/279262.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Space" tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Space
+http://f01.live:8080/live/Thomas1/Haiderer/279263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Star Trek
+http://f01.live:8080/live/Thomas1/Haiderer/279264.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV True Crime" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV True Crime
+http://f01.live:8080/live/Thomas1/Haiderer/279265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MOVIEDOME" tvg-logo="https://images.pluto.tv/channels/615c1e5ce3039400070a0547/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MOVIEDOME
+http://f01.live:8080/live/Thomas1/Haiderer/279266.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Mystery" tvg-logo="https://images.pluto.tv/channels/617aad99b68ef100072608cd/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Mystery
+http://f01.live:8080/live/Thomas1/Haiderer/279267.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Goldstar TV" tvg-logo="https://images.pluto.tv/channels/6192396135f3910007fc5fc7/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Goldstar TV
+http://f01.live:8080/live/Thomas1/Haiderer/279268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Love Music" tvg-logo="https://images.pluto.tv/channels/61923ac16d03190008138a67/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Love Music
+http://f01.live:8080/live/Thomas1/Haiderer/279269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Weddings" tvg-logo="https://images.pluto.tv/channels/61923bd34b1ec000075e5e89/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Weddings
+http://f01.live:8080/live/Thomas1/Haiderer/279270.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Just Classical" tvg-logo="https://images.pluto.tv/channels/61923f794527a900078717b4/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Just Classical
+http://f01.live:8080/live/Thomas1/Haiderer/279271.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Nick Space" tvg-logo="https://images.pluto.tv/channels/619b82cc70a9ba00074429e2/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Nick Space
+http://f01.live:8080/live/Thomas1/Haiderer/279272.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Waidwerk Free" tvg-logo="https://images.pluto.tv/channels/61b33085897b9d000702b72e/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Waidwerk Free
+http://f01.live:8080/live/Thomas1/Haiderer/279273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Nick Spotlight" tvg-logo="https://images.pluto.tv/channels/61e6dfb3fd665f0007235f33/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Nick Spotlight
+http://f01.live:8080/live/Thomas1/Haiderer/279274.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Verbotene Liebe" tvg-logo="https://images.pluto.tv/channels/61fbf7cd66401100074ef533/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Verbotene Liebe
+http://f01.live:8080/live/Thomas1/Haiderer/279275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Nick Ukraine" tvg-logo="https://images.pluto.tv/channels/622882350f6aad0008c76e77/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Nick Ukraine
+http://f01.live:8080/live/Thomas1/Haiderer/279276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sabrina - Total verhext!" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Sabrina - Total verhext!
+http://f01.live:8080/live/Thomas1/Haiderer/279277.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Party" tvg-logo="https://images.pluto.tv/channels/622f46a3769a6d0007429de0/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Party
+http://f01.live:8080/live/Thomas1/Haiderer/279278.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Ein Engel auf Erden" tvg-logo="https://images.pluto.tv/channels/622f487722d9d400075f74dd/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Ein Engel auf Erden
+http://f01.live:8080/live/Thomas1/Haiderer/279279.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Alle hassen Chris" tvg-logo="https://images.pluto.tv/channels/622f6e1e2792150007e0b2ff/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Alle hassen Chris
+http://f01.live:8080/live/Thomas1/Haiderer/279280.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Hausmeister Krause" tvg-logo="https://images.pluto.tv/channels/622f6faf65be650007f57aab/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Hausmeister Krause
+http://f01.live:8080/live/Thomas1/Haiderer/279281.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | CBS News" tvg-logo="https://images.pluto.tv/channels/62441d6ded1827000763dcda/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | CBS News
+http://f01.live:8080/live/Thomas1/Haiderer/279282.m3u8
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="DE | MTV German Music" tvg-logo="https://images.pluto.tv/channels/6245ccd9e1977a00079e2fba/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV German Music
+http://f01.live:8080/live/Thomas1/Haiderer/279283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV RockZone" tvg-logo="https://images.pluto.tv/channels/6245cdb15d931000073ee4ff/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV RockZone
+http://f01.live:8080/live/Thomas1/Haiderer/279284.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Chill Out Zone" tvg-logo="https://images.pluto.tv/channels/6245cec4bfbac700079ab5de/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Chill Out Zone
+http://f01.live:8080/live/Thomas1/Haiderer/279285.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Approved Hip Hop" tvg-logo="https://images.pluto.tv/channels/6245cf8ac69baf000718295a/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Approved Hip Hop
+http://f01.live:8080/live/Thomas1/Haiderer/279286.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Movie Hits" tvg-logo="https://images.pluto.tv/channels/6245d05006d79800081fff9c/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Movie Hits
+http://f01.live:8080/live/Thomas1/Haiderer/279287.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | MTV Music" tvg-logo="https://images.pluto.tv/channels/6245d15062cd1f00070a2338/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | MTV Music
+http://f01.live:8080/live/Thomas1/Haiderer/279288.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Power Frauen" tvg-logo="https://images.pluto.tv/channels/625423185e237b0007f6764e/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Power Frauen
+http://f01.live:8080/live/Thomas1/Haiderer/279289.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Praxis Bülowbogen" tvg-logo="https://images.pluto.tv/channels/6254240a8256cb00079a9bf1/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Praxis Bülowbogen
+http://f01.live:8080/live/Thomas1/Haiderer/279290.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fury" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Fury
+http://f01.live:8080/live/Thomas1/Haiderer/279291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Dawson's Creek" tvg-logo="https://images.pluto.tv/channels/62725008d0dc480007ea8bd2/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Dawson's Creek
+http://f01.live:8080/live/Thomas1/Haiderer/279292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Verrückt nach Dir" tvg-logo="https://images.pluto.tv/channels/6298dc9ece784a000876a778/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Verrückt nach Dir
+http://f01.live:8080/live/Thomas1/Haiderer/279293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Good Fight" tvg-logo="https://images.pluto.tv/channels/62ab1efe120855000791e38d/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | The Good Fight
+http://f01.live:8080/live/Thomas1/Haiderer/279294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Good Wife" tvg-logo="https://images.pluto.tv/channels/62b1a1c1a10fe30007cffea0/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | The Good Wife
+http://f01.live:8080/live/Thomas1/Haiderer/279295.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Pets" tvg-logo="https://images.pluto.tv/channels/62b9c3339f5db20007ff4867/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Pets
+http://f01.live:8080/live/Thomas1/Haiderer/279296.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Are You The One?" tvg-logo="https://images.pluto.tv/channels/62bc15ef5843e70007dfbb47/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Are You The One?
+http://f01.live:8080/live/Thomas1/Haiderer/279297.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Ex On The Beach" tvg-logo="https://images.pluto.tv/channels/62bc16f31a6c180007fdcdb7/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Ex On The Beach
+http://f01.live:8080/live/Thomas1/Haiderer/279298.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Awkward" tvg-logo="https://images.pluto.tv/channels/62bc1784120ba80007935aaa/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Awkward
+http://f01.live:8080/live/Thomas1/Haiderer/279299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pimp My Ride" tvg-logo="https://images.pluto.tv/channels/62bc18239912800007edf3f7/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pimp My Ride
+http://f01.live:8080/live/Thomas1/Haiderer/279300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | True Jackson" tvg-logo="https://images.pluto.tv/channels/62bc18a8fce63400079cc042/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | True Jackson
+http://f01.live:8080/live/Thomas1/Haiderer/279301.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Clarissa" tvg-logo="https://images.pluto.tv/channels/62bc1957e4da730007195dc3/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Clarissa
+http://f01.live:8080/live/Thomas1/Haiderer/279302.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Horror
+http://f01.live:8080/live/Thomas1/Haiderer/279303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Nick Spuktober" tvg-logo="https://images.pluto.tv/channels/62f4faddf923fb0007eab521/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Nick Spuktober
+http://f01.live:8080/live/Thomas1/Haiderer/279304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Western
+http://f01.live:8080/live/Thomas1/Haiderer/279305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pluto TV Deutsches Kino" tvg-logo="https://images.pluto.tv/channels/630e00c065cfc10007c6e06b/colorLogoPNG.png" group-title="DE | PLUTO TV",DE | Pluto TV Deutsches Kino
+http://f01.live:8080/live/Thomas1/Haiderer/279306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ REGIONAL ★☆★" tvg-logo="https://i.imgur.com/K2VgMVk.png" group-title="DE | REGIONAL",★☆★ REGIONAL ★☆★
+http://f01.live:8080/live/Thomas1/Haiderer/279317.m3u8
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="ARD ALPHA HD" tvg-logo="https://tvfueralle.de/channel-logos/alpha.png" group-title="DE | REGIONAL",ARD ALPHA HD
+http://f01.live:8080/live/Thomas1/Haiderer/95620.m3u8
+#EXTINF:-1 tvg-id="atv.de" tvg-name="ATV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/A.tv_-_fernsehen_f%C3%BCr_augsburg_und_schwaben_HD_Logo_2017.png" group-title="DE | REGIONAL",ATV HD
+http://f01.live:8080/live/Thomas1/Haiderer/95616.m3u8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="SERVUS FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/servustv.png" group-title="DE | REGIONAL",SERVUS FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95615.m3u8
+#EXTINF:-1 tvg-id="munchentv.de" tvg-name="MUNCHEN TV FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-München_tv_Logo.svg.png" group-title="DE | REGIONAL",MUNCHEN TV FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95618.m3u8
+#EXTINF:-1 tvg-id="one.de" tvg-name="ONE HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/one.png" group-title="DE | REGIONAL",ONE HD
+http://f01.live:8080/live/Thomas1/Haiderer/123335.m3u8
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="SONNENKLAR TV" tvg-logo="http://focustv.xyz/files/ch/GERMANY/sonnenklar_tv.png" group-title="DE | REGIONAL",SONNENKLAR TV
+http://f01.live:8080/live/Thomas1/Haiderer/95614.m3u8
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="BIBEL TV FHD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/BibelTV.png" group-title="DE | REGIONAL",BIBEL TV FHD
+http://f01.live:8080/live/Thomas1/Haiderer/102523.m3u8
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="BIBEL TV HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/BibelTV.png" group-title="DE | REGIONAL",BIBEL TV HD
+http://f01.live:8080/live/Thomas1/Haiderer/102725.m3u8
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="BIBEL TV IMPULS HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/BibelTV_impuls.png" group-title="DE | REGIONAL",BIBEL TV IMPULS HD
+http://f01.live:8080/live/Thomas1/Haiderer/169626.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIBEL TV MUSIK" tvg-logo="http://focustv.xyz/files/ch/GERMANY/BibelTVMUSIK.png" group-title="DE | REGIONAL",BIBEL TV MUSIK
+http://f01.live:8080/live/Thomas1/Haiderer/169625.m3u8
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/rbb.png" group-title="DE | REGIONAL",RBB HD
+http://f01.live:8080/live/Thomas1/Haiderer/95605.m3u8
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB BRANDENBURG" tvg-logo="https://i.imgur.com/mC2p9h4.png" group-title="DE | REGIONAL",RBB BRANDENBURG
+http://f01.live:8080/live/Thomas1/Haiderer/278064.m3u8
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB BERLIN HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/rbb.png" group-title="DE | REGIONAL",RBB BERLIN HD
+http://f01.live:8080/live/Thomas1/Haiderer/95606.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ndr.png" group-title="DE | REGIONAL",NDR HD
+http://f01.live:8080/live/Thomas1/Haiderer/95604.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR " tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ndr.png" group-title="DE | REGIONAL",NDR 
+http://f01.live:8080/live/Thomas1/Haiderer/95603.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR FERNSEHEN NIEDERSACHSEN" tvg-logo="https://i.imgur.com/UWBY2dn.png" group-title="DE | REGIONAL",NDR FERNSEHEN NIEDERSACHSEN
+http://f01.live:8080/live/Thomas1/Haiderer/278067.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR FERNSEHEN HAMBURG" tvg-logo="https://i.imgur.com/UWBY2dn.png" group-title="DE | REGIONAL",NDR FERNSEHEN HAMBURG
+http://f01.live:8080/live/Thomas1/Haiderer/278070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NDR FERNSEHEN SCHLESWIG-HOLSTEIN" tvg-logo="https://i.imgur.com/UWBY2dn.png" group-title="DE | REGIONAL",NDR FERNSEHEN SCHLESWIG-HOLSTEIN
+http://f01.live:8080/live/Thomas1/Haiderer/278071.m3u8
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/mdr.png" group-title="DE | REGIONAL",MDR HD
+http://f01.live:8080/live/Thomas1/Haiderer/95601.m3u8
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR " tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/mdr.png" group-title="DE | REGIONAL",MDR 
+http://f01.live:8080/live/Thomas1/Haiderer/95599.m3u8
+#EXTINF:-1 tvg-id="mdrsachsen.de" tvg-name="MDR SACHSEN" tvg-logo="http://focustv.xyz/files/ch/GERMANY/mdr.png" group-title="DE | REGIONAL",MDR SACHSEN
+http://f01.live:8080/live/Thomas1/Haiderer/278066.m3u8
+#EXTINF:-1 tvg-id="mdrthuringen.de" tvg-name="MDR TH" tvg-logo="http://focustv.xyz/files/ch/GERMANY/mdr.png" group-title="DE | REGIONAL",MDR TH
+http://f01.live:8080/live/Thomas1/Haiderer/278069.m3u8
+#EXTINF:-1 tvg-id="mdrsanhalt.de" tvg-name="MDR SACHSEN-ANHALT" tvg-logo="http://focustv.xyz/files/ch/GERMANY/mdr.png" group-title="DE | REGIONAL",MDR SACHSEN-ANHALT
+http://f01.live:8080/live/Thomas1/Haiderer/206646.m3u8
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/wdr.png" group-title="DE | REGIONAL",WDR HD
+http://f01.live:8080/live/Thomas1/Haiderer/95596.m3u8
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR" tvg-logo="http://focustv.xyz/files/ch/GERMANY/wdr.png" group-title="DE | REGIONAL",WDR
+http://f01.live:8080/live/Thomas1/Haiderer/95597.m3u8
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR KOLN HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/wdr.png" group-title="DE | REGIONAL",WDR KOLN HD
+http://f01.live:8080/live/Thomas1/Haiderer/95598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WDR FERNSEHEN BIELEFELD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Wdr_fernsehen_logo.png" group-title="DE | REGIONAL",WDR FERNSEHEN BIELEFELD
+http://f01.live:8080/live/Thomas1/Haiderer/278058.m3u8
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="WDR FERNSEHEN DORTMUND" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Wdr_fernsehen_logo.png" group-title="DE | REGIONAL",WDR FERNSEHEN DORTMUND
+http://f01.live:8080/live/Thomas1/Haiderer/278059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WDR FERNSEHEN DUISBURG" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Wdr_fernsehen_logo.png" group-title="DE | REGIONAL",WDR FERNSEHEN DUISBURG
+http://f01.live:8080/live/Thomas1/Haiderer/210888.m3u8
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR FERNSEHEN DUSSELDORF" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Wdr_fernsehen_logo.png" group-title="DE | REGIONAL",WDR FERNSEHEN DUSSELDORF
+http://f01.live:8080/live/Thomas1/Haiderer/278060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WDR FERNSEHEN AACHEN" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Wdr_fernsehen_logo.png" group-title="DE | REGIONAL",WDR FERNSEHEN AACHEN
+http://f01.live:8080/live/Thomas1/Haiderer/210886.m3u8
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR FERNSEHEN ESSEN" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Wdr_fernsehen_logo.png" group-title="DE | REGIONAL",WDR FERNSEHEN ESSEN
+http://f01.live:8080/live/Thomas1/Haiderer/278061.m3u8
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR FERNSEHEN MUNSTER" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Wdr_fernsehen_logo.png" group-title="DE | REGIONAL",WDR FERNSEHEN MUNSTER
+http://f01.live:8080/live/Thomas1/Haiderer/278062.m3u8
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR FERNSEHEN SIEGEN" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Wdr_fernsehen_logo.png" group-title="DE | REGIONAL",WDR FERNSEHEN SIEGEN
+http://f01.live:8080/live/Thomas1/Haiderer/278063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WDR FERNSEHEN BONN" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Wdr_fernsehen_logo.png" group-title="DE | REGIONAL",WDR FERNSEHEN BONN
+http://f01.live:8080/live/Thomas1/Haiderer/210887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WDR FERNSEHEN WUPPERTAL" tvg-logo="http://focustv.xyz/files/ch/GERMANY/Wdr_fernsehen_logo.png" group-title="DE | REGIONAL",WDR FERNSEHEN WUPPERTAL
+http://f01.live:8080/live/Thomas1/Haiderer/210889.m3u8
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-SWR_HD.svg.png" group-title="DE | REGIONAL",SWR HD
+http://f01.live:8080/live/Thomas1/Haiderer/95602.m3u8
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR RHEINLAND-PFALZ" tvg-logo="http://focustv.xyz/files/ch/GERMANY/swr_bw.png" group-title="DE | REGIONAL",SWR RHEINLAND-PFALZ
+http://f01.live:8080/live/Thomas1/Haiderer/278065.m3u8
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR BADEN-W" tvg-logo="http://focustv.xyz/files/ch/GERMANY/swr_bw.png" group-title="DE | REGIONAL",SWR BADEN-W
+http://f01.live:8080/live/Thomas1/Haiderer/278068.m3u8
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR BW HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-SWR_HD.svg.png" group-title="DE | REGIONAL",SWR BW HD
+http://f01.live:8080/live/Thomas1/Haiderer/95612.m3u8
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR RW HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-SWR_HD.svg.png" group-title="DE | REGIONAL",SWR RW HD
+http://f01.live:8080/live/Thomas1/Haiderer/186169.m3u8
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR RP HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2000px-SWR_HD.svg.png" group-title="DE | REGIONAL",SWR RP HD
+http://f01.live:8080/live/Thomas1/Haiderer/188614.m3u8
+#EXTINF:-1 tvg-id="brfernsehennord.de" tvg-name="BR FERNSEHEN HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/BR_HD-.png" group-title="DE | REGIONAL",BR FERNSEHEN HD
+http://f01.live:8080/live/Thomas1/Haiderer/95608.m3u8
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR FERNSEHEN" tvg-logo="http://focustv.xyz/files/ch/GERMANY/BR_HD-.png" group-title="DE | REGIONAL",BR FERNSEHEN
+http://f01.live:8080/live/Thomas1/Haiderer/95607.m3u8
+#EXTINF:-1 tvg-id="brfernsehensud.de" tvg-name="BR FERNSEHEN S" tvg-logo="http://focustv.xyz/files/ch/GERMANY/BR_HD-.png" group-title="DE | REGIONAL",BR FERNSEHEN S
+http://f01.live:8080/live/Thomas1/Haiderer/278072.m3u8
+#EXTINF:-1 tvg-id="srfernsehen.de" tvg-name="SR FERNSEHEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/1200px-SR_Fernsehen.svg.png" group-title="DE | REGIONAL",SR FERNSEHEN HD
+http://f01.live:8080/live/Thomas1/Haiderer/95611.m3u8
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR FERNSEHEN HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/hr_fernsehen.png" group-title="DE | REGIONAL",HR FERNSEHEN HD
+http://f01.live:8080/live/Thomas1/Haiderer/95610.m3u8
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/hr_fernsehen.png" group-title="DE | REGIONAL",HR HD
+http://f01.live:8080/live/Thomas1/Haiderer/95609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="★☆★ KINDER ★☆★" tvg-logo="http://focustv.xyz/files/ch/GERMANY/ger-kinder.png" group-title="DE | KINDER ★ 24/7",★☆★ KINDER ★☆★
+http://f01.live:8080/live/Thomas1/Haiderer/95621.m3u8
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="SUPER RTL FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-Super_RTL_-_HD_Logo.svg.png" group-title="DE | KINDER ★ 24/7",SUPER RTL FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95638.m3u8
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="SUPER RTL HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/2560px-Super_RTL_-_HD_Logo.svg.png" group-title="DE | KINDER ★ 24/7",SUPER RTL HD
+http://f01.live:8080/live/Thomas1/Haiderer/95639.m3u8
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="TOGGO PLUS" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/toggo_plus.png" group-title="DE | KINDER ★ 24/7",TOGGO PLUS
+http://f01.live:8080/live/Thomas1/Haiderer/95637.m3u8
+#EXTINF:-1 tvg-id="kika.de" tvg-name="KIKA HD" tvg-logo="http://focustv.xyz/files/ch/GERMANY/kika.png" group-title="DE | KINDER ★ 24/7",KIKA HD
+http://f01.live:8080/live/Thomas1/Haiderer/95622.m3u8
+#EXTINF:-1 tvg-id="kika.de" tvg-name="KIKA" tvg-logo="http://focustv.xyz/files/ch/GERMANY/kika.png" group-title="DE | KINDER ★ 24/7",KIKA
+http://f01.live:8080/live/Thomas1/Haiderer/190006.m3u8
+#EXTINF:-1 tvg-id="nickjr.de" tvg-name="NICK JR FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/nickJrde.png" group-title="DE | KINDER ★ 24/7",NICK JR FHD
+http://f01.live:8080/live/Thomas1/Haiderer/117976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY + FHD" tvg-logo="https://i.imgur.com/KB6ZnGk.png" group-title="DE | KINDER ★ 24/7",DISNEY + FHD
+http://f01.live:8080/live/Thomas1/Haiderer/208628.m3u8
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Disney_Channel_2014_HD.png" group-title="DE | KINDER ★ 24/7",DISNEY CHANNEL FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95627.m3u8
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Disney_Channel_2014_HD.png" group-title="DE | KINDER ★ 24/7",DISNEY CHANNEL HD
+http://f01.live:8080/live/Thomas1/Haiderer/95628.m3u8
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="BOOMERANG FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Boomerang_HD_2015.png" group-title="DE | KINDER ★ 24/7",BOOMERANG FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95636.m3u8
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="BOOMERANG HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Boomerang_HD_2015.png" group-title="DE | KINDER ★ 24/7",BOOMERANG HD
+http://f01.live:8080/live/Thomas1/Haiderer/190008.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="NICKELODEON HD" tvg-logo="https://i.imgur.com/fpLqBk1.png" group-title="DE | KINDER ★ 24/7",NICKELODEON HD
+http://f01.live:8080/live/Thomas1/Haiderer/95624.m3u8
+#EXTINF:-1 tvg-id="nicktoons.de" tvg-name="NICKTOONS" tvg-logo="http://focustv.xyz/files/ch/SCANDINAVIAN/NICKTOONS.png" group-title="DE | KINDER ★ 24/7",NICKTOONS
+http://f01.live:8080/live/Thomas1/Haiderer/95625.m3u8
+#EXTINF:-1 tvg-id="junior.de" tvg-name="JUNIOR" tvg-logo="http://focustv.xyz/files/ch/ALBANEXYU/JUNIOR.png" group-title="DE | KINDER ★ 24/7",JUNIOR
+http://f01.live:8080/live/Thomas1/Haiderer/109491.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://boxvod.vipnova.xyz:8080/kralsin/logos/cartoon.png" group-title="DE | KINDER ★ 24/7",CARTOON NETWORK FHD
+http://f01.live:8080/live/Thomas1/Haiderer/95633.m3u8
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/Comedy_Central_HD_Logo_2018.svg.png" group-title="DE | KINDER ★ 24/7",COMEDY CENTRAL HD
+http://f01.live:8080/live/Thomas1/Haiderer/95634.m3u8
+#EXTINF:-1 tvg-id="babytv.de" tvg-name="BABY TV " tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/kindersender.png" group-title="DE | KINDER ★ 24/7",BABY TV 
+http://f01.live:8080/live/Thomas1/Haiderer/119186.m3u8
