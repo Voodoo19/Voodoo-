@@ -1,48 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",Das Erste HD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13166
-#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",Das Erste  HD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6262
-#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",Das Erste DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6256
-#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",ZDF FHD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6151
-#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",ZDF HD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/17011
-#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL FHD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13565
-#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL FHD  DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683243
-#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL HD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6216
-#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",Sat.1 FHD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6210
-#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",Sat.1 HD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683455
-#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",ProSieben FHD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694060
-#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",ProSieben  FHD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8235
-#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",ProSieben HD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683393
-#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",ProSieben  HD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13144
-#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX FHD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13553
-#EXTINF:0 tvg-id="Vox.de" group-title="Channels",VOX HD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6153
-#EXTINF:0 tvg-id="VOXup.de" group-title="Channels",VOXup DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679836
-#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",Kabel Eins FHD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6242
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel 1 Classic FHD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679844
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kabel Eins Classic HD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9151
-#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL 2 FHD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6215
-#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL 2 HD DE
-http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13136#EXTM3U
+
+
 #EXTINF:-1 tvg-id="" tvg-name="★☆★ SKY BUNDESLIGA ★☆★" tvg-logo="http://focustv.xyz/files/ch/GERMANY/bundesliga.png" group-title="DE | SKY BUNDESLIGA",★☆★ SKY BUNDESLIGA ★☆★
 http://f01.live:8080/live/Thomas1/Haiderer/160887.m3u8
 #EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="SKY BUNDESLIGA 1 RAW KABEL" tvg-logo="http://logo.eu01.live:8888//LOGOS/BUNDESLIGA/skysportbundesliga1.png" group-title="DE | SKY BUNDESLIGA",SKY BUNDESLIGA 1 RAW KABEL
