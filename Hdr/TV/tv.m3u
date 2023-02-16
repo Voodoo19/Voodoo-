@@ -1,540 +1,541 @@
-#EXTINF:-1,Das Erste HD DE
+#EXTM3U url-tvg="http://m3u4u.com/epg/p192y7m7v8h3jrr3ymeg"
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90447_dark_360w_270h.png" group-title="Channels",Das Erste HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13166
-#EXTINF:-1,Das Erste [B] HD DE
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste  HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90447_dark_360w_270h.png" group-title="Channels",Das Erste  HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6262
-#EXTINF:-1,Das Erste DE
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90447_dark_360w_270h.png" group-title="Channels",Das Erste DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6256
-#EXTINF:-1,ZDF FHD DE
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86886_dark_360w_270h.png" group-title="Channels",ZDF FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6151
-#EXTINF:-1,ZDF HD DE
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86886_dark_360w_270h.png" group-title="Channels",ZDF HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/17011
-#EXTINF:-1,RTL FHD DE
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52564_dark_360w_270h.png" group-title="Channels",RTL FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13565
-#EXTINF:-1,RTL FHD [B] DE
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL FHD  DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52564_dark_360w_270h.png" group-title="Channels",RTL FHD  DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683243
-#EXTINF:-1,RTL HD DE
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52564_dark_360w_270h.png" group-title="Channels",RTL HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6216
-#EXTINF:-1,Sat.1 FHD DE
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1 FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21842_dark_360w_270h.png" group-title="Channels",Sat.1 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6210
-#EXTINF:-1,Sat.1 HD DE
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1 HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21842_dark_360w_270h.png" group-title="Channels",Sat.1 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683455
-#EXTINF:-1,ProSieben FHD DE
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben FHD DE" tvg-logo="" group-title="Channels",ProSieben FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694060
-#EXTINF:-1,ProSieben [B] FHD DE
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben  FHD DE" tvg-logo="" group-title="Channels",ProSieben  FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8235
-#EXTINF:-1,ProSieben HD DE
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben HD DE" tvg-logo="" group-title="Channels",ProSieben HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683393
-#EXTINF:-1,ProSieben [B] HD DE
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben  HD DE" tvg-logo="" group-title="Channels",ProSieben  HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13144
-#EXTINF:-1,VOX FHD DE
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66616_dark_360w_270h.png" group-title="Channels",VOX FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13553
-#EXTINF:-1,VOX HD DE
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66616_dark_360w_270h.png" group-title="Channels",VOX HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6153
-#EXTINF:-1,VOXup DE
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113043_dark_360w_270h.png" group-title="Channels",VOXup DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679836
-#EXTINF:-1,Kabel Eins FHD DE
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel Eins FHD DE" tvg-logo="" group-title="Channels",Kabel Eins FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6242
-#EXTINF:-1,Kabel 1 Classic FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Kabel 1 Classic FHD DE" tvg-logo="" group-title="Channels",Kabel 1 Classic FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679844
-#EXTINF:-1,Kabel Eins Classic HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Kabel Eins Classic HD DE" tvg-logo="" group-title="Channels",Kabel Eins Classic HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9151
-#EXTINF:-1,RTL 2 FHD DE
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 FHD DE" tvg-logo="" group-title="Channels",RTL 2 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6215
-#EXTINF:-1,RTL 2 HD DE
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL 2 HD DE" tvg-logo="" group-title="Channels",RTL 2 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13136
-#EXTINF:-1,RTL Nitro FHD DE
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro FHD DE" tvg-logo="" group-title="Channels",RTL Nitro FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6212
-#EXTINF:-1,RTL Nitro HD DE
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro HD DE" tvg-logo="" group-title="Channels",RTL Nitro HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13137
-#EXTINF:-1,RTL Passion FHD DE
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL Passion FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83635_dark_360w_270h.png" group-title="Channels",RTL Passion FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8219
-#EXTINF:-1,RTLup HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="RTLup HD DE" tvg-logo="" group-title="Channels",RTLup HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9152
-#EXTINF:-1,RTL Crime FHD DE
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83965_dark_360w_270h.png" group-title="Channels",RTL Crime FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6214
-#EXTINF:-1,RTL Crime HD DE
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL Crime HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83965_dark_360w_270h.png" group-title="Channels",RTL Crime HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/17012
-#EXTINF:-1,RTL Living HD DE
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL Living HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83964_dark_360w_270h.png" group-title="Channels",RTL Living HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6213
-#EXTINF:-1,Sat1 Emotion DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sat1 Emotion DE" tvg-logo="" group-title="Channels",Sat1 Emotion DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13135
-#EXTINF:-1,Sat1 Gold FHD DE
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat1 Gold FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83651_dark_360w_270h.png" group-title="Channels",Sat1 Gold FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6209
-#EXTINF:-1,ProSieben Fun FHD DE
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83631_dark_360w_270h.png" group-title="Channels",ProSieben Fun FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6219
-#EXTINF:-1,ProSieben Fun HD DE
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83631_dark_360w_270h.png" group-title="Channels",ProSieben Fun HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13145
-#EXTINF:-1,ProSieben Fun [B] HD DE
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun  HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83631_dark_360w_270h.png" group-title="Channels",ProSieben Fun  HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13142
-#EXTINF:-1,ProSieben Maxx FHD DE
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84352_dark_360w_270h.png" group-title="Channels",ProSieben Maxx FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13143
-#EXTINF:-1,ProSieben Maxx HD DE
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84352_dark_360w_270h.png" group-title="Channels",ProSieben Maxx HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683394
-#EXTINF:-1,SRF 1 DE
+#EXTINF:-1 tvg-id="SRF1.ch" tvg-name="SRF 1 DE" tvg-logo="" group-title="Channels",SRF 1 DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6170
-#EXTINF:-1,MDR HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="MDR HD DE" tvg-logo="" group-title="Channels",MDR HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6238
-#EXTINF:-1,3Sat FHD DE
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3Sat FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66621_dark_360w_270h.png" group-title="Channels",3Sat FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/16289
-#EXTINF:-1,3sat HD DE
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66621_dark_360w_270h.png" group-title="Channels",3sat HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6265
-#EXTINF:-1,NDR HD DE
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="" group-title="Channels",NDR HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6225
-#EXTINF:-1,HR FHD DE
+#EXTINF:-1 tvg-id="HR.de" tvg-name="HR FHD DE" tvg-logo="" group-title="Channels",HR FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13150
-#EXTINF:-1,HR HD DE
+#EXTINF:-1 tvg-id="HR.de" tvg-name="HR HD DE" tvg-logo="" group-title="Channels",HR HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6243
-#EXTINF:-1,RBB Berlin HD DE
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="RBB Berlin HD DE" tvg-logo="" group-title="Channels",RBB Berlin HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6217
-#EXTINF:-1,BR HD DE
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR HD DE" tvg-logo="" group-title="Channels",BR HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687568
-#EXTINF:-1,BR DE
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR DE" tvg-logo="" group-title="Channels",BR DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13168
-#EXTINF:-1,SWR HD DE
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="SWR HD DE" tvg-logo="" group-title="Channels",SWR HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6165
-#EXTINF:-1,WDR HD DE
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR HD DE" tvg-logo="" group-title="Channels",WDR HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6152
-#EXTINF:-1,Franken Fernsehen FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Franken Fernsehen FHD DE" tvg-logo="" group-title="Channels",Franken Fernsehen FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/677835
-#EXTINF:-1,QVC HD DE
+#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVC HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73259_dark_360w_270h.png" group-title="Channels",QVC HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13140
-#EXTINF:-1,QVC Style FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="QVC Style FHD DE" tvg-logo="" group-title="Channels",QVC Style FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13141
-#EXTINF:-1,Sonnenklar TV FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sonnenklar TV FHD DE" tvg-logo="" group-title="Channels",Sonnenklar TV FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13130
-#EXTINF:-1,✽✽⭒ DE Sports ⭒✽✽
+#EXTINF:-1 tvg-id="ext" tvg-name="✽✽⭒ DE Sports ⭒✽✽" tvg-logo="" group-title="Channels",✽✽⭒ DE Sports ⭒✽✽
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678834
-#EXTINF:-1,Sky Sports News FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sports News FHD DE" tvg-logo="" group-title="Channels",Sky Sports News FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13555
-#EXTINF:-1,Sky Sports News HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sports News HD DE" tvg-logo="" group-title="Channels",Sky Sports News HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/684431
-#EXTINF:-1,Sky Sport Top Event FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Top Event FHD DE" tvg-logo="" group-title="Channels",Sky Sport Top Event FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/684432
-#EXTINF:-1,Sky Sport Top Event HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Top Event HD DE" tvg-logo="" group-title="Channels",Sky Sport Top Event HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683895
-#EXTINF:-1,Sky Sport Top Event [B] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Top Event  HD DE" tvg-logo="" group-title="Channels",Sky Sport Top Event  HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/684429
-#EXTINF:-1,Sky Sport Bundesliga FHD VIP DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga FHD VIP DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga FHD VIP DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/684005
-#EXTINF:-1,Sky Sport Bundesliga FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga FHD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/684430
-#EXTINF:-1,Sky Sport Bundesliga [B] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga  FHD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga  FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683408
-#EXTINF:-1,Sky Sport Bundesliga HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga HD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683409
-#EXTINF:-1,Sky Sport Bundesliga [B] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga  HD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga  HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13538
-#EXTINF:-1,Sky Sport F1 FHD DE
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1 FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117522_dark_360w_270h.png" group-title="Channels",Sky Sport F1 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687666
-#EXTINF:-1,Sky Sport F1 [B] FHD DE
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1  FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117522_dark_360w_270h.png" group-title="Channels",Sky Sport F1  FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695025
-#EXTINF:-1,Sky Sport F1 HD DE
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="Sky Sport F1 HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117522_dark_360w_270h.png" group-title="Channels",Sky Sport F1 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687667
-#EXTINF:-1,Sky Sport Premier League HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Premier League HD DE" tvg-logo="" group-title="Channels",Sky Sport Premier League HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695691
-#EXTINF:-1,Sky Sport Premier League [B] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Premier League  HD DE" tvg-logo="" group-title="Channels",Sky Sport Premier League  HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695844
-#EXTINF:-1,Sky Sport Mix HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Mix HD DE" tvg-logo="" group-title="Channels",Sky Sport Mix HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695690
-#EXTINF:-1,Sky Sport Tennis FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Tennis FHD DE" tvg-logo="" group-title="Channels",Sky Sport Tennis FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694261
-#EXTINF:-1,Sky Sport Tennis HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Tennis HD DE" tvg-logo="" group-title="Channels",Sky Sport Tennis HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683896
-#EXTINF:-1,Sky Sport Tennis [B] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Tennis  HD DE" tvg-logo="" group-title="Channels",Sky Sport Tennis  HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694262
-#EXTINF:-1,Sky Sport Golf HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Golf HD DE" tvg-logo="" group-title="Channels",Sky Sport Golf HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695692
-#EXTINF:-1,Sky Sport 3 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport 3 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Sky Sport 3 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13563
-#EXTINF:-1,Sky Sport 3 [Match Time] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport 3 [Match Time] HD DE" tvg-logo="" group-title="Channels",Sky Sport 3 [Match Time] HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6182
-#EXTINF:-1,Sky Sport 4 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport 4 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Sky Sport 4 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13562
-#EXTINF:-1,Sky Sport 4 [Match Time] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport 4 [Match Time] HD DE" tvg-logo="" group-title="Channels",Sky Sport 4 [Match Time] HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9127
-#EXTINF:-1,Sky Sport 5 FHD DE
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84362_dark_360w_270h.png" group-title="Channels",Sky Sport 5 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13561
-#EXTINF:-1,Sky Sport 5 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport 5 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Sky Sport 5 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9126
-#EXTINF:-1,Sky Sport 6 [Match Time] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport 6 [Match Time] HD DE" tvg-logo="" group-title="Channels",Sky Sport 6 [Match Time] HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6181
-#EXTINF:-1,Sky Sport 7 [Match Time] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport 7 [Match Time] HD DE" tvg-logo="" group-title="Channels",Sky Sport 7 [Match Time] HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6180
-#EXTINF:-1,Sky Sport 8 [Match Time] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport 8 [Match Time] HD DE" tvg-logo="" group-title="Channels",Sky Sport 8 [Match Time] HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6179
-#EXTINF:-1,Sky Sport 9 [Match Time] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport 9 [Match Time] HD DE" tvg-logo="" group-title="Channels",Sky Sport 9 [Match Time] HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6178
-#EXTINF:-1,Sky Sport 10 [Match Time] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport 10 [Match Time] HD DE" tvg-logo="" group-title="Channels",Sky Sport 10 [Match Time] HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6177
-#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 2 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 2 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/62223
-#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 2 [Match Time-B] FHD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 2 [Match Time-B] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/135258
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 3 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 3 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/135671
-#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 3 [Match Time] HD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 3 [Match Time] HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/62220
-#EXTINF:-1,Sky Sport Bundesliga 4 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 4 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 4 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/91235
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 5 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 5 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/135335
-#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 5 [Match Time] DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 5 [Match Time] DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/62002
-#EXTINF:-1,Sky Sport Bundesliga 6 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 6 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 6 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/619225
-#EXTINF:-1,Sky Sport Bundesliga 7 [Match Time] DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 7 [Match Time] DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 7 [Match Time] DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6198
-#EXTINF:-1,Sky Sport Bundesliga 8 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 8 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 8 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6197
-#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time] DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 9 [Match Time] DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 9 [Match Time] DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6196
-#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Sport Bundesliga 10 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Sky Sport Bundesliga 10 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6195
-#EXTINF:-1,DAZN 1 FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 FHD DE" tvg-logo="" group-title="Channels",DAZN 1 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/661090
-#EXTINF:-1,DAZN 1 HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 HD DE" tvg-logo="" group-title="Channels",DAZN 1 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/625243
-#EXTINF:-1,DAZN 2 FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 FHD DE" tvg-logo="" group-title="Channels",DAZN 2 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/661089
-#EXTINF:-1,DAZN 2 HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 HD DE" tvg-logo="" group-title="Channels",DAZN 2 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/50775
-#EXTINF:-1,Sport1 FHD DE
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="Sport1 FHD DE" tvg-logo="" group-title="Channels",Sport1 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6173
-#EXTINF:-1,Sport1 HD DE
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="Sport1 HD DE" tvg-logo="" group-title="Channels",Sport1 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8221
-#EXTINF:-1,Sport1+ FHD DE
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="Sport1+ FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87536_dark_360w_270h.png" group-title="Channels",Sport1+ FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679847
-#EXTINF:-1,Sport1+ HD [B] DE
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="Sport1+ HD  DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87536_dark_360w_270h.png" group-title="Channels",Sport1+ HD  DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679848
-#EXTINF:-1,eSports 1 HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="eSports 1 HD DE" tvg-logo="" group-title="Channels",eSports 1 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687730
-#EXTINF:-1,Magenta Sport 1 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 1 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 1 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679823
-#EXTINF:-1,Magenta Sport 2 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 2 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 2 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679822
-#EXTINF:-1,Magenta Sport 3 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 3 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 3 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695829
-#EXTINF:-1,Magenta Sport 4 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 4 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 4 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679824
-#EXTINF:-1,Magenta Sport 5 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 5 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 5 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679825
-#EXTINF:-1,Magenta Sport 6 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 6 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 6 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679826
-#EXTINF:-1,Magenta Sport 7 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 7 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 7 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679827
-#EXTINF:-1,Magenta Sport 8 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 8 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 8 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/688721
-#EXTINF:-1,Magenta Sport 9 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 9 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 9 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679675
-#EXTINF:-1,Magenta Sport 10 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 10 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 10 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695830
-#EXTINF:-1,Magenta Sport 11 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 11 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 11 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695831
-#EXTINF:-1,Magenta Sport 12 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 12 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 12 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695832
-#EXTINF:-1,Magenta Sport 13 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 13 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 13 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695833
-#EXTINF:-1,Magenta Sport 14 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 14 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 14 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695834
-#EXTINF:-1,Magenta Sport 15 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 15 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 15 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695835
-#EXTINF:-1,Magenta Sport 16 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 16 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 16 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695836
-#EXTINF:-1,Magenta Sport 17 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 17 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 17 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695837
-#EXTINF:-1,Magenta Sport 18 [Match Time] FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Magenta Sport 18 [Match Time] FHD DE" tvg-logo="" group-title="Channels",Magenta Sport 18 [Match Time] FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/695838
-#EXTINF:-1,FC Bayern TV HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="FC Bayern TV HD DE" tvg-logo="" group-title="Channels",FC Bayern TV HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9128
-#EXTINF:-1,Eurosport 1 FHD DE
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66603_dark_360w_270h.png" group-title="Channels",Eurosport 1 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8218
-#EXTINF:-1,Eurosport 2 FHD DE
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86873_dark_360w_270h.png" group-title="Channels",Eurosport 2 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9131
-#EXTINF:-1,Sport Digital FHD DE
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital FHD DE" tvg-logo="" group-title="Channels",Sport Digital FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8244
-#EXTINF:-1,Sport Digital HD DE
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital HD DE" tvg-logo="" group-title="Channels",Sport Digital HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6171
-#EXTINF:-1,Motorvision HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Motorvision HD DE" tvg-logo="" group-title="Channels",Motorvision HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8222
-#EXTINF:-1,Auto Motor Sport FHD DE
+#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor Sport FHD DE" tvg-logo="" group-title="Channels",Auto Motor Sport FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9132
-#EXTINF:-1,✽✽⭒ DE Movies & Series ⭒✽✽
+#EXTINF:-1 tvg-id="ext" tvg-name="✽✽⭒ DE Movies & Series ⭒✽✽" tvg-logo="" group-title="Channels",✽✽⭒ DE Movies & Series ⭒✽✽
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678836
-#EXTINF:-1,Sky Cinema Action FHD DE
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Cinema Action FHD DE" tvg-logo="" group-title="Channels",Sky Cinema Action FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5093
-#EXTINF:-1, Sky Cinema Action HD DE
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Cinema Action HD DE" tvg-logo="" group-title="Channels",Sky Cinema Action HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6205
-#EXTINF:-1,Sky Cinema Special FHD DE
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="Sky Cinema Special FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112534_dark_360w_270h.png" group-title="Channels",Sky Cinema Special FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8217
-#EXTINF:-1,Sky Cinema Special HD DE
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="Sky Cinema Special HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s112534_dark_360w_270h.png" group-title="Channels",Sky Cinema Special HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6252
-#EXTINF:-1,Sky Cinema Thriller FHD DE
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="Sky Cinema Thriller FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114216_dark_360w_270h.png" group-title="Channels",Sky Cinema Thriller FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5089
-#EXTINF:-1,Sky Cinema Thriller HD DE
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="Sky Cinema Thriller HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114216_dark_360w_270h.png" group-title="Channels",Sky Cinema Thriller HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7372
-#EXTINF:-1,Sky Cinema Thriller DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Cinema Thriller DE" tvg-logo="" group-title="Channels",Sky Cinema Thriller DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6193
-#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="" group-title="Channels",Sky Cinema Premieren +24 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6192
-#EXTINF:-1,Sky Cinema Premieren +24 HD DE
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="Sky Cinema Premieren +24 HD DE" tvg-logo="" group-title="Channels",Sky Cinema Premieren +24 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13133
-#EXTINF:-1,Sky Cinema Fun FHD DE
+#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84054_dark_360w_270h.png" group-title="Channels",Sky Cinema Fun FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6190
-#EXTINF:-1,Sky Cinema Fun HD DE
+#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84054_dark_360w_270h.png" group-title="Channels",Sky Cinema Fun HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9144
-#EXTINF:-1,Sky Cinema Best Of FHD DE
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best Of FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83668_dark_360w_270h.png" group-title="Channels",Sky Cinema Best Of FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7368
-#EXTINF:-1,Sky Cinema Best Of HD DE
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best Of HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83668_dark_360w_270h.png" group-title="Channels",Sky Cinema Best Of HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8223
-#EXTINF:-1,Sky Cinema Family FHD DE
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100498_dark_360w_270h.png" group-title="Channels",Sky Cinema Family FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9145
-#EXTINF:-1,Sky Cinema Family HD DE
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100498_dark_360w_270h.png" group-title="Channels",Sky Cinema Family HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7369
-#EXTINF:-1,Sky Cinema Classics HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Cinema Classics HD DE" tvg-logo="" group-title="Channels",Sky Cinema Classics HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13131
-#EXTINF:-1,Sky Cinema Classics DE
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83897_dark_360w_270h.png" group-title="Channels",Sky Cinema Classics DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6186
-#EXTINF:-1,Sky Comedy FHD VIP DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Comedy FHD VIP DE" tvg-logo="" group-title="Channels",Sky Comedy FHD VIP DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/688822
-#EXTINF:-1, Sky Krimi VIP HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Krimi VIP HD DE" tvg-logo="" group-title="Channels",Sky Krimi VIP HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/688821
-#EXTINF:-1,Sky Atlantic FHD DE
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky Atlantic FHD DE" tvg-logo="" group-title="Channels",Sky Atlantic FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7367
-#EXTINF:-1,Sky Atlantic HD DE
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="Sky Atlantic HD DE" tvg-logo="" group-title="Channels",Sky Atlantic HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6204
-#EXTINF:-1,Sky 13TH Street FHD DE
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky 13TH Street FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83544_dark_360w_270h.png" group-title="Channels",Sky 13TH Street FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5098
-#EXTINF:-1,Sky 13TH Street HD DE
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky 13TH Street HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83544_dark_360w_270h.png" group-title="Channels",Sky 13TH Street HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7365
-#EXTINF:-1,Sky 13TH Street [B] HD DE
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="Sky 13TH Street  HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83544_dark_360w_270h.png" group-title="Channels",Sky 13TH Street  HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8198
-#EXTINF:-1,Sky One FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky One FHD DE" tvg-logo="" group-title="Channels",Sky One FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9138
-#EXTINF:-1,Sky Replay FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Replay FHD DE" tvg-logo="" group-title="Channels",Sky Replay FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23770
-#EXTINF:-1,One HD DE
+#EXTINF:-1 tvg-id="One.de" tvg-name="One HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75007_dark_360w_270h.png" group-title="Channels",One HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9147
-#EXTINF:-1,ZDF Neo HD DE
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67216_dark_360w_270h.png" group-title="Channels",ZDF Neo HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/17304
-#EXTINF:-1,Syfy FHD DE
+#EXTINF:-1 tvg-id="SciFi.de" tvg-name="Syfy FHD DE" tvg-logo="" group-title="Channels",Syfy FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7364
-#EXTINF:-1,WarnerTV Comedy FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="WarnerTV Comedy FHD DE" tvg-logo="" group-title="Channels",WarnerTV Comedy FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6157
-#EXTINF:-1,WarnerTV Comedy HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="WarnerTV Comedy HD DE" tvg-logo="" group-title="Channels",WarnerTV Comedy HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687541
-#EXTINF:-1,Warner Film FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Warner Film FHD DE" tvg-logo="" group-title="Channels",Warner Film FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6156
-#EXTINF:-1,WarnerTV Serie FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="WarnerTV Serie FHD DE" tvg-logo="" group-title="Channels",WarnerTV Serie FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5084
-#EXTINF:-1,WarnerTV Serie HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="WarnerTV Serie HD DE" tvg-logo="" group-title="Channels",WarnerTV Serie HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13154
-#EXTINF:-1,Universal FHD DE
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal FHD DE" tvg-logo="" group-title="Channels",Universal FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/696610
-#EXTINF:-1,Universal HD DE
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal HD DE" tvg-logo="" group-title="Channels",Universal HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/696611
-#EXTINF:-1,Sony Channel HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony Channel HD DE" tvg-logo="" group-title="Channels",Sony Channel HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6167
-#EXTINF:-1,Sony AXN HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sony AXN HD DE" tvg-logo="" group-title="Channels",Sony AXN HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6259
-#EXTINF:-1,Kinowelt FHD DE
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="Kinowelt FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83614_dark_360w_270h.png" group-title="Channels",Kinowelt FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6240
-#EXTINF:-1,Eagle Cinema Premiere FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Eagle Cinema Premiere FHD DE" tvg-logo="" group-title="Channels",Eagle Cinema Premiere FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681946
-#EXTINF:-1,Eagle Cinema Horror FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Eagle Cinema Horror FHD DE" tvg-logo="" group-title="Channels",Eagle Cinema Horror FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681942
-#EXTINF:-1,Eagle Cinema Thriller FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Eagle Cinema Thriller FHD DE" tvg-logo="" group-title="Channels",Eagle Cinema Thriller FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681950
-#EXTINF:-1,Eagle Cinema Sci-Fi FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Eagle Cinema Sci-Fi FHD DE" tvg-logo="" group-title="Channels",Eagle Cinema Sci-Fi FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681949
-#EXTINF:-1,Eagle Cinema Animation HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Eagle Cinema Animation HD DE" tvg-logo="" group-title="Channels",Eagle Cinema Animation HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681939
-#EXTINF:-1,Eagle Cinema Mythologie HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Eagle Cinema Mythologie HD DE" tvg-logo="" group-title="Channels",Eagle Cinema Mythologie HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681945
-#EXTINF:-1,Eagle Cinema Lächeln HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Eagle Cinema Lächeln HD DE" tvg-logo="" group-title="Channels",Eagle Cinema Lächeln HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681944
-#EXTINF:-1,Eagle Cinema Geschichte HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Eagle Cinema Geschichte HD DE" tvg-logo="" group-title="Channels",Eagle Cinema Geschichte HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681941
-#EXTINF:-1,Eagle Cinema Romantisch FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Eagle Cinema Romantisch FHD DE" tvg-logo="" group-title="Channels",Eagle Cinema Romantisch FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/681948
-#EXTINF:-1,Sky Select 1 FHD DE
+#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 FHD DE" tvg-logo="" group-title="Channels",Sky Select 1 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/655131
-#EXTINF:-1,Sky Select 1 HD DE
+#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 HD DE" tvg-logo="" group-title="Channels",Sky Select 1 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7375
-#EXTINF:-1,Sky Select 2 FHD DE
+#EXTINF:-1 tvg-id="SkySelect2.de" tvg-name="Sky Select 2 FHD DE" tvg-logo="" group-title="Channels",Sky Select 2 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/655130
-#EXTINF:-1,Sky Select 2 HD DE
+#EXTINF:-1 tvg-id="SkySelect2.de" tvg-name="Sky Select 2 HD DE" tvg-logo="" group-title="Channels",Sky Select 2 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7376
-#EXTINF:-1,Sky Select 3 FHD DE
+#EXTINF:-1 tvg-id="SkySelect3.de" tvg-name="Sky Select 3 FHD DE" tvg-logo="" group-title="Channels",Sky Select 3 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/655129
-#EXTINF:-1,Sky Select 3 HD DE
+#EXTINF:-1 tvg-id="SkySelect3.de" tvg-name="Sky Select 3 HD DE" tvg-logo="" group-title="Channels",Sky Select 3 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7377
-#EXTINF:-1,Sky Select 4 FHD DE
+#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="Sky Select 4 FHD DE" tvg-logo="" group-title="Channels",Sky Select 4 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/655128
-#EXTINF:-1,Sky Select 4 HD DE
+#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="Sky Select 4 HD DE" tvg-logo="" group-title="Channels",Sky Select 4 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7378
-#EXTINF:-1,Sky Select 5 HD DE
+#EXTINF:-1 tvg-id="SkySelect5.de" tvg-name="Sky Select 5 HD DE" tvg-logo="" group-title="Channels",Sky Select 5 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8977
-#EXTINF:-1,Sky Select 5 HD [demnächst] DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Select 5 HD [demnächst] DE" tvg-logo="" group-title="Channels",Sky Select 5 HD [demnächst] DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/655127
-#EXTINF:-1,Sky Select 6 HD DE
+#EXTINF:-1 tvg-id="SkySelect6.de" tvg-name="Sky Select 6 HD DE" tvg-logo="" group-title="Channels",Sky Select 6 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8976
-#EXTINF:-1,Sky Select 7 HD DE
+#EXTINF:-1 tvg-id="SkySelect7.de" tvg-name="Sky Select 7 HD DE" tvg-logo="" group-title="Channels",Sky Select 7 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8975
-#EXTINF:-1,Sky Select 8 HD DE
+#EXTINF:-1 tvg-id="SkySelect8.de" tvg-name="Sky Select 8 HD DE" tvg-logo="" group-title="Channels",Sky Select 8 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8974
-#EXTINF:-1,PopCorn Select 1 HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="PopCorn Select 1 HD DE" tvg-logo="" group-title="Channels",PopCorn Select 1 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23778
-#EXTINF:-1,PopCorn Select 2 FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="PopCorn Select 2 FHD DE" tvg-logo="" group-title="Channels",PopCorn Select 2 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683536
-#EXTINF:-1,PopCorn Select 2 HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="PopCorn Select 2 HD DE" tvg-logo="" group-title="Channels",PopCorn Select 2 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23777
-#EXTINF:-1,PopCorn Select 3 FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="PopCorn Select 3 FHD DE" tvg-logo="" group-title="Channels",PopCorn Select 3 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683537
-#EXTINF:-1,PopCorn Select 3 HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="PopCorn Select 3 HD DE" tvg-logo="" group-title="Channels",PopCorn Select 3 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23776
-#EXTINF:-1,PopCorn Select 4 HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="PopCorn Select 4 HD DE" tvg-logo="" group-title="Channels",PopCorn Select 4 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23775
-#EXTINF:-1,PopCorn Select 5 HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="PopCorn Select 5 HD DE" tvg-logo="" group-title="Channels",PopCorn Select 5 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683540
-#EXTINF:-1,HyperCinema Boxset FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HyperCinema Boxset FHD DE" tvg-logo="" group-title="Channels",HyperCinema Boxset FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683534
-#EXTINF:-1,HyperCinema INFO FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HyperCinema INFO FHD DE" tvg-logo="" group-title="Channels",HyperCinema INFO FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683523
-#EXTINF:-1,HyperCinema 1 FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HyperCinema 1 FHD DE" tvg-logo="" group-title="Channels",HyperCinema 1 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683535
-#EXTINF:-1,HyperCinema 2 HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HyperCinema 2 HD DE" tvg-logo="" group-title="Channels",HyperCinema 2 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683525
-#EXTINF:-1,HyperCinema 3 FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HyperCinema 3 FHD DE" tvg-logo="" group-title="Channels",HyperCinema 3 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683526
-#EXTINF:-1,HyperCinema 4 FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HyperCinema 4 FHD DE" tvg-logo="" group-title="Channels",HyperCinema 4 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683527
-#EXTINF:-1,HyperCinema 5 HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HyperCinema 5 HD DE" tvg-logo="" group-title="Channels",HyperCinema 5 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683528
-#EXTINF:-1,HyperCinema 6 FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HyperCinema 6 FHD DE" tvg-logo="" group-title="Channels",HyperCinema 6 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683529
-#EXTINF:-1,HyperCinema 7 FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HyperCinema 7 FHD DE" tvg-logo="" group-title="Channels",HyperCinema 7 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683530
-#EXTINF:-1,HyperCinema 8 FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HyperCinema 8 FHD DE" tvg-logo="" group-title="Channels",HyperCinema 8 FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683531
-#EXTINF:-1,Comedy Central FHD DE
+#EXTINF:-1 tvg-id="ComedyCentralVIVA.de" tvg-name="Comedy Central FHD DE" tvg-logo="" group-title="Channels",Comedy Central FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6154
-#EXTINF:-1,Romance TV HD DE
+#EXTINF:-1 tvg-id="Romance.de" tvg-name="Romance TV HD DE" tvg-logo="" group-title="Channels",Romance TV HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13152
-#EXTINF:-1,Sky Heimat Kanal DE
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Sky Heimat Kanal DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83873_dark_360w_270h.png" group-title="Channels",Sky Heimat Kanal DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6188
-#EXTINF:-1,Sixx FHD DE
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="Sixx FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83661_dark_360w_270h.png" group-title="Channels",Sixx FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6207
-#EXTINF:-1,Servus TV HD DE
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="Servus TV HD DE" tvg-logo="" group-title="Channels",Servus TV HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6208
-#EXTINF:-1,Tele 5 HD DE
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5 HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67303_dark_360w_270h.png" group-title="Channels",Tele 5 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9150
-#EXTINF:-1,Bibel TV HD DE
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel TV HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83907_dark_360w_270h.png" group-title="Channels",Bibel TV HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/677497
-#EXTINF:-1,Genius Family DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Genius Family DE" tvg-logo="" group-title="Channels",Genius Family DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/690457
-#EXTINF:-1,✽✽⭒ Documentary ⭒✽✽
+#EXTINF:-1 tvg-id="ext" tvg-name="✽✽⭒ Documentary ⭒✽✽" tvg-logo="" group-title="Channels",✽✽⭒ Documentary ⭒✽✽
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678919
-#EXTINF:-1,ZDF Info HD DE
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDF Info HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67213_dark_360w_270h.png" group-title="Channels",ZDF Info HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9148
-#EXTINF:-1,N24 Doku DE
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100347_dark_360w_270h.png" group-title="Channels",N24 Doku DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679837
-#EXTINF:-1,Kabel Eins Doku FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Kabel Eins Doku FHD DE" tvg-logo="" group-title="Channels",Kabel Eins Doku FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13147
-#EXTINF:-1,History Channel FHD DE
+#EXTINF:-1 tvg-id="HistoryHD.de" tvg-name="History Channel FHD DE" tvg-logo="" group-title="Channels",History Channel FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6244
-#EXTINF:-1,Spiegel Geschichte HD DE
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83764_dark_360w_270h.png" group-title="Channels",Spiegel Geschichte HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6174
-#EXTINF:-1,Curiosity Channel HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Curiosity Channel HD DE" tvg-logo="" group-title="Channels",Curiosity Channel HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9135
-#EXTINF:-1,Discovery FHD DE
+#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-name="Discovery FHD DE" tvg-logo="" group-title="Channels",Discovery FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13570
-#EXTINF:-1,Crime & Investigation FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Crime & Investigation FHD DE" tvg-logo="" group-title="Channels",Crime & Investigation FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694569
-#EXTINF:-1,Bergblick HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Bergblick HD DE" tvg-logo="" group-title="Channels",Bergblick HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679846
-#EXTINF:-1,Animal Planet FHD DE
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53428_dark_360w_270h.png" group-title="Channels",Animal Planet FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8196
-#EXTINF:-1,Animal Planet HD DE
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53428_dark_360w_270h.png" group-title="Channels",Animal Planet HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13173
-#EXTINF:-1,National Geographic FHD DE
+#EXTINF:-1 tvg-id="NatGeoHD.de" tvg-name="National Geographic FHD DE" tvg-logo="" group-title="Channels",National Geographic FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8194
-#EXTINF:-1,Nat Geo Wild HD DE
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="Nat Geo Wild HD DE" tvg-logo="" group-title="Channels",Nat Geo Wild HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5085
-#EXTINF:-1,Sky Nature FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Nature FHD DE" tvg-logo="" group-title="Channels",Sky Nature FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694399
-#EXTINF:-1,Sky Documentaries FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Documentaries FHD DE" tvg-logo="" group-title="Channels",Sky Documentaries FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694398
-#EXTINF:-1,Sky Crime FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Sky Crime FHD DE" tvg-logo="" group-title="Channels",Sky Crime FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/696723
-#EXTINF:-1,HGTV HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="HGTV HD DE" tvg-logo="" group-title="Channels",HGTV HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/688723
-#EXTINF:-1,Welt der Wunder HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Welt der Wunder HD DE" tvg-logo="" group-title="Channels",Welt der Wunder HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/679838
-#EXTINF:-1,Anixe HD DE
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD DE" tvg-logo="" group-title="Channels",Anixe HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6264
-#EXTINF:-1,Dmax FHD DE
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="Dmax FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83579_dark_360w_270h.png" group-title="Channels",Dmax FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6249
-#EXTINF:-1,TLC HD DE
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90212_dark_360w_270h.png" group-title="Channels",TLC HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8224
-#EXTINF:-1,E! Entertainment FHD DE
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! Entertainment FHD DE" tvg-logo="" group-title="Channels",E! Entertainment FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13569
-#EXTINF:-1,Sky Arte HD DE
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Sky Arte HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87847_dark_360w_270h.png" group-title="Channels",Sky Arte HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5091
-#EXTINF:-1,ARD Alpha FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="ARD Alpha FHD DE" tvg-logo="" group-title="Channels",ARD Alpha FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13171
-#EXTINF:-1,Waidwerk FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Waidwerk FHD DE" tvg-logo="" group-title="Channels",Waidwerk FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/687566
-#EXTINF:-1,✽✽⭒ DE News ⭒✽✽
+#EXTINF:-1 tvg-id="ext" tvg-name="✽✽⭒ DE News ⭒✽✽" tvg-logo="" group-title="Channels",✽✽⭒ DE News ⭒✽✽
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678922
-#EXTINF:-1,Euronews DE
+#EXTINF:-1 tvg-id="EuronewsDE.nws" tvg-name="Euronews DE" tvg-logo="" group-title="Channels",Euronews DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6248
-#EXTINF:-1,Welt HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Welt HD DE" tvg-logo="" group-title="Channels",Welt HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6228
-#EXTINF:-1,N-TV FHD DE
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66607_dark_360w_270h.png" group-title="Channels",N-TV FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13149
-#EXTINF:-1,N-TV HD DE
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66607_dark_360w_270h.png" group-title="Channels",N-TV HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8195
-#EXTINF:-1,München TV FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="München TV FHD DE" tvg-logo="" group-title="Channels",München TV FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6229
-#EXTINF:-1,Phoenix HD DE
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67304_dark_360w_270h.png" group-title="Channels",Phoenix HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6221
-#EXTINF:-1,Tagesschau 24 HD DE
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau 24 HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83876_dark_360w_270h.png" group-title="Channels",Tagesschau 24 HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6163
-#EXTINF:-1,✽✽⭒ DE Children ⭒✽✽
+#EXTINF:-1 tvg-id="ext" tvg-name="✽✽⭒ DE Children ⭒✽✽" tvg-logo="" group-title="Channels",✽✽⭒ DE Children ⭒✽✽
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678923
-#EXTINF:-1,Super RTL FHD DE
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52814_dark_360w_270h.png" group-title="Channels",Super RTL FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13554
-#EXTINF:-1,Super RTL HD DE
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52814_dark_360w_270h.png" group-title="Channels",Super RTL HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6166
-#EXTINF:-1,Kika HD DE
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="Kika HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67198_dark_360w_270h.png" group-title="Channels",Kika HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6241
-#EXTINF:-1,Toggo Plus HD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Toggo Plus HD DE" tvg-logo="" group-title="Channels",Toggo Plus HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5086
-#EXTINF:-1,Toggo Plus DE
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="Toggo Plus DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100062_dark_360w_270h.png" group-title="Channels",Toggo Plus DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9133
-#EXTINF:-1,Boomerang HD DE
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83741_dark_360w_270h.png" group-title="Channels",Boomerang HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6258
-#EXTINF:-1,Cartoon Network FHD DE
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83564_dark_360w_270h.png" group-title="Channels",Cartoon Network FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6257
-#EXTINF:-1,Disney Channel FHD DE
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel FHD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83574_dark_360w_270h.png" group-title="Channels",Disney Channel FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6253
-#EXTINF:-1,Nickelodeon HD DE
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon HD DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83626_dark_360w_270h.png" group-title="Channels",Nickelodeon HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6224
-#EXTINF:-1,Fix & Foxi DE
+#EXTINF:-1 tvg-id="FixFoxi.de" tvg-name="Fix & Foxi DE" tvg-logo="" group-title="Channels",Fix & Foxi DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/23771
-#EXTINF:-1,✽✽⭒ DE Music ⭒✽✽
+#EXTINF:-1 tvg-id="ext" tvg-name="✽✽⭒ DE Music ⭒✽✽" tvg-logo="" group-title="Channels",✽✽⭒ DE Music ⭒✽✽
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/678925
-#EXTINF:-1,MTV FHD DE
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV FHD DE" tvg-logo="" group-title="Channels",MTV FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/35466
-#EXTINF:-1,MTV 80s DE
+#EXTINF:-1 tvg-id="ext" tvg-name="MTV 80s DE" tvg-logo="" group-title="Channels",MTV 80s DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/638080
-#EXTINF:-1,Stingray Classica FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Classica FHD DE" tvg-logo="" group-title="Channels",Stingray Classica FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6191
-#EXTINF:-1,Jukebox DE
+#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="Jukebox DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84028_dark_360w_270h.png" group-title="Channels",Jukebox DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13148
-#EXTINF:-1,Deluxe Music FHD DE
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music FHD DE" tvg-logo="" group-title="Channels",Deluxe Music FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6255
-#EXTINF:-1,Kronehit FHD DE
+#EXTINF:-1 tvg-id="ext" tvg-name="Kronehit FHD DE" tvg-logo="" group-title="Channels",Kronehit FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/14200
-#EXTINF:-1,Deutsches Musik Fernsehen DE
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83570_dark_360w_270h.png" group-title="Channels",Deutsches Musik Fernsehen DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13165
