@@ -1,174 +1,175 @@
-#EXTINF:-1,DE: 13th Street
+#EXTM3U url-tvg="http://m3u4u.com/epg/26p5n3m1w6hqz56pnv7j"
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE: 13th Street" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83544_dark_360w_270h.png" group-title="(no group)",DE: 13th Street
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330952.ts
-#EXTINF:-1,DE: Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="DE: Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53428_dark_360w_270h.png" group-title="(no group)",DE: Animal Planet
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330953.ts
-#EXTINF:-1,DE: Arte
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="DE: Arte" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87847_dark_360w_270h.png" group-title="(no group)",DE: Arte
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330954.ts
-#EXTINF:-1,DE: Boomerang
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="DE: Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83741_dark_360w_270h.png" group-title="(no group)",DE: Boomerang
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330955.ts
-#EXTINF:-1,DE: Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="DE: Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83564_dark_360w_270h.png" group-title="(no group)",DE: Cartoon Network
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330956.ts
-#EXTINF:-1,DE: Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="DE: Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66615_dark_360w_270h.png" group-title="(no group)",DE: Comedy Central
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330957.ts
-#EXTINF:-1,DE: Crime + Investigation
+#EXTINF:-1 tvg-id="CrimeplusInvestigation.de" tvg-name="DE: Crime + Investigation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90284_dark_360w_270h.png" group-title="(no group)",DE: Crime + Investigation
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330958.ts
-#EXTINF:-1,DE: Das Erste
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="DE: Das Erste" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90447_dark_360w_270h.png" group-title="(no group)",DE: Das Erste
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330959.ts
-#EXTINF:-1,DE: Deluxe Music
+#EXTINF:-1 tvg-id="DELUXEMUSIC(src01).de" tvg-name="DE: Deluxe Music" tvg-logo="" group-title="(no group)",DE: Deluxe Music
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330960.ts
-#EXTINF:-1,DE: Discovery
+#EXTINF:-1 tvg-id="Discovery(KD).de" tvg-name="DE: Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101838_dark_360w_270h.png" group-title="(no group)",DE: Discovery
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330961.ts
-#EXTINF:-1,DE: Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="DE: Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83574_dark_360w_270h.png" group-title="(no group)",DE: Disney Channel
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330962.ts
-#EXTINF:-1,DE: Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior(French).de" tvg-name="DE: Disney Junior" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79387_dark_360w_270h.png" group-title="(no group)",DE: Disney Junior
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330963.ts
-#EXTINF:-1,DE: Disney XD
+#EXTINF:-1 tvg-id="DisneyXD(English).de" tvg-name="DE: Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18379_dark_360w_270h.png" group-title="(no group)",DE: Disney XD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330964.ts
-#EXTINF:-1,DE: DMAX
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DE: DMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83579_dark_360w_270h.png" group-title="(no group)",DE: DMAX
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330965.ts
-#EXTINF:-1,DE: Fox
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Fox" tvg-logo="" group-title="(no group)",DE: Fox
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330966.ts
-#EXTINF:-1,DE: Heimatkanal
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="DE: Heimatkanal" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83873_dark_360w_270h.png" group-title="(no group)",DE: Heimatkanal
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330967.ts
-#EXTINF:-1,DE: History
+#EXTINF:-1 tvg-id="HISTORY.de" tvg-name="DE: History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83593_dark_360w_270h.png" group-title="(no group)",DE: History
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330968.ts
-#EXTINF:-1,DE: Junior
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Junior" tvg-logo="" group-title="(no group)",DE: Junior
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330969.ts
-#EXTINF:-1,DE: Kabel 1 Doku
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Kabel 1 Doku" tvg-logo="" group-title="(no group)",DE: Kabel 1 Doku
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330970.ts
-#EXTINF:-1,DE: Kabel Eins
+#EXTINF:-1 tvg-id="kabeleins.de" tvg-name="DE: Kabel Eins" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67197_dark_360w_270h.png" group-title="(no group)",DE: Kabel Eins
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330971.ts
-#EXTINF:-1,DE: KiKA
+#EXTINF:-1 tvg-id="KiKA.de" tvg-name="DE: KiKA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67198_dark_360w_270h.png" group-title="(no group)",DE: KiKA
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330972.ts
-#EXTINF:-1,DE: Kinowelt
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="DE: Kinowelt" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83614_dark_360w_270h.png" group-title="(no group)",DE: Kinowelt
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330973.ts
-#EXTINF:-1,DE: MDR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MDR" tvg-logo="" group-title="(no group)",DE: MDR
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330974.ts
-#EXTINF:-1,DE: n-tv
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE: n-tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66607_dark_360w_270h.png" group-title="(no group)",DE: n-tv
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330975.ts
-#EXTINF:-1,DE: N24 Doku
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="DE: N24 Doku" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100347_dark_360w_270h.png" group-title="(no group)",DE: N24 Doku
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330976.ts
-#EXTINF:-1,DE: NatGeo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: NatGeo" tvg-logo="" group-title="(no group)",DE: NatGeo
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330977.ts
-#EXTINF:-1,DE: NatGeo Wild
+#EXTINF:-1 tvg-id="NatGeoWild(src01).de" tvg-name="DE: NatGeo Wild" tvg-logo="" group-title="(no group)",DE: NatGeo Wild
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330978.ts
-#EXTINF:-1,DE: Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="DE: Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83626_dark_360w_270h.png" group-title="(no group)",DE: Nickelodeon
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330979.ts
-#EXTINF:-1,DE: One
+#EXTINF:-1 tvg-id="one.de" tvg-name="DE: One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75007_dark_360w_270h.png" group-title="(no group)",DE: One
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330980.ts
-#EXTINF:-1,DE: Phoenix
+#EXTINF:-1 tvg-id="PHOENIX.de" tvg-name="DE: Phoenix" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67304_dark_360w_270h.png" group-title="(no group)",DE: Phoenix
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330981.ts
-#EXTINF:-1,DE: Pro7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Pro7" tvg-logo="" group-title="(no group)",DE: Pro7
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330982.ts
-#EXTINF:-1,DE: Pro7 Maxx
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Pro7 Maxx" tvg-logo="" group-title="(no group)",DE: Pro7 Maxx
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330983.ts
-#EXTINF:-1,DE: Pro7 fun
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Pro7 fun" tvg-logo="" group-title="(no group)",DE: Pro7 fun
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330984.ts
-#EXTINF:-1,DE: Romance TV
+#EXTINF:-1 tvg-id="RomanceTV.de" tvg-name="DE: Romance TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83637_dark_360w_270h.png" group-title="(no group)",DE: Romance TV
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330985.ts
-#EXTINF:-1,DE: RTL
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE: RTL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52564_dark_360w_270h.png" group-title="(no group)",DE: RTL
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330986.ts
-#EXTINF:-1,DE: RTL Crime
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE: RTL Crime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83965_dark_360w_270h.png" group-title="(no group)",DE: RTL Crime
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330987.ts
-#EXTINF:-1,DE: RTL Living
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="DE: RTL Living" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83964_dark_360w_270h.png" group-title="(no group)",DE: RTL Living
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330988.ts
-#EXTINF:-1,DE: RTL Passion
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="DE: RTL Passion" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83635_dark_360w_270h.png" group-title="(no group)",DE: RTL Passion
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330989.ts
-#EXTINF:-1,DE: RTLZWEI
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="DE: RTLZWEI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66610_dark_360w_270h.png" group-title="(no group)",DE: RTLZWEI
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330990.ts
-#EXTINF:-1,DE: Sat.1
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="DE: Sat.1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21842_dark_360w_270h.png" group-title="(no group)",DE: Sat.1
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330991.ts
-#EXTINF:-1,DE: Sat.1 Gold
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="DE: Sat.1 Gold" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83651_dark_360w_270h.png" group-title="(no group)",DE: Sat.1 Gold
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330992.ts
-#EXTINF:-1,DE: Sixx
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: Sixx" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83661_dark_360w_270h.png" group-title="(no group)",DE: Sixx
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330993.ts
-#EXTINF:-1,DE: Sky 1
+#EXTINF:-1 tvg-id="Sky1(src01).de" tvg-name="DE: Sky 1" tvg-logo="" group-title="(no group)",DE: Sky 1
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330994.ts
-#EXTINF:-1,DE: Sky Atlantic
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="DE: Sky Atlantic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83666_dark_360w_270h.png" group-title="(no group)",DE: Sky Atlantic
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330995.ts
-#EXTINF:-1,DE: Sky Cinema
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="DE: Sky Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89173_dark_360w_270h.png" group-title="(no group)",DE: Sky Cinema
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330996.ts
-#EXTINF:-1,DE: Sky Cinema
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="DE: Sky Cinema" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89173_dark_360w_270h.png" group-title="(no group)",DE: Sky Cinema
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330997.ts
-#EXTINF:-1,DE: Sky Cinema Action
+#EXTINF:-1 tvg-id="SkyCinemaAction.de" tvg-name="DE: Sky Cinema Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83663_dark_360w_270h.png" group-title="(no group)",DE: Sky Cinema Action
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330998.ts
-#EXTINF:-1,DE: Sky Cinema Family
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE: Sky Cinema Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100498_dark_360w_270h.png" group-title="(no group)",DE: Sky Cinema Family
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/330999.ts
-#EXTINF:-1,DE: Sky Cinema Hits
+#EXTINF:-1 tvg-id="SkyCinemaHits(src01).de" tvg-name="DE: Sky Cinema Hits" tvg-logo="" group-title="(no group)",DE: Sky Cinema Hits
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331000.ts
-#EXTINF:-1,DE: Sky Cinema Premiere
+#EXTINF:-1 tvg-id="SkyCinemaPremiere(English).de" tvg-name="DE: Sky Cinema Premiere" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21107_dark_360w_270h.png" group-title="(no group)",DE: Sky Cinema Premiere
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331001.ts
-#EXTINF:-1,DE: Sky Cinema Special
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Special" tvg-logo="" group-title="(no group)",DE: Sky Cinema Special
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331002.ts
-#EXTINF:-1,DE: Sky Krimi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Krimi" tvg-logo="" group-title="(no group)",DE: Sky Krimi
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331003.ts
-#EXTINF:-1,DE: Sky Select 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Select 1" tvg-logo="" group-title="(no group)",DE: Sky Select 1
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331004.ts
-#EXTINF:-1,DE: Sky Select 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Select 2" tvg-logo="" group-title="(no group)",DE: Sky Select 2
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331005.ts
-#EXTINF:-1,DE: Spiegel Geschichte
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Spiegel Geschichte" tvg-logo="" group-title="(no group)",DE: Spiegel Geschichte
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331006.ts
-#EXTINF:-1,DE: Spiegel TV Wissen
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Spiegel TV Wissen" tvg-logo="" group-title="(no group)",DE: Spiegel TV Wissen
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331007.ts
-#EXTINF:-1,DE: Super RTL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Super RTL" tvg-logo="" group-title="(no group)",DE: Super RTL
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331008.ts
-#EXTINF:-1,DE: SWR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SWR" tvg-logo="" group-title="(no group)",DE: SWR
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331009.ts
-#EXTINF:-1,DE: Syfy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Syfy" tvg-logo="" group-title="(no group)",DE: Syfy
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331010.ts
-#EXTINF:-1,DE: Tele 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Tele 5" tvg-logo="" group-title="(no group)",DE: Tele 5
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331011.ts
-#EXTINF:-1,DE: TLC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TLC" tvg-logo="" group-title="(no group)",DE: TLC
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331012.ts
-#EXTINF:-1,DE: TNT Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TNT Comedy" tvg-logo="" group-title="(no group)",DE: TNT Comedy
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331013.ts
-#EXTINF:-1,DE: TNT Film
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TNT Film" tvg-logo="" group-title="(no group)",DE: TNT Film
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331014.ts
-#EXTINF:-1,DE: TNT Serie
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TNT Serie" tvg-logo="" group-title="(no group)",DE: TNT Serie
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331015.ts
-#EXTINF:-1,DE: Toggo Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Toggo Plus" tvg-logo="" group-title="(no group)",DE: Toggo Plus
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331016.ts
-#EXTINF:-1,DE: Universal TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Universal TV" tvg-logo="" group-title="(no group)",DE: Universal TV
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331017.ts
-#EXTINF:-1,DE: VOX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: VOX" tvg-logo="" group-title="(no group)",DE: VOX
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331018.ts
-#EXTINF:-1,DE: WELT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: WELT" tvg-logo="" group-title="(no group)",DE: WELT
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331019.ts
-#EXTINF:-1,DE: ZDF
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ZDF" tvg-logo="" group-title="(no group)",DE: ZDF
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331020.ts
-#EXTINF:-1,DE: ZDF info
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ZDF info" tvg-logo="" group-title="(no group)",DE: ZDF info
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331021.ts
-#EXTINF:-1,DE: ZDF Neo
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ZDF Neo" tvg-logo="" group-title="(no group)",DE: ZDF Neo
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/331022.ts
-#EXTINF:-1,•●★-- Germany Sports --★●•
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="•●★-- Germany Sports --★●•" tvg-logo="" group-title="(no group)",•●★-- Germany Sports --★●•
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33425.ts
-#EXTINF:-1,SP: DE: Dazn Bar 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Dazn Bar 1" tvg-logo="" group-title="(no group)",SP: DE: Dazn Bar 1
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33426.ts
-#EXTINF:-1,SP: DE: Dazn Bar 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Dazn Bar 2" tvg-logo="" group-title="(no group)",SP: DE: Dazn Bar 2
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33427.ts
-#EXTINF:-1,SP: DE: Eurosport 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Eurosport 1" tvg-logo="" group-title="(no group)",SP: DE: Eurosport 1
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33430.ts
-#EXTINF:-1,SP: DE: Eurosport 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Eurosport 2" tvg-logo="" group-title="(no group)",SP: DE: Eurosport 2
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33433.ts
-#EXTINF:-1,SP: DE: Eurosport 2 Xtra
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Eurosport 2 Xtra" tvg-logo="" group-title="(no group)",SP: DE: Eurosport 2 Xtra
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33436.ts
-#EXTINF:-1,SP: DE: Motorvision TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Motorvision TV" tvg-logo="" group-title="(no group)",SP: DE: Motorvision TV
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33440.ts
-#EXTINF:-1,SP: DE: Auto Motor Sport
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Auto Motor Sport" tvg-logo="" group-title="(no group)",SP: DE: Auto Motor Sport
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33441.ts
-#EXTINF:-1,SP: DE: Sky Sport News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Sky Sport News" tvg-logo="" group-title="(no group)",SP: DE: Sky Sport News
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33443.ts
-#EXTINF:-1,SP: DE: Sky Sport Austria
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Sky Sport Austria" tvg-logo="" group-title="(no group)",SP: DE: Sky Sport Austria
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33447.ts
-#EXTINF:-1,SP: DE: Sky Sport 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Sky Sport 1" tvg-logo="" group-title="(no group)",SP: DE: Sky Sport 1
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33448.ts
-#EXTINF:-1,SP: DE: Sky Sport Bundesliga 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Sky Sport Bundesliga 1" tvg-logo="" group-title="(no group)",SP: DE: Sky Sport Bundesliga 1
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33464.ts
-#EXTINF:-1,SP: DE: Sky Sport Bundesliga 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Sky Sport Bundesliga 3" tvg-logo="" group-title="(no group)",SP: DE: Sky Sport Bundesliga 3
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33466.ts
-#EXTINF:-1,SP: DE: Sky Sport Bundesliga 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Sky Sport Bundesliga 4" tvg-logo="" group-title="(no group)",SP: DE: Sky Sport Bundesliga 4
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33467.ts
-#EXTINF:-1,SP: DE: Sky Sport Bundesliga 6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Sky Sport Bundesliga 6" tvg-logo="" group-title="(no group)",SP: DE: Sky Sport Bundesliga 6
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33469.ts
-#EXTINF:-1,SP: DE: Sky Sport Bundesliga 7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP: DE: Sky Sport Bundesliga 7" tvg-logo="" group-title="(no group)",SP: DE: Sky Sport Bundesliga 7
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/33470.ts
