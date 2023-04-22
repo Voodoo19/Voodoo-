@@ -1,0 +1,513 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/5g28neerp3twk7j2nzpe"
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="DE: Das Erste HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90447_dark_360w_270h.png" group-title="(no group)",DE: Das Erste HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24240
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="DE: Das Erste HD (Web)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90447_dark_360w_270h.png" group-title="(no group)",DE: Das Erste HD (Web)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/109
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ZDF HD" tvg-logo="" group-title="(no group)",DE: ZDF HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/187
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="DE: ZDF FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s86886_dark_360w_270h.png" group-title="(no group)",DE: ZDF FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24241
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="DE: ZDF info HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67213_dark_360w_270h.png" group-title="(no group)",DE: ZDF info HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/188
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="DE: ZDF neo HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67216_dark_360w_270h.png" group-title="(no group)",DE: ZDF neo HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/190
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ZEE ONE HD" tvg-logo="" group-title="(no group)",DE: ZEE ONE HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/17797
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE: 13th Street HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83544_dark_360w_270h.png" group-title="(no group)",DE: 13th Street HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/271
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE: 13th Street UHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83544_dark_360w_270h.png" group-title="(no group)",DE: 13th Street UHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/269
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="DE: Sat 1 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21842_dark_360w_270h.png" group-title="(no group)",DE: Sat 1 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/240
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="DE: Sat 1 FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21842_dark_360w_270h.png" group-title="(no group)",DE: Sat 1 FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/244
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="DE: Sat.1 Gold HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83651_dark_360w_270h.png" group-title="(no group)",DE: Sat.1 Gold HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/243
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="DE: Sat.1 Gold FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83651_dark_360w_270h.png" group-title="(no group)",DE: Sat.1 Gold FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/241
+#EXTINF:-1 tvg-id="Sat1emotions.de" tvg-name="DE: SAT.1 emotions HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83650_dark_360w_270h.png" group-title="(no group)",DE: SAT.1 emotions HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/238
+#EXTINF:-1 tvg-id="kabeleins.de" tvg-name="DE: Kabel Eins HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67197_dark_360w_270h.png" group-title="(no group)",DE: Kabel Eins HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/212
+#EXTINF:-1 tvg-id="kabeleins.de" tvg-name="DE: Kabel Eins FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67197_dark_360w_270h.png" group-title="(no group)",DE: Kabel Eins FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24244
+#EXTINF:-1 tvg-id="KabeleinsDoku.de" tvg-name="DE: Kabel Eins Doku HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100031_dark_360w_270h.png" group-title="(no group)",DE: Kabel Eins Doku HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/209
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Kabel 1 Classics HD" tvg-logo="" group-title="(no group)",DE: Kabel 1 Classics HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/206
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Fox HD" tvg-logo="" group-title="(no group)",DE: Fox HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/309
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Fox UHD" tvg-logo="" group-title="(no group)",DE: Fox UHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/307
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Pro 7 FHD" tvg-logo="" group-title="(no group)",DE: Pro 7 FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/17796
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Pro7 MAXX HD" tvg-logo="" group-title="(no group)",DE: Pro7 MAXX HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/224
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Pro7 MAXX FHD" tvg-logo="" group-title="(no group)",DE: Pro7 MAXX FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/222
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="DE: ProSieben HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67203_dark_360w_270h.png" group-title="(no group)",DE: ProSieben HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/225
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="DE: ProSieben HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67203_dark_360w_270h.png" group-title="(no group)",DE: ProSieben HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/228
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="DE: ProSieben FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67203_dark_360w_270h.png" group-title="(no group)",DE: ProSieben FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/226
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="DE: ProSieben Fun FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83631_dark_360w_270h.png" group-title="(no group)",DE: ProSieben Fun FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/227
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE: RTL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52564_dark_360w_270h.png" group-title="(no group)",DE: RTL HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/232
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE: RTL FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52564_dark_360w_270h.png" group-title="(no group)",DE: RTL FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/230
+#EXTINF:-1 tvg-id="RTLII(src01).de" tvg-name="DE: RTL II HD" tvg-logo="" group-title="(no group)",DE: RTL II HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/236
+#EXTINF:-1 tvg-id="RTLII(src01).de" tvg-name="DE: RTL II FHD" tvg-logo="" group-title="(no group)",DE: RTL II FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24242
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE: RTL Crime FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83965_dark_360w_270h.png" group-title="(no group)",DE: RTL Crime FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/229
+#EXTINF:-1 tvg-id="RTLNitro(src01).de" tvg-name="DE: RTL NITRO HD" tvg-logo="" group-title="(no group)",DE: RTL NITRO HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/221
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="DE: RTL Passion HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83635_dark_360w_270h.png" group-title="(no group)",DE: RTL Passion HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/159
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="DE: RTL Passion HD*" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83635_dark_360w_270h.png" group-title="(no group)",DE: RTL Passion HD*
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/233
+#EXTINF:-1 tvg-id="RTLPlus(src01).de" tvg-name="DE: RTL Plus HD" tvg-logo="" group-title="(no group)",DE: RTL Plus HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/237
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="DE: RTL Living HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83964_dark_360w_270h.png" group-title="(no group)",DE: RTL Living HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/158
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="DE: RTL Living FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83964_dark_360w_270h.png" group-title="(no group)",DE: RTL Living FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24243
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="DE: Super RTL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52814_dark_360w_270h.png" group-title="(no group)",DE: Super RTL HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/253
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="DE: SUPER RTL FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52814_dark_360w_270h.png" group-title="(no group)",DE: SUPER RTL FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/251
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="DE: 3sat (Web)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66621_dark_360w_270h.png" group-title="(no group)",DE: 3sat (Web)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/94
+#EXTINF:-1 tvg-id="one.de" tvg-name="DE: ONE HD (Web)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75007_dark_360w_270h.png" group-title="(no group)",DE: ONE HD (Web)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/143
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: WDR HD (Web)" tvg-logo="" group-title="(no group)",DE: WDR HD (Web)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/173
+#EXTINF:-1 tvg-id="BonGusto.de" tvg-name="DE: Bon Gusto FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83562_dark_360w_270h.png" group-title="(no group)",DE: Bon Gusto FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/17921
+#EXTINF:-1 tvg-id="Nitro.de" tvg-name="DE: NITRO FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84052_dark_360w_270h.png" group-title="(no group)",DE: NITRO FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/219
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83661_dark_360w_270h.png" group-title="(no group)",DE: SIXX HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/247
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="DE: SIXX FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83661_dark_360w_270h.png" group-title="(no group)",DE: SIXX FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/245
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="DE: TELE 5 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67303_dark_360w_270h.png" group-title="(no group)",DE: TELE 5 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/256
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="DE: TELE 5 FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67303_dark_360w_270h.png" group-title="(no group)",DE: TELE 5 FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/254
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="DE: TLC HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90212_dark_360w_270h.png" group-title="(no group)",DE: TLC HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/259
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TLC FHD" tvg-logo="" group-title="(no group)",DE: TLC FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/257
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: VOX HD" tvg-logo="" group-title="(no group)",DE: VOX HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/262
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: VOX FHD" tvg-logo="" group-title="(no group)",DE: VOX FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/260
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: WELT UHD" tvg-logo="" group-title="(no group)",DE: WELT UHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/266
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Animal Planet HD" tvg-logo="" group-title="(no group)",DE: Animal Planet HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/96
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ANIXE HD" tvg-logo="" group-title="(no group)",DE: ANIXE HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/97
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: arte HD" tvg-logo="" group-title="(no group)",DE: arte HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/100
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: N-TV" tvg-logo="" group-title="(no group)",DE: N-TV
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/218
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Kabel eins Classica SD" tvg-logo="" group-title="(no group)",DE: Kabel eins Classica SD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/275
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Heimatkanal SD" tvg-logo="" group-title="(no group)",DE: Heimatkanal SD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/310
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: E! Entertainment HD" tvg-logo="" group-title="(no group)",DE: E! Entertainment HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/290
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BR Fernsehen Nord HD" tvg-logo="" group-title="(no group)",DE: BR Fernsehen Nord HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/105
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Euronews Deutsch Live" tvg-logo="" group-title="(no group)",DE: Euronews Deutsch Live
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: hr-fernsehen HD" tvg-logo="" group-title="(no group)",DE: hr-fernsehen HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/116
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: N24 Doku" tvg-logo="" group-title="(no group)",DE: N24 Doku
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/130
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: KiKA HD" tvg-logo="" group-title="(no group)",DE: KiKA HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/123
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Nick Jr." tvg-logo="" group-title="(no group)",DE: Nick Jr.
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/139
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Nicktoons SD" tvg-logo="" group-title="(no group)",DE: Nicktoons SD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/142
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Nicktoons HD" tvg-logo="" group-title="(no group)",DE: Nicktoons HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Boomerang HD" tvg-logo="" group-title="(no group)",DE: Boomerang HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/273
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Disney Junior HD" tvg-logo="" group-title="(no group)",DE: Disney Junior HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Disney Channel HD" tvg-logo="" group-title="(no group)",DE: Disney Channel HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/287
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Cartoon Network SD Raw" tvg-logo="" group-title="(no group)",DE: Cartoon Network SD Raw
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/274
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: NICK/MTV+ HD (Web)" tvg-logo="" group-title="(no group)",DE: NICK/MTV+ HD (Web)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/141
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TOGGO plus SD" tvg-logo="" group-title="(no group)",DE: TOGGO plus SD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/172
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Phoenix HD" tvg-logo="" group-title="(no group)",DE: Phoenix HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/146
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ServusTV Deutschland HD" tvg-logo="" group-title="(no group)",DE: ServusTV Deutschland HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/162
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sony AXN HD RAW" tvg-logo="" group-title="(no group)",DE: Sony AXN HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/164
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Tagesschau24 HD" tvg-logo="" group-title="(no group)",DE: Tagesschau24 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/170
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Welt der Wunder" tvg-logo="" group-title="(no group)",DE: Welt der Wunder
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/185
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MTV HD" tvg-logo="" group-title="(no group)",DE: MTV HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/215
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Deluxe Music HD" tvg-logo="" group-title="(no group)",DE: Deluxe Music HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/196
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: VOX TV HD" tvg-logo="" group-title="(no group)",DE: VOX TV HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/148
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DMAX HD" tvg-logo="" group-title="(no group)",DE: DMAX HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/202
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Nat Geo HD" tvg-logo="" group-title="(no group)",DE: Nat Geo HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/323
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Nat Geo FHD" tvg-logo="" group-title="(no group)",DE: Nat Geo FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/321
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Nat Geo Wild HD" tvg-logo="" group-title="(no group)",DE: Nat Geo Wild HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/320
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Nat Geo Wild FHD" tvg-logo="" group-title="(no group)",DE: Nat Geo Wild FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/318
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: History HD" tvg-logo="" group-title="(no group)",DE: History HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/313
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: History FHD" tvg-logo="" group-title="(no group)",DE: History FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/311
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Crime + Investigation" tvg-logo="" group-title="(no group)",DE: Crime + Investigation
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/276
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Discovery Channel HD" tvg-logo="" group-title="(no group)",DE: Discovery Channel HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/284
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Discovery Channel FHD" tvg-logo="" group-title="(no group)",DE: Discovery Channel FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/283
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Jukebox SD RAW" tvg-logo="" group-title="(no group)",DE: Jukebox SD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/314
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Junior HD" tvg-logo="" group-title="(no group)",DE: Junior HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/315
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Kinowelt TV SD" tvg-logo="" group-title="(no group)",DE: Kinowelt TV SD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/316
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Motorvision TV HD" tvg-logo="" group-title="(no group)",DE: Motorvision TV HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/317
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Romance TV HD" tvg-logo="" group-title="(no group)",DE: Romance TV HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/324
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Comedy Central HD" tvg-logo="" group-title="(no group)",DE: Comedy Central HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/193
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Comedy Central FHD RAW" tvg-logo="" group-title="(no group)",DE: Comedy Central FHD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/194
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Atlantic HD" tvg-logo="" group-title="(no group)",DE: Sky Atlantic HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/326
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Atlantic FHD RAW" tvg-logo="" group-title="(no group)",DE: Sky Atlantic FHD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/328
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Action HD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Action HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/331
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Action FHD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Action FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/329
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Best Of HD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Best Of HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/335
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Best Of FHD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Best Of FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Family HD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Family HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/340
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Family FHD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Family FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/338
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Fun HD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Fun HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/342
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Classics SD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Classics SD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/7279
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Premieren +24 HD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Premieren +24 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/345
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Premieren +24 HD+" tvg-logo="" group-title="(no group)",DE: Sky Cinema Premieren +24 HD+
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/343
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Premieren HD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Premieren HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/349
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Premieren FHD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Premieren FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/347
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Special FHD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Special FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/351
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Special FHD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Special FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/353
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Cinema Thriller FHD" tvg-logo="" group-title="(no group)",DE: Sky Cinema Thriller FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/356
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Serien & Shows HD" tvg-logo="" group-title="(no group)",DE: Sky Serien & Shows HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/7268
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Krimi HD+" tvg-logo="" group-title="(no group)",DE: Sky Krimi HD+
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/357
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Krimi HD RAW" tvg-logo="" group-title="(no group)",DE: Sky Krimi HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/359
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky One HD" tvg-logo="" group-title="(no group)",DE: Sky One HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/362
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky One FHD" tvg-logo="" group-title="(no group)",DE: Sky One FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/360
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Warner Bros Serie HD" tvg-logo="" group-title="(no group)",DE: Warner Bros Serie HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/455
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Warner Film Bros HD" tvg-logo="" group-title="(no group)",DE: Warner Film Bros HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/452
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: WarnerBros Comedy FHD" tvg-logo="" group-title="(no group)",DE: WarnerBros Comedy FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/449
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Warner TV Film HD" tvg-logo="" group-title="(no group)",DE: Warner TV Film HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/454
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Warner TV Serie HD" tvg-logo="" group-title="(no group)",DE: Warner TV Serie HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/457
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TNT Comedy HD" tvg-logo="" group-title="(no group)",DE: TNT Comedy HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/451
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Spiegel Geschichte HD" tvg-logo="" group-title="(no group)",DE: Spiegel Geschichte HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/442
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Spiegel Geschichte FHD" tvg-logo="" group-title="(no group)",DE: Spiegel Geschichte FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/440
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Spiegel TV Wissen HD" tvg-logo="" group-title="(no group)",DE: Spiegel TV Wissen HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/443
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SYFY HD" tvg-logo="" group-title="(no group)",DE: SYFY HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/448
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SYFY FHD" tvg-logo="" group-title="(no group)",DE: SYFY FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/446
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Universal TV HD" tvg-logo="" group-title="(no group)",DE: Universal TV HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/460
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Universal TV FHD" tvg-logo="" group-title="(no group)",DE: Universal TV FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/458
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Stingray Classica FHD" tvg-logo="" group-title="(no group)",DE: Stingray Classica FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/15468
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: NDR Hamburg HD" tvg-logo="" group-title="(no group)",DE: NDR Hamburg HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/17873
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: PEARL TV FHD" tvg-logo="" group-title="(no group)",DE: PEARL TV FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/17874
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: RNF FHD" tvg-logo="" group-title="(no group)",DE: RNF FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/17875
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE:  K-TV" tvg-logo="" group-title="(no group)",DE:  K-TV
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/17871
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: N-TV FHD" tvg-logo="" group-title="(no group)",DE: N-TV FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/17922
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SONY HD" tvg-logo="" group-title="(no group)",DE: SONY HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/19298
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SWR HD" tvg-logo="" group-title="(no group)",DE: SWR HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/19566
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MDR Sachsen HD" tvg-logo="" group-title="(no group)",DE: MDR Sachsen HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24245
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ARD Alpha HD" tvg-logo="" group-title="(no group)",DE: ARD Alpha HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24246
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Nickelodeon HD" tvg-logo="" group-title="(no group)",DE: Nickelodeon HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24247
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Baden TV" tvg-logo="" group-title="(no group)",DE: Baden TV
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24248
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BLK TV" tvg-logo="" group-title="(no group)",DE: BLK TV
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/27533
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sonneklar TV" tvg-logo="" group-title="(no group)",DE: Sonneklar TV
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24249
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: QVC Beauty & Style" tvg-logo="" group-title="(no group)",DE: QVC Beauty & Style
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24250
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: QVC" tvg-logo="" group-title="(no group)",DE: QVC
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/24251
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: VH1" tvg-logo="" group-title="(no group)",DE: VH1
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/26538
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MTV 90s" tvg-logo="" group-title="(no group)",DE: MTV 90s
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/26543
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DAZN 1 Bar HD" tvg-logo="" group-title="(no group)",DE: DAZN 1 Bar HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/279
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DAZN 1 Bar FHD" tvg-logo="" group-title="(no group)",DE: DAZN 1 Bar FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/277
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DAZN 2 Bar HD" tvg-logo="" group-title="(no group)",DE: DAZN 2 Bar HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/282
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DAZN 2 Bar FHD" tvg-logo="" group-title="(no group)",DE: DAZN 2 Bar FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/280
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 2 HD Xtra" tvg-logo="" group-title="(no group)",DE: Eurosport 2 HD Xtra
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/205
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 1 HD" tvg-logo="" group-title="(no group)",DE: Eurosport 1 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/295
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 1 HD+" tvg-logo="" group-title="(no group)",DE: Eurosport 1 HD+
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/293
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 2 HD" tvg-logo="" group-title="(no group)",DE: Eurosport 2 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/298
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Eurosport 2 HD+" tvg-logo="" group-title="(no group)",DE: Eurosport 2 HD+
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/296
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sport Digital FHD" tvg-logo="" group-title="(no group)",DE: Sport Digital FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/445
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: FC BAYERN TV FHD" tvg-logo="" group-title="(no group)",DE: FC BAYERN TV FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/484
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: EDGEsport FHD" tvg-logo="" group-title="(no group)",DE: EDGEsport FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/291
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Auto Motor Sport HD" tvg-logo="" group-title="(no group)",DE: Auto Motor Sport HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: eSPORTS1" tvg-logo="" group-title="(no group)",DE: eSPORTS1
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/292
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sport 1+ HD" tvg-logo="" group-title="(no group)",DE: Sport 1+ HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/250
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SPORT1+ HD" tvg-logo="" group-title="(no group)",DE: SPORT1+ HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/444
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SPORT1 FHD" tvg-logo="" group-title="(no group)",DE: SPORT1 FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/248
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport F1 FHD" tvg-logo="" group-title="(no group)",DE: Sky Sport F1 FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/17641
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport News FHD" tvg-logo="" group-title="(no group)",DE: S. Sport News FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/437
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport News HD RAW" tvg-logo="" group-title="(no group)",DE: S. Sport News HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/439
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 1 HD" tvg-logo="" group-title="(no group)",DE: S. Sport 1 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/366
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 1 FHD" tvg-logo="" group-title="(no group)",DE: S. Sport 1 FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/364
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 2 HD" tvg-logo="" group-title="(no group)",DE: S. Sport 2 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/373
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 2 FHD" tvg-logo="" group-title="(no group)",DE: S. Sport 2 FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/375
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 3 HD+ (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 3 HD+ (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/376
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 3 HD  (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 3 HD  (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/378
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 4 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 4 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/381
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 5 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 5 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/384
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 6 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 6 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/387
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 7 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 7 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/390
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 8 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 8 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/393
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 9 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 9 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/395
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 10 HD+ (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 10 HD+ (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/368
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 10 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 10 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/370
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: S. Sport 11 HD+ (During Games only)" tvg-logo="" group-title="(no group)",DE: S. Sport 11 HD+ (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/371
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 1 HD" tvg-logo="" group-title="(no group)",DE: DB Liga 1 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/411
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 1 FHD" tvg-logo="" group-title="(no group)",DE: DB Liga 1 FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/410
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 2 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga 2 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/415
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 2 FHD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga 2 FHD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/413
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 3 FHD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga 3 FHD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/416
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 3 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga 3 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/418
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 4 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga 4 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/421
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 5 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga 5 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/424
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga  6 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga  6 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/427
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 7 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga 7 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/430
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 8 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga 8 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/433
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga  9 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga  9 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/436
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: DB Liga 10 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: DB Liga 10 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/20927
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAGENTATV Info HD" tvg-logo="" group-title="(no group)",DE: MAGENTATV Info HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/19459
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAGENTA SPORT HD" tvg-logo="" group-title="(no group)",DE: MAGENTA SPORT HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/482
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAGENTA SPORT Free HD" tvg-logo="" group-title="(no group)",DE: MAGENTA SPORT Free HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/7269
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TELEKOM MyTeam TV 12 HD" tvg-logo="" group-title="(no group)",DE: TELEKOM MyTeam TV 12 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/473
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TELEKOM MyTeam TV 13 HD" tvg-logo="" group-title="(no group)",DE: TELEKOM MyTeam TV 13 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/474
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TELEKOM MyTeam TV 14 HD" tvg-logo="" group-title="(no group)",DE: TELEKOM MyTeam TV 14 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/475
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TELEKOM MyTeam TV 15 HD" tvg-logo="" group-title="(no group)",DE: TELEKOM MyTeam TV 15 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/477
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TELEKOM MyTeam TV 16 HD" tvg-logo="" group-title="(no group)",DE: TELEKOM MyTeam TV 16 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/479
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TELEKOM MyTeam TV 17 HD" tvg-logo="" group-title="(no group)",DE: TELEKOM MyTeam TV 17 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/480
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: TELEKOM MyTeam TV 18 HD" tvg-logo="" group-title="(no group)",DE: TELEKOM MyTeam TV 18 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/481
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria 1 FHD" tvg-logo="" group-title="(no group)",DE: Sky Sport Austria 1 FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/396
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria 1 RAW" tvg-logo="" group-title="(no group)",DE: Sky Sport Austria 1 RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/398
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria 2 FHD RAW (During Games only)" tvg-logo="" group-title="(no group)",DE: Sky Sport Austria 2 FHD RAW (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/401
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria 3 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: Sky Sport Austria 3 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/404
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria 4 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: Sky Sport Austria 4 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/407
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria 5 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: Sky Sport Austria 5 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/26756
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria 6 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: Sky Sport Austria 6 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/26757
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Sky Sport Austria 7 HD (During Games only)" tvg-logo="" group-title="(no group)",DE: Sky Sport Austria 7 HD (During Games only)
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/26758
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ATV 2" tvg-logo="" group-title="(no group)",AT: ATV 2
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1676
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: FS1 Salzburg" tvg-logo="" group-title="(no group)",AT: FS1 Salzburg
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1678
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: Kabel 1 Doku Austria" tvg-logo="" group-title="(no group)",AT: Kabel 1 Doku Austria
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1679
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: Kronehit TV HD" tvg-logo="" group-title="(no group)",AT: Kronehit TV HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1680
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: R9 TV HD" tvg-logo="" group-title="(no group)",AT: R9 TV HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1681
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: OE24 TV HD" tvg-logo="" group-title="(no group)",AT: OE24 TV HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1682
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF III HD RAW" tvg-logo="" group-title="(no group)",AT: ORF III HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1683
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF SPORT+ HD" tvg-logo="" group-title="(no group)",AT: ORF SPORT+ HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1684
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF SPORT" tvg-logo="" group-title="(no group)",AT: ORF SPORT
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1685
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF 1 HD" tvg-logo="" group-title="(no group)",AT: ORF 1 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1686
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF2B HD" tvg-logo="" group-title="(no group)",AT: ORF2B HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1687
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF2K HD RAW" tvg-logo="" group-title="(no group)",AT: ORF2K HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1688
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF2N HD RAW" tvg-logo="" group-title="(no group)",AT: ORF2N HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1689
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF2O HD RAW" tvg-logo="" group-title="(no group)",AT: ORF2O HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1690
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF2S HD RAW" tvg-logo="" group-title="(no group)",AT: ORF2S HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1691
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF2St HD RAW" tvg-logo="" group-title="(no group)",AT: ORF2St HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1692
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF2T HD RAW" tvg-logo="" group-title="(no group)",AT: ORF2T HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1693
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF2V HD RAW" tvg-logo="" group-title="(no group)",AT: ORF2V HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1694
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ORF2W HD RAW" tvg-logo="" group-title="(no group)",AT: ORF2W HD RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1695
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: Pro7 MAXX Austria" tvg-logo="" group-title="(no group)",AT: Pro7 MAXX Austria
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1696
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: PULS 24 FHD" tvg-logo="" group-title="(no group)",AT: PULS 24 FHD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1697
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: PULS 4 HD" tvg-logo="" group-title="(no group)",AT: PULS 4 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1699
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: R9 Österreich RAW" tvg-logo="" group-title="(no group)",AT: R9 Österreich RAW
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1700
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: RTL Austria HD" tvg-logo="" group-title="(no group)",AT: RTL Austria HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1701
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: RTL Zwei HD" tvg-logo="" group-title="(no group)",AT: RTL Zwei HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1702
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: SAT.1 Gold" tvg-logo="" group-title="(no group)",AT: SAT.1 Gold
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1704
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: Schau TV" tvg-logo="" group-title="(no group)",AT: Schau TV
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1705
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ServusTV Österreich HD" tvg-logo="" group-title="(no group)",AT: ServusTV Österreich HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1707
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: Starparadies SD" tvg-logo="" group-title="(no group)",AT: Starparadies SD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1709
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: Dorf TV SD" tvg-logo="" group-title="(no group)",AT: Dorf TV SD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1710
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ATV HD" tvg-logo="" group-title="(no group)",AT: ATV HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1711
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: PULS 24 HD" tvg-logo="" group-title="(no group)",AT: PULS 24 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1712
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: ServusTV HD" tvg-logo="" group-title="(no group)",AT: ServusTV HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1713
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: PULS 4 Austria HD" tvg-logo="" group-title="(no group)",AT: PULS 4 Austria HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/1714
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: Kabel 1 HD" tvg-logo="" group-title="(no group)",AT: Kabel 1 HD
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/19337
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: N24 DOKU" tvg-logo="" group-title="(no group)",AT: N24 DOKU
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/19338
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AT: VOX Austria" tvg-logo="" group-title="(no group)",AT: VOX Austria
+http://cms.arisiktv.xyz:8080/stremlocal1047/CxUrR7UVVsd89qq123yGzwtdGra/27474
