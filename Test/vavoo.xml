@@ -1,0 +1,16 @@
+<settings version="2">
+    <setting id="auto" default="true">0</setting>
+    <setting id="count">5</setting>
+    <setting id="stream_count" default="true">false</setting>
+    <setting id="hls" default="true">false</setting>
+    <setting id="ffmpeg">true</setting>
+    <setting id="stream_select">1</setting>
+    <setting id="auto_try_next_stream">true</setting>
+    <setting id="stream_quali" default="true">0</setting>
+    <setting id="site" default="true">false</setting>
+    <setting id="stream_check">true</setting>
+    <setting id="debug" default="true">false</setting>
+    <setting id="groups" default="true">[&quot;Germany&quot;]</setting>
+    <setting id="idn" default="true">ZDF</setting>
+    <setting id="num">1</setting>
+</settings>
