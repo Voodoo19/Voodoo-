@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/dqr6ywm3gxhm964dyx1w"
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: -----  DEUTSCHLAND -----" tvg-logo="http://logo.cms-s.com/logo/flag/ger.png" group-title="DE  DEUTSCHLAND",DE: -----  DEUTSCHLAND -----
-http://ip.sltv.be:8080/test/rwCBquv6FX/377639
+http://ip.sltv.be:8080/test/aa/377639
 #EXTINF:-1 tvg-id="DasErste(src01).de" tvg-name="DE:  DAS ERSTE HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/das_erste.png" group-title="DE  DEUTSCHLAND",DE:  DAS ERSTE HD
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 #EXTINF:-1 tvg-id="ZDF(src01).de" tvg-name="DE:  ZDF HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/zdf.png" group-title="DE  DEUTSCHLAND",DE:  ZDF HD
@@ -36,7 +36,7 @@ plugin://plugin.video.vavooto/?name=TELE+5
 #EXTINF:-1 tvg-id="VOXup.de" tvg-name="DE:  VOXUP" tvg-logo="http://logo.cms-s.com/logo/germanynew/vox_up.png" group-title="DE  DEUTSCHLAND",DE:  VOXUP
 plugin://plugin.video.vavooto/?name=VOX+UP
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: -----  NEWS / INFORMATION -----" tvg-logo="http://logo.cms-s.com/logo/germanynew/ger-news.png" group-title="DE  DEUTSCHLAND",DE: -----  NEWS / INFORMATION -----
-http://ip.sltv.be:8080/test/rwCBquv6FX/377650
+http://ip.sltv.be:8080/test/aa/377650
 #EXTINF:-1 tvg-id="ardalpha.de" tvg-name="DE:  ARD ALPHA" tvg-logo="http://logo.cms-s.com/logo/germanynew/ard-alpha.png" group-title="DE  DEUTSCHLAND",DE:  ARD ALPHA
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
 #EXTINF:-1 tvg-id="ntv.de" tvg-name="DE:  NTV FHD" tvg-logo="http://logo.cms-s.com/logo/germanynew/ntv.png" group-title="DE  DEUTSCHLAND",DE:  NTV FHD
@@ -46,7 +46,7 @@ plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 #EXTINF:-1 tvg-id="welt.de" tvg-name="DE:  WELT HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/welt.png" group-title="DE  DEUTSCHLAND",DE:  WELT HD
 plugin://plugin.video.vavooto/?name=WELT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: -----  DOKU -----" tvg-logo="http://logo.cms-s.com/logo/germanynew/ger-doku.png" group-title="DE  DEUTSCHLAND",DE: -----  DOKU -----
-http://ip.sltv.be:8080/test/rwCBquv6FX/377649
+http://ip.sltv.be:8080/test/aa/377649
 #EXTINF:-1 tvg-id="bongusto.de" tvg-name="DE:  BON GUSTO" tvg-logo="http://logo.cms-s.com/logo/germanynew/bonGusto.png" group-title="DE  DEUTSCHLAND",DE:  BON GUSTO
 plugin://plugin.video.vavooto/?name=BON+GUSTO
 #EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="DE:  DISCOVERY CHANNEL HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/discovery_channel.png" group-title="DE  DEUTSCHLAND",DE:  DISCOVERY CHANNEL HD
@@ -80,7 +80,7 @@ plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="tlc.de" tvg-name="DE:  TLC" tvg-logo="http://logo.cms-s.com/logo/germanynew/tlc.png" group-title="DE  DEUTSCHLAND",DE:  TLC
 plugin://plugin.video.vavooto/?name=TLC
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: -----  KINDER -----" tvg-logo="http://logo.cms-s.com/logo/germanynew/ger-kinder.png" group-title="DE  DEUTSCHLAND",DE: -----  KINDER -----
-http://ip.sltv.be:8080/test/rwCBquv6FX/377648
+http://ip.sltv.be:8080/test/aa/377648
 #EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="DE:  CARTOON NETWORK" tvg-logo="http://logo.cms-s.com/logo/germanynew/cartoon_network.png" group-title="DE  DEUTSCHLAND",DE:  CARTOON NETWORK
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="disneychannel.de" tvg-name="DE:  DISNEY CHANNEL" tvg-logo="http://logo.cms-s.com/logo/germanynew/disney_channel.png" group-title="DE  DEUTSCHLAND",DE:  DISNEY CHANNEL
@@ -98,11 +98,11 @@ plugin://plugin.video.vavooto/?name=SUPER+RTL
 #EXTINF:-1 tvg-id="toggoplus.de" tvg-name="DE:  TOGGO PLUS" tvg-logo="http://logo.cms-s.com/logo/germanynew/toggo_plus.png" group-title="DE  DEUTSCHLAND",DE:  TOGGO PLUS
 plugin://plugin.video.vavooto/?name=TOGGO+PLUS
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: -----  MUSIK -----" tvg-logo="http://logo.cms-s.com/logo/germanynew/ger-musik.png" group-title="DE  DEUTSCHLAND",DE: -----  MUSIK -----
-http://ip.sltv.be:8080/test/rwCBquv6FX/377753
+http://ip.sltv.be:8080/test/aa/377753
 #EXTINF:-1 tvg-id="MTV.de" tvg-name="DE:  MTV" tvg-logo="http://logo.cms-s.com/logo/germanynew/mtv.png" group-title="DE  DEUTSCHLAND",DE:  MTV
 plugin://plugin.video.vavooto/?name=MTV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: -----  KINO / SERIEN -----" tvg-logo="http://logo.cms-s.com/logo/germanynew/ger-kino.png" group-title="DE  DEUTSCHLAND",DE: -----  KINO / SERIEN -----
-http://ip.sltv.be:8080/test/rwCBquv6FX/377647
+aa
 #EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="DE:  SKY CINEMA ACTION HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky_cinema_action.png" group-title="DE  DEUTSCHLAND",DE:  SKY CINEMA ACTION HD
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 #EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="DE:  SKY CINEMA ATLANTIC HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky_atlantic.png" group-title="DE  DEUTSCHLAND",DE:  SKY CINEMA ATLANTIC HD
@@ -144,7 +144,7 @@ plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 tvg-id="kinowelt.de" tvg-name="DE:  KINOWELT" tvg-logo="http://logo.cms-s.com/logo/germanynew/kinowelt.png" group-title="DE  DEUTSCHLAND",DE:  KINOWELT
 plugin://plugin.video.vavooto/?name=KINOWELT
 #EXTINF:-1 tvg-id="RomanceTV.de" tvg-name="DE:  ROMANCE TV" tvg-logo="http://logo.cms-s.com/logo/germanynew/romance_tv.png" group-title="DE  DEUTSCHLAND",DE:  ROMANCE TV
-http://ip.sltv.be:8080/test/rwCBquv6FX/377303
+plugin://plugin.video.vavooto/?name=ROMANCE+TV
 #EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="DE:  RTL CRIME FHD" tvg-logo="http://logo.cms-s.com/logo/germanynew/rtl_crime.png" group-title="DE  DEUTSCHLAND",DE:  RTL CRIME FHD
 plugin://plugin.video.vavooto/?name=RTL+CRIME
 #EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="DE:  RTL PASSION" tvg-logo="http://logo.cms-s.com/logo/germanynew/rtl_passion.png" group-title="DE  DEUTSCHLAND",DE:  RTL PASSION
@@ -162,7 +162,7 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 #EXTINF:-1 tvg-id="WarnerSerie(src01).de" tvg-name="DE:  WARNER TV SERIE FHD" tvg-logo="http://logo.cms-s.com/logo/germanynew/WarnerTV_Serie.png" group-title="DE  DEUTSCHLAND",DE:  WARNER TV SERIE FHD
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ----- SPORT -----" tvg-logo="http://logo.cms-s.com/logo/flag/ger.png" group-title="DE VIP SPORT",DE: ----- SPORT -----
-http://ip.sltv.be:8080/test/rwCBquv6FX/135926
+http://ip.sltv.be:8080/test/aa/135926
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="DE: DAZN 1 HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/dazn_bar_1.png" group-title="DE VIP SPORT",DE: DAZN 1 HD
 plugin://plugin.video.vavooto/?name=DAZN+1
 #EXTINF:-1 tvg-id="dazn2.de" tvg-name="DE: DAZN 2 HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/dazn_bar_2.png" group-title="DE VIP SPORT",DE: DAZN 2 HD
@@ -188,7 +188,7 @@ plugin://plugin.video.vavooto/?name=SPORT+1%2B
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: WWE CHANNEL" tvg-logo="http://logo.cms-s.com/logo/germanynew/wwe.png" group-title="DE VIP SPORT",DE: WWE CHANNEL
 plugin://plugin.video.vavooto/?name=WWE
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ----- SKY SPORT -----" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky-sport.png" group-title="DE VIP SPORT",DE: ----- SKY SPORT -----
-http://ip.sltv.be:8080/test/rwCBquv6FX/379525
+http://ip.sltv.be:8080/test/aa/379525
 #EXTINF:-1 tvg-id="skysportnews.de" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky_sport_news.png" group-title="DE VIP SPORT",DE: SKY SPORT NEWS HD
 plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
 #EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="DE: SKY SPORT TOP EVENT HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/skySportTopEvent.png" group-title="DE VIP SPORT",DE: SKY SPORT TOP EVENT HD
@@ -203,8 +203,7 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+MIX
 plugin://plugin.video.vavooto/?name=SKY+SPORT+TENNIS
 #EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="DE: SKY SPORT GOLF HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/skySportGolf.png" group-title="DE VIP SPORT",DE: SKY SPORT GOLF HD
 plugin://plugin.video.vavooto/?name=SKY+SPORT+GOLF
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="DE: SKY SPORT AUSTRIA HD" tvg-logo="http://logo.cms-s.com/logo/germanynew/sky_sport_austria.png" group-title="DE VIP SPORT",DE: SKY SPORT AUSTRIA HD
-http://ip.sltv.be:8080/test/rwCBquv6FX/3377
+
 #EXTINF:-1 tvg-id="skysport1.de" tvg-name="DE: SKY SPORT 1 HD (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germany/sky_sport_hd_1.png" group-title="DE VIP SPORT",DE: SKY SPORT 1 HD (SPIELZEIT)
 plugin://plugin.video.vavooto/?name=SKY+SPORT+1#EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: SKY SPORT 2 HD (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germany/sky_sport_hd_2.png" group-title="DE VIP SPORT",DE: SKY SPORT 2 HD (SPIELZEIT)
 #EXTINF:-1 tvg-id="skysport2.de" tvg-name="DE: SKY SPORT 2 FHD (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germany/sky_sport_hd_2.png" group-title="DE VIP SPORT",DE: SKY SPORT 2 FHD (SPIELZEIT)
@@ -228,7 +227,7 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+10
 #EXTINF:-1 tvg-id="skysport11.de" tvg-name="DE: SKY SPORT 11 HD (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germanynew/skySport11.png" group-title="DE VIP SPORT",DE: SKY SPORT 11 HD (SPIELZEIT)
 plugin://plugin.video.vavooto/?name=SKY+SPORT+11
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ----- BUNDESLIGA -----" tvg-logo="http://logo.cms-s.com/logo/germanynew/bundesliga.png" group-title="DE VIP SPORT",DE: ----- BUNDESLIGA -----
-http://ip.sltv.be:8080/test/rwCBquv6FX/225445
+http://ip.sltv.be:8080/test/aa/225445
 #EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="DE: SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://logo.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" group-title="DE VIP SPORT",DE: SKY SPORT BUNDESLIGA 1 HD
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA
 #EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="DE: SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="http://logo.cms-s.com/logo/germany/sky_bundesliga_hd_1.png" group-title="DE VIP SPORT",DE: SKY SPORT BUNDESLIGA 1 FHD
@@ -252,9 +251,9 @@ plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
 #EXTINF:-1 tvg-id="SkySportBundesliga10.de" tvg-name="DE: SKY SPORT BUNDESLIGA 10 HD (SPIELZEIT)" tvg-logo="http://logo.cms-s.com/logo/germany/sky_bundesliga_hd_10.png" group-title="DE VIP SPORT",DE: SKY SPORT BUNDESLIGA 10 HD (SPIELZEIT)
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: ----- TELEKOM -----" tvg-logo="http://logo.cms-s.com/logo/germanynew/telekom.png" group-title="DE VIP SPORT",DE: ----- TELEKOM -----
-http://ip.sltv.be:8080/test/rwCBquv6FX/225446
+http://ip.sltv.be:8080/test/aa/225446
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAGENTA SPORT HD" tvg-logo="http://logo.cms-s.com/logo/germany/telekomsport.png" group-title="DE VIP SPORT",DE: MAGENTA SPORT HD
-http://ip.sltv.be:8080/test/rwCBquv6FX/339251
+http://ip.sltv.be:8080/test/aa/339251
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAGENTA SPORT 1 HD" tvg-logo="http://logo.cms-s.com/logo/germany/telekomsport.png" group-title="DE VIP SPORT",DE: MAGENTA SPORT 1 HD
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAGENTA SPORT 2 HD" tvg-logo="http://logo.cms-s.com/logo/germany/telekomsport.png" group-title="DE VIP SPORT",DE: MAGENTA SPORT 2 HD
