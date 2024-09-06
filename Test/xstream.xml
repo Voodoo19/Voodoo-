@@ -22,7 +22,7 @@
 			<group id="content" label="30032">
 				<setting id="prefLanguage" type="string" label="30002" help="30411">
 					<level>0</level>
-					<default>1</default>
+					<default>0</default>
 					<constraints>
 						<options>
 							<option label="30105" help="All">0</option>
@@ -69,11 +69,11 @@
 				</setting>
 				<setting id="maxHoster" type="integer" label="30007" help="">
 					<level>0</level>
-					<default>30</default>
+					<default>100</default>
 					<constraints>
 						<minimum>10</minimum>
 						<step>1</step>
-						<maximum>100</maximum>
+						<maximum>1000</maximum>
 					</constraints>
 					<control type="slider" format="integer">
 						<popup>false</popup>
@@ -101,7 +101,7 @@
 			<group id="networkSettings" label="30035">
 				<setting id="bypassDNSlock" type="boolean" label="30025" help="">
 					<level>0</level>
-					<default>True</default>
+					<default>False</default>
 					<control type="toggle"/>
 				</setting>
 				<setting id="cacheTime" type="integer" label="30006" help="">
@@ -153,12 +153,12 @@
 			<group id="xstream.updates" label="30096">
 				<setting id="githubUpdateXstream" type="boolean" label="30010" help="30411">
 					<level>0</level>
-					<default>true</default>
+					<default>False</default>
 					<control type="toggle"/>
 				</setting>
 				<setting id="xstream.branch" type="string" label="30406" help="30173">
 					<level>0</level>
-					<default>nightly</default>
+					<default>release</default>
 					<constraints>
 						<options>
 							<option label="Release">release</option>
@@ -174,12 +174,12 @@
 			<group id="resolver.updates" label="30030">
 				<setting id="githubUpdateResolver" type="boolean" label="30015" help="30411">
 					<level>0</level>
-					<default>true</default>
+					<default>False</default>
 					<control type="toggle"/>
 				</setting>
 				<setting id="resolver.branch" type="string" label="30098" help="30101">
 					<level>0</level>
-					<default>nightly</default>
+					<default>release</default>
 					<constraints>
 						<options>
 							<option label="Release">release</option>
@@ -195,7 +195,7 @@
 			<group id="notification" label="30270">
 				<setting id="update.notification" type="string" label="30271" help="">
 					<level>0</level>
-					<default>simple</default>
+					<default>full</default>
 					<constraints>
 						<options>
 							<option label="30272">simple</option>
@@ -940,7 +940,7 @@
 				</setting>
 				<setting id="plugin_serienstream.domain" type="string" label="30051">
 					<level>3</level>
-					<default>186.2.175.5</default>
+					<default>s.to</default>
 					<constraints>
 						<options>
 							<option label="S.to">s.to</option>
@@ -1041,7 +1041,7 @@
 			<group id="indexpageVod" label="30408">
 				<setting id="indexVoDyes" type="boolean" label="30409" help="30411">
 					<level>0</level>
-					<default>true</default>
+					<default>False</default>
 					<control type="toggle"/>
 				</setting>
 			</group>
