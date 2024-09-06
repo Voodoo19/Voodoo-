@@ -22,7 +22,7 @@
 			<group id="content" label="30032">
 				<setting id="prefLanguage" type="string" label="30002" help="30411">
 					<level>0</level>
-					<default>0</default>
+					<default>1</default>
 					<constraints>
 						<options>
 							<option label="30105" help="All">0</option>
@@ -153,12 +153,12 @@
 			<group id="xstream.updates" label="30096">
 				<setting id="githubUpdateXstream" type="boolean" label="30010" help="30411">
 					<level>0</level>
-					<default>False</default>
+					<default>true</default>
 					<control type="toggle"/>
 				</setting>
 				<setting id="xstream.branch" type="string" label="30406" help="30173">
 					<level>0</level>
-					<default>release</default>
+					<default>nightly</default>
 					<constraints>
 						<options>
 							<option label="Release">release</option>
