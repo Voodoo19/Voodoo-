@@ -1,0 +1,9 @@
+{
+    "name" : "xship reloaded",
+    "plugin" : "plugin.video.xship.reloaded",
+    "priority" : 145,
+    "is_resolvable" : "true",
+    "play_movie" : "plugin://plugin.video.xship.reloaded/?action=playExtern&title={title}&year={year}&imdb={imdb}&season=0&episode=0&originaltitle={originaltitle}",
+	"play_episode" : "plugin://plugin.video.xship.reloaded/?action=playExtern&title={clearname}&year={year}&imdb={imdb}&season={season}&episode={episode}&originaltitle={showname}"
+	
+}
