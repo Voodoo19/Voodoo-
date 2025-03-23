@@ -1,9 +1,8 @@
 {
-    "name" : "xship reloaded",
-    "plugin" : "plugin.video.xship.reloaded",
-    "priority" : 145,
-    "is_resolvable" : "true",
-    "play_movie" : "plugin://plugin.video.xship.reloaded/?action=playExtern&title={title}&year={year}&imdb={imdb}&season=0&episode=0&originaltitle={originaltitle}",
-	"play_episode" : "plugin://plugin.video.xship.reloaded/?action=playExtern&title={clearname}&year={year}&imdb={imdb}&season={season}&episode={episode}&originaltitle={showname}"
-	
+    "name"              : "xShip",
+    "plugin"            : "plugin.video.xship",
+    "priority"          : 100,
+    "is_resolvable"     : "false",
+    "play_movie"        : "plugin://plugin.video.xship/?action=playExtern&title={title}&year={year}&imdbnumber={imdb}&season=0&episode=0&title={originaltitle}&poster={poster}&plot={de_plot}",
+    "play_episode"      : "plugin://plugin.video.xship/?action=playExtern&title={clearname}&year={year}&imdbnumber={imdb}&season={season}&episode={episode}&title={showname}&poster={poster}&plot={de_plot}"
 }
