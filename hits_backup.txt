@@ -1,3 +1,4 @@
-Bot 2 Treffer: 00:1A:79:de:a6:14
-Bot 1 Treffer: 00:1A:79:58:1a:eb
-Bot 3 Treffer: 00:1A:79:b0:d1:ae
+Portal"http://tellyflix.xyz:8080/"
+Bot 2 Treffer: 00:1A:79:46:e9:96
+Bot 1 Treffer: 00:1A:79:29:65:83
+Bot 3 Treffer: 00:1A:79:3a:36:6a
