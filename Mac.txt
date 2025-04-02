@@ -25,13 +25,16 @@ Bot 2 Treffer: 00:1A:79:ba:3a:05
 Bot 2 Treffer: 00:1A:79:ba:8f:b1
 Bot 2 Treffer: 00:1A:79:bd:65:eb
 Bot 2 Treffer: 00:1A:79:c0:e1:57
+Bot 2 Treffer: 00:1A:79:ca:e7:6d
 Bot 2 Treffer: 00:1A:79:ce:21:ef
 Bot 2 Treffer: 00:1A:79:d6:ca:e3
 Bot 2 Treffer: 00:1A:79:e6:4d:79
 Bot 3 Treffer: 00:1A:79:22:ae:4f
+Bot 3 Treffer: 00:1A:79:2c:c5:e8
 Bot 3 Treffer: 00:1A:79:32:ab:42
 Bot 3 Treffer: 00:1A:79:36:ab:d9
 Bot 3 Treffer: 00:1A:79:3a:36:6a
+Bot 3 Treffer: 00:1A:79:46:e9:94
 Bot 3 Treffer: 00:1A:79:62:bd:79
 Bot 3 Treffer: 00:1A:79:6d:79:ca
 Bot 3 Treffer: 00:1A:79:6e:2b:ed
