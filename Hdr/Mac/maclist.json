@@ -1,6 +1,6 @@
 {
   "Burzum": {
-    "portal": "Portal\"http://hd-max.org:8080/\"",
+    "portal": "http://hd-max.org:8080/\"",
     "macs": [
       "Mac  00:1A:79:77:30:53",
       "Mac  00:1A:79:b9:08:31",
