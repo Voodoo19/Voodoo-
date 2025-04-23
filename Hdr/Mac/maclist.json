@@ -1,6 +1,6 @@
 {
   "Darkthrone": {
-    "portal": "http://tellyflix.xyz:8080/c/"",
+    "portal": "http://tellyflix.xyz:8080/c/",
     "macs": [
       "00:1A:79:01:e0:e4",
       "00:1A:79:02:6f:e5",
@@ -189,7 +189,7 @@
     ]
   },
   "Dark": {
-    "portal": "http://ix.kingtv.pw:80/c/"",
+    "portal": "http://ix.kingtv.pw:80/c/",
     "macs": [
       "00:1A:79:01:6d:f6",
       "00:1A:79:01:6e:6f",
@@ -348,7 +348,7 @@
     ]
   },
   "Burzum": {
-    "portal": "http://hd-max.org:8080/c/"",
+    "portal": "http://hd-max.org:8080/c/",
     "macs": [
       "00:1A:79:00:5c:54",
       "00:1A:79:01:02:fa",
