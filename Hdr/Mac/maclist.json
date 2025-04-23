@@ -189,7 +189,7 @@
     ]
   },
   "maclist": {
-    "portal": "http://tellyflix.xyz:8080/c/",",
+    "portal": "http://tellyflix.xyz:8080/c/",
     "macs": [
       "00:1A:79:00:5c:54",
       "00:1A:79:01:02:fa",
@@ -800,7 +800,7 @@
     ]
   },
   "Gehenna (1)": {
-    "portal": "http://germanytv.live:8080/c/"",
+    "portal": "http://germanytv.live:8080/c/",
     "macs": [
       "00:1A:79:00:16:d5",
       "00:1A:79:03:76:1a",
@@ -916,7 +916,7 @@
     ]
   },
   "Dissection": {
-    "portal": "http://aleminkrali.xyz:8080/c/"",
+    "portal": "http://aleminkrali.xyz:8080/c/",
     "macs": [
       "00:1A:79:00:12:d0",
       "00:1A:79:00:13:52",
@@ -1157,7 +1157,7 @@
     ]
   },
   "Grab (1)": {
-    "portal": "http://restream.globaltv1.net:8080/c/"",
+    "portal": "http://restream.globaltv1.net:8080/c/",
     "macs": [
       "00:1A:79:01:6e:19",
       "00:1A:79:01:74:7d",
@@ -1317,7 +1317,7 @@
     ]
   },
   "Dark": {
-    "portal": "http://ix.kingtv.pw:80/c/"",
+    "portal": "http://ix.kingtv.pw:80/c/",
     "macs": [
       "00:1A:79:01:6d:f6",
       "00:1A:79:01:6e:6f",
