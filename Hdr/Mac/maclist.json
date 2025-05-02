@@ -924,7 +924,7 @@
     ]
   },
   "Darkthrone": {
-    "portal": "http://tellyflix.xyz:8080/c/"",
+    "portal": "http://tellyflix.xyz:8080/c/",
     "macs": [
       "00:1A:79:01:e0:e4",
       "00:1A:79:02:6f:e5",
@@ -1113,7 +1113,7 @@
     ]
   },
   "Gehenna (1)": {
-    "portal": "http://germanytv.live:8080/c/"",
+    "portal": "http://germanytv.live:8080/c/",
     "macs": [
       "00:1A:79:00:16:d5",
       "00:1A:79:03:76:1a",
@@ -1229,7 +1229,7 @@
     ]
   },
   "Dissection": {
-    "portal": "http://aleminkrali.xyz:8080/c/"",
+    "portal": "http://aleminkrali.xyz:8080/c/",
     "macs": [
       "00:1A:79:00:12:d0",
       "00:1A:79:00:13:52",
@@ -1476,7 +1476,7 @@
     ]
   },
   "Burzum": {
-    "portal": "http://hd-max.org:8080/c/"",
+    "portal": "http://hd-max.org:8080/c/",
     "macs": [
       "00:1A:79:00:5c:54",
       "00:1A:79:01:02:fa",
@@ -1749,7 +1749,7 @@
     ]
   },
   "Grab (1)": {
-    "portal": "http://restream.globaltv1.net:8080/c/"",
+    "portal": "http://restream.globaltv1.net:8080/c/",
     "macs": [
       "00:1A:79:01:6e:19",
       "00:1A:79:01:74:7d",
@@ -1909,7 +1909,7 @@
     ]
   },
   "maclist": {
-    "portal": "http://skunkytv.live:80/c/",",
+    "portal": "http://skunkytv.live:80/c/",
     "macs": [
       "00:1A:79:00:03:48",
       "00:1A:79:00:07:77",
@@ -7355,7 +7355,7 @@
     ]
   },
   "Grabbak2": {
-    "portal": "http://iptv.darktv.in/c/"",
+    "portal": "http://iptv.darktv.in/c/",
     "macs": [
       "00:1A:79:00:9c:32",
       "00:1A:79:00:9e:ef",
@@ -8073,7 +8073,7 @@
     ]
   },
   "Raptor": {
-    "portal": "http://ds.raptortv.de:80/c/"",
+    "portal": "http://ds.raptortv.de:80/c/",
     "macs": [
       "00:1A:79:01:6a:75",
       "00:1A:79:01:6c:d4",
