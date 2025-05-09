@@ -4791,7 +4791,7 @@
     ]
   },
   "portals_macs": {
-    "portal": "http://predator007.com:8080/c",
+    "portal": "http://predator007.com:8080/c/",
     "macs": [
       "00:1A:79:28:FE:47",
       "00:1A:79:37:86:55",
@@ -4803,7 +4803,7 @@
     ]
   },
   "maclist": {
-    "portal": "http://iptv.darktv.in:80/c/c/,",
+    "portal": "http://iptv.darktv.in:80/c/",
     "macs": [
       "00:1A:79:00:12:d0",
       "00:1A:79:00:13:52",
