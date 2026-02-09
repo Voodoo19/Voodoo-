@@ -1,6 +1,6 @@
 {
   "line6.protv.cc_80": {
-    "portal": "http://line6.protv.cc:80/c/",
+    "portal": "http://line6.protv.cc:80/",
     "macs": [
       "00:1A:79:08:61:2d",
       "00:1A:79:08:98:bb",
@@ -90,7 +90,7 @@
     ]
   },
   "euroturkpars5.live_8080 MAC_ViagraUltra": {
-    "portal": "http://euroturkpars5.live:8080/c/",
+    "portal": "http://euroturkpars5.live:8080/",
     "macs": [
       "00:1A:79:01:6b:0f",
       "00:1A:79:01:6e:fe",
@@ -116,7 +116,7 @@
     ]
   },
   "nonamevos.com_80 MAC_ViagraUltra": {
-    "portal": "http://nonamevos.com:80/c/",
+    "portal": "http://nonamevos.com:80/",
     "macs": [
       "00:1A:79:1A:BE:53",
       "00:1A:79:26:95:F6",
@@ -138,7 +138,7 @@
     ]
   },
   "line.proclient4.com_80": {
-    "portal": "http://line.proclient4.com:80/c/",
+    "portal": "http://line.proclient4.com:80/",
     "macs": [
       "00:1A:79:00:20:db",
       "00:1A:79:05:ce:4e",
@@ -210,7 +210,7 @@
     ]
   },
   "drk.yasar.tv_80 MAC_ViagraUltra": {
-    "portal": "http://drk.yasar.tv:80/c/",
+    "portal": "http://drk.yasar.tv:80/",
     "macs": [
       "00:1A:79:01:6B:2D",
       "00:1A:79:01:6b:2d",
@@ -677,7 +677,7 @@
     ]
   },
   "stores52242.cdngold.me_80": {
-    "portal": "http://stores52242.cdngold.me:80/c/",
+    "portal": "http://stores52242.cdngold.me:80/",
     "macs": [
       "00:1A:79:00:1b:90",
       "00:1A:79:00:1e:73",
@@ -738,7 +738,7 @@
     ]
   },
   "slayerteam.in.rs": {
-    "portal": "http://slayerteam.in.rs:80/c/",
+    "portal": "http://slayerteam.in.rs:80/",
     "macs": [
       "00:1A:79:00:21:17",
       "00:1A:79:02:a1:97",
@@ -877,7 +877,7 @@
     ]
   },
   "pinkstar-diamant.eu_80": {
-    "portal": "http://pinkstar-diamant.eu:80/c/",
+    "portal": "http://pinkstar-diamant.eu:80/",
     "macs": [
       "00:1A:79:00:23:29",
       "00:1A:79:04:bb:1a",
@@ -990,7 +990,7 @@
     ]
   },
   "dadi1616.xyz_80": {
-    "portal": "http://dadi1616.xyz:80/c/",
+    "portal": "http://dadi1616.xyz:80/",
     "macs": [
       "00:1A:79:00:10:9e",
       "00:1A:79:00:12:74",
@@ -1060,7 +1060,7 @@
     ]
   },
   "ix.kingtv.pw_80 MAC_ViagraUltra": {
-    "portal": "http://ix.kingtv.pw:80/c/",
+    "portal": "http://ix.kingtv.pw:80/",
     "macs": [
       "00:1A:79:01:6c:d4",
       "00:1A:79:01:6e:6f",
@@ -1275,7 +1275,7 @@
     ]
   },
   "androstv.xyz_8080 MAC_ViagraUltra": {
-    "portal": "http://androstv.xyz:8080/c/",
+    "portal": "http://androstv.xyz:8080/",
     "macs": [
       "00:1A:79:00:16:d5",
       "00:1A:79:00:bb:31",
@@ -1341,7 +1341,7 @@
     ]
   },
   "iptv.jinbox.eu_1339 MAC_ViagraUltra": {
-    "portal": "http://iptv.jinbox.eu:80/c/",
+    "portal": "http://iptv.jinbox.eu:80/",
     "macs": [
       "00:1A:79:05:e0:b7",
       "00:1A:79:35:f3:1e",
@@ -1370,7 +1370,7 @@
     ]
   },
   "m.devtv.biz_80 MAC_ViagraUltra": {
-    "portal": "http://m.devtv.biz:80/c/",
+    "portal": "http://m.devtv.biz:80/",
     "macs": [
       "00:1A:79:01:6B:2D",
       "00:1A:79:01:6b:2d",
@@ -1830,7 +1830,7 @@
     ]
   },
   "iptv.darktv.in_80 MAC_ViagraUltra": {
-    "portal": "http://iptv.darktv.in:80/c/",
+    "portal": "http://iptv.darktv.in:80/",
     "macs": [
       "00:1A:79:01:6B:2D",
       "00:1A:79:01:6b:2d",
@@ -2295,7 +2295,7 @@
     ]
   },
   "ottsmartbox.com_80": {
-    "portal": "http://ottsmartbox.com:80/c/",
+    "portal": "http://ottsmartbox.com:80/",
     "macs": [
       "00:1A:79:00:1d:7b",
       "00:1A:79:00:20:3e",
@@ -2344,7 +2344,7 @@
     ]
   },
   "maclist": {
-    "portal": "http://euroturkpars5.live:8080/c/",
+    "portal": "http://euroturkpars5.live:8080/",
     "macs": [
       "00:1A:79:00:07:33",
       "00:1A:79:00:16:d5",
@@ -4033,7 +4033,7 @@
     ]
   },
   "vpn.modetv.ink_80 MAC_ViagraUltra": {
-    "portal": "http://vpn.modetv.ink:80/c/",
+    "portal": "http://vpn.modetv.ink:80/",
     "macs": [
       "00:1A:79:00:26:06",
       "00:1A:79:00:2c:ab",
@@ -4276,7 +4276,7 @@
     ]
   },
   "wave-tv.com_80": {
-    "portal": "http://wave-tv.com:80/c/",
+    "portal": "http://wave-tv.com:80/",
     "macs": [
       "00:1A:79:00:26:60",
       "00:1A:79:00:2a:b5",
@@ -4479,7 +4479,7 @@
     ]
   },
   "trex.8kott.xyz_80": {
-    "portal": "http://trex.8kott.xyz:80/c/",
+    "portal": "http://trex.8kott.xyz:80/",
     "macs": [
       "00:1A:79:00:17:94",
       "00:1A:79:00:21:6f",
@@ -4559,7 +4559,7 @@
     ]
   },
   "tr.simotvgold.com_80": {
-    "portal": "http://tr.simotvgold.com:80/c/",
+    "portal": "http://tr.simotvgold.com:80/",
     "macs": [
       "00:1A:79:00:20:69",
       "00:1A:79:00:45:45",
@@ -4639,7 +4639,7 @@
     ]
   },
   "masterofiptv.pro MAC_ViagraUltra": {
-    "portal": "http://masterofiptv.pro:80/c/",
+    "portal": "http://masterofiptv.pro:80/",
     "macs": [
       "00:1A:79:11:b9:5f",
       "00:1A:79:1d:9b:83",
@@ -4676,7 +4676,7 @@
     ]
   },
   "mag.alphatx.me_80 MAC_ViagraUltra": {
-    "portal": "http://mag.alphatx.me:80/c/",
+    "portal": "http://mag.alphatx.me:80/",
     "macs": [
       "00:1A:79:00:25:c2",
       "00:1A:79:03:4f:27",
@@ -4813,7 +4813,7 @@
     ]
   },
   "semihomecam.online_80": {
-    "portal": "http://semihomecam.online:80/c/",
+    "portal": "http://semihomecam.online:80/",
     "macs": [
       "00:1A:79:00:25:f1",
       "00:1A:79:0e:20:e6",
@@ -4873,7 +4873,7 @@
     ]
   },
   "kickersworld.com_8080 MAC_ViagraUltra": {
-    "portal": "http://kickersworld.com:8080/c/",
+    "portal": "http://kickersworld.com:8080/",
     "macs": [
       "00:1A:79:01:6b:b5",
       "00:1A:79:01:6b:bd",
@@ -4896,7 +4896,7 @@
     ]
   },
   "iptvplatinum.net_80": {
-    "portal": "http://iptvplatinum.net:80/c/",
+    "portal": "http://iptvplatinum.net:80/",
     "macs": [
       "00:1A:79:05:e8:89",
       "00:1A:79:13:85:af",
@@ -4943,7 +4943,7 @@
     ]
   },
   "vpn.iptvtiger2.xyz_80 MAC_ViagraUltra": {
-    "portal": "http://vpn.iptvtiger2.xyz:80/c/",
+    "portal": "http://vpn.iptvtiger2.xyz:80/",
     "macs": [
       "00:1A:79:00:07:33",
       "00:1A:79:00:25:f1",
@@ -5287,7 +5287,7 @@
     ]
   },
   "backup.xp1.tv MAC_ViagraUltra": {
-    "portal": "http://backup.xp1.tv:80/c/",
+    "portal": "http://backup.xp1.tv:80/",
     "macs": [
       "00:1A:79:2e:10:51",
       "00:1A:79:38:1f:30",
@@ -5308,7 +5308,7 @@
     ]
   },
   "innovationtv.eu_80": {
-    "portal": "http://127.0.0.1:80/c/",
+    "portal": "http://127.0.0.1:80/",
     "macs": [
       "00:1A:79:00:20:6c",
       "00:1A:79:02:a1:2d",
@@ -5344,7 +5344,7 @@
     ]
   },
   "technologycloud.eu_80": {
-    "portal": "http://technologycloud.eu:80/c/",
+    "portal": "http://technologycloud.eu:80/",
     "macs": [
       "00:1A:79:0b:55:ff",
       "00:1A:79:0c:21:52",
@@ -5404,7 +5404,7 @@
     ]
   },
   "tv.premiumplus.tv_80": {
-    "portal": "http://tv.premiumplus.tv:80/c/",
+    "portal": "http://tv.premiumplus.tv:80/",
     "macs": [
       "00:1A:79:00:13:1e",
       "00:1A:79:00:16:98",
@@ -5559,7 +5559,7 @@
     ]
   },
   "portal.tv-4k.top_80 MAC_ViagraUltra": {
-    "portal": "http://portal.tv-4k.top:80/c/",
+    "portal": "http://portal.tv-4k.top:80/",
     "macs": [
       "00:1A:79:00:12:b6",
       "00:1A:79:11:91:0f",
@@ -5572,7 +5572,7 @@
     ]
   },
   "6.iptv11.is_80 MAC_ViagraUltra": {
-    "portal": "http://6.iptv11.is:80/c/",
+    "portal": "http://6.iptv11.is:80/",
     "macs": [
       "00:1A:79:05:02:25",
       "00:1A:79:06:3C:E1",
@@ -5682,7 +5682,7 @@
     ]
   },
   "media.ottpurstream.com_80 MAC_ViagraUltra": {
-    "portal": "http://media.ottpurstream.com:80/c/",
+    "portal": "http://media.ottpurstream.com:80/",
     "macs": [
       "00:1A:79:2F:12:F6",
       "00:1A:79:51:91:B8",
@@ -5702,7 +5702,7 @@
     ]
   },
   "line.ottcdn.net_80": {
-    "portal": "http://line.ottcdn.net:80/c/",
+    "portal": "http://line.ottcdn.net:80/",
     "macs": [
       "00:1A:79:00:29:bc",
       "00:1A:79:0a:b1:04",
@@ -5749,7 +5749,7 @@
     ]
   },
   "smtv.pro.80": {
-    "portal": "http://smtv.pro:80/stalker_portal/c",
+    "portal": "http://smtv.pro:80/stalker_portal",
     "macs": [
       "00:1A:79:00:A0:2A",
       "00:1A:79:57:E1:91",
@@ -5759,7 +5759,7 @@
     ]
   },
   "fda10698.cdn-akm.me": {
-    "portal": "http://fda10698.cdn-akm.me:80/c/",
+    "portal": "http://fda10698.cdn-akm.me:80/",
     "macs": [
       "00:1A:79:00:29:48",
       "00:1A:79:34:30:34",
@@ -5787,7 +5787,7 @@
     ]
   },
   "xp1.tv_80 MAC_ViagraUltra": {
-    "portal": "http://xp1.tv:80/c/",
+    "portal": "http://xp1.tv:80/",
     "macs": [
       "00:1A:79:00:51:A6",
       "00:1A:79:03:10:A7",
@@ -5949,7 +5949,7 @@
     ]
   },
   "ringo4532.xyz_80 MAC_ViagraUltra": {
-    "portal": "http://ringo4532.xyz:80/c/",
+    "portal": "http://ringo4532.xyz:80/",
     "macs": [
       "00:1A:79:01:4f:24",
       "00:1A:79:07:a9:ff",
@@ -5984,7 +5984,7 @@
     ]
   },
   "MG_Group@portal.tv-4k.top_80": {
-    "portal": "http://portal.tv-4k.top:80/c/",
+    "portal": "http://portal.tv-4k.top:80/",
     "macs": [
       "00:1A:79:00:00:01",
       "00:1A:79:00:00:09",
@@ -6175,7 +6175,7 @@
     ]
   },
   "drks.info_8080 MAC_ViagraUltra": {
-    "portal": "http://drks.info:8080/c/",
+    "portal": "http://drks.info:8080/",
     "macs": [
       "00:1A:79:3a:43:14",
       "00:1A:79:4e:a1:6d",
